@@ -91,6 +91,11 @@ body {
     cursor: pointer;
   }
 
+    .tweetsCount {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
   .overlay {
     position: fixed;
     display: none;
