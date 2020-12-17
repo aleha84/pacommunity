@@ -1,0 +1,143 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .uplot {
+    background: white;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 10px;
+  }
+
+  .created {
+    width: 400px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+    font-size: 16px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .created>* {
+    padding: 0 2px;
+  }
+
+  .pageHeader {
+    text-align: center;
+  }
+
+  .pageHeader .quastion {
+    cursor:help;
+  }
+
+  #parent {
+    /* margin-left: 45%; */
+    margin: 0 auto;
+    width: 400px;
+    /* padding-left: 40px; */
+  }
+
+  .userDataHolder {
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+    width: 100%;
+  }
+
+  .header.userDataHolder {
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    padding-bottom: 0px;
+  }
+
+  .userImageHolder
+   {
+    width: 10%;
+    text-align: right;
+   }
+  .userImage {
+    border-radius: 50%;
+    width: 25px;
+  }
+  .userHrefHolder {
+    width: 60%;
+    text-align: left;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .userHref {
+    padding: 0 5px;
+    text-overflow: ellipsis;
+  }
+  .followersCountHolder {
+    width: 15%;
+  }
+  .tweetsCountHolder {
+    width: 15%;
+  
+  }
+
+  .followersCount {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+  .overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+    cursor: pointer;
+  }
+
+  .overlay>.help {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 16px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    text-align: justify;
+    background: gray;
+  }
+
+  .help>.ru {
+    display: none;
+  }
+
+  .help> .langSwitch {
+    font-size: 20px;
+  }
+
+  .help> .langSwitch>.separator {
+    padding: 0 10px;
+  }
+
+  .total {
+    width: 400px;
+    border-top: 1px solid black;
+    padding-top: 5px;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 14px;
+  }
+
+  .total .count {
+    font-weight: bold;
+  }
