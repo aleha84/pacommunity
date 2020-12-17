@@ -2,19 +2,30 @@ function setLangRu(event) {
     changeLang('ru')
     event.stopPropagation();
   }
+
+  function setLangDe(event) {
+    changeLang('de')
+    event.stopPropagation();
+  }
   
   function setLangEn(event) {
     changeLang('en')
     event.stopPropagation();
   }
   
+function displayNone(selector) {
+    let element = document.querySelector(selector);
+    if(element){
+        element.style.display = "none";
+    }
+}
+
   function changeLang(lang) {
-    document.querySelector(".help>.en").style.display = "none";
-    document.querySelector(".help>.ru").style.display = "none";
+    displayNone(".help>.en");
+    displayNone(".help>.ru");
+    displayNone(".help>.de");
   
     document.querySelector(".help>." + lang).style.display = "block";
-  
-  
   }
   
   function helpShow() {

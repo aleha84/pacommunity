@@ -122,7 +122,7 @@ body {
     background: gray;
   }
 
-  .help>.ru {
+  .help>.ru, .help>.de {
     display: none;
   }
 

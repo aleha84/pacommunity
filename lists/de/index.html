@@ -18,11 +18,11 @@
     <title>German speaking pixel artists list</title>
 
     <script src="../../external/uPlot.iife.min.js"></script>
-    <script src="../../common/scripts.js?v=1"></script>
-    <script src="../../common/graph.js?v=1.1"></script>
+    <script src="../../common/scripts.js?v=2"></script>
+    <script src="../../common/graph.js?v=2"></script>
 
     <link rel="stylesheet" href="../../external/uPlot.min.css">
-    <link rel="stylesheet" href="../../common/styles.css?v=1.1">
+    <link rel="stylesheet" href="../../common/styles.css?v=2">
 
   </head>
     <body>
@@ -98,16 +98,16 @@
         <div id='help' class='overlay' onclick="helpHide()">
           
           <div class='help'>
-            <div class='langSwitch'><span class="ru">RU</span><span class='separator'>|</span><span class="en">EN</span></div>
+            <div class='langSwitch'><span class="de">DE</span><span class='separator'>|</span><span class="en">EN</span></div>
             <div class='en'>
               <p>Hello everyone! This is a list of German speaking pixel artists. I created this because I wanted to join information together and share it with everyone around, and also to code a little. Data is updated daily (for now manually)</p>
               <p>I plan to support and develop this page with pure enthusiasm: searching for new artists, add new features to the page and automate data updates. Also, if there is interest, I will be happy to create similar lists for other languages.</p>
               <p>If you know pixel artists I haven't mentioned on this list, or if you find a bug/mistake, then let me know. Bookmark this page to your browser and share or retweet to let more people know about these wonderful and talented people</p>
             </div>
-            <div class='ru'>
-              <p>Всем привет! Это список русскоговорящих пиксельных художников. Я это создал, потому что мне захотелось собрать разрозненную информацию воедино, а так же немного покодить. Данные обновляются ежедневно (пока в ручную)</p>
-              <p>Я планирую поддерживать и развивать этот проект на чистом энтузиазме. Искать новых художников, добавлять фичи на страницу и автоматизировать обновление данных. Так же если будет интерес, то с удовольствием создам аналогичные списки для других языков.</p>
-              <p>Если вы знаете художников, которых я не упомянул в этом списке, то пришлите мне их. Или если вы обнаружили ошибку, то дайте мне знать. Сохраняйте эту страницу в закладки браузера и ретвитьте, чтобы больше людей узнало об этих замечательных людях</p>
+            <div class='de'>
+              <p>Hallo, alle miteinander! Dies ist eine Liste deutschsprachiger Pixelkünstler. Ich habe diese Liste zusammengestellt, weil ich Informationen zusammenfügen und mit allen anderen teilen wollte, um sich so zu vernetzen und kennenzulernen. Programmieren ist auch ein Teil dieser Übung. Die Daten werden täglich aktualisiert (vorerst manuell).</p>
+              <p>Ich plane, diese Seite mit purer Begeisterung weiterzuentwickeln: Suche nach neuen Künstlern, Hinzufügen neuer Funktionalitäten zur Seite und automatisierte Datenaktualisierungen. Bei Interesse erstelle ich gerne weitere Listen für andere Sprachen.</p>
+              <p>Wenn du Pixelkünstler kennst, die ich in dieser Liste nicht erwähnt habe, oder wenn du einen Fehler findest, las es mich wissen. Gerne kann die Seite als Favorit in deinem Browser gespeichert werden. Verbreite diese Liste in dem du sie in den sozialen Medien teilst, gerne mit einem Retweet. So lernen mehr Menschen Pixelart und diese wunderbaren und talentierten Menschen kennen.</p>
             </div>
           </div>
         </div>
@@ -115,7 +115,7 @@
     <script>
 
 
-document.querySelector(".help>.langSwitch>.ru").onclick = setLangRu;
+document.querySelector(".help>.langSwitch>.de").onclick = setLangDe;
 document.querySelector(".help>.langSwitch>.en").onclick = setLangEn;
 
 var usersData = undefined;
