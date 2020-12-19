@@ -1,3 +1,5 @@
+// TODO: remove lang specific methods, make them more generic
+
 function setLangRu(event) {
     changeLang('ru')
     event.stopPropagation();
@@ -12,6 +14,11 @@ function setLangRu(event) {
     changeLang('en')
     event.stopPropagation();
   }
+
+  function setLangBr(event) {
+    changeLang('br')
+    event.stopPropagation();
+  }
   
 function displayNone(selector) {
     let element = document.querySelector(selector);
@@ -24,6 +31,7 @@ function displayNone(selector) {
     displayNone(".help>.en");
     displayNone(".help>.ru");
     displayNone(".help>.de");
+    displayNone(".help>.br");
   
     document.querySelector(".help>." + lang).style.display = "block";
   }

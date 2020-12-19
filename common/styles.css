@@ -15,15 +15,18 @@ body {
 
   .created {
     width: 400px;
-    padding-top: 30px;
     padding-bottom: 10px;
     margin: 0 auto;
     font-size: 16px;
+
+    margin-top: 20px;
+    padding-top: 10px;
 
     display: flex;
     align-items: center;
     justify-content: center;
 
+    border-top: 1px solid black;
   }
 
   .created>* {
@@ -122,7 +125,7 @@ body {
     background: gray;
   }
 
-  .help>.ru, .help>.de {
+  .help>.ru, .help>.de, .help>.br {
     display: none;
   }
 
@@ -136,10 +139,8 @@ body {
 
   .total {
     width: 400px;
-    border-top: 1px solid black;
-    padding-top: 5px;
+    padding-bottom: 10px;
     margin: 0 auto;
-    margin-top: 20px;
     font-size: 14px;
   }
 
