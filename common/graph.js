@@ -1,16 +1,12 @@
 function showGraph(userid) {
-    // let parent = this.closest('.userDataHolder');
-    // let userid = parent.getAttribute('userid');
     let user = usersData.Users[userid];
-    console.log(user)
+    //console.log(user)
     if (!user) {
         console.log('No user found: ' + userid);
         return;
     }
 
     let data = [[], [], []];
-    // let tCountMax =  Math.max.apply(null, user.TweetsCountHistory)
-    // let tCountMin =  Math.min.apply(null, user.TweetsCountHistory)
     
     Object.keys(user.FollowersCountHistory).forEach(item => {
         let countData = user.FollowersCountHistory[item];

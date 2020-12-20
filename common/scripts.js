@@ -59,17 +59,32 @@ function displayNone(selector) {
 
   class ListRenderer {
     constructor(usersData, template, parentNode) {
-        this.users = Object.values(usersData.Users);
+        this.users = [];
+
+        Object.entries(usersData.Users).forEach((kv) => {
+            kv[1].userId = kv[0];
+            this.users[this.users.length] = kv[1]
+        })
+        
+        //this.users = Object.values(usersData.Users);
         this.template = template;
         this.parentNode = parentNode;
 
         this.defaultSort = { type: "followers", direction: "desc" };
 
         this.currentSort = {...this.defaultSort};
+        this.formatter = new Intl.NumberFormat();
 
         this.sort();
     }
-
+    formatNumberSafe(number) {
+        try {
+            return this.formatter.format(number);
+        }
+        catch {
+            return number;
+        }
+    }
     sortUsers(a, b) {
         let p1 = a;
         let p2 = b;
@@ -143,10 +158,10 @@ function displayNone(selector) {
                 href.setAttribute('title', ud.PublicName);
                 href.textContent = ud.PublicName;
         
-                userDataDiv.querySelector('.followersCount').textContent = ud.CurrentFollowersCount;
-                userDataDiv.querySelector('.tweetsCount').textContent = ud.CurrentTweetsCout;
+                userDataDiv.querySelector('.followersCount').textContent = this.formatNumberSafe(ud.CurrentFollowersCount);
+                userDataDiv.querySelector('.tweetsCount').textContent = this.formatNumberSafe(ud.CurrentTweetsCout);
         
-                userDataDiv.querySelector('.userDataHolder').setAttribute('userid', ud.Login);
+                userDataDiv.querySelector('.userDataHolder').setAttribute('userid', ud.userId);
         
                 this.parentNode.appendChild(userDataDiv)
               });

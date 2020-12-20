@@ -19,11 +19,11 @@
     <title>Brazilian Portuguese speaking pixel artists list</title>
 
     <script src="../../external/uPlot.iife.min.js"></script>
-    <script src="../../common/scripts.js?v=3"></script>
-    <script src="../../common/graph.js?v=3"></script>
+    <script src="../../common/scripts.js?v=4"></script>
+    <script src="../../common/graph.js?v=4"></script>
 
     <link rel="stylesheet" href="../../external/uPlot.min.css">
-    <link rel="stylesheet" href="../../common/styles.css?v=3">
+    <link rel="stylesheet" href="../../common/styles.css?v=4">
 
   </head>
     <body>
@@ -73,16 +73,17 @@
             <div class="userImageHolder">
               
             </div>
-            <div class="userHrefHolder">
+            <div class="userHrefHolder" onclick="listRender.sort('name')">
               Link
             </div>
-            <div class="followersCountHolder">
-              <img width="30" title="Followers count" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAFcklEQVR4Xu2Yf0wbZRjH37trS1taCpTGwf4BJRsW09+dgDAGCwM2IMjGZjbcMuOixmQSM2fciCbLotPpYhYTlYi4uSjTzEwhjGQIZUj51VJKKxS3segMGzB+VEpb2uM9U1yXqZTS9Y6l691/bZ/7Ps/zeb/Pe+8VAWF+IWHeP6AB0A4IcwL0CIS5AehNkB4BegTCnAA9AmFuAPopQI8APQJhToAegdUyQHJychSfz5dBCIUQQqPJZBpZrdzL5VkVB6g2ba1zu10FEXGJGDN6LeH4w0BgEL3mto+/3N+r7X2YICgFIBaLWWzR40OCtN1JnCe3/CsXdFrBnQuHbSCCX6xr+ErzsCBQCkCZXWCOLTiSyowX++zv9tkXZ93WmxtMer3lYUCgDIBanbE/4unnTkepdvOWawy33gLTF49oelvrcx4pAIqN2xoEGw9s4yRn+u1r9PMyO+aaE+n1ervfYJIDKHOAKru4W7jj5AaMH+e35MnGY7fmBlt2mM1mrd9gkgMoA6DMKRkWlZ9ah3Kj/ZY81XJ6Ar925aBOq6nzFSyXy6UAAJXBYKjxKxhAACUAlLklZmHpu6mMqDUrLuXO92/MwKmbubrOZsNSN0kkkmIURcv6+/v3r1h0BYGkA5BKpTuj0vd9wU/by19B/nsh7skbYLrhWJOutb4w1AE8GyktORed+xo3EACuMQuYaTzeqmtryg1pABKJJBKJ4I2vffWngABMX/7ANT/S+WZfZ/vHHgByuVwFAPDM/eIFIZQiCKJAEKT2vu9mjUbjd4GA/m8s6SPgSZBVUamAKK9ekFuZsJLiXBPXbTM/n7qkazq/0xuvUCgKIIT3zgYEQSQjCLIOANDojSEIYspoNL6/khy+YigB4EmmyMg5y0vbU8GTlC6bg3A5wGh1+axR1xW1XCMhswl6mxCLxTy2IO72mpd+iFyusdmOGpfDcrlK19588pEC4GlGmZl/gpdeURmZWhixZHMLbjB29sBv+raG9f5sHHIO8Dak3JRviMk/KmMt8UJ0+8wLf0H7jKq/+8pVfwBkMtkzBEHkGI3G4/5iA/mdsj3gbhEefUK1ubSXk5Sh4EqLUYwvAo6rbWBu4McJ3DFf0td8viuQgsmOpQyAMj3rLYhgQoNWc6i8vBy7MeV6D87b9hHMSIgxWCZiavQVvV57fXFU0rPPQIgPGbo7TpDdoD890gGoVKq8BQb7S660NIYRKbJbf6ke6u/pyPYWkpKSIrRYLJOezzKZTI1g7HpB0ds8/JYZtfVddKMY8k5fd8fiWWA1LtIAyGSyRIwn/AwTPqGOyXs9FuP98xbo+tPsmGn56PeFmTEtINwaFEV/xXE8D+VEFTD48evjyj+MR1h3z0wLbjCtrZ1zDjTOoxis0ndpP6UaAikAFJuL9kDbdHVsYRWXnaj+X80EPg+cI51u50jPHYDPLTBikzgRSWohKz51yf4Ilx1YO87YXKOGQYIdl6Ovr6bsf4KgAcgzMrZDjuhcwq5P2AiLQ+qCEW4HGPvm4M250cHU4eHhWVLF79ulg9JVZOX1xBYeVbMSngpKx9fNVm0NYR9oPGToajtFRYKgHaDKKW6P3nIo05edgy3apqsDdsOFw7qO1mVPig+aJ2gA6k1FuxC+6Ou47SeZD1qEr/ugwwrGavfOC7jMaI1G4yRb36MXNACPiLro+Sp8/HoVV17mXLBPYWQUijK5uHOoBTAEj23tafq2kwzNpTRIAbB4mFEqmTiOlwEASHEChHDSZDJdoqpxry5pAKgulCp9GgBVZENFl3ZAqKwUVXXSDqCKbKjo0g4IlZWiqk7aAVSRDRVd2gGhslJU1Uk7gCqyoaJLOyBUVoqqOsPeAX8DI2LkUJvoBf4AAAAASUVORK5CYII=" />
+            <div class="followersCountHolder" onclick="listRender.sort('followers')">
+              <img width="20" title="Followers count" src="data:image/png;base64,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" />
             </div>
-            <div class="tweetsCountHolder">
-              <img width="30" title="Tweets count" src="data:image/png;base64,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" />
+            <div class="tweetsCountHolder" onclick="listRender.sort('tweets')">
+              <img width="20" title="Tweets count" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAE7ElEQVR4Xu2bWajXRRTHPy5kaaIUPmTQQmbYhkWKD1fTtgcjaTMXEizIoOhFQxQxCPRBtBQjCiIrW41oLyPCFrWVMHswRb2SWGmihm2abXxtfvDz+l9mzszv9l9+A/fh3nvmnDPf38ycM98z04PjWwdwOzAWGAz0qSDTTH86DHwPfAA8DqzPO98j90t/4DFgUjONzuDrKuAO4Gf1zQDQ4D8ChhsUNmOXDcDlAiED4IU2+PJdP5RmwmQBoDW/thk/YwKfRwuAFcBtCZQ1o4oVAqATOLsZvU/gc6cAONQCoc6KxWEB8I+1dyv0KwEoZ0C5BMo9oNwEW2E3t46hjAINHAV0jv8Q2AbsBwYB5wJjgN7WL961XyPOgB+B+4GVwC8VBjoQmA7MB06p8P9dwNPAXB+QrAAsBe5J+SWcs+8AU4EDHs5r8C8B44A/HOOjI+4zwDzgPg8dRwmR0CjwLXCOc1RfKVV7GbgF+CtA4QnAFcC63GwZCmwETvTRYwFgETDHKZ8BPAL09DFWQ2YzcBnwa6SeU91MuNDp0cwQSFWbBQBxB0/mNF4PPO+LeBVPJgBvRA5eG+RTwN/Aq8Ae4AmgV2oAtObEsOabuETRaucZBrHV9Qtdil1NnQF855aQ+I0vAM2Ims0yA64F3q6gtR/wAKBlkWeb6/mwGJhdTyjg/6cB7wLZMkgOwF1u3VdTrLX8EDDK0+lbgWc9ZeuJXeA+jmaDV7PMADkrp+strauAe4Fr6sheDbzn5W1toWHAJ8CAEF0WAJShnQ7s8zSksHSz+7mkQp+JLp57qqsqNh54K1SJBQDZsK5bJS8j3c+ZrvSmnVsbaGy7AVAuEdSsAGjHvhJ4P8hascLTXPocZMUCwKOAIsHJgFDXgaUR2ixgSagjFgBUSfoMuBQ4yyUwv4caLkD+YUARKqhZAFCcVxW50doadzAK8ssCwCvAjUFWihdWEibOoGbeX8kNCwA6rSnv3lH8uLwtmEKgtFsAUD8dNjQLYvN37xHWEVzu+IlgfVYAZEiEw4IGAWELoIQruMUAIGPaDO8GjgRbTtdBZw6lwKYWC4CMKg9QDP7S5EF8p9eB66xqYgH4xu2+Ih3Ez4mA0G7cXe1iR3+Z7cUCoK8+4n/cB54DpphHHxEF8jZT0FmWMVwEfBXLR8bOADm+HRgN/GAZhbFPX+BzQARIVEsBgBzY5G6W7o3yxr+zDmR3+otXl0wFgCyI3BQDJHa3yATppkQEylFUUgKQway7uOIExRyrzJUSDNFeHwMqjyVpRQCQOaa6nspn+RpCjNOKNqt9qO4QI0UB8KbLEHeGOFNDVuWv1xwJk0jlf2pSAqB0WHH5QeDrhF6q8qSiZ/BR18eHEABUt1PGp6Kjrpqr9LTbsUMiI1SgPOhj1FNGdnTYmhlYaPFUHz4DNLiFgKin2CJmLSf1UVRTWAacHzQag3DIDMjUqzyuo/CL7pqtwWzFLvJFd/ilW/XHbmkWADLHfnJrXgcgnQms4U6FTJEresVhKa5GARUDQN6w4r3O5J+6FFVvdFQ50k2PP90aFm+n+C06TfFcubym+pCoEUR2TgVALTd+A04qciOLwaA7AIjxr/C+JQDlg4nyyUz5aKqdn811ZJeZ2vrhpEJN2z+dzUBo28fT+YRDe4Jug+r5vC5DtcLzeV2gFEWnV7LHPJ//F1kU92wrSK7YAAAAAElFTkSuQmCC" />
             </div>
           </div>
+          <div class='listItemsHolder'></div>
         </div>
         <div class='created'>
           <span>Created by: aleha_84</span>
@@ -120,42 +121,25 @@ document.querySelector(".help>.langSwitch>.br").onclick = setLangBr;
 document.querySelector(".help>.langSwitch>.en").onclick = setLangEn;
 
 var usersData = undefined;
+var listRender;
 
         (async function(){
 
           let dataResponse = await fetch("data_br.json?q="+new Date().getTime());
+
           usersData = await dataResponse.json();
-          let parentNode = document.getElementById('parent');
-          
+          let parentNode = document.querySelector('.listItemsHolder'); 
           let template = document.getElementById('userData-template')
-          let users = Object.values(usersData.Users);
-          document.querySelector('.total .count').innerHTML = users.length;
+          document.querySelector('.total .count').innerHTML = Object.keys(usersData.Users).length;
 
+          listRender = new ListRenderer(usersData, template, parentNode);
 
-          users.sort((a,b) => b.CurrentFollowersCount - a.CurrentFollowersCount).forEach(ud => {
-            let userDataDiv = document.importNode(template.content, true);
-
-            userDataDiv.querySelector('.userImage').setAttribute('src', ud.AvatarImage);
-            let href = userDataDiv.querySelector('.userHref');
-            href.setAttribute('href', 'https://twitter.com/' + ud.Login)
-            href.setAttribute('title', ud.PublicName);
-            href.textContent = ud.PublicName;
-
-            userDataDiv.querySelector('.followersCount').textContent = ud.CurrentFollowersCount;
-            userDataDiv.querySelector('.tweetsCount').textContent = ud.CurrentTweetsCout;
-
-            userDataDiv.querySelector('.userDataHolder').setAttribute('userid', ud.Login);
-
-            parentNode.appendChild(userDataDiv)
-          });
-
-          Array.from(document.getElementsByClassName("followersCountHolder")).forEach(function(element) {
-            element.addEventListener('click', showGraph);
-          });
-
-          Array.from(document.getElementsByClassName("tweetsCountHolder")).forEach(function(element) {
-            element.addEventListener('click', showGraph);
-          });
+          document.querySelector('body').addEventListener('click', function(evt) {
+              if (evt.target.className.startsWith('followersCount') || evt.target.className.startsWith('tweetsCount')) {
+                let userId = evt.target.closest('.userDataHolder').getAttribute('userid');
+                showGraph(userId);
+              }
+          }, true);
           
         })()
     </script>

@@ -76,6 +76,7 @@ body {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
+    cursor: pointer;
   }
   .userHref {
     padding: 0 5px;
@@ -83,10 +84,11 @@ body {
   }
   .followersCountHolder {
     width: 15%;
+    cursor: pointer;
   }
   .tweetsCountHolder {
     width: 15%;
-  
+    cursor: pointer;
   }
 
   .followersCount {
