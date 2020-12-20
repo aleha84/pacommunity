@@ -1,5 +1,6 @@
-function showGraph() {
-    let userid = this.parentElement.getAttribute('userid');
+function showGraph(userid) {
+    // let parent = this.closest('.userDataHolder');
+    // let userid = parent.getAttribute('userid');
     let user = usersData.Users[userid];
     console.log(user)
     if (!user) {
@@ -52,7 +53,7 @@ function showGraph() {
     const opts = {
         width: width,
         height: height,
-        title: "Followers & tweets count",
+        title: "Followers & tweets count: " + userid,
         scales: {
             x: {
                 time: false,

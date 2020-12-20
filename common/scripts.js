@@ -56,3 +56,100 @@ function displayNone(selector) {
     let p1 = rawDateString.slice(0, 6) + ' ' + rawDateString.slice(6)
     return p1.slice(0, 4) + ' ' + p1.slice(4) + ' 00:00:00 UTC'
   }
+
+  class ListRenderer {
+    constructor(usersData, template, parentNode) {
+        this.users = Object.values(usersData.Users);
+        this.template = template;
+        this.parentNode = parentNode;
+
+        this.defaultSort = { type: "followers", direction: "desc" };
+
+        this.currentSort = {...this.defaultSort};
+
+        this.sort();
+    }
+
+    sortUsers(a, b) {
+        let p1 = a;
+        let p2 = b;
+        if(this.currentSort.direction == "desc"){
+            p1 = b;
+            p2 = a;
+        }
+    
+        if(this.currentSort.type == 'followers'){
+            return p1.CurrentFollowersCount - p2.CurrentFollowersCount;
+        }
+
+        if(this.currentSort.type == "tweets") {
+            return p1.CurrentTweetsCout - p2.CurrentTweetsCout;
+        }
+
+        if(this.currentSort.type == "name") {
+            return ('' + p1.PublicName).localeCompare(p2.PublicName)
+        }
+    
+        return 0;
+    }
+    
+    sort(type) {
+        if(type) {
+            if(this.currentSort.type == type) {
+                this.currentSort.direction = this.currentSort.direction == 'asc' ? 'desc' : 'asc';
+            }
+            else {
+                this.currentSort.type = type;
+                this.currentSort.direction = "desc";
+            }
+        }
+        
+        let selector; //= " .sortDirection";
+        switch(this.currentSort.type) {
+            case "followers":
+                selector = ".followersCountHolder";
+                break;
+            case "tweets":
+                selector = ".tweetsCountHolder"
+                break;
+            case "name":
+                selector = ".userHrefHolder";
+                break;
+            default:
+                break;
+        }
+
+        let elements = document.getElementsByClassName("sortDirection");
+        while (elements.length > 0) elements[0].remove();
+
+        let dir = document.createElement("span");
+        dir.classList.add('sortDirection')
+        dir.classList.add(this.currentSort.direction)
+        document.querySelector(selector).appendChild(dir)
+        
+        this.render();
+    }
+
+    render() {
+        this.parentNode.textContent = '';
+
+        setTimeout(() => {
+            this.users.sort((a,b) => this.sortUsers(a, b)).forEach(ud => {
+                let userDataDiv = document.importNode(this.template.content, true);
+        
+                userDataDiv.querySelector('.userImage').setAttribute('src', ud.AvatarImage);
+                let href = userDataDiv.querySelector('.userHref');
+                href.setAttribute('href', 'https://twitter.com/' + ud.Login)
+                href.setAttribute('title', ud.PublicName);
+                href.textContent = ud.PublicName;
+        
+                userDataDiv.querySelector('.followersCount').textContent = ud.CurrentFollowersCount;
+                userDataDiv.querySelector('.tweetsCount').textContent = ud.CurrentTweetsCout;
+        
+                userDataDiv.querySelector('.userDataHolder').setAttribute('userid', ud.Login);
+        
+                this.parentNode.appendChild(userDataDiv)
+              });
+        }, 10)
+    }
+  }
