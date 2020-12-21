@@ -1,5 +1,6 @@
 function showGraph(userid) {
-    let user = usersData.Users[userid];
+    let user = getParameterCaseInsensitive(usersData.Users, userid);
+    //usersData.Users[userid];
     //console.log(user)
     if (!user) {
         console.log('No user found: ' + userid);

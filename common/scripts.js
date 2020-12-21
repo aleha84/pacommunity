@@ -57,16 +57,23 @@ function displayNone(selector) {
     return p1.slice(0, 4) + ' ' + p1.slice(4) + ' 00:00:00 UTC'
   }
 
-  class ListRenderer {
-    constructor(usersData, template, parentNode) {
-        this.users = [];
+  function getParameterCaseInsensitive(object, key) {
+    return object[Object.keys(object)
+      .find(k => k.toLowerCase() === key.toLowerCase())
+    ];
+  }
 
-        Object.entries(usersData.Users).forEach((kv) => {
-            kv[1].userId = kv[0];
-            this.users[this.users.length] = kv[1]
-        })
+  class ListRenderer {
+    constructor(usersData, template, parentNode, params = { renderFlag: false }) {
+        this.users = [];
+        this.params = params;
+
+        // Object.entries(usersData.Users).forEach((kv) => {
+        //     kv[1].userId = kv[0];
+        //     this.users[this.users.length] = kv[1]
+        // })
         
-        //this.users = Object.values(usersData.Users);
+        this.users = Object.values(usersData.Users);
         this.template = template;
         this.parentNode = parentNode;
 
@@ -157,11 +164,16 @@ function displayNone(selector) {
                 href.setAttribute('href', 'https://twitter.com/' + ud.Login)
                 href.setAttribute('title', ud.PublicName);
                 href.textContent = ud.PublicName;
+
+                if(this.params.renderFlag) {
+                    href.classList.add('flag')
+                    href.classList.add(ud.LangId)
+                }
         
                 userDataDiv.querySelector('.followersCount').textContent = this.formatNumberSafe(ud.CurrentFollowersCount);
                 userDataDiv.querySelector('.tweetsCount').textContent = this.formatNumberSafe(ud.CurrentTweetsCout);
         
-                userDataDiv.querySelector('.userDataHolder').setAttribute('userid', ud.userId);
+                userDataDiv.querySelector('.userDataHolder').setAttribute('userid', ud.Login);
         
                 this.parentNode.appendChild(userDataDiv)
               });
