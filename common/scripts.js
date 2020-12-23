@@ -64,25 +64,40 @@ function displayNone(selector) {
   }
 
   class ListRenderer {
-    constructor(usersData, template, parentNode, params = { renderFlag: false }) {
+    constructor(usersData, params = { renderFlag: false }) {
         this.users = [];
         this.params = params;
-
-        // Object.entries(usersData.Users).forEach((kv) => {
-        //     kv[1].userId = kv[0];
-        //     this.users[this.users.length] = kv[1]
-        // })
         
         this.users = Object.values(usersData.Users);
-        this.template = template;
-        this.parentNode = parentNode;
-
+        this.template = this.getRowTemplate();
+        this.parentNode = document.querySelector('.listItemsHolder');
         this.defaultSort = { type: "followers", direction: "desc" };
 
         this.currentSort = {...this.defaultSort};
         this.formatter = new Intl.NumberFormat();
 
         this.sort();
+    }
+    getRowTemplate() {
+        let t = document.createElement('template');
+        t.innerHTML = `
+        <div class="userDataHolder listItemData">
+          <div class="userImageHolder">
+            <img class="userImage" />
+          </div>
+          <div class="userHrefHolder">
+            <a class="userHref" target="_blank" href=""></a>
+          </div>
+          <div class="followersCountHolder">
+            <span class="followersCount"></span>
+          </div>
+          <div class="tweetsCountHolder">
+            <span class="tweetsCount"></span>
+          </div>
+        </div>
+        `;
+
+        return t;
     }
     formatNumberSafe(number) {
         try {
