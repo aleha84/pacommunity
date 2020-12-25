@@ -106,6 +106,14 @@ function displayNone(selector) {
 
         return t;
     }
+    getContributorsList() {
+        return [
+            'YuukiMokuya',
+            'MarukiHurakami',
+            'Numo_0',
+            'runmry',
+        ]
+    }
     formatNumberSafe(number) {
         try {
             return this.formatter.format(number);
