@@ -76,6 +76,13 @@ function displayNone(selector) {
         this.currentSort = {...this.defaultSort};
         this.formatter = new Intl.NumberFormat();
 
+        document.querySelector('body').addEventListener('click', function(evt) {
+            if (evt.target.className.startsWith('followersCount') || evt.target.className.startsWith('tweetsCount')) {
+              let userId = evt.target.closest('.userDataHolder').getAttribute('userid');
+              showGraph(userId);
+            }
+        }, true);
+
         this.sort();
     }
     getRowTemplate() {
@@ -88,10 +95,10 @@ function displayNone(selector) {
           <div class="userHrefHolder">
             <a class="userHref" target="_blank" href=""></a>
           </div>
-          <div class="followersCountHolder">
+          <div class="followersCountHolder" title="Show followers count graph">
             <span class="followersCount"></span>
           </div>
-          <div class="tweetsCountHolder">
+          <div class="tweetsCountHolder" title="Show tweets count graph">
             <span class="tweetsCount"></span>
           </div>
         </div>
@@ -177,7 +184,7 @@ function displayNone(selector) {
                 userDataDiv.querySelector('.userImage').setAttribute('src', ud.AvatarImage);
                 let href = userDataDiv.querySelector('.userHref');
                 href.setAttribute('href', 'https://twitter.com/' + ud.Login)
-                href.setAttribute('title', ud.PublicName);
+                href.setAttribute('title', `${ud.PublicName} (${ud.Login})`);
                 href.textContent = ud.PublicName;
 
                 if(this.params.renderFlag) {
