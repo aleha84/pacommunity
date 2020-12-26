@@ -19,11 +19,11 @@
     <title>Pixel artists list</title>
 
     <script src="../external/uPlot.iife.min.js"></script>
-    <script src="../common/scripts.js?v=5.4"></script>
-    <script src="../common/graph.js?v=5.4"></script>
+    <script src="../common/scripts.js?v=5.5"></script>
+    <script src="../common/graph.js?v=5.5"></script>
 
     <link rel="stylesheet" href="../external/uPlot.min.css">
-    <link rel="stylesheet" href="../common/styles.css?v=5.4">
+    <link rel="stylesheet" href="../common/styles.css?v=5.5">
 
   </head>
     <body>
@@ -53,6 +53,7 @@
                 <a href="br/" class="flag br">Brazilian list</a>
                 <a href="de/" class="flag de">German list</a>
                 <a href="ru/" class="flag ru">Russian list</a>
+                <a href="jp/" class="flag jp">Japanese list</a>
               </div>
             <div class="total">
               <div>Total number of artists on the list: <span class="count"></span></div>
@@ -117,16 +118,19 @@ var listRender;
           let dataResponse_ru = await fetch("ru/data.json?q="+ts);
           let dataResponse_de = await fetch("de/data_de.json?q="+ts);
           let dataResponse_br = await fetch("br/data_br.json?q="+ts);
+          let dataResponse_jp = await fetch("jp/data_jp.json?q="+ts);
 
           let usersData_ru = await dataResponse_ru.json();
           let usersData_de = await dataResponse_de.json();
           let usersData_br = await dataResponse_br.json();
+          let usersData_jp = await dataResponse_jp.json();
 
           usersData = {
               Users: {
                   ...usersData_ru.Users,
                   ...usersData_de.Users,
-                  ...usersData_br.Users
+                  ...usersData_br.Users,
+                  ...usersData_jp.Users
               }
           }
 
