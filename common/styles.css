@@ -196,6 +196,10 @@ body {
     .flag.jp:before {
         background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAyElEQVQ4T2NsmjT3CMN/BmsGMgAjA8MxxqaJc/8Xp8eRoZ2BoXfmIgbaGPD/10+G13WVDJ9WLgO7jC88ikG0qZ2BkY0dxaU4XfCmpZ7h/dSJKIoFs/MZRGoaiTPgnp4aw9/Xr1AUM4uKMihduk2cAfcNNBj+vHyBophFTJxB8eJN4gx419vJ8LanHUWxcEklg1BxOXEG/P/zh+FtZwvD51XLwRp4wyIZhMtrGBhZWIgzgNhEQZ10MHPJ+v8v374j1lIUdWLCQgwAG1htQzGt2mgAAAAASUVORK5CYII=);
     }
+    
+    .flag.es:before {
+        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAA9ElEQVQ4T2PsY2Y48p+BwZqBPHCMsZeZ4X+RjiZZ2vuuXGeg3IBTDQz/TUMswS64fvMPw8//ggzP3oky8HD+ZuDi+M0gIfiRQUbiO1YXnl5znIER2QCG/wwMB3ZbMqjNWsPAuvcQw4Nr+xhMpJYxMP7/SpwBF26JMYgZtDHw33nI8DEvg+Hb6uUM3x4tYtCTv0ScAYcuyDAomFUxnN63muHfg/sMkrYhDF+frmJwt3pEnAE/frIwvPjtznDm+DkGUREWBmV1DQYJjsMMLEw/iDMApurPHyYGFpZ/BKMWHIgDnw56mRmOMjAwWBF0LxYFjAwMxwHj5XGr1M6PtQAAAABJRU5ErkJggg==);
+    }
 
     .otherLists {
         padding-bottom: 15px;
