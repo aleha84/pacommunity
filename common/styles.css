@@ -201,6 +201,10 @@ body {
         background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAA9ElEQVQ4T2PsY2Y48p+BwZqBPHCMsZeZ4X+RjiZZ2vuuXGeg3IBTDQz/TUMswS64fvMPw8//ggzP3oky8HD+ZuDi+M0gIfiRQUbiO1YXnl5znIER2QCG/wwMB3ZbMqjNWsPAuvcQw4Nr+xhMpJYxMP7/SpwBF26JMYgZtDHw33nI8DEvg+Hb6uUM3x4tYtCTv0ScAYcuyDAomFUxnN63muHfg/sMkrYhDF+frmJwt3pEnAE/frIwvPjtznDm+DkGUREWBmV1DQYJjsMMLEw/iDMApurPHyYGFpZ/BKMWHIgDnw56mRmOMjAwWBF0LxYFjAwMxwHj5XGr1M6PtQAAAABJRU5ErkJggg==);
     }
 
+    .flag.fr:before {
+        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAATklEQVQ4T2N01Z8/nZHhfwYDErBJ+o/MhbOVK3PRxWcxuunP+68gHIIi0b+NE6sBH1SVUMQPvH3LMGrAaBhQLR3MZGBgSCMnKTMyMMwGACAMWONtJSw3AAAAAElFTkSuQmCC);
+    }
+
     .otherLists {
         padding-bottom: 15px;
         font-size: 14px;
