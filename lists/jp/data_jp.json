@@ -1,20 +1,48 @@
 {
+  "Languages": {
+    "br": {
+      "Id": "br",
+      "Suffix": "_br",
+      "Adjective": "Brazilian Portuguese"
+    },
+    "de": {
+      "Id": "de",
+      "Suffix": "_de",
+      "Adjective": "German"
+    },
+    "es": {
+      "Id": "es",
+      "Suffix": "_es",
+      "Adjective": "Spanish"
+    },
+    "jp": {
+      "Id": "jp",
+      "Suffix": "_jp",
+      "Adjective": "Japanese"
+    },
+    "ru": {
+      "Id": "ru",
+      "Suffix": "",
+      "Adjective": "Russian"
+    }
+  },
   "Lang": {
     "Id": "jp",
-    "Suffix": "_jp"
+    "Suffix": "_jp",
+    "Adjective": null
   },
   "Users": {
     "YuukiMokuya": {
       "PublicName": "Mokuya🍄",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1342733590048563206/gaHYxOZ6_normal.jpg",
       "Login": "YuukiMokuya",
-      "CurrentFollowersCount": 6372,
+      "CurrentFollowersCount": 6371,
       "CurrentTweetsCout": 4705,
       "FollowersCountHistory": {
         "20201225": 6363,
         "20201226": 6370,
         "20201227": 6372,
-        "20201228": 6372
+        "20201228": 6371
       },
       "TweetsCountHistory": {
         "20201225": 4692,
@@ -29,7 +57,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1142368734142537728/-OxNlDDi_normal.png",
       "Login": "ginoyahutaushi",
       "CurrentFollowersCount": 6923,
-      "CurrentTweetsCout": 61958,
+      "CurrentTweetsCout": 61960,
       "FollowersCountHistory": {
         "20201225": 6916,
         "20201226": 6922,
@@ -40,7 +68,7 @@
         "20201225": 61948,
         "20201226": 61948,
         "20201227": 61951,
-        "20201228": 61958
+        "20201228": 61960
       },
       "LangId": "jp"
     },
@@ -48,19 +76,19 @@
       "PublicName": "ゆずたろ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1333679443563270144/7YADkuEw_normal.jpg",
       "Login": "yuzutarou0011",
-      "CurrentFollowersCount": 1765,
-      "CurrentTweetsCout": 5506,
+      "CurrentFollowersCount": 1773,
+      "CurrentTweetsCout": 5504,
       "FollowersCountHistory": {
         "20201225": 1760,
         "20201226": 1760,
         "20201227": 1764,
-        "20201228": 1765
+        "20201228": 1773
       },
       "TweetsCountHistory": {
         "20201225": 5494,
         "20201226": 5495,
         "20201227": 5504,
-        "20201228": 5506
+        "20201228": 5504
       },
       "LangId": "jp"
     },
@@ -69,7 +97,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1331521063226732547/26ECBkvt_normal.jpg",
       "Login": "outer_law",
       "CurrentFollowersCount": 1358,
-      "CurrentTweetsCout": 2002,
+      "CurrentTweetsCout": 2004,
       "FollowersCountHistory": {
         "20201225": 1354,
         "20201226": 1356,
@@ -80,7 +108,7 @@
         "20201225": 1998,
         "20201226": 2000,
         "20201227": 2001,
-        "20201228": 2002
+        "20201228": 2004
       },
       "LangId": "jp"
     },
@@ -88,13 +116,13 @@
       "PublicName": "かめふぃ[kameffee]",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1303183443774251008/L2XfnKHl_normal.png",
       "Login": "kameffee",
-      "CurrentFollowersCount": 1091,
+      "CurrentFollowersCount": 1093,
       "CurrentTweetsCout": 656,
       "FollowersCountHistory": {
         "20201225": 1087,
         "20201226": 1090,
         "20201227": 1091,
-        "20201228": 1091
+        "20201228": 1093
       },
       "TweetsCountHistory": {
         "20201225": 649,
@@ -109,7 +137,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1317882103736930304/L3W8O9F__normal.jpg",
       "Login": "yuupoji",
       "CurrentFollowersCount": 2953,
-      "CurrentTweetsCout": 2572,
+      "CurrentTweetsCout": 2575,
       "FollowersCountHistory": {
         "20201225": 2950,
         "20201226": 2948,
@@ -120,7 +148,7 @@
         "20201225": 2564,
         "20201226": 2569,
         "20201227": 2571,
-        "20201228": 2572
+        "20201228": 2575
       },
       "LangId": "jp"
     },
@@ -229,7 +257,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1232791828526551040/n9EeQxon_normal.jpg",
       "Login": "Cobby_Channel",
       "CurrentFollowersCount": 772,
-      "CurrentTweetsCout": 3835,
+      "CurrentTweetsCout": 3838,
       "FollowersCountHistory": {
         "20201225": 771,
         "20201226": 771,
@@ -240,7 +268,7 @@
         "20201225": 3805,
         "20201226": 3815,
         "20201227": 3828,
-        "20201228": 3835
+        "20201228": 3838
       },
       "LangId": "jp"
     },
@@ -288,13 +316,13 @@
       "PublicName": "medium videos",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1322965096889348096/YIkyn8yH_normal.jpg",
       "Login": "medium_videos",
-      "CurrentFollowersCount": 2858,
+      "CurrentFollowersCount": 2860,
       "CurrentTweetsCout": 7248,
       "FollowersCountHistory": {
         "20201225": 2859,
         "20201226": 2858,
         "20201227": 2859,
-        "20201228": 2858
+        "20201228": 2860
       },
       "TweetsCountHistory": {
         "20201225": 7237,
@@ -309,7 +337,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1237387648919977988/3cRdJ20H_normal.jpg",
       "Login": "FujiyamaTrooper",
       "CurrentFollowersCount": 284,
-      "CurrentTweetsCout": 1360,
+      "CurrentTweetsCout": 1361,
       "FollowersCountHistory": {
         "20201225": 282,
         "20201226": 283,
@@ -320,7 +348,7 @@
         "20201225": 1347,
         "20201226": 1355,
         "20201227": 1360,
-        "20201228": 1360
+        "20201228": 1361
       },
       "LangId": "jp"
     },
@@ -328,13 +356,13 @@
       "PublicName": "くつわ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/990510934819946496/ZMhMzKJO_normal.jpg",
       "Login": "ktwfc",
-      "CurrentFollowersCount": 70788,
+      "CurrentFollowersCount": 70787,
       "CurrentTweetsCout": 13374,
       "FollowersCountHistory": {
         "20201225": 70117,
         "20201226": 70326,
         "20201227": 70733,
-        "20201228": 70788
+        "20201228": 70787
       },
       "TweetsCountHistory": {
         "20201225": 13294,
@@ -368,13 +396,13 @@
       "PublicName": "フラッグさん",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1123245655990759424/JXectWJP_normal.png",
       "Login": "pixelflag",
-      "CurrentFollowersCount": 13329,
+      "CurrentFollowersCount": 13330,
       "CurrentTweetsCout": 5984,
       "FollowersCountHistory": {
         "20201225": 13299,
         "20201226": 13303,
         "20201227": 13312,
-        "20201228": 13329
+        "20201228": 13330
       },
       "TweetsCountHistory": {
         "20201225": 5979,
@@ -389,7 +417,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1338325680572882946/YhCJmg46_normal.jpg",
       "Login": "_____88kayo88",
       "CurrentFollowersCount": 2831,
-      "CurrentTweetsCout": 17180,
+      "CurrentTweetsCout": 17197,
       "FollowersCountHistory": {
         "20201225": 2812,
         "20201226": 2818,
@@ -400,7 +428,7 @@
         "20201225": 17137,
         "20201226": 17169,
         "20201227": 17177,
-        "20201228": 17180
+        "20201228": 17197
       },
       "LangId": "jp"
     },
@@ -408,13 +436,13 @@
       "PublicName": "あん。",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1074235832742031361/criVXgo0_normal.jpg",
       "Login": "annaan801",
-      "CurrentFollowersCount": 1806,
+      "CurrentFollowersCount": 1808,
       "CurrentTweetsCout": 1353,
       "FollowersCountHistory": {
         "20201225": 1771,
         "20201226": 1781,
         "20201227": 1804,
-        "20201228": 1806
+        "20201228": 1808
       },
       "TweetsCountHistory": {
         "20201225": 1341,
@@ -428,19 +456,19 @@
       "PublicName": "ダイセン",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1276845770306539522/qX-C-eKT_normal.jpg",
       "Login": "specialdaisen",
-      "CurrentFollowersCount": 24433,
-      "CurrentTweetsCout": 8869,
+      "CurrentFollowersCount": 24442,
+      "CurrentTweetsCout": 8868,
       "FollowersCountHistory": {
         "20201225": 24382,
         "20201226": 24377,
         "20201227": 24434,
-        "20201228": 24433
+        "20201228": 24442
       },
       "TweetsCountHistory": {
         "20201225": 8867,
         "20201226": 8864,
         "20201227": 8868,
-        "20201228": 8869
+        "20201228": 8868
       },
       "LangId": "jp"
     },
@@ -488,13 +516,13 @@
       "PublicName": "pocketsgame",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1313861881245835264/8LrL0dtc_normal.jpg",
       "Login": "pocketsgame",
-      "CurrentFollowersCount": 258,
+      "CurrentFollowersCount": 261,
       "CurrentTweetsCout": 18,
       "FollowersCountHistory": {
         "20201225": 223,
         "20201226": 240,
         "20201227": 256,
-        "20201228": 258
+        "20201228": 261
       },
       "TweetsCountHistory": {
         "20201225": 16,
@@ -529,7 +557,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1341566832277299201/-fx2WWeZ_normal.png",
       "Login": "micci_dotter",
       "CurrentFollowersCount": 1874,
-      "CurrentTweetsCout": 34505,
+      "CurrentTweetsCout": 34518,
       "FollowersCountHistory": {
         "20201225": 1867,
         "20201226": 1871,
@@ -540,7 +568,7 @@
         "20201225": 34361,
         "20201226": 34421,
         "20201227": 34481,
-        "20201228": 34505
+        "20201228": 34518
       },
       "LangId": "jp"
     },
@@ -609,7 +637,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1333944055261065218/gEy0PFox_normal.jpg",
       "Login": "mayuco_z8",
       "CurrentFollowersCount": 1720,
-      "CurrentTweetsCout": 1596,
+      "CurrentTweetsCout": 1598,
       "FollowersCountHistory": {
         "20201225": 1720,
         "20201226": 1718,
@@ -620,7 +648,7 @@
         "20201225": 1595,
         "20201226": 1595,
         "20201227": 1596,
-        "20201228": 1596
+        "20201228": 1598
       },
       "LangId": "jp"
     },
@@ -628,13 +656,13 @@
       "PublicName": "teacolors＝茶色い",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1135174387752026114/gSbC1eSs_normal.png",
       "Login": "twteacolors",
-      "CurrentFollowersCount": 225,
+      "CurrentFollowersCount": 226,
       "CurrentTweetsCout": 563,
       "FollowersCountHistory": {
         "20201225": 220,
         "20201226": 222,
         "20201227": 224,
-        "20201228": 225
+        "20201228": 226
       },
       "TweetsCountHistory": {
         "20201225": 558,
@@ -649,7 +677,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/811932091407400961/oJldNFdh_normal.jpg",
       "Login": "hectNishi",
       "CurrentFollowersCount": 20682,
-      "CurrentTweetsCout": 25016,
+      "CurrentTweetsCout": 25019,
       "FollowersCountHistory": {
         "20201225": 20697,
         "20201226": 20691,
@@ -660,7 +688,7 @@
         "20201225": 24993,
         "20201226": 25000,
         "20201227": 25014,
-        "20201228": 25016
+        "20201228": 25019
       },
       "LangId": "jp"
     },
@@ -688,13 +716,13 @@
       "PublicName": "ファントム",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1339841625745285121/6cJ4NH9U_normal.jpg",
       "Login": "PhantomEE13",
-      "CurrentFollowersCount": 734,
+      "CurrentFollowersCount": 736,
       "CurrentTweetsCout": 4696,
       "FollowersCountHistory": {
         "20201225": 727,
         "20201226": 727,
         "20201227": 730,
-        "20201228": 734
+        "20201228": 736
       },
       "TweetsCountHistory": {
         "20201225": 4687,
@@ -708,13 +736,13 @@
       "PublicName": "佐東おやすみ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1322642473596772353/xVVcvWTE_normal.jpg",
       "Login": "satowmrmr0101",
-      "CurrentFollowersCount": 4320,
+      "CurrentFollowersCount": 4321,
       "CurrentTweetsCout": 532,
       "FollowersCountHistory": {
         "20201225": 4307,
         "20201226": 4313,
         "20201227": 4321,
-        "20201228": 4320
+        "20201228": 4321
       },
       "TweetsCountHistory": {
         "20201225": 530,
@@ -788,13 +816,13 @@
       "PublicName": "ZIMA/飯ドット",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1342996852216479744/HKQaHj7j_normal.png",
       "Login": "pixel_zima",
-      "CurrentFollowersCount": 9783,
+      "CurrentFollowersCount": 9786,
       "CurrentTweetsCout": 7562,
       "FollowersCountHistory": {
         "20201225": 9780,
         "20201226": 9780,
         "20201227": 9780,
-        "20201228": 9783
+        "20201228": 9786
       },
       "TweetsCountHistory": {
         "20201225": 7556,
@@ -809,7 +837,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1229432071380058113/Tje8uoS2_normal.jpg",
       "Login": "mace178",
       "CurrentFollowersCount": 1798,
-      "CurrentTweetsCout": 2990,
+      "CurrentTweetsCout": 2991,
       "FollowersCountHistory": {
         "20201225": 1793,
         "20201226": 1795,
@@ -820,7 +848,7 @@
         "20201225": 2990,
         "20201226": 2990,
         "20201227": 2990,
-        "20201228": 2990
+        "20201228": 2991
       },
       "LangId": "jp"
     },
@@ -828,13 +856,13 @@
       "PublicName": "APO+ / UPC",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1046434887056551936/Cwle3Gb8_normal.jpg",
       "Login": "apostrophe_dot",
-      "CurrentFollowersCount": 45733,
+      "CurrentFollowersCount": 45732,
       "CurrentTweetsCout": 5117,
       "FollowersCountHistory": {
         "20201225": 45697,
         "20201226": 45721,
         "20201227": 45725,
-        "20201228": 45733
+        "20201228": 45732
       },
       "TweetsCountHistory": {
         "20201225": 5108,
@@ -848,19 +876,19 @@
       "PublicName": "ユキ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1322568861225373697/vQOuM0hy_normal.jpg",
       "Login": "yuki_1231_13",
-      "CurrentFollowersCount": 1846,
-      "CurrentTweetsCout": 2191,
+      "CurrentFollowersCount": 1848,
+      "CurrentTweetsCout": 2194,
       "FollowersCountHistory": {
         "20201225": 1831,
         "20201226": 1835,
         "20201227": 1845,
-        "20201228": 1846
+        "20201228": 1848
       },
       "TweetsCountHistory": {
         "20201225": 2183,
         "20201226": 2188,
         "20201227": 2191,
-        "20201228": 2191
+        "20201228": 2194
       },
       "LangId": "jp"
     },
@@ -869,7 +897,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1333604553921421313/lqQnC0aO_normal.jpg",
       "Login": "curemoto_dot",
       "CurrentFollowersCount": 584,
-      "CurrentTweetsCout": 2744,
+      "CurrentTweetsCout": 2697,
       "FollowersCountHistory": {
         "20201225": 572,
         "20201226": 574,
@@ -880,7 +908,7 @@
         "20201225": 2723,
         "20201226": 2736,
         "20201227": 2744,
-        "20201228": 2744
+        "20201228": 2697
       },
       "LangId": "jp"
     },
@@ -888,13 +916,13 @@
       "PublicName": "シブチャ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1221643349200797697/IyUWV4S3_normal.jpg",
       "Login": "SIVcha4pixel",
-      "CurrentFollowersCount": 475,
+      "CurrentFollowersCount": 476,
       "CurrentTweetsCout": 357,
       "FollowersCountHistory": {
         "20201225": 473,
         "20201226": 474,
         "20201227": 475,
-        "20201228": 475
+        "20201228": 476
       },
       "TweetsCountHistory": {
         "20201225": 357,
@@ -908,19 +936,19 @@
       "PublicName": "きんび",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1342490987562582016/diuc-yYo_normal.jpg",
       "Login": "knb8686",
-      "CurrentFollowersCount": 445,
-      "CurrentTweetsCout": 973,
+      "CurrentFollowersCount": 447,
+      "CurrentTweetsCout": 981,
       "FollowersCountHistory": {
         "20201225": 441,
         "20201226": 442,
         "20201227": 445,
-        "20201228": 445
+        "20201228": 447
       },
       "TweetsCountHistory": {
         "20201225": 961,
         "20201226": 968,
         "20201227": 971,
-        "20201228": 973
+        "20201228": 981
       },
       "LangId": "jp"
     },
@@ -946,21 +974,21 @@
     },
     "whiterain_466": {
       "PublicName": "白雨/pixelart",
-      "AvatarImage": "https://pbs.twimg.com/profile_images/1342792326461095936/cd1fa6A1_normal.png",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1343532107772018693/g9OnJVrm_normal.png",
       "Login": "whiterain_466",
-      "CurrentFollowersCount": 336,
-      "CurrentTweetsCout": 428,
+      "CurrentFollowersCount": 337,
+      "CurrentTweetsCout": 404,
       "FollowersCountHistory": {
         "20201225": 317,
         "20201226": 327,
         "20201227": 334,
-        "20201228": 336
+        "20201228": 337
       },
       "TweetsCountHistory": {
         "20201225": 408,
         "20201226": 427,
         "20201227": 429,
-        "20201228": 428
+        "20201228": 404
       },
       "LangId": "jp"
     },
@@ -989,7 +1017,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1331524422583238656/0Wb4ULWS_normal.jpg",
       "Login": "dot_inko",
       "CurrentFollowersCount": 70,
-      "CurrentTweetsCout": 171,
+      "CurrentTweetsCout": 172,
       "FollowersCountHistory": {
         "20201225": 67,
         "20201226": 68,
@@ -1000,7 +1028,7 @@
         "20201225": 160,
         "20201226": 164,
         "20201227": 168,
-        "20201228": 171
+        "20201228": 172
       },
       "LangId": "jp"
     },
@@ -1049,7 +1077,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1158269699370524673/DzAlpnDt_normal.jpg",
       "Login": "Nanadragon4",
       "CurrentFollowersCount": 4108,
-      "CurrentTweetsCout": 31348,
+      "CurrentTweetsCout": 31352,
       "FollowersCountHistory": {
         "20201225": 4095,
         "20201226": 4101,
@@ -1060,7 +1088,7 @@
         "20201225": 31305,
         "20201226": 31330,
         "20201227": 31344,
-        "20201228": 31348
+        "20201228": 31352
       },
       "LangId": "jp"
     },
@@ -1088,13 +1116,13 @@
       "PublicName": "九重",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1258700982382280705/_DQX9-UB_normal.png",
       "Login": "kokonoe_1196",
-      "CurrentFollowersCount": 1262,
+      "CurrentFollowersCount": 1261,
       "CurrentTweetsCout": 22872,
       "FollowersCountHistory": {
         "20201225": 1262,
         "20201226": 1263,
         "20201227": 1262,
-        "20201228": 1262
+        "20201228": 1261
       },
       "TweetsCountHistory": {
         "20201225": 22870,
@@ -1108,13 +1136,13 @@
       "PublicName": "せたも/UPC",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1246389151345201152/y7k9Wcbf_normal.jpg",
       "Login": "setamo_map",
-      "CurrentFollowersCount": 41632,
+      "CurrentFollowersCount": 41637,
       "CurrentTweetsCout": 2293,
       "FollowersCountHistory": {
         "20201225": 41633,
         "20201226": 41637,
         "20201227": 41630,
-        "20201228": 41632
+        "20201228": 41637
       },
       "TweetsCountHistory": {
         "20201225": 2293,
@@ -1149,7 +1177,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1342653660891807744/JcXsSduc_normal.jpg",
       "Login": "nikumashiart",
       "CurrentFollowersCount": 694,
-      "CurrentTweetsCout": 4796,
+      "CurrentTweetsCout": 4798,
       "FollowersCountHistory": {
         "20201225": 690,
         "20201226": 691,
@@ -1160,7 +1188,7 @@
         "20201225": 4754,
         "20201226": 4773,
         "20201227": 4781,
-        "20201228": 4796
+        "20201228": 4798
       },
       "LangId": "jp"
     },
@@ -1168,19 +1196,19 @@
       "PublicName": "おゆざき■𝕆𝕪𝕦𝕫𝕒𝕜𝕚■仕事募集中",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1206409165171609600/eXGZoLG2_normal.png",
       "Login": "oyzk_2nc",
-      "CurrentFollowersCount": 10280,
-      "CurrentTweetsCout": 49669,
+      "CurrentFollowersCount": 10283,
+      "CurrentTweetsCout": 49675,
       "FollowersCountHistory": {
         "20201225": 10278,
         "20201226": 10279,
         "20201227": 10283,
-        "20201228": 10280
+        "20201228": 10283
       },
       "TweetsCountHistory": {
         "20201225": 49638,
         "20201226": 49651,
         "20201227": 49658,
-        "20201228": 49669
+        "20201228": 49675
       },
       "LangId": "jp"
     },
@@ -1208,19 +1236,19 @@
       "PublicName": "鬼雷 昇炎",
       "AvatarImage": "https://pbs.twimg.com/profile_images/934246371565092864/oGPAl2vv_normal.png",
       "Login": "kirai_s",
-      "CurrentFollowersCount": 7064,
-      "CurrentTweetsCout": 153431,
+      "CurrentFollowersCount": 7065,
+      "CurrentTweetsCout": 153439,
       "FollowersCountHistory": {
         "20201225": 7070,
         "20201226": 7071,
         "20201227": 7070,
-        "20201228": 7064
+        "20201228": 7065
       },
       "TweetsCountHistory": {
         "20201225": 153381,
         "20201226": 153400,
         "20201227": 153417,
-        "20201228": 153431
+        "20201228": 153439
       },
       "LangId": "jp"
     },
@@ -1228,19 +1256,19 @@
       "PublicName": "ななみ雪",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1145336604489220096/XEoT0kZ3_normal.jpg",
       "Login": "yuki77mi",
-      "CurrentFollowersCount": 15163,
-      "CurrentTweetsCout": 5299,
+      "CurrentFollowersCount": 15168,
+      "CurrentTweetsCout": 5301,
       "FollowersCountHistory": {
         "20201225": 15103,
         "20201226": 15156,
         "20201227": 15163,
-        "20201228": 15163
+        "20201228": 15168
       },
       "TweetsCountHistory": {
         "20201225": 5290,
         "20201226": 5298,
         "20201227": 5299,
-        "20201228": 5299
+        "20201228": 5301
       },
       "LangId": "jp"
     },
@@ -1248,19 +1276,19 @@
       "PublicName": "BAD FACTORY",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1333556624477224960/8_jIUu4M_normal.jpg",
       "Login": "BAD_FACTORY",
-      "CurrentFollowersCount": 1230,
-      "CurrentTweetsCout": 7317,
+      "CurrentFollowersCount": 1229,
+      "CurrentTweetsCout": 7319,
       "FollowersCountHistory": {
         "20201225": 1228,
         "20201226": 1229,
         "20201227": 1230,
-        "20201228": 1230
+        "20201228": 1229
       },
       "TweetsCountHistory": {
         "20201225": 7307,
         "20201226": 7311,
         "20201227": 7315,
-        "20201228": 7317
+        "20201228": 7319
       },
       "LangId": "jp"
     },
@@ -1268,13 +1296,13 @@
       "PublicName": "服部グラフィクス・ラ・銀座",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1336888710789357569/0FrF_v3Z_normal.jpg",
       "Login": "hattori2000",
-      "CurrentFollowersCount": 7636,
+      "CurrentFollowersCount": 7637,
       "CurrentTweetsCout": 25490,
       "FollowersCountHistory": {
         "20201225": 7637,
         "20201226": 7640,
         "20201227": 7636,
-        "20201228": 7636
+        "20201228": 7637
       },
       "TweetsCountHistory": {
         "20201225": 25485,
@@ -1288,13 +1316,13 @@
       "PublicName": "カイエ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1261306444600668160/srCv8lWK_normal.png",
       "Login": "4_9_13",
-      "CurrentFollowersCount": 15920,
+      "CurrentFollowersCount": 15922,
       "CurrentTweetsCout": 1444,
       "FollowersCountHistory": {
         "20201225": 15922,
         "20201226": 15922,
         "20201227": 15924,
-        "20201228": 15920
+        "20201228": 15922
       },
       "TweetsCountHistory": {
         "20201225": 1444,
@@ -1308,13 +1336,13 @@
       "PublicName": "かわわぎ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1261137578050252800/9eOv0kH6_normal.jpg",
       "Login": "kwwg_",
-      "CurrentFollowersCount": 17708,
+      "CurrentFollowersCount": 17884,
       "CurrentTweetsCout": 794,
       "FollowersCountHistory": {
         "20201225": 16596,
         "20201226": 16601,
         "20201227": 16770,
-        "20201228": 17708
+        "20201228": 17884
       },
       "TweetsCountHistory": {
         "20201225": 789,
@@ -1328,13 +1356,13 @@
       "PublicName": "ウマー / 個人ゲーム開発",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1034380753151254528/rUnfnMZm_normal.jpg",
       "Login": "umaaaaaa",
-      "CurrentFollowersCount": 32707,
+      "CurrentFollowersCount": 32710,
       "CurrentTweetsCout": 22826,
       "FollowersCountHistory": {
         "20201225": 32712,
         "20201226": 32707,
         "20201227": 32706,
-        "20201228": 32707
+        "20201228": 32710
       },
       "TweetsCountHistory": {
         "20201225": 22824,
@@ -1348,19 +1376,19 @@
       "PublicName": "Ryosuke / RYOCHAN COMPANY",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1208702217433206784/MwxmxXDc_normal.png",
       "Login": "ryo620org",
-      "CurrentFollowersCount": 7283,
-      "CurrentTweetsCout": 7742,
+      "CurrentFollowersCount": 7284,
+      "CurrentTweetsCout": 7743,
       "FollowersCountHistory": {
         "20201225": 7290,
         "20201226": 7281,
         "20201227": 7283,
-        "20201228": 7283
+        "20201228": 7284
       },
       "TweetsCountHistory": {
         "20201225": 7726,
         "20201226": 7734,
         "20201227": 7739,
-        "20201228": 7742
+        "20201228": 7743
       },
       "LangId": "jp"
     },
@@ -1368,13 +1396,13 @@
       "PublicName": "あ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1324822731074932736/bZPa-27Y_normal.png",
       "Login": "sVLisW6OqHTxYUZ",
-      "CurrentFollowersCount": 2671,
+      "CurrentFollowersCount": 2670,
       "CurrentTweetsCout": 318,
       "FollowersCountHistory": {
         "20201225": 2670,
         "20201226": 2671,
         "20201227": 2671,
-        "20201228": 2671
+        "20201228": 2670
       },
       "TweetsCountHistory": {
         "20201225": 318,
@@ -1388,13 +1416,13 @@
       "PublicName": "トードー",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1307770314135203841/9oRzvglm_normal.jpg",
       "Login": "tou_dou_00",
-      "CurrentFollowersCount": 15613,
+      "CurrentFollowersCount": 15612,
       "CurrentTweetsCout": 4841,
       "FollowersCountHistory": {
         "20201225": 15614,
         "20201226": 15609,
         "20201227": 15614,
-        "20201228": 15613
+        "20201228": 15612
       },
       "TweetsCountHistory": {
         "20201225": 4841,
@@ -1408,19 +1436,19 @@
       "PublicName": "asaha",
       "AvatarImage": "https://pbs.twimg.com/profile_images/2323973474/on0jwghvxynnlm1n8hcg_normal.gif",
       "Login": "vpandav",
-      "CurrentFollowersCount": 32679,
-      "CurrentTweetsCout": 9717,
+      "CurrentFollowersCount": 32729,
+      "CurrentTweetsCout": 9727,
       "FollowersCountHistory": {
         "20201225": 32624,
         "20201226": 32641,
         "20201227": 32643,
-        "20201228": 32679
+        "20201228": 32729
       },
       "TweetsCountHistory": {
         "20201225": 9676,
         "20201226": 9686,
         "20201227": 9705,
-        "20201228": 9717
+        "20201228": 9727
       },
       "LangId": "jp"
     },
@@ -1449,7 +1477,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1294042634176966656/PiwWOJ4__normal.jpg",
       "Login": "BrvFlame",
       "CurrentFollowersCount": 1760,
-      "CurrentTweetsCout": 21235,
+      "CurrentTweetsCout": 21242,
       "FollowersCountHistory": {
         "20201225": 1754,
         "20201226": 1756,
@@ -1460,7 +1488,7 @@
         "20201225": 21191,
         "20201226": 21201,
         "20201227": 21218,
-        "20201228": 21235
+        "20201228": 21242
       },
       "LangId": "jp"
     },
@@ -1548,13 +1576,13 @@
       "PublicName": "あちゃぼっくす✉️🕊",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1068789971291533312/dSq3M_z3_normal.jpg",
       "Login": "achabox",
-      "CurrentFollowersCount": 2809,
+      "CurrentFollowersCount": 2810,
       "CurrentTweetsCout": 40787,
       "FollowersCountHistory": {
         "20201225": 2805,
         "20201226": 2806,
         "20201227": 2807,
-        "20201228": 2809
+        "20201228": 2810
       },
       "TweetsCountHistory": {
         "20201225": 40787,
@@ -1568,19 +1596,19 @@
       "PublicName": "あひるひつじ🐑",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1316462288698707968/8t_Kf2PK_normal.jpg",
       "Login": "taco_human8823",
-      "CurrentFollowersCount": 4220,
-      "CurrentTweetsCout": 10857,
+      "CurrentFollowersCount": 4225,
+      "CurrentTweetsCout": 10875,
       "FollowersCountHistory": {
         "20201225": 4139,
         "20201226": 4155,
         "20201227": 4217,
-        "20201228": 4220
+        "20201228": 4225
       },
       "TweetsCountHistory": {
         "20201225": 10800,
         "20201226": 10821,
         "20201227": 10853,
-        "20201228": 10857
+        "20201228": 10875
       },
       "LangId": "jp"
     },
@@ -1628,19 +1656,19 @@
       "PublicName": "BAN-8KU / 渋谷PARCO6階 TOMT",
       "AvatarImage": "https://pbs.twimg.com/profile_images/922073805312233475/PC5DpXRB_normal.jpg",
       "Login": "ban8ku",
-      "CurrentFollowersCount": 5507,
-      "CurrentTweetsCout": 3252,
+      "CurrentFollowersCount": 5505,
+      "CurrentTweetsCout": 3254,
       "FollowersCountHistory": {
         "20201225": 5504,
         "20201226": 5504,
         "20201227": 5506,
-        "20201228": 5507
+        "20201228": 5505
       },
       "TweetsCountHistory": {
         "20201225": 3248,
         "20201226": 3249,
         "20201227": 3252,
-        "20201228": 3252
+        "20201228": 3254
       },
       "LangId": "jp"
     },
@@ -1748,19 +1776,19 @@
       "PublicName": "hako 生活",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1104003274842136577/1ic9a4zw_normal.png",
       "Login": "clrfnd",
-      "CurrentFollowersCount": 22785,
-      "CurrentTweetsCout": 13664,
+      "CurrentFollowersCount": 22792,
+      "CurrentTweetsCout": 13667,
       "FollowersCountHistory": {
         "20201225": 22667,
         "20201226": 22752,
         "20201227": 22781,
-        "20201228": 22785
+        "20201228": 22792
       },
       "TweetsCountHistory": {
         "20201225": 13644,
         "20201226": 13652,
         "20201227": 13665,
-        "20201228": 13664
+        "20201228": 13667
       },
       "LangId": "jp"
     },
@@ -1788,19 +1816,19 @@
       "PublicName": "患者長ひっく",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1274309562724581377/zXaJrIrl_normal.png",
       "Login": "hicchicc",
-      "CurrentFollowersCount": 2765,
-      "CurrentTweetsCout": 4080,
+      "CurrentFollowersCount": 2764,
+      "CurrentTweetsCout": 4081,
       "FollowersCountHistory": {
         "20201225": 2767,
         "20201226": 2764,
         "20201227": 2767,
-        "20201228": 2765
+        "20201228": 2764
       },
       "TweetsCountHistory": {
         "20201225": 4072,
         "20201226": 4074,
         "20201227": 4077,
-        "20201228": 4080
+        "20201228": 4081
       },
       "LangId": "jp"
     },
@@ -1808,13 +1836,13 @@
       "PublicName": "カイロソフト(Kairosoft)",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1120641345708679170/--1kGc-J_normal.png",
       "Login": "kairokun2010",
-      "CurrentFollowersCount": 37568,
+      "CurrentFollowersCount": 37569,
       "CurrentTweetsCout": 1582,
       "FollowersCountHistory": {
         "20201225": 37562,
         "20201226": 37570,
         "20201227": 37570,
-        "20201228": 37568
+        "20201228": 37569
       },
       "TweetsCountHistory": {
         "20201225": 1578,
@@ -1828,19 +1856,19 @@
       "PublicName": "なるめ／ILY.",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1242758837477638147/0cnwqGAy_normal.png",
       "Login": "narumeNKR",
-      "CurrentFollowersCount": 11808,
-      "CurrentTweetsCout": 2972,
+      "CurrentFollowersCount": 11811,
+      "CurrentTweetsCout": 2978,
       "FollowersCountHistory": {
         "20201225": 11806,
         "20201226": 11798,
         "20201227": 11809,
-        "20201228": 11808
+        "20201228": 11811
       },
       "TweetsCountHistory": {
         "20201225": 2970,
         "20201226": 2971,
         "20201227": 2972,
-        "20201228": 2972
+        "20201228": 2978
       },
       "LangId": "jp"
     },
@@ -1848,19 +1876,19 @@
       "PublicName": "おづみかん",
       "AvatarImage": "https://pbs.twimg.com/profile_images/935888499143618560/90TiVh4Z_normal.jpg",
       "Login": "ozumikan",
-      "CurrentFollowersCount": 10314,
-      "CurrentTweetsCout": 7931,
+      "CurrentFollowersCount": 10317,
+      "CurrentTweetsCout": 7935,
       "FollowersCountHistory": {
         "20201225": 10317,
         "20201226": 10319,
         "20201227": 10318,
-        "20201228": 10314
+        "20201228": 10317
       },
       "TweetsCountHistory": {
         "20201225": 7924,
         "20201226": 7927,
         "20201227": 7930,
-        "20201228": 7931
+        "20201228": 7935
       },
       "LangId": "jp"
     },
@@ -1948,13 +1976,13 @@
       "PublicName": "yuta",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1071777629114531841/HWvSv06R_normal.jpg",
       "Login": "yyuta342",
-      "CurrentFollowersCount": 16151,
+      "CurrentFollowersCount": 16152,
       "CurrentTweetsCout": 34491,
       "FollowersCountHistory": {
         "20201225": 16144,
         "20201226": 16150,
         "20201227": 16152,
-        "20201228": 16151
+        "20201228": 16152
       },
       "TweetsCountHistory": {
         "20201225": 34475,

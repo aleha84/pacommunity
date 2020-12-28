@@ -1,14 +1,42 @@
 {
+  "Languages": {
+    "br": {
+      "Id": "br",
+      "Suffix": "_br",
+      "Adjective": "Brazilian Portuguese"
+    },
+    "de": {
+      "Id": "de",
+      "Suffix": "_de",
+      "Adjective": "German"
+    },
+    "es": {
+      "Id": "es",
+      "Suffix": "_es",
+      "Adjective": "Spanish"
+    },
+    "jp": {
+      "Id": "jp",
+      "Suffix": "_jp",
+      "Adjective": "Japanese"
+    },
+    "ru": {
+      "Id": "ru",
+      "Suffix": "",
+      "Adjective": "Russian"
+    }
+  },
   "Lang": {
     "Id": "de",
-    "Suffix": "_de"
+    "Suffix": "_de",
+    "Adjective": null
   },
   "Users": {
     "the_ptoing": {
       "PublicName": "Sven Ruthner",
       "AvatarImage": "https://pbs.twimg.com/profile_images/702027167299936256/aamngrYc_normal.png",
       "Login": "the_ptoing",
-      "CurrentFollowersCount": 9111,
+      "CurrentFollowersCount": 9112,
       "CurrentTweetsCout": 14007,
       "FollowersCountHistory": {
         "20201217": 9080,
@@ -22,7 +50,7 @@
         "20201225": 9104,
         "20201226": 9102,
         "20201227": 9111,
-        "20201228": 9111
+        "20201228": 9112
       },
       "TweetsCountHistory": {
         "20201217": 13970,
@@ -44,7 +72,7 @@
       "PublicName": "Stefanie Grunwald 🇪🇺",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1284899478584131589/b_WiQ7oI_normal.jpg",
       "Login": "moertel",
-      "CurrentFollowersCount": 7723,
+      "CurrentFollowersCount": 7724,
       "CurrentTweetsCout": 635,
       "FollowersCountHistory": {
         "20201217": 7719,
@@ -58,7 +86,7 @@
         "20201225": 7719,
         "20201226": 7722,
         "20201227": 7724,
-        "20201228": 7723
+        "20201228": 7724
       },
       "TweetsCountHistory": {
         "20201217": 634,
@@ -80,7 +108,7 @@
       "PublicName": "StuntmAEn Bob",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1342498182886993920/6VaRDlDj_normal.jpg",
       "Login": "StuntmAEn_Bob",
-      "CurrentFollowersCount": 1515,
+      "CurrentFollowersCount": 1516,
       "CurrentTweetsCout": 6046,
       "FollowersCountHistory": {
         "20201217": 1439,
@@ -94,7 +122,7 @@
         "20201225": 1497,
         "20201226": 1505,
         "20201227": 1514,
-        "20201228": 1515
+        "20201228": 1516
       },
       "TweetsCountHistory": {
         "20201217": 6004,
@@ -188,8 +216,8 @@
       "PublicName": "Numo",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1302691129532600321/YCE-mBUS_normal.jpg",
       "Login": "Numo_0",
-      "CurrentFollowersCount": 1344,
-      "CurrentTweetsCout": 4787,
+      "CurrentFollowersCount": 1345,
+      "CurrentTweetsCout": 4788,
       "FollowersCountHistory": {
         "20201217": 1295,
         "20201218": 1311,
@@ -202,7 +230,7 @@
         "20201225": 1339,
         "20201226": 1339,
         "20201227": 1340,
-        "20201228": 1344
+        "20201228": 1345
       },
       "TweetsCountHistory": {
         "20201217": 4453,
@@ -216,7 +244,7 @@
         "20201225": 4743,
         "20201226": 4753,
         "20201227": 4775,
-        "20201228": 4787
+        "20201228": 4788
       },
       "LangId": "de"
     },
@@ -260,7 +288,7 @@
       "PublicName": "BenStar",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1324086554004987912/tg3LB9Tx_normal.jpg",
       "Login": "BenstarDEV",
-      "CurrentFollowersCount": 14554,
+      "CurrentFollowersCount": 14555,
       "CurrentTweetsCout": 26194,
       "FollowersCountHistory": {
         "20201217": 14545,
@@ -274,7 +302,7 @@
         "20201225": 14548,
         "20201226": 14551,
         "20201227": 14553,
-        "20201228": 14554
+        "20201228": 14555
       },
       "TweetsCountHistory": {
         "20201217": 26116,
@@ -404,7 +432,7 @@
       "PublicName": "Thomas Feichtmeir",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1296110731490988032/HscxAbEv_normal.png",
       "Login": "cyangmou",
-      "CurrentFollowersCount": 38608,
+      "CurrentFollowersCount": 38612,
       "CurrentTweetsCout": 9229,
       "FollowersCountHistory": {
         "20201217": 38359,
@@ -418,7 +446,7 @@
         "20201225": 38563,
         "20201226": 38576,
         "20201227": 38596,
-        "20201228": 38608
+        "20201228": 38612
       },
       "TweetsCountHistory": {
         "20201217": 9136,
@@ -476,7 +504,7 @@
       "PublicName": "Richard Schmidbauer",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1273914585716834304/THnsnJ-p_normal.png",
       "Login": "visionvortex",
-      "CurrentFollowersCount": 2402,
+      "CurrentFollowersCount": 2401,
       "CurrentTweetsCout": 3201,
       "FollowersCountHistory": {
         "20201217": 2397,
@@ -490,7 +518,7 @@
         "20201225": 2400,
         "20201226": 2402,
         "20201227": 2401,
-        "20201228": 2402
+        "20201228": 2401
       },
       "TweetsCountHistory": {
         "20201217": 3182,
@@ -512,7 +540,7 @@
       "PublicName": "Mandrill Pixel",
       "AvatarImage": "https://pbs.twimg.com/profile_images/683302871815864320/TDAFY5Wa_normal.png",
       "Login": "MandrillPixel",
-      "CurrentFollowersCount": 4324,
+      "CurrentFollowersCount": 4325,
       "CurrentTweetsCout": 2000,
       "FollowersCountHistory": {
         "20201217": 4322,
@@ -526,7 +554,7 @@
         "20201225": 4325,
         "20201226": 4326,
         "20201227": 4324,
-        "20201228": 4324
+        "20201228": 4325
       },
       "TweetsCountHistory": {
         "20201217": 1995,
@@ -584,7 +612,7 @@
       "PublicName": "DieMango (Comms: CLOSED)",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1277189850026958849/u5NvIG5Q_normal.jpg",
       "Login": "MimicMango",
-      "CurrentFollowersCount": 25345,
+      "CurrentFollowersCount": 25348,
       "CurrentTweetsCout": 11528,
       "FollowersCountHistory": {
         "20201217": 25234,
@@ -598,7 +626,7 @@
         "20201225": 25332,
         "20201226": 25334,
         "20201227": 25346,
-        "20201228": 25345
+        "20201228": 25348
       },
       "TweetsCountHistory": {
         "20201217": 11426,
@@ -656,8 +684,8 @@
       "PublicName": "Valenberg",
       "AvatarImage": "https://pbs.twimg.com/profile_images/883324208805273600/gupxxJdf_normal.jpg",
       "Login": "MrValenberg",
-      "CurrentFollowersCount": 10919,
-      "CurrentTweetsCout": 4209,
+      "CurrentFollowersCount": 10920,
+      "CurrentTweetsCout": 4211,
       "FollowersCountHistory": {
         "20201217": 10819,
         "20201218": 10821,
@@ -670,7 +698,7 @@
         "20201225": 10907,
         "20201226": 10913,
         "20201227": 10917,
-        "20201228": 10919
+        "20201228": 10920
       },
       "TweetsCountHistory": {
         "20201217": 4181,
@@ -684,7 +712,7 @@
         "20201225": 4203,
         "20201226": 4205,
         "20201227": 4209,
-        "20201228": 4209
+        "20201228": 4211
       },
       "LangId": "de"
     },
@@ -728,7 +756,7 @@
       "PublicName": "Fabian",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1011242423274569728/6CASLid3_normal.jpg",
       "Login": "Trick_Siebzehn",
-      "CurrentFollowersCount": 2937,
+      "CurrentFollowersCount": 2949,
       "CurrentTweetsCout": 352,
       "FollowersCountHistory": {
         "20201217": 2537,
@@ -742,7 +770,7 @@
         "20201225": 2883,
         "20201226": 2895,
         "20201227": 2921,
-        "20201228": 2937
+        "20201228": 2949
       },
       "TweetsCountHistory": {
         "20201217": 345,
@@ -801,7 +829,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1300134617710825473/oZhGYuZh_normal.jpg",
       "Login": "Pixellance",
       "CurrentFollowersCount": 296,
-      "CurrentTweetsCout": 991,
+      "CurrentTweetsCout": 992,
       "FollowersCountHistory": {
         "20201217": 292,
         "20201218": 292,
@@ -828,7 +856,7 @@
         "20201225": 987,
         "20201226": 987,
         "20201227": 991,
-        "20201228": 991
+        "20201228": 992
       },
       "LangId": "de"
     },
@@ -836,7 +864,7 @@
       "PublicName": "BANDOS7",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1263114613513748480/EcllYJVn_normal.jpg",
       "Login": "BANDOS7de",
-      "CurrentFollowersCount": 1396,
+      "CurrentFollowersCount": 1397,
       "CurrentTweetsCout": 2315,
       "FollowersCountHistory": {
         "20201217": 1387,
@@ -850,7 +878,7 @@
         "20201225": 1398,
         "20201226": 1396,
         "20201227": 1398,
-        "20201228": 1396
+        "20201228": 1397
       },
       "TweetsCountHistory": {
         "20201217": 2286,
@@ -980,7 +1008,7 @@
       "PublicName": "Jon Keller",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1279008731578187776/LLWfNyVx_normal.jpg",
       "Login": "jonkellerdev",
-      "CurrentFollowersCount": 8029,
+      "CurrentFollowersCount": 8028,
       "CurrentTweetsCout": 818,
       "FollowersCountHistory": {
         "20201217": 8033,
@@ -994,7 +1022,7 @@
         "20201225": 8031,
         "20201226": 8030,
         "20201227": 8031,
-        "20201228": 8029
+        "20201228": 8028
       },
       "TweetsCountHistory": {
         "20201217": 812,
@@ -1340,7 +1368,7 @@
       "PublicName": "Foofarawr ⛄💙",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1315011917312819200/0ys9QHjI_normal.jpg",
       "Login": "foofarawr",
-      "CurrentFollowersCount": 1938,
+      "CurrentFollowersCount": 1942,
       "CurrentTweetsCout": 518,
       "FollowersCountHistory": {
         "20201218": 1437,
@@ -1353,7 +1381,7 @@
         "20201225": 1920,
         "20201226": 1921,
         "20201227": 1926,
-        "20201228": 1938
+        "20201228": 1942
       },
       "TweetsCountHistory": {
         "20201218": 494,
@@ -1438,8 +1466,8 @@
       "PublicName": "Wolve_Rain✨Commissions open✨",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1330500709167599618/t2H55seO_normal.jpg",
       "Login": "wolve_rain",
-      "CurrentFollowersCount": 118,
-      "CurrentTweetsCout": 588,
+      "CurrentFollowersCount": 119,
+      "CurrentTweetsCout": 605,
       "FollowersCountHistory": {
         "20201219": 117,
         "20201220": 117,
@@ -1450,7 +1478,7 @@
         "20201225": 116,
         "20201226": 116,
         "20201227": 117,
-        "20201228": 118
+        "20201228": 119
       },
       "TweetsCountHistory": {
         "20201219": 482,
@@ -1462,7 +1490,7 @@
         "20201225": 569,
         "20201226": 581,
         "20201227": 589,
-        "20201228": 588
+        "20201228": 605
       },
       "LangId": "de"
     },
@@ -1630,13 +1658,13 @@
       "PublicName": "Saboo Taboo🎩",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1311444957035663361/AJH0pRGu_normal.jpg",
       "Login": "sabbi_tabbi",
-      "CurrentFollowersCount": 4225,
+      "CurrentFollowersCount": 4226,
       "CurrentTweetsCout": 13955,
       "FollowersCountHistory": {
         "20201225": 4228,
         "20201226": 4226,
         "20201227": 4226,
-        "20201228": 4225
+        "20201228": 4226
       },
       "TweetsCountHistory": {
         "20201225": 13944,

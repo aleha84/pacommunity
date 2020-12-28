@@ -64,9 +64,15 @@ function displayNone(selector) {
   }
 
   class ListRenderer {
-    constructor(usersData, params = { renderFlag: false }) {
+    constructor(usersData, params = { isCommon: false, renderFlag: false }) {
         this.users = [];
         this.params = params;
+        this.languages = Object.values(usersData.Languages);
+        this.currentLanguage = usersData.Lang;
+
+        if(this.params.isCommon){
+            this.currentLanguage = {};
+        }
         
         this.users = Object.values(usersData.Users);
         this.template = this.getRowTemplate();
@@ -83,7 +89,46 @@ function displayNone(selector) {
             }
         }, true);
 
+        this.createOtherListsLinks();
+
         this.sort();
+    }
+    createOtherListsLinks() {
+        let holder = document.querySelector('.otherLists');
+        holder.textContent = '';
+
+        let index = 0;
+        this.languages.forEach((l, i) => {
+            if(l.Id == this.currentLanguage.Id)
+                return;
+
+            let a = document.createElement('a');
+            if(this.params.isCommon) {
+                a.setAttribute('href', `${l.Id}/`);
+            }
+            else {
+                a.setAttribute('href', `../${l.Id}/`);
+            }
+
+            a.classList.add('flag', l.Id);
+            a.innerText = `${l.Adjective} list`;
+            
+            holder.appendChild(a);
+
+            if(index++ % 2 != 0) {
+
+                holder.appendChild(document.createElement('br'));
+            }
+
+        });
+
+        if(!this.params.isCommon) {
+            holder.appendChild(document.createElement('br'));
+            let a = document.createElement('a');
+            a.setAttribute('href', '../');
+            a.innerText = 'Common list';
+            holder.appendChild(a);
+        }
     }
     getRowTemplate() {
         let t = document.createElement('template');
