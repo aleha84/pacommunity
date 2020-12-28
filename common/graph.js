@@ -47,10 +47,15 @@ function showGraph(userid) {
     let width = parseInt(document.body.clientWidth * 0.8);
     let height = parseInt(document.body.clientHeight * 0.8);
 
+    let title = "Followers & tweets count: " + userid;
+    if(data[0].length < 2) {
+        title = 'Dynamics will be available after two days of work'
+    }
+
     const opts = {
         width: width,
         height: height,
-        title: "Followers & tweets count: " + userid,
+        title,
         scales: {
             x: {
                 time: false,
