@@ -157,6 +157,7 @@ function displayNone(selector) {
             'MarukiHurakami',
             'Numo_0',
             'runmry',
+            'D44W33D'
         ]
     }
     formatNumberSafe(number) {
