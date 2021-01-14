@@ -75,14 +75,18 @@ function displayNone(selector) {
     commonOverlay.classList.add('commonOverlay');
     commonOverlay.style.display = "block";
 
-    commonOverlay.onclick = function(event) {
-        if(!checkCanClose(event))
-            return;
-        
+    let close = () => {
         commonOverlay.remove();
         commonOverlay = undefined;
         document.documentElement.style.overflow = 'scroll';
         document.body.scroll = "yes";
+    }
+
+    commonOverlay.onclick = function(event) {
+        if(!checkCanClose(event))
+            return;
+        
+        close();
     }
 
     let container = document.createElement('div');
@@ -98,6 +102,8 @@ function displayNone(selector) {
     document.body.appendChild(commonOverlay);
     document.documentElement.style.overflow = 'hidden';
     document.body.scroll = "no";
+
+    container.closeOverlay = close;
 
     return container;
   }
@@ -139,7 +145,7 @@ function displayNone(selector) {
         this.sort();
     }
     async start() {
-        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=5.9');
+        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.0');
         let footerHtml = await footerResponse.text();
 
         document.body.insertAdjacentHTML('beforeend', footerHtml)
@@ -390,7 +396,7 @@ function displayNone(selector) {
               });
 
               if(co){
-                co.parentElement.remove();
+                co.closeOverlay();
               } 
         }, 10)
     }
