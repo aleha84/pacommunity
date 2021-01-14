@@ -63,6 +63,31 @@ function displayNone(selector) {
     ];
   }
 
+  function createCommonOverlay() {
+    let commonOverlay = document.getElementById('commonOverlay');
+    if (commonOverlay) {
+        commonOverlay.remove();
+        commonOverlay = undefined;
+    }
+
+    commonOverlay = document.createElement('div');
+    commonOverlay.classList.add('overlay');
+    commonOverlay.style.display = "block";
+
+    commonOverlay.onclick = () => {
+        commonOverlay.remove();
+        commonOverlay = undefined;
+        document.documentElement.style.overflow = 'scroll';
+        document.body.scroll = "yes";
+    }
+
+    document.body.appendChild(commonOverlay);
+    document.documentElement.style.overflow = 'hidden';
+    document.body.scroll = "no";
+
+    return commonOverlay;
+  }
+
   class ListRenderer {
     constructor(usersData, params = { isCommon: false, renderFlag: false }) {
         this.users = [];
@@ -72,6 +97,11 @@ function displayNone(selector) {
 
         if(this.params.isCommon){
             this.currentLanguage = {};
+        }
+        else {
+            if(!this.currentLanguage.Adjective) {
+                this.currentLanguage.Adjective = usersData.Languages[this.currentLanguage.Id].Adjective
+            }
         }
         
         this.users = Object.values(usersData.Users);
@@ -90,8 +120,11 @@ function displayNone(selector) {
         }, true);
 
         this.createOtherListsLinks();
+        this.createHelp();
 
         this.sort();
+
+        this.createContributorsLink();
     }
     createOtherListsLinks() {
         let holder = document.querySelector('.otherLists');
@@ -159,6 +192,49 @@ function displayNone(selector) {
             'runmry',
             'D44W33D'
         ]
+    }
+
+    createContributorsLink() {
+        let link = document.createElement('div');
+        link.textContent = 'Contributors';
+        link.classList.add('contributors');
+
+        link.onclick = () => {
+            let co = createCommonOverlay();
+
+            this.getContributorsList().forEach(str => {
+                let p = document.createElement('p');
+                p.textContent = str;
+
+                co.appendChild(p);
+            })
+        }
+
+        document.querySelector('.created').appendChild(link);
+    }
+    
+    createHelp() {
+        let enData = [
+            "Hello everyone! This is a list of {adjective} pixel artists. I created this because I wanted to join information together and share it with everyone around, and also to code a little. Data is updated daily (for now manually)",
+              "I plan to support and develop this page with pure enthusiasm: searching for new artists, add new features to the page and automate data updates. Also, if there is interest, I will be happy to create similar lists for other languages.",
+              "If you know pixel artists I haven't mentioned on this list, or if you find a bug/mistake, then let me know. Bookmark this page to your browser and share or retweet to let more people know about these wonderful and talented people",
+        ]
+
+        let enHolder = document.querySelector('.help>.en');
+        enHolder.textContent = '';
+
+        let langAdjective = this.currentLanguage.Adjective || '';
+
+        if(langAdjective && !this.params.isCommon) {
+            langAdjective += ' speaking';
+        }
+
+        enData.forEach(str => {
+            let p = document.createElement('p');
+            p.textContent = str.replace('{adjective}', langAdjective);
+
+            enHolder.appendChild(p);
+        })
     }
     formatNumberSafe(number) {
         try {
