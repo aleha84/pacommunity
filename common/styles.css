@@ -171,6 +171,24 @@ body {
     background-position: left center;
 }
 
+.contributors .contributor {
+    display: inline-block;
+    padding-top: 5px;
+}
+
+ul.styleNone {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.preloader {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+
   .asc {
     background-image:
     url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACI0lEQVR4Xu2bv0odQRTGf0JewEhqC7GOWgXExkrslFiolb2VRVSws/EPYmPjA0hIYm+hVoplniAP4QMoyoG9Zu+6/67OnBH2m3LvsjPfb885851h7xAdH0Md148AKALSEfgK/AKGgXXgT4qlpEqBCeAKGMlEPwIrwG9vCCkAFMX3NCeB4A3AxF8DnyvetDsETwBN4ntMHoBVr3TwAtBWvDsEDwCTWcErhv0T1PoQiwQrjFF3h9gAqsQfAovAWK4WbAO7wKfctegQYgKoE/8D+FcAMA5Yqvz0hBALQJX4A2Aze8NlAOzad08IMQBMAZclW11evDGoAmC/VUFYBs5DmqXQAEy8OTyzt/mxD2wVrtUBcIMQEsAg4psioMcqeiSEAjAK/C0J+z3AqnvZaIqAJgizwM170yEUgA3gqLCYOvFtI6AOwjFg875rhAIwB1zkVtIkflAAZTVhKURBDAXAFrgGzGdF8LTFa2mbAvlHzQALwF0I8fbgkABaaO675S0ABp2j8X4BaEQU7wZFQEkvYFBch1LAFXf/ZEoBpUD/gYidB6gGeKekiqA38dx8KoIqgiqCfcfi2gW0DcoHyAjJCXr7EjlBb+Jygv8JyArLCssKywrnP5FRL6BeQL2AegH1At7OVL2AN3H1AuoFXgioGVIz1PFm6BaYzhLCPov/Atx7F+WU2+A34Cz759gOcOItPvVncin0vpozZQQIwEcg0PkIeAYMzqRB7XeySQAAAABJRU5ErkJggg==);

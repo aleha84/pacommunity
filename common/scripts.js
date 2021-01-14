@@ -63,7 +63,7 @@ function displayNone(selector) {
     ];
   }
 
-  function createCommonOverlay({containerStyles}) {
+  function createCommonOverlay({containerStyles, containerClassNames = [], checkCanClose = (event) => true}) {
     let commonOverlay = document.getElementById('commonOverlay');
     if (commonOverlay) {
         commonOverlay.remove();
@@ -75,7 +75,10 @@ function displayNone(selector) {
     commonOverlay.classList.add('commonOverlay');
     commonOverlay.style.display = "block";
 
-    commonOverlay.onclick = () => {
+    commonOverlay.onclick = function(event) {
+        if(!checkCanClose(event))
+            return;
+        
         commonOverlay.remove();
         commonOverlay = undefined;
         document.documentElement.style.overflow = 'scroll';
@@ -84,9 +87,10 @@ function displayNone(selector) {
 
     let container = document.createElement('div');
     container.classList.add('container');
+    container.classList.add(...containerClassNames)
 
     Object.keys(containerStyles).forEach(key => {
-        
+        container.style[key] = containerStyles[key];
     })
 
     commonOverlay.appendChild(container);
@@ -99,7 +103,7 @@ function displayNone(selector) {
   }
 
   class ListRenderer {
-    constructor(usersData, params = { isCommon: false, renderFlag: false }) {
+    constructor(usersData, params = { isCommon: false, renderFlag: false, rootFolderPath: '../../' }) {
         this.users = [];
         this.params = params;
         this.languages = Object.values(usersData.Languages);
@@ -133,6 +137,12 @@ function displayNone(selector) {
         this.createHelp();
 
         this.sort();
+    }
+    async start() {
+        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=5.9');
+        let footerHtml = await footerResponse.text();
+
+        document.body.insertAdjacentHTML('beforeend', footerHtml)
 
         this.createContributorsLink();
     }
@@ -208,21 +218,41 @@ function displayNone(selector) {
         let link = document.createElement('div');
         link.textContent = 'Contributors';
         link.classList.add('contributors');
+        //link.classList.contains
 
         link.onclick = () => {
             let co = createCommonOverlay({ containerStyles: { 
                 'width': '50%',
                 'text-align': 'center',
                 'padding': '20px 0',
-                'border': '1px solid black'
-             } });
+                'border': '1px solid black',
+                'padding-bottom': '40px'
+             }, checkCanClose: function(event) {
+                return !event.target.classList.contains('contributor');
+             },
+             containerClassNames: ['contributors']
+             });
 
+             let title = document.createElement('h3');
+             title.style.color = 'black';
+             title.textContent = "People who helped me alot"
+             co.appendChild(title);
+
+            let ul = document.createElement('ul');
+            ul.classList.add('styleNone')
             this.getContributorsList().forEach(str => {
-                let p = document.createElement('p');
-                p.textContent = str;
+                let li =document.createElement('li'); 
+                let a = document.createElement('a');
+                a.textContent = str;
+                a.setAttribute('href', 'https://twitter.com/' + str)
+                a.setAttribute('target', '_blank')
+                a.classList.add('contributor')
 
-                co.appendChild(p);
+                li.appendChild(a)
+                ul.appendChild(li);
             })
+
+            co.appendChild(ul);
         }
 
         document.querySelector('.created').appendChild(link);
@@ -322,6 +352,20 @@ function displayNone(selector) {
     render() {
         this.parentNode.textContent = '';
 
+        let co = undefined;
+
+        if(this.params.isCommon) {
+            co = createCommonOverlay({ containerStyles: { 
+                'background-color': 'transparent',
+                'text-align': 'center',
+                }
+            });
+            let title = document.createElement('h1');
+            title.textContent = 'Loading';
+    
+            co.appendChild(title)
+        }
+        
         setTimeout(() => {
             this.users.sort((a,b) => this.sortUsers(a, b)).forEach(ud => {
                 let userDataDiv = document.importNode(this.template.content, true);
@@ -344,6 +388,10 @@ function displayNone(selector) {
         
                 this.parentNode.appendChild(userDataDiv)
               });
+
+              if(co){
+                co.parentElement.remove();
+              } 
         }, 10)
     }
   }
