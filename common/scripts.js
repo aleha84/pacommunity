@@ -63,7 +63,7 @@ function displayNone(selector) {
     ];
   }
 
-  function createCommonOverlay() {
+  function createCommonOverlay({containerStyles}) {
     let commonOverlay = document.getElementById('commonOverlay');
     if (commonOverlay) {
         commonOverlay.remove();
@@ -72,6 +72,7 @@ function displayNone(selector) {
 
     commonOverlay = document.createElement('div');
     commonOverlay.classList.add('overlay');
+    commonOverlay.classList.add('commonOverlay');
     commonOverlay.style.display = "block";
 
     commonOverlay.onclick = () => {
@@ -81,11 +82,20 @@ function displayNone(selector) {
         document.body.scroll = "yes";
     }
 
+    let container = document.createElement('div');
+    container.classList.add('container');
+
+    Object.keys(containerStyles).forEach(key => {
+        
+    })
+
+    commonOverlay.appendChild(container);
+
     document.body.appendChild(commonOverlay);
     document.documentElement.style.overflow = 'hidden';
     document.body.scroll = "no";
 
-    return commonOverlay;
+    return container;
   }
 
   class ListRenderer {
@@ -200,7 +210,12 @@ function displayNone(selector) {
         link.classList.add('contributors');
 
         link.onclick = () => {
-            let co = createCommonOverlay();
+            let co = createCommonOverlay({ containerStyles: { 
+                'width': '50%',
+                'text-align': 'center',
+                'padding': '20px 0',
+                'border': '1px solid black'
+             } });
 
             this.getContributorsList().forEach(str => {
                 let p = document.createElement('p');
