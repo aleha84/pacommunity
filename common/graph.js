@@ -1,5 +1,15 @@
 function showGraph(userid) {
     let user = getParameterCaseInsensitive(usersData.Users, userid);
+
+    if (location.hostname === "localhost" || location.hostname === "127.0.0.1") { console.log('showGraph ym - local host; do nothing');  } 
+    else {
+        if(ym){
+            ym(70569073,'reachGoal','showGraphCall')
+        }
+    }
+    
+    
+
     //usersData.Users[userid];
     //console.log(user)
     if (!user) {

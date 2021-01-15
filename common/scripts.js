@@ -145,7 +145,7 @@ function displayNone(selector) {
         this.sort();
     }
     async start() {
-        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.0');
+        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.1');
         let footerHtml = await footerResponse.text();
 
         document.body.insertAdjacentHTML('beforeend', footerHtml)
