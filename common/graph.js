@@ -4,7 +4,12 @@ function showGraph(userid) {
     if (location.hostname === "localhost" || location.hostname === "127.0.0.1") { console.log('showGraph ym - local host; do nothing');  } 
     else {
         if(ym){
-            ym(70569073,'reachGoal','showGraphCall')
+            try {
+                ym(70569073,'reachGoal','showGraphCall')
+            }
+            catch(exception) {
+                console.log(exception);
+            }
         }
     }
     
