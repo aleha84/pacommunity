@@ -145,7 +145,7 @@ function displayNone(selector) {
         this.sort();
     }
     async start() {
-        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.1');
+        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.2');
         let footerHtml = await footerResponse.text();
 
         document.body.insertAdjacentHTML('beforeend', footerHtml)
@@ -199,7 +199,7 @@ function displayNone(selector) {
           <div class="userHrefHolder">
             <a class="userHref" target="_blank" href=""></a>
           </div>
-          <div class="followersCountHolder" title="Show followers count graph">
+          <div class="followersCountHolder">
             <span class="followersCount"></span>
           </div>
           <div class="tweetsCountHolder" title="Show tweets count graph">
@@ -393,19 +393,35 @@ function displayNone(selector) {
                         let trendClassName = 'mid_gray';
                         let wg = ud.FollowersTrend.WeeklyGrowth;
 
-                        if(wg > 2.5)
+                        if(wg > 0.5)
                             trendClassName = 'up_yellow';
-                        if(wg > 10)
+                        if(wg > 2.5)
+                            trendClassName = 'double_up_yellow';
+                        if(wg > 5)
                             trendClassName = 'up_green';
-                        if(wg < -2.5)
+                        if(wg > 7.5)
+                            trendClassName = 'double_up_green';
+                        if(wg < -0.5)
                             trendClassName = 'down_yellow';
-                        if(wg < -10)
+                        if(wg < -2.5)
+                            trendClassName = 'double_down_yellow';
+                        if(wg < -5)
                             trendClassName = 'down_red';
+                        if(wg < -7.5)
+                            trendClassName = 'double_down_red';
 
                         followersCountEl.classList.add('trend', trendClassName)
 
                         followersCountEl.title = 'Weekly followers growth trend: ' + wg.toFixed(2) + '%';
                     }
+                    else {
+                        followersCountEl.classList.add('trend', 'noData');
+                        followersCountEl.title = "No trend data awailable";
+                    }
+                }
+                else {
+                    followersCountEl.classList.add('trend', 'noData');
+                    followersCountEl.title = "No trend data awailable";
                 }
 
                 followersCountEl.textContent = this.formatNumberSafe(ud.CurrentFollowersCount);

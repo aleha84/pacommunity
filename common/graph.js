@@ -67,6 +67,11 @@ function showGraph(userid) {
         title = 'Dynamics will be available after two days of work'
     }
 
+    let weeklyTrendLine = undefined;
+    if(user.FollowersTrend && user.FollowersTrend.WeeklyTrendLine){
+        weeklyTrendLine = user.FollowersTrend.WeeklyTrendLine
+    }
+
     const opts = {
         width: width,
         height: height,
@@ -76,21 +81,39 @@ function showGraph(userid) {
                 time: false,
             },
         },
-        hooks: {
+        hooks: !weeklyTrendLine? undefined : {
             drawSeries: [
                 (u, si) => {
+                    if(si != 1)
+                        return;
+
                     let ctx = u.ctx;
 
                     let s  = u.series[si];
                     let xd = u.data[0];
                     let yd = u.data[si];
 
-                    let [i0, i1] = s.idxs;
+                    let start = user.FollowersTrend.WeeklyTrendLine.Start;
+                    let end = user.FollowersTrend.WeeklyTrendLine.End;
+                    let isoDateStringStartX = rawDateStringToIsoString(start.X.toString());
+                    if(!isoDateStringStartX)
+                        return;
+                    
+                    let dateStartX = Date.parse(isoDateStringStartX) / 1000
 
-                    let x0 = u.valToPos(xd[i0], 'x', true);
-                    let y0 = u.valToPos(yd[i0], 'c1', true);
-                    let x1 = u.valToPos(xd[i1], 'x', true);
-                    let y1 = u.valToPos(yd[i1], 'c1', true);
+                    let isoDateStringEndX = rawDateStringToIsoString(end.X.toString());
+                    if(!isoDateStringEndX)
+                        return;
+                    
+                    let dateEndX = Date.parse(isoDateStringEndX) / 1000
+
+
+                    //let [i0, i1] = s.idxs;
+
+                    let x0 = u.valToPos(dateStartX, 'x', true);//u.valToPos(xd[i0], 'x', true);
+                    let y0 = u.valToPos(start.Y, 'c1', true);//u.valToPos(yd[i0], 'c1', true);
+                    let x1 = u.valToPos(dateEndX, 'x', true);//u.valToPos(xd[i1], 'x', true);
+                    let y1 = u.valToPos(end.Y, 'c1', true);//u.valToPos(yd[i1], 'c1', true);
 
                     const offset = (s.width % 2) / 2;
 
