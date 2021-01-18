@@ -88,9 +88,9 @@ function showGraph(userid) {
                     let [i0, i1] = s.idxs;
 
                     let x0 = u.valToPos(xd[i0], 'x', true);
-                    let y0 = u.valToPos(yd[i0], 'y', true);
+                    let y0 = u.valToPos(yd[i0], 'c1', true);
                     let x1 = u.valToPos(xd[i1], 'x', true);
-                    let y1 = u.valToPos(yd[i1], 'y', true);
+                    let y1 = u.valToPos(yd[i1], 'c1', true);
 
                     const offset = (s.width % 2) / 2;
 
