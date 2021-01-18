@@ -82,19 +82,18 @@ body {
     width: 25px;
   }
   .userHrefHolder {
-    width: 60%;
+    width: 55%;
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-    cursor: pointer;
   }
   .userHref {
     padding: 0 5px;
     text-overflow: ellipsis;
   }
   .followersCountHolder {
-    width: 15%;
+    width: 20%;
     cursor: pointer;
   }
   .tweetsCountHolder {
@@ -211,6 +210,17 @@ ul.styleNone {
     display: inline-block;
   }
 
+  .trend:before {
+    content: '';
+    width: 16px;
+    height: 16px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center;
+    vertical-align: middle;
+    display: inline-block;
+  }
+
   .flag.ru:before {
       background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAAo0lEQVRIS2PcuO+I+u07D/d/+/5DkoGOgIuT47mqirwjY8+spc/obTnMnyBHMDZNnPsfJFCcHkdH/zMw9M5cBLZv1AGjITDwIcCoWf+fhZWNwcotnq654NDW2ZBcMOqA0RAYDYEBD4HlAgzg2tBaRoKu5cDRJy8g5cCoA0ZDYDCEwGUGBgYdumYBhGXnGZdxM4gzsTHs+/+fQYvOjjj//zeDJwBxf34P7r+YUwAAAABJRU5ErkJggg==);
   }
@@ -246,4 +256,24 @@ ul.styleNone {
 
     .otherLists>* {
         padding-right: 5px;
+    }
+
+    .trend.up_green:before {
+      background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAWklEQVQ4je2QsQmAQBAE57OvTSxEsBLBRgQLEIv5Sh7W6MRAzvvA7Gfi2WCh8yMiIw7EicitcUJs6HZHpJaB5RGbazSeXmJz/ooHRHUGKmL0BooTmyX+RSfEBfZTTsYuOdaFAAAAAElFTkSuQmCC');
+    }
+
+    .trend.down_red:before {
+      background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAbElEQVQ4je2PsQmAQBAE5wXBukztwdwqzG3CXDC1GGOrEGUNFPngvX/zX9jgOGa4gxznD4KCu1ZOBwpuBJtAka6fakEjOAx4F9TmfYLOELSR917JEID7JPgROMHkwWMy7EkqwSKYBeVvQU56LrRIUIg57GsHAAAAAElFTkSuQmCC');
+    }
+
+    .trend.down_yellow:before {
+      background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAXklEQVQ4jWNgGAXUBf//M9z//5/hPwF8D58Bvv//M/zBo/n3//8MnoRckY3HgDRivdKLRXMHKWHB+P8/wxokzSv+/2dgJNoAqCGc//8z7Pr/n2H7//8M7CRpHgWkAQC/i3qWitixtwAAAABJRU5ErkJggg==');
+    }
+
+    .trend.up_yellow:before {
+      background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAXElEQVQ4je2QsQmAQBAE97OvTSxEsBLBRgQLEIv5Sh7GxAMDOe8Dsx+YcDZYqfMfoAw6QCcot8YJtIG43UGpZWB5xOYajaeX2Jy/4gFUnYEKGr2B4sRmCX/RiXEBszN6mnAUyRcAAAAASUVORK5CYII=');
+    }
+
+    .trend.mid_gray:before {
+      background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNUlEQVQ4jcWSsUoDQRiEv721OQOBE2yutbRLFYyFhRZCwEJSCKbLXh5A8Q3sBBGL4LGVnZyNL2CjoCCki6CVXbDRTjCwuzYxHHHvNJVT7T//zLDDLvw3RNGi3W5XwjC8AB7TND0o0kkf2Wq1ZLVavQSaQKNWq436/f6tTxv4yCiKTpxzzck1hTjsdrs7f6qQJMkecOTRflprN7TWN4UBSqltIUTmCx7jTUq50uv1nn5USJJkXghxXmIGWDDGnOWJue9DHMej4XB46pyrlARgjHnKz5OAwWDgoihqAKtlAVLK4/w8qZBlmTHGbAHPRWbn3FUcx/t5zvcKS8AdsDi1egDW0jT9KA0A6HQ69SAIroFwTL1Ya+ta69dprfcjaa3vhRC7gAXegU2f+VcopdaVUsszG2fBF6oAXE7AthYcAAAAAElFTkSuQmCC');
     }

@@ -387,7 +387,28 @@ function displayNone(selector) {
                     href.classList.add(ud.LangId)
                 }
         
-                userDataDiv.querySelector('.followersCount').textContent = this.formatNumberSafe(ud.CurrentFollowersCount);
+                let followersCountEl = userDataDiv.querySelector('.followersCount');
+                if(ud.FollowersTrend){
+                    if(!ud.FollowersTrend.ErrorMessage) {
+                        let trendClassName = 'mid_gray';
+                        let wg = ud.FollowersTrend.WeeklyGrowth;
+
+                        if(wg > 2.5)
+                            trendClassName = 'up_yellow';
+                        if(wg > 10)
+                            trendClassName = 'up_green';
+                        if(wg < -2.5)
+                            trendClassName = 'down_yellow';
+                        if(wg < -10)
+                            trendClassName = 'down_red';
+
+                        followersCountEl.classList.add('trend', trendClassName)
+
+                        followersCountEl.title = 'Weekly followers growth trend: ' + wg.toFixed(2) + '%';
+                    }
+                }
+
+                followersCountEl.textContent = this.formatNumberSafe(ud.CurrentFollowersCount);
                 userDataDiv.querySelector('.tweetsCount').textContent = this.formatNumberSafe(ud.CurrentTweetsCout);
         
                 userDataDiv.querySelector('.userDataHolder').setAttribute('userid', ud.Login);

@@ -76,6 +76,36 @@ function showGraph(userid) {
                 time: false,
             },
         },
+        hooks: {
+            drawSeries: [
+                (u, si) => {
+                    let ctx = u.ctx;
+
+                    let s  = u.series[si];
+                    let xd = u.data[0];
+                    let yd = u.data[si];
+
+                    let [i0, i1] = s.idxs;
+
+                    let x0 = u.valToPos(xd[i0], 'x', true);
+                    let y0 = u.valToPos(yd[i0], 'y', true);
+                    let x1 = u.valToPos(xd[i1], 'x', true);
+                    let y1 = u.valToPos(yd[i1], 'y', true);
+
+                    const offset = (s.width % 2) / 2;
+
+                    ctx.translate(offset, offset);
+
+                    ctx.beginPath();
+                    ctx.setLineDash([5, 5]);
+                    ctx.moveTo(x0, y0);
+                    ctx.lineTo(x1, y1);
+                    ctx.stroke();
+
+                    ctx.translate(-offset, -offset);
+                }
+            ]
+        },
         series: [
             {
                 value: (self, rawValue) => new Date(rawValue * 1000).toISOString().slice(0, 10)
