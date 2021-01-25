@@ -25,11 +25,11 @@
     <link rel="manifest" href="../common/favicon/site.webmanifest">
 
     <script src="../external/uPlot.iife.min.js"></script>
-    <script src="../common/scripts.js?v=6.2"></script>
-    <script src="../common/graph.js?v=6.2"></script>
+    <script src="../common/scripts.js?v=6.3"></script>
+    <script src="../common/graph.js?v=6.3"></script>
 
     <link rel="stylesheet" href="../external/uPlot.min.css">
-    <link rel="stylesheet" href="../common/styles.css?v=6.2">
+    <link rel="stylesheet" href="../common/styles.css?v=6.3">
 
   </head>
     <body>
@@ -129,6 +129,15 @@ var listRender;
                 }
             }
 
+            let dataResponse = await fetch(`more/data_other.json?q=${ts}`);  
+            let usersData_other = await dataResponse.json();
+
+            for(let l of Object.values(usersData_other.LangData)){
+              usersData.Users = {
+                    ...usersData.Users,
+                    ...l.Users
+                }
+            }
 
           document.querySelector('.total .count').innerHTML = Object.keys(usersData.Users).length;
 

@@ -26,6 +26,26 @@ function displayNone(selector) {
         element.style.display = "none";
     }
 }
+function getLocationHashObject() {
+    let hash = location.hash;
+    if(hash[0] == '#')
+        hash = hash.substring(1);
+
+    return parseParams(hash);
+}
+
+function parseParams(str) {
+    var pieces = str.split("&"), data = {}, i, parts;
+    // process each query pair
+    for (i = 0; i < pieces.length; i++) {
+        parts = pieces[i].split("=");
+        if (parts.length < 2) {
+            parts.push("");
+        }
+        data[decodeURIComponent(parts[0])] = decodeURIComponent(parts[1]);
+    }
+    return data;
+}
 
   function changeLang(lang) {
     displayNone(".help>.en");
@@ -61,6 +81,60 @@ function displayNone(selector) {
     return object[Object.keys(object)
       .find(k => k.toLowerCase() === key.toLowerCase())
     ];
+  }
+
+  function createListLinks(languages, currentLanguageId, params) {
+    let holder = document.querySelector('.otherLists');
+    holder.textContent = '';
+
+    let index = 0;
+    languages.forEach((l, i) => {
+        if(l.Id == currentLanguageId)
+            return;
+
+        let a = document.createElement('a');
+
+        let href = '';
+
+        if(params.isCommon) {
+            if(l.Other) {
+                href = `more/#lang=${l.Id}`;
+            }
+            else {
+                href = `${l.Id}/`;
+            }
+        }
+        else {
+            if(l.Other) {
+                href = `../more/#lang=${l.Id}`;
+            }
+            else {
+                href = `../${l.Id}/`;
+            }
+        }
+
+        a.setAttribute('href', href);
+
+        a.classList.add('flag', l.Id);
+        a.innerText = `${l.Adjective} list`;
+        
+        holder.appendChild(a);
+
+        if(index++ % 2 != 0) {
+
+            holder.appendChild(document.createElement('br'));
+        }
+
+    });
+
+
+    if(!params.isCommon) {
+        holder.appendChild(document.createElement('br'));
+        let a = document.createElement('a');
+        a.setAttribute('href', '../');
+        a.innerText = 'Common list';
+        holder.appendChild(a);
+    }
   }
 
   function createCommonOverlay({containerStyles, containerClassNames = [], checkCanClose = (event) => true}) {
@@ -108,12 +182,20 @@ function displayNone(selector) {
     return container;
   }
 
+  function bodyClickHandler(evt) {
+    if (evt.target.className.startsWith('followersCount') || evt.target.className.startsWith('tweetsCount')) {
+      let userId = evt.target.closest('.userDataHolder').getAttribute('userid');
+      showGraph(userId);
+    }
+  }
+
   class ListRenderer {
-    constructor(usersData, params = { isCommon: false, renderFlag: false, rootFolderPath: '../../' }) {
+    constructor(usersData, params = {}) {
         this.users = [];
-        this.params = params;
+        this.params = Object.assign({ isOther: false, isCommon: false, renderFlag: false, rootFolderPath: '../../' }, params);
         this.languages = Object.values(usersData.Languages);
         this.currentLanguage = usersData.Lang;
+        this.updateDate = usersData.LastTimeUpdate;
 
         if(this.params.isCommon){
             this.currentLanguage = {};
@@ -132,20 +214,24 @@ function displayNone(selector) {
         this.currentSort = {...this.defaultSort};
         this.formatter = new Intl.NumberFormat();
 
-        document.querySelector('body').addEventListener('click', function(evt) {
-            if (evt.target.className.startsWith('followersCount') || evt.target.className.startsWith('tweetsCount')) {
-              let userId = evt.target.closest('.userDataHolder').getAttribute('userid');
-              showGraph(userId);
-            }
-        }, true);
+        let body = document.querySelector('body');
 
-        this.createOtherListsLinks();
+        body.removeEventListener('click', bodyClickHandler);
+        body.addEventListener('click', bodyClickHandler, true);
+
+        if(!this.params.isOther)
+            this.createOtherListsLinks();
+
         this.createHelp();
 
         this.sort();
     }
     async start() {
-        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.2');
+        let created = document.querySelector('.created');
+        if(created)
+            created.remove();
+
+        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.3');
         let footerHtml = await footerResponse.text();
 
         document.body.insertAdjacentHTML('beforeend', footerHtml)
@@ -153,41 +239,7 @@ function displayNone(selector) {
         this.createContributorsLink();
     }
     createOtherListsLinks() {
-        let holder = document.querySelector('.otherLists');
-        holder.textContent = '';
-
-        let index = 0;
-        this.languages.forEach((l, i) => {
-            if(l.Id == this.currentLanguage.Id)
-                return;
-
-            let a = document.createElement('a');
-            if(this.params.isCommon) {
-                a.setAttribute('href', `${l.Id}/`);
-            }
-            else {
-                a.setAttribute('href', `../${l.Id}/`);
-            }
-
-            a.classList.add('flag', l.Id);
-            a.innerText = `${l.Adjective} list`;
-            
-            holder.appendChild(a);
-
-            if(index++ % 2 != 0) {
-
-                holder.appendChild(document.createElement('br'));
-            }
-
-        });
-
-        if(!this.params.isCommon) {
-            holder.appendChild(document.createElement('br'));
-            let a = document.createElement('a');
-            a.setAttribute('href', '../');
-            a.innerText = 'Common list';
-            holder.appendChild(a);
-        }
+        createListLinks(this.languages, this.currentLanguage.Id, this.params)
     }
     getRowTemplate() {
         let t = document.createElement('template');
@@ -261,7 +313,13 @@ function displayNone(selector) {
             co.appendChild(ul);
         }
 
-        document.querySelector('.created').appendChild(link);
+        let created = document.querySelector('.created')
+        let updateDate = document.createElement('div');
+        updateDate.innerText = 'Data updated at: ' + this.updateDate;
+        updateDate.classList.add('updatedAt');
+
+        created.appendChild(updateDate);
+        created.appendChild(link);
     }
     
     createHelp() {

@@ -1,52 +1,162 @@
 {
   "Languages": {
+    "arabic": {
+      "Id": "arabic",
+      "Suffix": "",
+      "Adjective": "Arabic",
+      "Other": true
+    },
+    "be": {
+      "Id": "be",
+      "Suffix": "",
+      "Adjective": "Belgian",
+      "Other": true
+    },
+    "bg": {
+      "Id": "bg",
+      "Suffix": "",
+      "Adjective": "Bulgarian",
+      "Other": true
+    },
     "br": {
       "Id": "br",
       "Suffix": "_br",
-      "Adjective": "Brazilian Portuguese"
+      "Adjective": "Brazilian Portuguese",
+      "Other": false
+    },
+    "cn": {
+      "Id": "cn",
+      "Suffix": "",
+      "Adjective": "Chinese",
+      "Other": true
     },
     "de": {
       "Id": "de",
       "Suffix": "_de",
-      "Adjective": "German"
+      "Adjective": "German",
+      "Other": false
     },
     "en": {
       "Id": "en",
       "Suffix": "_en",
-      "Adjective": "English"
+      "Adjective": "English",
+      "Other": false
     },
     "es": {
       "Id": "es",
       "Suffix": "_es",
-      "Adjective": "Spanish"
+      "Adjective": "Spanish",
+      "Other": false
+    },
+    "fi": {
+      "Id": "fi",
+      "Suffix": "",
+      "Adjective": "Finnish",
+      "Other": true
     },
     "fr": {
       "Id": "fr",
       "Suffix": "_fr",
-      "Adjective": "French"
+      "Adjective": "French",
+      "Other": false
+    },
+    "ge": {
+      "Id": "ge",
+      "Suffix": "",
+      "Adjective": "Georgian",
+      "Other": true
+    },
+    "gr": {
+      "Id": "gr",
+      "Suffix": "",
+      "Adjective": "Greek",
+      "Other": true
+    },
+    "it": {
+      "Id": "it",
+      "Suffix": "",
+      "Adjective": "Italian",
+      "Other": true
     },
     "jp": {
       "Id": "jp",
       "Suffix": "_jp",
-      "Adjective": "Japanese"
+      "Adjective": "Japanese",
+      "Other": false
+    },
+    "kr": {
+      "Id": "kr",
+      "Suffix": "",
+      "Adjective": "Korean",
+      "Other": true
+    },
+    "nl": {
+      "Id": "nl",
+      "Suffix": "",
+      "Adjective": "Dutch",
+      "Other": true
+    },
+    "no": {
+      "Id": "no",
+      "Suffix": "",
+      "Adjective": "Norvegian",
+      "Other": true
+    },
+    "ph": {
+      "Id": "ph",
+      "Suffix": "",
+      "Adjective": "Philippine",
+      "Other": true
+    },
+    "pl": {
+      "Id": "pl",
+      "Suffix": "",
+      "Adjective": "Polish",
+      "Other": true
+    },
+    "pt": {
+      "Id": "pt",
+      "Suffix": "",
+      "Adjective": "Portuguese",
+      "Other": true
+    },
+    "ro": {
+      "Id": "ro",
+      "Suffix": "",
+      "Adjective": "Romanian",
+      "Other": true
     },
     "ru": {
       "Id": "ru",
       "Suffix": "",
-      "Adjective": "Russian"
+      "Adjective": "Russian",
+      "Other": false
+    },
+    "se": {
+      "Id": "se",
+      "Suffix": "",
+      "Adjective": "Swedish",
+      "Other": true
+    },
+    "sk": {
+      "Id": "sk",
+      "Suffix": "",
+      "Adjective": "Slovakian",
+      "Other": true
     }
   },
   "Lang": {
     "Id": "jp",
     "Suffix": "_jp",
-    "Adjective": null
+    "Adjective": "Japanese",
+    "Other": false
   },
   "Users": {
     "YuukiMokuya": {
       "PublicName": "Mokuya🍄",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1342733590048563206/gaHYxOZ6_normal.jpg",
       "Login": "YuukiMokuya",
-      "CurrentFollowersCount": 7257,
+      "CurrentFollowersCount": 7265,
       "CurrentTweetsCout": 4920,
       "FollowersCountHistory": {
         "20201225": 6363,
@@ -79,7 +189,8 @@
         "20210121": 7233,
         "20210122": 7245,
         "20210123": 7256,
-        "20210124": 7257
+        "20210124": 7257,
+        "20210125": 7265
       },
       "TweetsCountHistory": {
         "20201225": 4692,
@@ -112,20 +223,21 @@
         "20210121": 4917,
         "20210122": 4918,
         "20210123": 4920,
-        "20210124": 4920
+        "20210124": 4920,
+        "20210125": 4920
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.3288805052732168364679650211,
+        "WeeklyGrowth": 0.915939730372720063441713471,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 7175.75000000000000000000
+            "X": 20210119.0,
+            "Y": 7205.71428571428571428571
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 7271.10714285714285714285
+            "X": 20210125.0,
+            "Y": 7271.71428571428571428571
           }
         }
       }
@@ -134,7 +246,7 @@
       "PublicName": "銀親🍙ginoya",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1142368734142537728/-OxNlDDi_normal.png",
       "Login": "ginoyahutaushi",
-      "CurrentFollowersCount": 6935,
+      "CurrentFollowersCount": 6937,
       "CurrentTweetsCout": 62110,
       "FollowersCountHistory": {
         "20201225": 6916,
@@ -167,7 +279,8 @@
         "20210121": 6940,
         "20210122": 6941,
         "20210123": 6939,
-        "20210124": 6935
+        "20210124": 6935,
+        "20210125": 6937
       },
       "TweetsCountHistory": {
         "20201225": 61948,
@@ -200,20 +313,21 @@
         "20210121": 62110,
         "20210122": 62110,
         "20210123": 62110,
-        "20210124": 62110
+        "20210124": 62110,
+        "20210125": 62110
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0339630214738922137200294318,
+        "WeeklyGrowth": -0.0679159077578489179761018341,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 6940.321428571428571428572
+            "X": 20210119.0,
+            "Y": 6941.357142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 6937.964285714285714285715
+            "X": 20210125.0,
+            "Y": 6936.642857142857142857143
           }
         }
       }
@@ -222,8 +336,8 @@
       "PublicName": "ゆずたろ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1333679443563270144/7YADkuEw_normal.jpg",
       "Login": "yuzutarou0011",
-      "CurrentFollowersCount": 1956,
-      "CurrentTweetsCout": 5754,
+      "CurrentFollowersCount": 1958,
+      "CurrentTweetsCout": 5758,
       "FollowersCountHistory": {
         "20201225": 1760,
         "20201226": 1760,
@@ -255,7 +369,8 @@
         "20210121": 1948,
         "20210122": 1948,
         "20210123": 1949,
-        "20210124": 1956
+        "20210124": 1956,
+        "20210125": 1958
       },
       "TweetsCountHistory": {
         "20201225": 5494,
@@ -288,20 +403,21 @@
         "20210121": 5736,
         "20210122": 5743,
         "20210123": 5754,
-        "20210124": 5754
+        "20210124": 5754,
+        "20210125": 5758
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.9281853138409525755576762513,
+        "WeeklyGrowth": 1.094991428097406308182926164,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1922.60714285714285714285
+            "X": 20210119.0,
+            "Y": 1937.392857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1959.67857142857142857142
+            "X": 20210125.0,
+            "Y": 1958.607142857142857142857
           }
         }
       }
@@ -310,8 +426,8 @@
       "PublicName": "あうたろ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1331521063226732547/26ECBkvt_normal.jpg",
       "Login": "outer_law",
-      "CurrentFollowersCount": 1422,
-      "CurrentTweetsCout": 2112,
+      "CurrentFollowersCount": 1419,
+      "CurrentTweetsCout": 2113,
       "FollowersCountHistory": {
         "20201225": 1354,
         "20201226": 1356,
@@ -343,7 +459,8 @@
         "20210121": 1423,
         "20210122": 1424,
         "20210123": 1421,
-        "20210124": 1422
+        "20210124": 1422,
+        "20210125": 1419
       },
       "TweetsCountHistory": {
         "20201225": 1998,
@@ -376,20 +493,21 @@
         "20210121": 2103,
         "20210122": 2108,
         "20210123": 2109,
-        "20210124": 2112
+        "20210124": 2112,
+        "20210125": 2113
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.4384528159254126244173363484,
+        "WeeklyGrowth": 0.1660502679447505472111002924,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1417.321428571428571428572
+            "X": 20210119.0,
+            "Y": 1419.535714285714285714285
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1423.535714285714285714287
+            "X": 20210125.0,
+            "Y": 1421.892857142857142857142
           }
         }
       }
@@ -398,7 +516,7 @@
       "PublicName": "かめふぃ[kameffee]",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1303183443774251008/L2XfnKHl_normal.png",
       "Login": "kameffee",
-      "CurrentFollowersCount": 1183,
+      "CurrentFollowersCount": 1182,
       "CurrentTweetsCout": 703,
       "FollowersCountHistory": {
         "20201225": 1087,
@@ -431,7 +549,8 @@
         "20210121": 1172,
         "20210122": 1178,
         "20210123": 1182,
-        "20210124": 1183
+        "20210124": 1183,
+        "20210125": 1182
       },
       "TweetsCountHistory": {
         "20201225": 649,
@@ -464,20 +583,21 @@
         "20210121": 699,
         "20210122": 701,
         "20210123": 703,
-        "20210124": 703
+        "20210124": 703,
+        "20210125": 703
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 2.0495460840129250653950378229,
+        "WeeklyGrowth": 1.8774157923799006073992151365,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1160.53571428571428571429
+            "X": 20210119.0,
+            "Y": 1164.214285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1184.32142857142857142858
+            "X": 20210125.0,
+            "Y": 1186.071428571428571428571
           }
         }
       }
@@ -486,8 +606,8 @@
       "PublicName": "御絵描ダビコ🎨虹姫🌈NFT絵師",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1317882103736930304/L3W8O9F__normal.jpg",
       "Login": "yuupoji",
-      "CurrentFollowersCount": 3031,
-      "CurrentTweetsCout": 2894,
+      "CurrentFollowersCount": 3027,
+      "CurrentTweetsCout": 2900,
       "FollowersCountHistory": {
         "20201225": 2950,
         "20201226": 2948,
@@ -519,7 +639,8 @@
         "20210121": 3030,
         "20210122": 3029,
         "20210123": 3031,
-        "20210124": 3031
+        "20210124": 3031,
+        "20210125": 3027
       },
       "TweetsCountHistory": {
         "20201225": 2564,
@@ -552,20 +673,21 @@
         "20210121": 2884,
         "20210122": 2887,
         "20210123": 2892,
-        "20210124": 2894
+        "20210124": 2894,
+        "20210125": 2900
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0777229530011658442950127772,
+        "WeeklyGrowth": -0.2471140607900589543545027479,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 3032.750000000000000000000
+            "X": 20210119.0,
+            "Y": 3035.035714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 3030.392857142857142857143
+            "X": 20210125.0,
+            "Y": 3027.535714285714285714286
           }
         }
       }
@@ -575,7 +697,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1318569921584877568/exEtgj0n_normal.png",
       "Login": "NeoOhima",
       "CurrentFollowersCount": 852,
-      "CurrentTweetsCout": 2491,
+      "CurrentTweetsCout": 2509,
       "FollowersCountHistory": {
         "20201225": 832,
         "20201226": 832,
@@ -607,7 +729,8 @@
         "20210121": 849,
         "20210122": 851,
         "20210123": 851,
-        "20210124": 852
+        "20210124": 852,
+        "20210125": 852
       },
       "TweetsCountHistory": {
         "20201225": 2211,
@@ -640,20 +763,21 @@
         "20210121": 2460,
         "20210122": 2470,
         "20210123": 2485,
-        "20210124": 2491
+        "20210124": 2491,
+        "20210125": 2509
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.581910183428209993674821352,
+        "WeeklyGrowth": 0.5307274335537677435659828094,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 846.964285714285714285715
+            "X": 20210119.0,
+            "Y": 847.892857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 851.892857142857142857143
+            "X": 20210125.0,
+            "Y": 852.392857142857142857143
           }
         }
       }
@@ -662,7 +786,7 @@
       "PublicName": "Daiki_Shibata_Gamedev",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1327991998079385601/eaJKdua9_normal.jpg",
       "Login": "daiki_shibata1",
-      "CurrentFollowersCount": 680,
+      "CurrentFollowersCount": 681,
       "CurrentTweetsCout": 102,
       "FollowersCountHistory": {
         "20201225": 596,
@@ -695,7 +819,8 @@
         "20210121": 672,
         "20210122": 674,
         "20210123": 680,
-        "20210124": 680
+        "20210124": 680,
+        "20210125": 681
       },
       "TweetsCountHistory": {
         "20201225": 100,
@@ -728,20 +853,21 @@
         "20210121": 102,
         "20210122": 102,
         "20210123": 102,
-        "20210124": 102
+        "20210124": 102,
+        "20210125": 102
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 2.2874939590828545347152450813,
+        "WeeklyGrowth": 2.3456327317517270925936052384,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 665.107142857142857142857
+            "X": 20210119.0,
+            "Y": 666.892857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 680.321428571428571428572
+            "X": 20210125.0,
+            "Y": 682.535714285714285714286
           }
         }
       }
@@ -750,8 +876,8 @@
       "PublicName": "夢",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1129851579446616065/Lr1gHDnd_normal.jpg",
       "Login": "No_MansDream",
-      "CurrentFollowersCount": 6084,
-      "CurrentTweetsCout": 3001,
+      "CurrentFollowersCount": 6091,
+      "CurrentTweetsCout": 3004,
       "FollowersCountHistory": {
         "20201225": 6060,
         "20201226": 6062,
@@ -783,7 +909,8 @@
         "20210121": 6081,
         "20210122": 6079,
         "20210123": 6083,
-        "20210124": 6084
+        "20210124": 6084,
+        "20210125": 6091
       },
       "TweetsCountHistory": {
         "20201225": 2985,
@@ -816,20 +943,21 @@
         "20210121": 2996,
         "20210122": 3001,
         "20210123": 3001,
-        "20210124": 3001
+        "20210124": 3001,
+        "20210125": 3004
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.3037545474881382671862580286,
+        "WeeklyGrowth": 0.346024833755075619372682845,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 6066.928571428571428571429
+            "X": 20210119.0,
+            "Y": 6068.928571428571428571429
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 6085.357142857142857142857
+            "X": 20210125.0,
+            "Y": 6089.928571428571428571429
           }
         }
       }
@@ -838,7 +966,7 @@
       "PublicName": "伊吹",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1312276256180715521/idnMFvCy_normal.jpg",
       "Login": "bdm_bh47",
-      "CurrentFollowersCount": 164,
+      "CurrentFollowersCount": 163,
       "CurrentTweetsCout": 4586,
       "FollowersCountHistory": {
         "20201225": 162,
@@ -871,7 +999,8 @@
         "20210121": 164,
         "20210122": 164,
         "20210123": 164,
-        "20210124": 164
+        "20210124": 164,
+        "20210125": 163
       },
       "TweetsCountHistory": {
         "20201225": 4570,
@@ -904,20 +1033,21 @@
         "20210121": 4586,
         "20210122": 4586,
         "20210123": 4589,
-        "20210124": 4586
+        "20210124": 4586,
+        "20210125": 4586
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0,
+        "WeeklyGrowth": -0.3915597128562105721122124827,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 164.0
+            "X": 20210119.0,
+            "Y": 164.1785714285714285714285
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 164.0
+            "X": 20210125.0,
+            "Y": 163.5357142857142857142857
           }
         }
       }
@@ -959,7 +1089,8 @@
         "20210121": 256,
         "20210122": 256,
         "20210123": 256,
-        "20210124": 256
+        "20210124": 256,
+        "20210125": 256
       },
       "TweetsCountHistory": {
         "20201225": 407,
@@ -992,20 +1123,21 @@
         "20210121": 475,
         "20210122": 467,
         "20210123": 467,
-        "20210124": 467
+        "20210124": 467,
+        "20210125": 467
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.4198740377886634009797340328,
+        "WeeklyGrowth": 0.2515723270440251572326820546,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 255.1785714285714285714286
+            "X": 20210119.0,
+            "Y": 255.5357142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 256.2500000000000000000001
+            "X": 20210125.0,
+            "Y": 256.1785714285714285714285
           }
         }
       }
@@ -1015,7 +1147,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1232791828526551040/n9EeQxon_normal.jpg",
       "Login": "Cobby_Channel",
       "CurrentFollowersCount": 775,
-      "CurrentTweetsCout": 3950,
+      "CurrentTweetsCout": 3954,
       "FollowersCountHistory": {
         "20201225": 771,
         "20201226": 771,
@@ -1047,7 +1179,8 @@
         "20210121": 777,
         "20210122": 777,
         "20210123": 776,
-        "20210124": 775
+        "20210124": 775,
+        "20210125": 775
       },
       "TweetsCountHistory": {
         "20201225": 3805,
@@ -1080,20 +1213,21 @@
         "20210121": 3940,
         "20210122": 3947,
         "20210123": 3948,
-        "20210124": 3950
+        "20210124": 3950,
+        "20210125": 3954
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.3579459409848102427606810151,
+        "WeeklyGrowth": -0.3856395188687907446515469366,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 778.250000000000000000000
+            "X": 20210119.0,
+            "Y": 777.928571428571428571429
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 775.464285714285714285715
+            "X": 20210125.0,
+            "Y": 774.928571428571428571429
           }
         }
       }
@@ -1102,7 +1236,7 @@
       "PublicName": "作業着",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1322724586505449472/IEZtd4lQ_normal.jpg",
       "Login": "sagyougi123",
-      "CurrentFollowersCount": 1523,
+      "CurrentFollowersCount": 1524,
       "CurrentTweetsCout": 1403,
       "FollowersCountHistory": {
         "20201225": 1457,
@@ -1135,7 +1269,8 @@
         "20210121": 1520,
         "20210122": 1523,
         "20210123": 1520,
-        "20210124": 1523
+        "20210124": 1523,
+        "20210125": 1524
       },
       "TweetsCountHistory": {
         "20201225": 1340,
@@ -1168,20 +1303,21 @@
         "20210121": 1403,
         "20210122": 1403,
         "20210123": 1403,
-        "20210124": 1403
+        "20210124": 1403,
+        "20210125": 1403
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.3247746581629050857828339508,
+        "WeeklyGrowth": 0.4377809682961847153246969249,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1517.535714285714285714286
+            "X": 20210119.0,
+            "Y": 1517.392857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1522.464285714285714285714
+            "X": 20210125.0,
+            "Y": 1524.035714285714285714286
           }
         }
       }
@@ -1190,8 +1326,8 @@
       "PublicName": "Netroco🐣",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1251647327015596032/PyW0K3fh_normal.png",
       "Login": "netroco",
-      "CurrentFollowersCount": 940,
-      "CurrentTweetsCout": 1448,
+      "CurrentFollowersCount": 941,
+      "CurrentTweetsCout": 1449,
       "FollowersCountHistory": {
         "20201225": 889,
         "20201226": 889,
@@ -1223,7 +1359,8 @@
         "20210121": 929,
         "20210122": 934,
         "20210123": 938,
-        "20210124": 940
+        "20210124": 940,
+        "20210125": 941
       },
       "TweetsCountHistory": {
         "20201225": 1431,
@@ -1256,20 +1393,21 @@
         "20210121": 1445,
         "20210122": 1446,
         "20210123": 1447,
-        "20210124": 1448
+        "20210124": 1448,
+        "20210125": 1449
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.6461223385756791220681633757,
+        "WeeklyGrowth": 1.6420614423929383648768140486,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 924.250000000000000000000
+            "X": 20210119.0,
+            "Y": 926.535714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 939.464285714285714285715
+            "X": 20210125.0,
+            "Y": 941.750000000000000000000
           }
         }
       }
@@ -1279,7 +1417,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1322965096889348096/YIkyn8yH_normal.jpg",
       "Login": "medium_videos",
       "CurrentFollowersCount": 3013,
-      "CurrentTweetsCout": 7350,
+      "CurrentTweetsCout": 7359,
       "FollowersCountHistory": {
         "20201225": 2859,
         "20201226": 2858,
@@ -1311,7 +1449,8 @@
         "20210121": 3011,
         "20210122": 3012,
         "20210123": 3014,
-        "20210124": 3013
+        "20210124": 3013,
+        "20210125": 3013
       },
       "TweetsCountHistory": {
         "20201225": 7237,
@@ -1344,20 +1483,21 @@
         "20210121": 7324,
         "20210122": 7337,
         "20210123": 7348,
-        "20210124": 7350
+        "20210124": 7350,
+        "20210125": 7359
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.5428312937479167658682681519,
+        "WeeklyGrowth": 0.2351292617178686363690199608,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 3000.142857142857142857143
+            "X": 20210119.0,
+            "Y": 3007.464285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 3016.428571428571428571428
+            "X": 20210125.0,
+            "Y": 3014.535714285714285714285
           }
         }
       }
@@ -1367,7 +1507,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1237387648919977988/3cRdJ20H_normal.jpg",
       "Login": "FujiyamaTrooper",
       "CurrentFollowersCount": 290,
-      "CurrentTweetsCout": 1448,
+      "CurrentTweetsCout": 1455,
       "FollowersCountHistory": {
         "20201225": 282,
         "20201226": 283,
@@ -1399,7 +1539,8 @@
         "20210121": 291,
         "20210122": 290,
         "20210123": 291,
-        "20210124": 290
+        "20210124": 290,
+        "20210125": 290
       },
       "TweetsCountHistory": {
         "20201225": 1347,
@@ -1432,20 +1573,21 @@
         "20210121": 1440,
         "20210122": 1445,
         "20210123": 1448,
-        "20210124": 1448
+        "20210124": 1448,
+        "20210125": 1455
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.2209944751381215469613406673,
+        "WeeklyGrowth": -0.2211030585923105269622699914,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 290.8928571428571428571429
+            "X": 20210119.0,
+            "Y": 290.7500000000000000000000
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 290.2500000000000000000000
+            "X": 20210125.0,
+            "Y": 290.1071428571428571428572
           }
         }
       }
@@ -1454,7 +1596,7 @@
       "PublicName": "くつわ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/990510934819946496/ZMhMzKJO_normal.jpg",
       "Login": "ktwfc",
-      "CurrentFollowersCount": 70930,
+      "CurrentFollowersCount": 70923,
       "CurrentTweetsCout": 13528,
       "FollowersCountHistory": {
         "20201225": 70117,
@@ -1487,7 +1629,8 @@
         "20210121": 70942,
         "20210122": 70938,
         "20210123": 70926,
-        "20210124": 70930
+        "20210124": 70930,
+        "20210125": 70923
       },
       "TweetsCountHistory": {
         "20201225": 13294,
@@ -1520,20 +1663,21 @@
         "20210121": 13527,
         "20210122": 13527,
         "20210123": 13528,
-        "20210124": 13528
+        "20210124": 13528,
+        "20210125": 13528
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0661945060575025729713847243,
+        "WeeklyGrowth": 0.0335427995545757969058953213,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 70894.96428571428571428572
+            "X": 20210119.0,
+            "Y": 70911.53571428571428571429
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 70941.89285714285714285715
+            "X": 20210125.0,
+            "Y": 70935.32142857142857142857
           }
         }
       }
@@ -1542,7 +1686,7 @@
       "PublicName": "toshihiro",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1308230000584212480/2V_vAdEA_normal.jpg",
       "Login": "toshihiro_app",
-      "CurrentFollowersCount": 2696,
+      "CurrentFollowersCount": 2695,
       "CurrentTweetsCout": 1213,
       "FollowersCountHistory": {
         "20201225": 2713,
@@ -1575,7 +1719,8 @@
         "20210121": 2698,
         "20210122": 2698,
         "20210123": 2698,
-        "20210124": 2696
+        "20210124": 2696,
+        "20210125": 2695
       },
       "TweetsCountHistory": {
         "20201225": 1215,
@@ -1608,20 +1753,21 @@
         "20210121": 1213,
         "20210122": 1213,
         "20210123": 1213,
-        "20210124": 1213
+        "20210124": 1213,
+        "20210125": 1213
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.13491528113963731597952992,
+        "WeeklyGrowth": -0.1270244522070498570975071384,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2700.107142857142857142857
+            "X": 20210119.0,
+            "Y": 2699.142857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2696.464285714285714285714
+            "X": 20210125.0,
+            "Y": 2695.714285714285714285714
           }
         }
       }
@@ -1630,8 +1776,8 @@
       "PublicName": "フラッグさん (Commission Open)",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1123245655990759424/JXectWJP_normal.png",
       "Login": "pixelflag",
-      "CurrentFollowersCount": 13791,
-      "CurrentTweetsCout": 6161,
+      "CurrentFollowersCount": 13796,
+      "CurrentTweetsCout": 6167,
       "FollowersCountHistory": {
         "20201225": 13299,
         "20201226": 13303,
@@ -1663,7 +1809,8 @@
         "20210121": 13706,
         "20210122": 13758,
         "20210123": 13784,
-        "20210124": 13791
+        "20210124": 13791,
+        "20210125": 13796
       },
       "TweetsCountHistory": {
         "20201225": 5979,
@@ -1696,20 +1843,21 @@
         "20210121": 6132,
         "20210122": 6138,
         "20210123": 6154,
-        "20210124": 6161
+        "20210124": 6161,
+        "20210125": 6167
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.8588444258698150663462645787,
+        "WeeklyGrowth": 0.8940524375063609247414736579,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 13672.85714285714285714286
+            "X": 20210119.0,
+            "Y": 13685.67857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 13790.28571428571428571429
+            "X": 20210125.0,
+            "Y": 13808.03571428571428571429
           }
         }
       }
@@ -1718,8 +1866,8 @@
       "PublicName": "カヨ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1338325680572882946/YhCJmg46_normal.jpg",
       "Login": "_____88kayo88",
-      "CurrentFollowersCount": 2922,
-      "CurrentTweetsCout": 17638,
+      "CurrentFollowersCount": 2921,
+      "CurrentTweetsCout": 17669,
       "FollowersCountHistory": {
         "20201225": 2812,
         "20201226": 2818,
@@ -1751,7 +1899,8 @@
         "20210121": 2919,
         "20210122": 2922,
         "20210123": 2921,
-        "20210124": 2922
+        "20210124": 2922,
+        "20210125": 2921
       },
       "TweetsCountHistory": {
         "20201225": 17137,
@@ -1784,20 +1933,21 @@
         "20210121": 17635,
         "20210122": 17638,
         "20210123": 17638,
-        "20210124": 17638
+        "20210124": 17638,
+        "20210125": 17669
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.2498958767180341524364602984,
+        "WeeklyGrowth": 0.1689292578129781738502552135,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2915.500000000000000000000
+            "X": 20210119.0,
+            "Y": 2917.535714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2922.785714285714285714285
+            "X": 20210125.0,
+            "Y": 2922.464285714285714285715
           }
         }
       }
@@ -1806,8 +1956,8 @@
       "PublicName": "あん。",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1074235832742031361/criVXgo0_normal.jpg",
       "Login": "annaan801",
-      "CurrentFollowersCount": 2193,
-      "CurrentTweetsCout": 1464,
+      "CurrentFollowersCount": 2209,
+      "CurrentTweetsCout": 1466,
       "FollowersCountHistory": {
         "20201225": 1771,
         "20201226": 1781,
@@ -1839,7 +1989,8 @@
         "20210121": 2132,
         "20210122": 2138,
         "20210123": 2180,
-        "20210124": 2193
+        "20210124": 2193,
+        "20210125": 2209
       },
       "TweetsCountHistory": {
         "20201225": 1341,
@@ -1872,20 +2023,21 @@
         "20210121": 1457,
         "20210122": 1459,
         "20210123": 1461,
-        "20210124": 1464
+        "20210124": 1464,
+        "20210125": 1466
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 4.9012724127892041854334695623,
+        "WeeklyGrowth": 5.3126277073968124233756264047,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2085.46428571428571428571
+            "X": 20210119.0,
+            "Y": 2097.42857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2187.67857142857142857143
+            "X": 20210125.0,
+            "Y": 2208.85714285714285714286
           }
         }
       }
@@ -1894,8 +2046,8 @@
       "PublicName": "ダイセン",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1276845770306539522/qX-C-eKT_normal.jpg",
       "Login": "specialdaisen",
-      "CurrentFollowersCount": 25052,
-      "CurrentTweetsCout": 9109,
+      "CurrentFollowersCount": 25106,
+      "CurrentTweetsCout": 9115,
       "FollowersCountHistory": {
         "20201225": 24382,
         "20201226": 24377,
@@ -1927,7 +2079,8 @@
         "20210121": 24883,
         "20210122": 24961,
         "20210123": 25018,
-        "20210124": 25052
+        "20210124": 25052,
+        "20210125": 25106
       },
       "TweetsCountHistory": {
         "20201225": 8867,
@@ -1960,20 +2113,21 @@
         "20210121": 9084,
         "20210122": 9091,
         "20210123": 9099,
-        "20210124": 9109
+        "20210124": 9109,
+        "20210125": 9115
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.1778026178199257202608904691,
+        "WeeklyGrowth": 1.2642822267383160475121250562,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 24761.6071428571428571428
+            "X": 20210119.0,
+            "Y": 24796.6785714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 25053.2499999999999999999
+            "X": 20210125.0,
+            "Y": 25110.1785714285714285714
           }
         }
       }
@@ -1982,8 +2136,8 @@
       "PublicName": "カニ🦀",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1242436852973330433/cfZ42wzq_normal.jpg",
       "Login": "kani9620",
-      "CurrentFollowersCount": 334,
-      "CurrentTweetsCout": 1147,
+      "CurrentFollowersCount": 335,
+      "CurrentTweetsCout": 1150,
       "FollowersCountHistory": {
         "20201225": 313,
         "20201226": 314,
@@ -2015,7 +2169,8 @@
         "20210121": 331,
         "20210122": 332,
         "20210123": 334,
-        "20210124": 334
+        "20210124": 334,
+        "20210125": 335
       },
       "TweetsCountHistory": {
         "20201225": 995,
@@ -2048,20 +2203,21 @@
         "20210121": 1120,
         "20210122": 1133,
         "20210123": 1145,
-        "20210124": 1147
+        "20210124": 1147,
+        "20210125": 1150
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 2.2265880812049770792401241882,
+        "WeeklyGrowth": 2.0210800825817668151690074701,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 327.214285714285714285714
+            "X": 20210119.0,
+            "Y": 328.678571428571428571429
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 334.499999999999999999999
+            "X": 20210125.0,
+            "Y": 335.321428571428571428572
           }
         }
       }
@@ -2070,8 +2226,8 @@
       "PublicName": "TSURUGI SOFT",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1148204946069737473/8MWYUy9G_normal.png",
       "Login": "TSURUGISOFT",
-      "CurrentFollowersCount": 3295,
-      "CurrentTweetsCout": 525,
+      "CurrentFollowersCount": 3296,
+      "CurrentTweetsCout": 527,
       "FollowersCountHistory": {
         "20201225": 3205,
         "20201226": 3220,
@@ -2103,7 +2259,8 @@
         "20210121": 3299,
         "20210122": 3299,
         "20210123": 3297,
-        "20210124": 3295
+        "20210124": 3295,
+        "20210125": 3296
       },
       "TweetsCountHistory": {
         "20201225": 507,
@@ -2136,20 +2293,21 @@
         "20210121": 518,
         "20210122": 521,
         "20210123": 523,
-        "20210124": 525
+        "20210124": 525,
+        "20210125": 527
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0389821331889550622631289657,
+        "WeeklyGrowth": -0.0844457436097307479944222357,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 3298.2142857142857142857143
+            "X": 20210119.0,
+            "Y": 3298.821428571428571428572
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 3296.9285714285714285714286
+            "X": 20210125.0,
+            "Y": 3296.035714285714285714286
           }
         }
       }
@@ -2158,7 +2316,7 @@
       "PublicName": "pocketsgame",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1313861881245835264/8LrL0dtc_normal.jpg",
       "Login": "pocketsgame",
-      "CurrentFollowersCount": 368,
+      "CurrentFollowersCount": 369,
       "CurrentTweetsCout": 12,
       "FollowersCountHistory": {
         "20201225": 223,
@@ -2191,7 +2349,8 @@
         "20210121": 358,
         "20210122": 360,
         "20210123": 366,
-        "20210124": 368
+        "20210124": 368,
+        "20210125": 369
       },
       "TweetsCountHistory": {
         "20201225": 16,
@@ -2224,20 +2383,21 @@
         "20210121": 12,
         "20210122": 12,
         "20210123": 12,
-        "20210124": 12
+        "20210124": 12,
+        "20210125": 12
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 4.3866774979691307879770828865,
+        "WeeklyGrowth": 4.5440775522568918509541424523,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 351.714285714285714285715
+            "X": 20210119.0,
+            "Y": 353.678571428571428571428
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 367.142857142857142857143
+            "X": 20210125.0,
+            "Y": 369.749999999999999999999
           }
         }
       }
@@ -2247,7 +2407,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1340007435268812805/C25YuAdp_normal.png",
       "Login": "name_ha_name",
       "CurrentFollowersCount": 32,
-      "CurrentTweetsCout": 236,
+      "CurrentTweetsCout": 239,
       "FollowersCountHistory": {
         "20201225": 28,
         "20201226": 28,
@@ -2279,7 +2439,8 @@
         "20210121": 32,
         "20210122": 32,
         "20210123": 32,
-        "20210124": 32
+        "20210124": 32,
+        "20210125": 32
       },
       "TweetsCountHistory": {
         "20201225": 200,
@@ -2312,7 +2473,8 @@
         "20210121": 236,
         "20210122": 236,
         "20210123": 236,
-        "20210124": 236
+        "20210124": 236,
+        "20210125": 239
       },
       "LangId": "jp",
       "FollowersTrend": {
@@ -2320,11 +2482,11 @@
         "WeeklyGrowth": 0.0,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
+            "X": 20210119.0,
             "Y": 32.0
           },
           "End": {
-            "X": 20210124.0,
+            "X": 20210125.0,
             "Y": 32.0
           }
         }
@@ -2334,8 +2496,8 @@
       "PublicName": "micci@ヘルニアわずで入院中",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1341566832277299201/-fx2WWeZ_normal.png",
       "Login": "micci_dotter",
-      "CurrentFollowersCount": 2056,
-      "CurrentTweetsCout": 36293,
+      "CurrentFollowersCount": 2053,
+      "CurrentTweetsCout": 36415,
       "FollowersCountHistory": {
         "20201225": 1867,
         "20201226": 1871,
@@ -2367,7 +2529,8 @@
         "20210121": 2055,
         "20210122": 2055,
         "20210123": 2057,
-        "20210124": 2056
+        "20210124": 2056,
+        "20210125": 2053
       },
       "TweetsCountHistory": {
         "20201225": 34361,
@@ -2400,20 +2563,21 @@
         "20210121": 36052,
         "20210122": 36143,
         "20210123": 36231,
-        "20210124": 36293
+        "20210124": 36293,
+        "20210125": 36415
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.16697975370486328532662629,
+        "WeeklyGrowth": -0.0208514335360556038227642045,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2053.285714285714285714286
+            "X": 20210119.0,
+            "Y": 2055.3571428571428571428572
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2056.714285714285714285714
+            "X": 20210125.0,
+            "Y": 2054.9285714285714285714286
           }
         }
       }
@@ -2455,7 +2619,8 @@
         "20210121": 15,
         "20210122": 15,
         "20210123": 15,
-        "20210124": 15
+        "20210124": 15,
+        "20210125": 15
       },
       "TweetsCountHistory": {
         "20201225": 216,
@@ -2488,7 +2653,8 @@
         "20210121": 218,
         "20210122": 218,
         "20210123": 218,
-        "20210124": 218
+        "20210124": 218,
+        "20210125": 218
       },
       "LangId": "jp",
       "FollowersTrend": {
@@ -2496,11 +2662,11 @@
         "WeeklyGrowth": 0.0,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
+            "X": 20210119.0,
             "Y": 15.0
           },
           "End": {
-            "X": 20210124.0,
+            "X": 20210125.0,
             "Y": 15.0
           }
         }
@@ -2510,8 +2676,8 @@
       "PublicName": "月陽",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1248034772611297281/4GL9G9yq_normal.png",
       "Login": "moon_dot",
-      "CurrentFollowersCount": 277,
-      "CurrentTweetsCout": 17796,
+      "CurrentFollowersCount": 278,
+      "CurrentTweetsCout": 17803,
       "FollowersCountHistory": {
         "20201225": 270,
         "20201226": 270,
@@ -2543,7 +2709,8 @@
         "20210121": 277,
         "20210122": 277,
         "20210123": 277,
-        "20210124": 277
+        "20210124": 277,
+        "20210125": 278
       },
       "TweetsCountHistory": {
         "20201225": 17702,
@@ -2576,20 +2743,21 @@
         "20210121": 17779,
         "20210122": 17789,
         "20210123": 17791,
-        "20210124": 17796
+        "20210124": 17796,
+        "20210125": 17803
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.4657179818887451487710168658,
+        "WeeklyGrowth": 0.2322280996000516062443348646,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 276.0714285714285714285714
+            "X": 20210119.0,
+            "Y": 276.8214285714285714285715
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 277.3571428571428571428571
+            "X": 20210125.0,
+            "Y": 277.4642857142857142857143
           }
         }
       }
@@ -2631,7 +2799,8 @@
         "20210121": 5,
         "20210122": 5,
         "20210123": 5,
-        "20210124": 5
+        "20210124": 5,
+        "20210125": 5
       },
       "TweetsCountHistory": {
         "20201225": 51,
@@ -2664,7 +2833,8 @@
         "20210121": 69,
         "20210122": 69,
         "20210123": 69,
-        "20210124": 69
+        "20210124": 69,
+        "20210125": 69
       },
       "LangId": "jp",
       "FollowersTrend": {
@@ -2672,11 +2842,11 @@
         "WeeklyGrowth": 0.0,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
+            "X": 20210119.0,
             "Y": 5.0
           },
           "End": {
-            "X": 20210124.0,
+            "X": 20210125.0,
             "Y": 5.0
           }
         }
@@ -2686,7 +2856,7 @@
       "PublicName": "まゆこ🐥",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1351422004503592964/VQ_U7E-A_normal.jpg",
       "Login": "mayuco_z8",
-      "CurrentFollowersCount": 1787,
+      "CurrentFollowersCount": 1783,
       "CurrentTweetsCout": 1620,
       "FollowersCountHistory": {
         "20201225": 1720,
@@ -2719,7 +2889,8 @@
         "20210121": 1785,
         "20210122": 1785,
         "20210123": 1786,
-        "20210124": 1787
+        "20210124": 1787,
+        "20210125": 1783
       },
       "TweetsCountHistory": {
         "20201225": 1595,
@@ -2752,20 +2923,21 @@
         "20210121": 1620,
         "20210122": 1620,
         "20210123": 1619,
-        "20210124": 1620
+        "20210124": 1620,
+        "20210125": 1620
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0720259293345604417590324528,
+        "WeeklyGrowth": -0.1079503428422925454291042129,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1785.0714285714285714285714
+            "X": 20210119.0,
+            "Y": 1786.5357142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1786.3571428571428571428571
+            "X": 20210125.0,
+            "Y": 1784.6071428571428571428571
           }
         }
       }
@@ -2774,7 +2946,7 @@
       "PublicName": "teacolors＝茶色い",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1135174387752026114/gSbC1eSs_normal.png",
       "Login": "twteacolors",
-      "CurrentFollowersCount": 281,
+      "CurrentFollowersCount": 282,
       "CurrentTweetsCout": 593,
       "FollowersCountHistory": {
         "20201225": 220,
@@ -2807,7 +2979,8 @@
         "20210121": 281,
         "20210122": 280,
         "20210123": 279,
-        "20210124": 281
+        "20210124": 281,
+        "20210125": 282
       },
       "TweetsCountHistory": {
         "20201225": 558,
@@ -2840,20 +3013,21 @@
         "20210121": 592,
         "20210122": 592,
         "20210123": 593,
-        "20210124": 593
+        "20210124": 593,
+        "20210125": 593
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 4.0204966495861253448953272464,
+        "WeeklyGrowth": 2.4870466321243523316061683804,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 271.821428571428571428572
+            "X": 20210119.0,
+            "Y": 275.714285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 282.750000000000000000000
+            "X": 20210125.0,
+            "Y": 282.571428571428571428571
           }
         }
       }
@@ -2862,8 +3036,8 @@
       "PublicName": "M.Nishimura",
       "AvatarImage": "https://pbs.twimg.com/profile_images/811932091407400961/oJldNFdh_normal.jpg",
       "Login": "hectNishi",
-      "CurrentFollowersCount": 20681,
-      "CurrentTweetsCout": 25248,
+      "CurrentFollowersCount": 20682,
+      "CurrentTweetsCout": 25255,
       "FollowersCountHistory": {
         "20201225": 20697,
         "20201226": 20691,
@@ -2895,7 +3069,8 @@
         "20210121": 20681,
         "20210122": 20685,
         "20210123": 20682,
-        "20210124": 20681
+        "20210124": 20681,
+        "20210125": 20682
       },
       "TweetsCountHistory": {
         "20201225": 24993,
@@ -2928,20 +3103,21 @@
         "20210121": 25226,
         "20210122": 25230,
         "20210123": 25245,
-        "20210124": 25248
+        "20210124": 25248,
+        "20210125": 25255
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0248610199924035772245440427,
+        "WeeklyGrowth": -0.0176111357628643303710949467,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 20686.428571428571428571428
+            "X": 20210119.0,
+            "Y": 20684.964285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 20681.285714285714285714285
+            "X": 20210125.0,
+            "Y": 20681.321428571428571428571
           }
         }
       }
@@ -2950,8 +3126,8 @@
       "PublicName": "びねつ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1317678406318792704/sRQcXI9b_normal.jpg",
       "Login": "bnt369",
-      "CurrentFollowersCount": 2636,
-      "CurrentTweetsCout": 275,
+      "CurrentFollowersCount": 2641,
+      "CurrentTweetsCout": 280,
       "FollowersCountHistory": {
         "20201225": 2439,
         "20201226": 2445,
@@ -2983,7 +3159,8 @@
         "20210121": 2583,
         "20210122": 2583,
         "20210123": 2605,
-        "20210124": 2636
+        "20210124": 2636,
+        "20210125": 2641
       },
       "TweetsCountHistory": {
         "20201225": 284,
@@ -3016,20 +3193,21 @@
         "20210121": 270,
         "20210122": 270,
         "20210123": 277,
-        "20210124": 275
+        "20210124": 275,
+        "20210125": 280
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.6489465063986897260084335598,
+        "WeeklyGrowth": 2.4419040740071951439724959694,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2573.07142857142857142858
+            "X": 20210119.0,
+            "Y": 2571.17857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2615.50000000000000000001
+            "X": 20210125.0,
+            "Y": 2633.96428571428571428572
           }
         }
       }
@@ -3038,7 +3216,7 @@
       "PublicName": "ファントム",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1344965204652642304/Hbd84Cnc_normal.jpg",
       "Login": "PhantomEE13",
-      "CurrentFollowersCount": 758,
+      "CurrentFollowersCount": 759,
       "CurrentTweetsCout": 4774,
       "FollowersCountHistory": {
         "20201225": 727,
@@ -3071,7 +3249,8 @@
         "20210121": 758,
         "20210122": 757,
         "20210123": 758,
-        "20210124": 758
+        "20210124": 758,
+        "20210125": 759
       },
       "TweetsCountHistory": {
         "20201225": 4687,
@@ -3104,20 +3283,21 @@
         "20210121": 4769,
         "20210122": 4772,
         "20210123": 4773,
-        "20210124": 4774
+        "20210124": 4774,
+        "20210125": 4774
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0565770862800565770862706271,
+        "WeeklyGrowth": 0.084845628093330190902655665,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 757.5000000000000000000000
+            "X": 20210119.0,
+            "Y": 757.6785714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 757.9285714285714285714285
+            "X": 20210125.0,
+            "Y": 758.3214285714285714285714
           }
         }
       }
@@ -3126,8 +3306,8 @@
       "PublicName": "佐東おやすみ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1343759974841794562/D6SEI1Zz_normal.jpg",
       "Login": "satowmrmr0101",
-      "CurrentFollowersCount": 4449,
-      "CurrentTweetsCout": 540,
+      "CurrentFollowersCount": 4471,
+      "CurrentTweetsCout": 542,
       "FollowersCountHistory": {
         "20201225": 4307,
         "20201226": 4313,
@@ -3159,7 +3339,8 @@
         "20210121": 4374,
         "20210122": 4379,
         "20210123": 4390,
-        "20210124": 4449
+        "20210124": 4449,
+        "20210125": 4471
       },
       "TweetsCountHistory": {
         "20201225": 530,
@@ -3192,20 +3373,21 @@
         "20210121": 539,
         "20210122": 539,
         "20210123": 540,
-        "20210124": 540
+        "20210124": 540,
+        "20210125": 542
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.4270483064053145247274675155,
+        "WeeklyGrowth": 2.3801897252679561414315649494,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 4354.64285714285714285714
+            "X": 20210119.0,
+            "Y": 4348.39285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 4416.78571428571428571429
+            "X": 20210125.0,
+            "Y": 4451.89285714285714285714
           }
         }
       }
@@ -3247,7 +3429,8 @@
         "20210121": 4283,
         "20210122": 4294,
         "20210123": 4294,
-        "20210124": 4295
+        "20210124": 4295,
+        "20210125": 4295
       },
       "TweetsCountHistory": {
         "20201225": 50086,
@@ -3280,20 +3463,21 @@
         "20210121": 50110,
         "20210122": 50111,
         "20210123": 50111,
-        "20210124": 50111
+        "20210124": 50111,
+        "20210125": 50111
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.4107461889098528994339851277,
+        "WeeklyGrowth": 0.4406757027442077852707452308,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 4277.928571428571428571428
+            "X": 20210119.0,
+            "Y": 4279.142857142857142857142
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 4295.500000000000000000000
+            "X": 20210125.0,
+            "Y": 4297.999999999999999999999
           }
         }
       }
@@ -3303,7 +3487,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1141442441137938432/uvvJeYPg_normal.jpg",
       "Login": "Cutlaska",
       "CurrentFollowersCount": 1756,
-      "CurrentTweetsCout": 2484,
+      "CurrentTweetsCout": 2494,
       "FollowersCountHistory": {
         "20201225": 1723,
         "20201226": 1725,
@@ -3335,7 +3519,8 @@
         "20210121": 1753,
         "20210122": 1753,
         "20210123": 1756,
-        "20210124": 1756
+        "20210124": 1756,
+        "20210125": 1756
       },
       "TweetsCountHistory": {
         "20201225": 2154,
@@ -3368,20 +3553,21 @@
         "20210121": 2445,
         "20210122": 2456,
         "20210123": 2475,
-        "20210124": 2484
+        "20210124": 2484,
+        "20210125": 2494
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.5272299989782364360887298186,
+        "WeeklyGrowth": 0.354978884876675439133345603,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1747.678571428571428571429
+            "X": 20210119.0,
+            "Y": 1750.607142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1756.892857142857142857144
+            "X": 20210125.0,
+            "Y": 1756.821428571428571428571
           }
         }
       }
@@ -3423,7 +3609,8 @@
         "20210121": 6299,
         "20210122": 6306,
         "20210123": 6307,
-        "20210124": 6307
+        "20210124": 6307,
+        "20210125": 6307
       },
       "TweetsCountHistory": {
         "20201225": 10843,
@@ -3456,20 +3643,21 @@
         "20210121": 10891,
         "20210122": 10892,
         "20210123": 10893,
-        "20210124": 10893
+        "20210124": 10893,
+        "20210125": 10893
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0816141464520516889594218942,
+        "WeeklyGrowth": 0.0986165347056523143713717378,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 6301.428571428571428571429
+            "X": 20210119.0,
+            "Y": 6301.464285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 6306.571428571428571428572
+            "X": 20210125.0,
+            "Y": 6307.678571428571428571428
           }
         }
       }
@@ -3511,7 +3699,8 @@
         "20210121": 9853,
         "20210122": 9850,
         "20210123": 9849,
-        "20210124": 9848
+        "20210124": 9848,
+        "20210125": 9848
       },
       "TweetsCountHistory": {
         "20201225": 7556,
@@ -3544,20 +3733,21 @@
         "20210121": 7635,
         "20210122": 7636,
         "20210123": 7637,
-        "20210124": 7639
+        "20210124": 7639,
+        "20210125": 7639
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1303988756719164288094568049,
+        "WeeklyGrowth": -0.1086964398292741251748172135,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 9859.857142857142857142858
+            "X": 20210119.0,
+            "Y": 9857.071428571428571428571
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 9847.000000000000000000001
+            "X": 20210125.0,
+            "Y": 9846.357142857142857142857
           }
         }
       }
@@ -3566,7 +3756,7 @@
       "PublicName": "鈍器",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1229432071380058113/Tje8uoS2_normal.jpg",
       "Login": "mace178",
-      "CurrentFollowersCount": 1801,
+      "CurrentFollowersCount": 1800,
       "CurrentTweetsCout": 3017,
       "FollowersCountHistory": {
         "20201225": 1793,
@@ -3599,7 +3789,8 @@
         "20210121": 1804,
         "20210122": 1803,
         "20210123": 1800,
-        "20210124": 1801
+        "20210124": 1801,
+        "20210125": 1800
       },
       "TweetsCountHistory": {
         "20201225": 2990,
@@ -3632,20 +3823,21 @@
         "20210121": 3014,
         "20210122": 3014,
         "20210123": 3017,
-        "20210124": 3017
+        "20210124": 3017,
+        "20210125": 3017
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.2847875959180444585080373613,
+        "WeeklyGrowth": -0.3204557593021185686309576596,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1805.857142857142857142857
+            "X": 20210119.0,
+            "Y": 1805.464285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1800.714285714285714285714
+            "X": 20210125.0,
+            "Y": 1799.678571428571428571428
           }
         }
       }
@@ -3654,8 +3846,8 @@
       "PublicName": "APO+ / UPC",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1046434887056551936/Cwle3Gb8_normal.jpg",
       "Login": "apostrophe_dot",
-      "CurrentFollowersCount": 45795,
-      "CurrentTweetsCout": 5128,
+      "CurrentFollowersCount": 45792,
+      "CurrentTweetsCout": 5129,
       "FollowersCountHistory": {
         "20201225": 45697,
         "20201226": 45721,
@@ -3687,7 +3879,8 @@
         "20210121": 45782,
         "20210122": 45791,
         "20210123": 45790,
-        "20210124": 45795
+        "20210124": 45795,
+        "20210125": 45792
       },
       "TweetsCountHistory": {
         "20201225": 5108,
@@ -3720,20 +3913,21 @@
         "20210121": 5127,
         "20210122": 5128,
         "20210123": 5128,
-        "20210124": 5128
+        "20210124": 5128,
+        "20210125": 5129
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0477515421719461250247727519,
+        "WeeklyGrowth": 0.0435349438141760075647825708,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 45772.642857142857142857142
+            "X": 20210119.0,
+            "Y": 45776.035714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 45794.499999999999999999999
+            "X": 20210125.0,
+            "Y": 45795.964285714285714285715
           }
         }
       }
@@ -3742,8 +3936,8 @@
       "PublicName": "ユキ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1322568861225373697/vQOuM0hy_normal.jpg",
       "Login": "yuki_1231_13",
-      "CurrentFollowersCount": 2188,
-      "CurrentTweetsCout": 2237,
+      "CurrentFollowersCount": 2200,
+      "CurrentTweetsCout": 2245,
       "FollowersCountHistory": {
         "20201225": 1831,
         "20201226": 1835,
@@ -3775,7 +3969,8 @@
         "20210121": 2133,
         "20210122": 2168,
         "20210123": 2177,
-        "20210124": 2188
+        "20210124": 2188,
+        "20210125": 2200
       },
       "TweetsCountHistory": {
         "20201225": 2183,
@@ -3808,20 +4003,21 @@
         "20210121": 2226,
         "20210122": 2234,
         "20210123": 2233,
-        "20210124": 2237
+        "20210124": 2237,
+        "20210125": 2245
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 7.7094972067039106145254351456,
+        "WeeklyGrowth": 6.2551440329218106995886745471,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2045.71428571428571428571
+            "X": 20210119.0,
+            "Y": 2082.85714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2203.42857142857142857143
+            "X": 20210125.0,
+            "Y": 2213.14285714285714285715
           }
         }
       }
@@ -3830,8 +4026,8 @@
       "PublicName": "キュアもと",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1333604553921421313/lqQnC0aO_normal.jpg",
       "Login": "curemoto_dot",
-      "CurrentFollowersCount": 669,
-      "CurrentTweetsCout": 2576,
+      "CurrentFollowersCount": 674,
+      "CurrentTweetsCout": 2598,
       "FollowersCountHistory": {
         "20201225": 572,
         "20201226": 574,
@@ -3863,7 +4059,8 @@
         "20210121": 669,
         "20210122": 669,
         "20210123": 669,
-        "20210124": 669
+        "20210124": 669,
+        "20210125": 674
       },
       "TweetsCountHistory": {
         "20201225": 2723,
@@ -3896,20 +4093,21 @@
         "20210121": 2556,
         "20210122": 2570,
         "20210123": 2575,
-        "20210124": 2576
+        "20210124": 2576,
+        "20210125": 2598
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 2.3138341209059801205801956162,
+        "WeeklyGrowth": 1.1929711429953248428180560359,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 657.535714285714285714286
+            "X": 20210119.0,
+            "Y": 664.607142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 672.750000000000000000001
+            "X": 20210125.0,
+            "Y": 672.535714285714285714286
           }
         }
       }
@@ -3918,7 +4116,7 @@
       "PublicName": "シブチャ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1221643349200797697/IyUWV4S3_normal.jpg",
       "Login": "SIVcha4pixel",
-      "CurrentFollowersCount": 475,
+      "CurrentFollowersCount": 476,
       "CurrentTweetsCout": 359,
       "FollowersCountHistory": {
         "20201225": 473,
@@ -3951,7 +4149,8 @@
         "20210121": 476,
         "20210122": 476,
         "20210123": 475,
-        "20210124": 475
+        "20210124": 475,
+        "20210125": 476
       },
       "TweetsCountHistory": {
         "20201225": 357,
@@ -3984,20 +4183,21 @@
         "20210121": 359,
         "20210122": 359,
         "20210123": 359,
-        "20210124": 359
+        "20210124": 359,
+        "20210125": 359
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0450958286358511837655025941,
+        "WeeklyGrowth": 0.0901848790019540057117150131,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 475.17857142857142857142856
+            "X": 20210119.0,
+            "Y": 475.2142857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 475.39285714285714285714285
+            "X": 20210125.0,
+            "Y": 475.6428571428571428571429
           }
         }
       }
@@ -4006,8 +4206,8 @@
       "PublicName": "きんび",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1342490987562582016/diuc-yYo_normal.jpg",
       "Login": "knb8686",
-      "CurrentFollowersCount": 528,
-      "CurrentTweetsCout": 1268,
+      "CurrentFollowersCount": 533,
+      "CurrentTweetsCout": 1280,
       "FollowersCountHistory": {
         "20201225": 441,
         "20201226": 442,
@@ -4039,7 +4239,8 @@
         "20210121": 520,
         "20210122": 520,
         "20210123": 527,
-        "20210124": 528
+        "20210124": 528,
+        "20210125": 533
       },
       "TweetsCountHistory": {
         "20201225": 961,
@@ -4072,20 +4273,21 @@
         "20210121": 1249,
         "20210122": 1258,
         "20210123": 1268,
-        "20210124": 1268
+        "20210124": 1268,
+        "20210125": 1280
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 3.8720538720538720538721930774,
+        "WeeklyGrowth": 3.5888162470440951453610516066,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 509.142857142857142857143
+            "X": 20210119.0,
+            "Y": 513.500000000000000000000
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 528.857142857142857142858
+            "X": 20210125.0,
+            "Y": 531.928571428571428571429
           }
         }
       }
@@ -4127,7 +4329,8 @@
         "20210121": 425,
         "20210122": 425,
         "20210123": 425,
-        "20210124": 425
+        "20210124": 425,
+        "20210125": 425
       },
       "TweetsCountHistory": {
         "20201225": 226,
@@ -4160,20 +4363,21 @@
         "20210121": 236,
         "20210122": 236,
         "20210123": 236,
-        "20210124": 236
+        "20210124": 236,
+        "20210125": 236
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.4045853000674308833445751718,
+        "WeeklyGrowth": 0.1514259274838058383107461984,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 423.7142857142857142857143
+            "X": 20210119.0,
+            "Y": 424.5357142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 425.4285714285714285714286
+            "X": 20210125.0,
+            "Y": 425.1785714285714285714285
           }
         }
       }
@@ -4182,8 +4386,8 @@
       "PublicName": "白雨/pixelart",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1343532107772018693/g9OnJVrm_normal.png",
       "Login": "whiterain_466",
-      "CurrentFollowersCount": 385,
-      "CurrentTweetsCout": 459,
+      "CurrentFollowersCount": 389,
+      "CurrentTweetsCout": 460,
       "FollowersCountHistory": {
         "20201225": 317,
         "20201226": 327,
@@ -4215,7 +4419,8 @@
         "20210121": 382,
         "20210122": 384,
         "20210123": 385,
-        "20210124": 385
+        "20210124": 385,
+        "20210125": 389
       },
       "TweetsCountHistory": {
         "20201225": 408,
@@ -4248,20 +4453,21 @@
         "20210121": 457,
         "20210122": 458,
         "20210123": 459,
-        "20210124": 459
+        "20210124": 459,
+        "20210125": 460
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 2.2136032541859805127234551388,
+        "WeeklyGrowth": 2.6052482537285255805172371551,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 377.535714285714285714285
+            "X": 20210119.0,
+            "Y": 378.357142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 385.892857142857142857142
+            "X": 20210125.0,
+            "Y": 388.214285714285714285714
           }
         }
       }
@@ -4271,7 +4477,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1338404955896467456/5-SWIMTl_normal.jpg",
       "Login": "shiroi_sai_",
       "CurrentFollowersCount": 307,
-      "CurrentTweetsCout": 195,
+      "CurrentTweetsCout": 196,
       "FollowersCountHistory": {
         "20201225": 299,
         "20201226": 299,
@@ -4303,7 +4509,8 @@
         "20210121": 307,
         "20210122": 307,
         "20210123": 307,
-        "20210124": 307
+        "20210124": 307,
+        "20210125": 307
       },
       "TweetsCountHistory": {
         "20201225": 182,
@@ -4336,7 +4543,8 @@
         "20210121": 195,
         "20210122": 195,
         "20210123": 195,
-        "20210124": 195
+        "20210124": 195,
+        "20210125": 196
       },
       "LangId": "jp",
       "FollowersTrend": {
@@ -4344,11 +4552,11 @@
         "WeeklyGrowth": 0.0,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
+            "X": 20210119.0,
             "Y": 307.0
           },
           "End": {
-            "X": 20210124.0,
+            "X": 20210125.0,
             "Y": 307.0
           }
         }
@@ -4359,7 +4567,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1352559764773826560/OqXQUE4e_normal.jpg",
       "Login": "dot_inko",
       "CurrentFollowersCount": 103,
-      "CurrentTweetsCout": 294,
+      "CurrentTweetsCout": 293,
       "FollowersCountHistory": {
         "20201225": 67,
         "20201226": 68,
@@ -4391,7 +4599,8 @@
         "20210121": 98,
         "20210122": 100,
         "20210123": 101,
-        "20210124": 103
+        "20210124": 103,
+        "20210125": 103
       },
       "TweetsCountHistory": {
         "20201225": 160,
@@ -4424,20 +4633,21 @@
         "20210121": 283,
         "20210122": 289,
         "20210123": 290,
-        "20210124": 294
+        "20210124": 294,
+        "20210125": 293
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 6.240713224368499257057940207,
+        "WeeklyGrowth": 6.8710749907646841521981224777,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 96.142857142857142857143
+            "X": 20210119.0,
+            "Y": 96.678571428571428571429
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 102.142857142857142857143
+            "X": 20210125.0,
+            "Y": 103.321428571428571428572
           }
         }
       }
@@ -4446,8 +4656,8 @@
       "PublicName": "miyatoriOIL / 宮鳥オイル",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1347924980403556355/ywSalWUM_normal.png",
       "Login": "miyatori",
-      "CurrentFollowersCount": 1222,
-      "CurrentTweetsCout": 5395,
+      "CurrentFollowersCount": 1288,
+      "CurrentTweetsCout": 5398,
       "FollowersCountHistory": {
         "20201225": 1080,
         "20201226": 1081,
@@ -4479,7 +4689,8 @@
         "20210121": 1110,
         "20210122": 1110,
         "20210123": 1179,
-        "20210124": 1222
+        "20210124": 1222,
+        "20210125": 1288
       },
       "TweetsCountHistory": {
         "20201225": 5378,
@@ -4512,20 +4723,21 @@
         "20210121": 5386,
         "20210122": 5387,
         "20210123": 5393,
-        "20210124": 5395
+        "20210124": 5395,
+        "20210125": 5398
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 9.531342693296420802846947918,
+        "WeeklyGrowth": 16.700556685222840761358733954,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1083.64285714285714285715
+            "X": 20210119.0,
+            "Y": 1071.39285714285714285715
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1186.92857142857142857143
+            "X": 20210125.0,
+            "Y": 1250.32142857142857142858
           }
         }
       }
@@ -4534,7 +4746,7 @@
       "PublicName": "ｻｻﾐ.✨🌛",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1322776361639948292/ZMltYld7_normal.jpg",
       "Login": "sasami_lost",
-      "CurrentFollowersCount": 1817,
+      "CurrentFollowersCount": 1816,
       "CurrentTweetsCout": 357,
       "FollowersCountHistory": {
         "20201225": 1574,
@@ -4567,7 +4779,8 @@
         "20210121": 1809,
         "20210122": 1811,
         "20210123": 1815,
-        "20210124": 1817
+        "20210124": 1817,
+        "20210125": 1816
       },
       "TweetsCountHistory": {
         "20201225": 347,
@@ -4600,20 +4813,21 @@
         "20210121": 357,
         "20210122": 357,
         "20210123": 357,
-        "20210124": 357
+        "20210124": 357,
+        "20210125": 357
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.6412032455966752424302710753,
+        "WeeklyGrowth": 0.5811540058115400581154005812,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1804.642857142857142857143
+            "X": 20210119.0,
+            "Y": 1806.75
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1816.214285714285714285715
+            "X": 20210125.0,
+            "Y": 1817.25
           }
         }
       }
@@ -4622,8 +4836,8 @@
       "PublicName": "七竜＠竜鱗亭",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1158269699370524673/DzAlpnDt_normal.jpg",
       "Login": "Nanadragon4",
-      "CurrentFollowersCount": 4142,
-      "CurrentTweetsCout": 31928,
+      "CurrentFollowersCount": 4148,
+      "CurrentTweetsCout": 31946,
       "FollowersCountHistory": {
         "20201225": 4095,
         "20201226": 4101,
@@ -4655,7 +4869,8 @@
         "20210121": 4136,
         "20210122": 4136,
         "20210123": 4139,
-        "20210124": 4142
+        "20210124": 4142,
+        "20210125": 4148
       },
       "TweetsCountHistory": {
         "20201225": 31305,
@@ -4688,20 +4903,21 @@
         "20210121": 31864,
         "20210122": 31886,
         "20210123": 31903,
-        "20210124": 31928
+        "20210124": 31928,
+        "20210125": 31946
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.2646074557041930769696254945,
+        "WeeklyGrowth": 0.3423532463041410910348439053,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 4130.107142857142857142857
+            "X": 20210119.0,
+            "Y": 4131.071428571428571428572
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 4141.035714285714285714285
+            "X": 20210125.0,
+            "Y": 4145.214285714285714285715
           }
         }
       }
@@ -4710,7 +4926,7 @@
       "PublicName": "すらいむ。",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1323488296127795201/x9IVhYmR_normal.jpg",
       "Login": "0412sraim",
-      "CurrentFollowersCount": 2675,
+      "CurrentFollowersCount": 2679,
       "CurrentTweetsCout": 4818,
       "FollowersCountHistory": {
         "20201225": 2522,
@@ -4743,7 +4959,8 @@
         "20210121": 2666,
         "20210122": 2669,
         "20210123": 2672,
-        "20210124": 2675
+        "20210124": 2675,
+        "20210125": 2679
       },
       "TweetsCountHistory": {
         "20201225": 4740,
@@ -4776,20 +4993,21 @@
         "20210121": 4813,
         "20210122": 4814,
         "20210123": 4816,
-        "20210124": 4818
+        "20210124": 4818,
+        "20210125": 4818
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.6368314277653128400800526662,
+        "WeeklyGrowth": 0.5552798529983770806228898695,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2658.250000000000000000000
+            "X": 20210119.0,
+            "Y": 2662.750000000000000000000
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2675.178571428571428571428
+            "X": 20210125.0,
+            "Y": 2677.535714285714285714286
           }
         }
       }
@@ -4798,8 +5016,8 @@
       "PublicName": "九重",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1258700982382280705/_DQX9-UB_normal.png",
       "Login": "kokonoe_1196",
-      "CurrentFollowersCount": 1258,
-      "CurrentTweetsCout": 22858,
+      "CurrentFollowersCount": 1259,
+      "CurrentTweetsCout": 22862,
       "FollowersCountHistory": {
         "20201225": 1262,
         "20201226": 1263,
@@ -4831,7 +5049,8 @@
         "20210121": 1258,
         "20210122": 1257,
         "20210123": 1258,
-        "20210124": 1258
+        "20210124": 1258,
+        "20210125": 1259
       },
       "TweetsCountHistory": {
         "20201225": 22870,
@@ -4864,20 +5083,21 @@
         "20210121": 22859,
         "20210122": 22859,
         "20210123": 22859,
-        "20210124": 22858
+        "20210124": 22858,
+        "20210125": 22862
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0851232868938512612433731502,
+        "WeeklyGrowth": 0.0170333569907735982966638466,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1258.6785714285714285714286
+            "X": 20210119.0,
+            "Y": 1258.03571428571428571428572
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1257.6071428571428571428571
+            "X": 20210125.0,
+            "Y": 1258.25000000000000000000000
           }
         }
       }
@@ -4886,7 +5106,7 @@
       "PublicName": "せたも/UPC",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1246389151345201152/y7k9Wcbf_normal.jpg",
       "Login": "setamo_map",
-      "CurrentFollowersCount": 41549,
+      "CurrentFollowersCount": 41542,
       "CurrentTweetsCout": 2293,
       "FollowersCountHistory": {
         "20201225": 41633,
@@ -4919,7 +5139,8 @@
         "20210121": 41549,
         "20210122": 41548,
         "20210123": 41548,
-        "20210124": 41549
+        "20210124": 41549,
+        "20210125": 41542
       },
       "TweetsCountHistory": {
         "20201225": 2293,
@@ -4952,20 +5173,21 @@
         "20210121": 2293,
         "20210122": 2293,
         "20210123": 2293,
-        "20210124": 2293
+        "20210124": 2293,
+        "20210125": 2293
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0309372969739886081997583448,
+        "WeeklyGrowth": -0.0309392113251264210551642699,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 41558.714285714285714285715
+            "X": 20210119.0,
+            "Y": 41556.142857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 41545.857142857142857142858
+            "X": 20210125.0,
+            "Y": 41543.285714285714285714286
           }
         }
       }
@@ -4975,7 +5197,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1285410972182536192/oHvC2jLE_normal.jpg",
       "Login": "teto10sima",
       "CurrentFollowersCount": 1271,
-      "CurrentTweetsCout": 4967,
+      "CurrentTweetsCout": 4968,
       "FollowersCountHistory": {
         "20201225": 1271,
         "20201226": 1273,
@@ -5007,7 +5229,8 @@
         "20210121": 1269,
         "20210122": 1270,
         "20210123": 1272,
-        "20210124": 1271
+        "20210124": 1271,
+        "20210125": 1271
       },
       "TweetsCountHistory": {
         "20201225": 4930,
@@ -5040,20 +5263,21 @@
         "20210121": 4964,
         "20210122": 4964,
         "20210123": 4967,
-        "20210124": 4967
+        "20210124": 4967,
+        "20210125": 4968
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0674915635545556805399291285,
+        "WeeklyGrowth": 0.135028693597389445257118255,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1270.0000000000000000000001
+            "X": 20210119.0,
+            "Y": 1269.5714285714285714285715
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1270.8571428571428571428572
+            "X": 20210125.0,
+            "Y": 1271.2857142857142857142858
           }
         }
       }
@@ -5062,8 +5286,8 @@
       "PublicName": "nikumashi｜にくまし",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1345692349519646720/nNOjL_tZ_normal.jpg",
       "Login": "nikumashiart",
-      "CurrentFollowersCount": 704,
-      "CurrentTweetsCout": 5052,
+      "CurrentFollowersCount": 703,
+      "CurrentTweetsCout": 5055,
       "FollowersCountHistory": {
         "20201225": 690,
         "20201226": 691,
@@ -5095,7 +5319,8 @@
         "20210121": 703,
         "20210122": 703,
         "20210123": 704,
-        "20210124": 704
+        "20210124": 704,
+        "20210125": 703
       },
       "TweetsCountHistory": {
         "20201225": 4754,
@@ -5128,20 +5353,21 @@
         "20210121": 5043,
         "20210122": 5050,
         "20210123": 5051,
-        "20210124": 5052
+        "20210124": 5052,
+        "20210125": 5055
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1216791725816264449401683352,
+        "WeeklyGrowth": -0.212884586142227178265497504,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 704.4285714285714285714285
+            "X": 20210119.0,
+            "Y": 704.6071428571428571428571
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 703.5714285714285714285714
+            "X": 20210125.0,
+            "Y": 703.1071428571428571428571
           }
         }
       }
@@ -5151,7 +5377,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1206409165171609600/eXGZoLG2_normal.png",
       "Login": "oyzk_2nc",
       "CurrentFollowersCount": 10363,
-      "CurrentTweetsCout": 50129,
+      "CurrentTweetsCout": 50151,
       "FollowersCountHistory": {
         "20201225": 10278,
         "20201226": 10279,
@@ -5183,7 +5409,8 @@
         "20210121": 10307,
         "20210122": 10328,
         "20210123": 10361,
-        "20210124": 10363
+        "20210124": 10363,
+        "20210125": 10363
       },
       "TweetsCountHistory": {
         "20201225": 49638,
@@ -5216,20 +5443,21 @@
         "20210121": 50117,
         "20210122": 50130,
         "20210123": 50131,
-        "20210124": 50129
+        "20210124": 50129,
+        "20210125": 50151
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.6057136910027579747098229839,
+        "WeeklyGrowth": 0.6950080113198909628149772381,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 10294.82142857142857142857
+            "X": 20210119.0,
+            "Y": 10297.92857142857142857142
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 10357.17857142857142857142
+            "X": 20210125.0,
+            "Y": 10369.49999999999999999999
           }
         }
       }
@@ -5238,7 +5466,7 @@
       "PublicName": "けムり",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1216118104104697856/8MsxdCJS_normal.jpg",
       "Login": "K3mr1_3",
-      "CurrentFollowersCount": 4269,
+      "CurrentFollowersCount": 4270,
       "CurrentTweetsCout": 2056,
       "FollowersCountHistory": {
         "20201225": 4288,
@@ -5271,7 +5499,8 @@
         "20210121": 4277,
         "20210122": 4276,
         "20210123": 4273,
-        "20210124": 4269
+        "20210124": 4269,
+        "20210125": 4270
       },
       "TweetsCountHistory": {
         "20201225": 2046,
@@ -5304,20 +5533,21 @@
         "20210121": 2056,
         "20210122": 2056,
         "20210123": 2056,
-        "20210124": 2056
+        "20210124": 2056,
+        "20210125": 2056
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.165271320417685700691982655,
+        "WeeklyGrowth": -0.2053439511181228557834439215,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 4278.678571428571428571429
+            "X": 20210119.0,
+            "Y": 4278.535714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 4271.607142857142857142857
+            "X": 20210125.0,
+            "Y": 4269.750000000000000000000
           }
         }
       }
@@ -5327,7 +5557,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/934246371565092864/oGPAl2vv_normal.png",
       "Login": "kirai_s",
       "CurrentFollowersCount": 7073,
-      "CurrentTweetsCout": 154189,
+      "CurrentTweetsCout": 154226,
       "FollowersCountHistory": {
         "20201225": 7070,
         "20201226": 7071,
@@ -5359,7 +5589,8 @@
         "20210121": 7074,
         "20210122": 7071,
         "20210123": 7072,
-        "20210124": 7073
+        "20210124": 7073,
+        "20210125": 7073
       },
       "TweetsCountHistory": {
         "20201225": 153381,
@@ -5392,20 +5623,21 @@
         "20210121": 154123,
         "20210122": 154139,
         "20210123": 154169,
-        "20210124": 154189
+        "20210124": 154189,
+        "20210125": 154226
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0363482159084024959108337855,
+        "WeeklyGrowth": -0.0151473075660801292570241601,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 7074.428571428571428571429
+            "X": 20210119.0,
+            "Y": 7073.3928571428571428571428
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 7071.857142857142857142857
+            "X": 20210125.0,
+            "Y": 7072.3214285714285714285714
           }
         }
       }
@@ -5414,8 +5646,8 @@
       "PublicName": "ななみ雪",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1145336604489220096/XEoT0kZ3_normal.jpg",
       "Login": "yuki77mi",
-      "CurrentFollowersCount": 16518,
-      "CurrentTweetsCout": 5544,
+      "CurrentFollowersCount": 16541,
+      "CurrentTweetsCout": 5549,
       "FollowersCountHistory": {
         "20201225": 15103,
         "20201226": 15156,
@@ -5447,7 +5679,8 @@
         "20210121": 16379,
         "20210122": 16413,
         "20210123": 16519,
-        "20210124": 16518
+        "20210124": 16518,
+        "20210125": 16541
       },
       "TweetsCountHistory": {
         "20201225": 5290,
@@ -5480,20 +5713,21 @@
         "20210121": 5504,
         "20210122": 5510,
         "20210123": 5536,
-        "20210124": 5544
+        "20210124": 5544,
+        "20210125": 5549
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.9336432797971259509720167653,
+        "WeeklyGrowth": 1.7223193198439518171631102136,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 16224.0000000000000000000
+            "X": 20210119.0,
+            "Y": 16286.1785714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 16537.7142857142857142857
+            "X": 20210125.0,
+            "Y": 16566.6785714285714285714
           }
         }
       }
@@ -5502,8 +5736,8 @@
       "PublicName": "BAD FACTORY",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1333556624477224960/8_jIUu4M_normal.jpg",
       "Login": "BAD_FACTORY",
-      "CurrentFollowersCount": 1263,
-      "CurrentTweetsCout": 7400,
+      "CurrentFollowersCount": 1269,
+      "CurrentTweetsCout": 7404,
       "FollowersCountHistory": {
         "20201225": 1228,
         "20201226": 1229,
@@ -5535,7 +5769,8 @@
         "20210121": 1251,
         "20210122": 1255,
         "20210123": 1256,
-        "20210124": 1263
+        "20210124": 1263,
+        "20210125": 1269
       },
       "TweetsCountHistory": {
         "20201225": 7307,
@@ -5568,20 +5803,21 @@
         "20210121": 7384,
         "20210122": 7392,
         "20210123": 7396,
-        "20210124": 7400
+        "20210124": 7400,
+        "20210125": 7404
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.0658414990544954443870838347,
+        "WeeklyGrowth": 1.5993579638281406747112610624,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1246.500000000000000000000
+            "X": 20210119.0,
+            "Y": 1246.035714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1259.785714285714285714285
+            "X": 20210125.0,
+            "Y": 1265.964285714285714285715
           }
         }
       }
@@ -5590,8 +5826,8 @@
       "PublicName": "服部グラフィクス・ラ・銀座",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1336888710789357569/0FrF_v3Z_normal.jpg",
       "Login": "hattori2000",
-      "CurrentFollowersCount": 7663,
-      "CurrentTweetsCout": 26045,
+      "CurrentFollowersCount": 7678,
+      "CurrentTweetsCout": 26065,
       "FollowersCountHistory": {
         "20201225": 7637,
         "20201226": 7640,
@@ -5623,7 +5859,8 @@
         "20210121": 7665,
         "20210122": 7664,
         "20210123": 7668,
-        "20210124": 7663
+        "20210124": 7663,
+        "20210125": 7678
       },
       "TweetsCountHistory": {
         "20201225": 25485,
@@ -5656,20 +5893,21 @@
         "20210121": 26007,
         "20210122": 26035,
         "20210123": 26042,
-        "20210124": 26045
+        "20210124": 26045,
+        "20210125": 26065
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0027958342070315230306843363,
+        "WeeklyGrowth": 0.1426580077296397652203562641,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 7664.46428571428571428571428
+            "X": 20210119.0,
+            "Y": 7660.678571428571428571429
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 7664.67857142857142857142857
+            "X": 20210125.0,
+            "Y": 7671.607142857142857142858
           }
         }
       }
@@ -5678,7 +5916,7 @@
       "PublicName": "カイエ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1261306444600668160/srCv8lWK_normal.png",
       "Login": "4_9_13",
-      "CurrentFollowersCount": 15924,
+      "CurrentFollowersCount": 15925,
       "CurrentTweetsCout": 1463,
       "FollowersCountHistory": {
         "20201225": 15922,
@@ -5711,7 +5949,8 @@
         "20210121": 15930,
         "20210122": 15926,
         "20210123": 15929,
-        "20210124": 15924
+        "20210124": 15924,
+        "20210125": 15925
       },
       "TweetsCountHistory": {
         "20201225": 1444,
@@ -5744,20 +5983,21 @@
         "20210121": 1463,
         "20210122": 1463,
         "20210123": 1463,
-        "20210124": 1463
+        "20210124": 1463,
+        "20210125": 1463
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0336275369174309458529391576,
+        "WeeklyGrowth": -0.0094176949518912749540887371,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 15930.821428571428571428572
+            "X": 20210119.0,
+            "Y": 15927.4642857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 15925.464285714285714285715
+            "X": 20210125.0,
+            "Y": 15925.9642857142857142857143
           }
         }
       }
@@ -5766,7 +6006,7 @@
       "PublicName": "かわわぎ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1261137578050252800/9eOv0kH6_normal.jpg",
       "Login": "kwwg_",
-      "CurrentFollowersCount": 18598,
+      "CurrentFollowersCount": 18602,
       "CurrentTweetsCout": 794,
       "FollowersCountHistory": {
         "20201225": 16596,
@@ -5799,7 +6039,8 @@
         "20210121": 18588,
         "20210122": 18590,
         "20210123": 18592,
-        "20210124": 18598
+        "20210124": 18598,
+        "20210125": 18602
       },
       "TweetsCountHistory": {
         "20201225": 789,
@@ -5832,20 +6073,21 @@
         "20210121": 794,
         "20210122": 794,
         "20210123": 794,
-        "20210124": 794
+        "20210124": 794,
+        "20210125": 794
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0276659186621991331345493527,
+        "WeeklyGrowth": 0.0507216304698667404435860197,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 18589.142857142857142857143
+            "X": 20210119.0,
+            "Y": 18588.857142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 18594.285714285714285714286
+            "X": 20210125.0,
+            "Y": 18598.285714285714285714286
           }
         }
       }
@@ -5854,7 +6096,7 @@
       "PublicName": "ウマー / 個人ゲーム開発",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1034380753151254528/rUnfnMZm_normal.jpg",
       "Login": "umaaaaaa",
-      "CurrentFollowersCount": 32673,
+      "CurrentFollowersCount": 32675,
       "CurrentTweetsCout": 22857,
       "FollowersCountHistory": {
         "20201225": 32712,
@@ -5887,7 +6129,8 @@
         "20210121": 32677,
         "20210122": 32674,
         "20210123": 32672,
-        "20210124": 32673
+        "20210124": 32673,
+        "20210125": 32675
       },
       "TweetsCountHistory": {
         "20201225": 22824,
@@ -5920,20 +6163,21 @@
         "20210121": 22856,
         "20210122": 22857,
         "20210123": 22857,
-        "20210124": 22857
+        "20210124": 22857,
+        "20210125": 22857
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.061619545195314292456850368,
+        "WeeklyGrowth": -0.0275392379499441565452681687,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 32689.071428571428571428571
+            "X": 20210119.0,
+            "Y": 32680.642857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 32668.928571428571428571428
+            "X": 20210125.0,
+            "Y": 32671.642857142857142857143
           }
         }
       }
@@ -5942,8 +6186,8 @@
       "PublicName": "Ryosuke / RYOCHAN COMPANY",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1208702217433206784/MwxmxXDc_normal.png",
       "Login": "ryo620org",
-      "CurrentFollowersCount": 7301,
-      "CurrentTweetsCout": 7892,
+      "CurrentFollowersCount": 7303,
+      "CurrentTweetsCout": 7895,
       "FollowersCountHistory": {
         "20201225": 7290,
         "20201226": 7281,
@@ -5975,7 +6219,8 @@
         "20210121": 7307,
         "20210122": 7306,
         "20210123": 7304,
-        "20210124": 7301
+        "20210124": 7301,
+        "20210125": 7303
       },
       "TweetsCountHistory": {
         "20201225": 7726,
@@ -6008,20 +6253,21 @@
         "20210121": 7881,
         "20210122": 7883,
         "20210123": 7886,
-        "20210124": 7892
+        "20210124": 7892,
+        "20210125": 7895
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0557171134625253537303663112,
+        "WeeklyGrowth": -0.0674470320862149018841240478,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 7307.321428571428571428572
+            "X": 20210119.0,
+            "Y": 7307.321428571428571428571
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 7303.250000000000000000000
+            "X": 20210125.0,
+            "Y": 7302.392857142857142857142
           }
         }
       }
@@ -6030,7 +6276,7 @@
       "PublicName": "あ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1324822731074932736/bZPa-27Y_normal.png",
       "Login": "sVLisW6OqHTxYUZ",
-      "CurrentFollowersCount": 2665,
+      "CurrentFollowersCount": 2667,
       "CurrentTweetsCout": 320,
       "FollowersCountHistory": {
         "20201225": 2670,
@@ -6063,7 +6309,8 @@
         "20210121": 2669,
         "20210122": 2667,
         "20210123": 2665,
-        "20210124": 2665
+        "20210124": 2665,
+        "20210125": 2667
       },
       "TweetsCountHistory": {
         "20201225": 318,
@@ -6096,20 +6343,21 @@
         "20210121": 320,
         "20210122": 320,
         "20210123": 320,
-        "20210124": 320
+        "20210124": 320,
+        "20210125": 320
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1765697316675138446721689027,
+        "WeeklyGrowth": -0.1445048034467071636918247359,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2669.928571428571428571428
+            "X": 20210119.0,
+            "Y": 2669.214285714285714285715
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2665.214285714285714285713
+            "X": 20210125.0,
+            "Y": 2665.357142857142857142858
           }
         }
       }
@@ -6151,7 +6399,8 @@
         "20210121": 15456,
         "20210122": 15450,
         "20210123": 15442,
-        "20210124": 15438
+        "20210124": 15438,
+        "20210125": 15438
       },
       "TweetsCountHistory": {
         "20201225": 4841,
@@ -6184,20 +6433,21 @@
         "20210121": 4838,
         "20210122": 4838,
         "20210123": 4837,
-        "20210124": 4837
+        "20210124": 4837,
+        "20210125": 4837
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.2602964795362661300744246065,
+        "WeeklyGrowth": -0.2258029511383654913984869013,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 15476.85714285714285714285
+            "X": 20210119.0,
+            "Y": 15468.60714285714285714285
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 15436.57142857142857142856
+            "X": 20210125.0,
+            "Y": 15433.67857142857142857142
           }
         }
       }
@@ -6206,8 +6456,8 @@
       "PublicName": "asaha",
       "AvatarImage": "https://pbs.twimg.com/profile_images/2323973474/on0jwghvxynnlm1n8hcg_normal.gif",
       "Login": "vpandav",
-      "CurrentFollowersCount": 33393,
-      "CurrentTweetsCout": 10265,
+      "CurrentFollowersCount": 33479,
+      "CurrentTweetsCout": 10308,
       "FollowersCountHistory": {
         "20201225": 32624,
         "20201226": 32641,
@@ -6239,7 +6489,8 @@
         "20210121": 33388,
         "20210122": 33403,
         "20210123": 33390,
-        "20210124": 33393
+        "20210124": 33393,
+        "20210125": 33479
       },
       "TweetsCountHistory": {
         "20201225": 9676,
@@ -6272,20 +6523,21 @@
         "20210121": 10229,
         "20210122": 10240,
         "20210123": 10262,
-        "20210124": 10265
+        "20210124": 10265,
+        "20210125": 10308
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0,
+        "WeeklyGrowth": 0.1739932521436161276549712117,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 33392.857142857142857142857143
+            "X": 20210119.0,
+            "Y": 33375.67857142857142857142
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 33392.857142857142857142857143
+            "X": 20210125.0,
+            "Y": 33433.74999999999999999999
           }
         }
       }
@@ -6294,7 +6546,7 @@
       "PublicName": "ピクセル探偵",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1004016314669719552/FYM9NJi0_normal.jpg",
       "Login": "px_meitantei",
-      "CurrentFollowersCount": 1101,
+      "CurrentFollowersCount": 1100,
       "CurrentTweetsCout": 472,
       "FollowersCountHistory": {
         "20201225": 1075,
@@ -6327,7 +6579,8 @@
         "20210121": 1100,
         "20210122": 1100,
         "20210123": 1102,
-        "20210124": 1101
+        "20210124": 1101,
+        "20210125": 1100
       },
       "TweetsCountHistory": {
         "20201225": 469,
@@ -6360,20 +6613,21 @@
         "20210121": 472,
         "20210122": 472,
         "20210123": 472,
-        "20210124": 472
+        "20210124": 472,
+        "20210125": 472
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0389130293793371813995654692,
+        "WeeklyGrowth": -0.1167088115152694028399131122,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1101.3571428571428571428572
+            "X": 20210119.0,
+            "Y": 1101.6428571428571428571429
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1100.9285714285714285714287
+            "X": 20210125.0,
+            "Y": 1100.3571428571428571428572
           }
         }
       }
@@ -6382,8 +6636,8 @@
       "PublicName": "マッハドッターbrave (NekoBraver) @ドット絵LINEスタンプ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1294042634176966656/PiwWOJ4__normal.jpg",
       "Login": "BrvFlame",
-      "CurrentFollowersCount": 1775,
-      "CurrentTweetsCout": 21559,
+      "CurrentFollowersCount": 1773,
+      "CurrentTweetsCout": 21574,
       "FollowersCountHistory": {
         "20201225": 1754,
         "20201226": 1756,
@@ -6415,7 +6669,8 @@
         "20210121": 1774,
         "20210122": 1773,
         "20210123": 1773,
-        "20210124": 1775
+        "20210124": 1775,
+        "20210125": 1773
       },
       "TweetsCountHistory": {
         "20201225": 21191,
@@ -6448,20 +6703,21 @@
         "20210121": 21535,
         "20210122": 21544,
         "20210123": 21553,
-        "20210124": 21559
+        "20210124": 21559,
+        "20210125": 21574
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0483442107807590041092554964,
+        "WeeklyGrowth": 0.108824892686564156304791921,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1773.0000000000000000000001
+            "X": 20210119.0,
+            "Y": 1772.1785714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1773.8571428571428571428572
+            "X": 20210125.0,
+            "Y": 1774.1071428571428571428572
           }
         }
       }
@@ -6470,7 +6726,7 @@
       "PublicName": "26565deg",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1189887079192432640/cup9eZfn_normal.png",
       "Login": "26565deg",
-      "CurrentFollowersCount": 491,
+      "CurrentFollowersCount": 492,
       "CurrentTweetsCout": 46,
       "FollowersCountHistory": {
         "20201225": 491,
@@ -6503,7 +6759,8 @@
         "20210121": 490,
         "20210122": 490,
         "20210123": 490,
-        "20210124": 491
+        "20210124": 491,
+        "20210125": 492
       },
       "TweetsCountHistory": {
         "20201225": 46,
@@ -6536,20 +6793,21 @@
         "20210121": 46,
         "20210122": 46,
         "20210123": 46,
-        "20210124": 46
+        "20210124": 46,
+        "20210125": 46
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1309567115314659876318748522,
+        "WeeklyGrowth": 0.1310902337775835700240215456,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 490.8928571428571428571429
+            "X": 20210119.0,
+            "Y": 490.3928571428571428571429
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 490.2500000000000000000000
+            "X": 20210125.0,
+            "Y": 491.0357142857142857142857
           }
         }
       }
@@ -6558,7 +6816,7 @@
       "PublicName": "いか野",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1324336188132524032/aR8a-CvR_normal.png",
       "Login": "ikano_dot",
-      "CurrentFollowersCount": 555,
+      "CurrentFollowersCount": 556,
       "CurrentTweetsCout": 364,
       "FollowersCountHistory": {
         "20201225": 545,
@@ -6591,7 +6849,8 @@
         "20210121": 554,
         "20210122": 554,
         "20210123": 555,
-        "20210124": 555
+        "20210124": 555,
+        "20210125": 556
       },
       "TweetsCountHistory": {
         "20201225": 353,
@@ -6624,20 +6883,21 @@
         "20210121": 365,
         "20210122": 364,
         "20210123": 364,
-        "20210124": 364
+        "20210124": 364,
+        "20210125": 364
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.3098373353989155693261063295,
+        "WeeklyGrowth": 0.3483646216373137216953796799,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 553.2857142857142857142858
+            "X": 20210119.0,
+            "Y": 553.6071428571428571428571
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 555.0000000000000000000001
+            "X": 20210125.0,
+            "Y": 555.5357142857142857142857
           }
         }
       }
@@ -6679,7 +6939,8 @@
         "20210121": 4441,
         "20210122": 4441,
         "20210123": 4439,
-        "20210124": 4438
+        "20210124": 4438,
+        "20210125": 4438
       },
       "TweetsCountHistory": {
         "20201225": 1469,
@@ -6712,20 +6973,21 @@
         "20210121": 1475,
         "20210122": 1475,
         "20210123": 1475,
-        "20210124": 1475
+        "20210124": 1475,
+        "20210125": 1475
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1157407407407407407407439706,
+        "WeeklyGrowth": -0.0964785335262904003859205629,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 4443.428571428571428571428
+            "X": 20210119.0,
+            "Y": 4442.142857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 4438.285714285714285714285
+            "X": 20210125.0,
+            "Y": 4437.857142857142857142857
           }
         }
       }
@@ -6767,7 +7029,8 @@
         "20210121": 276,
         "20210122": 276,
         "20210123": 276,
-        "20210124": 276
+        "20210124": 276,
+        "20210125": 276
       },
       "TweetsCountHistory": {
         "20201225": 248,
@@ -6800,7 +7063,8 @@
         "20210121": 248,
         "20210122": 248,
         "20210123": 248,
-        "20210124": 248
+        "20210124": 248,
+        "20210125": 248
       },
       "LangId": "jp",
       "FollowersTrend": {
@@ -6808,11 +7072,11 @@
         "WeeklyGrowth": 0.0,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
+            "X": 20210119.0,
             "Y": 276.0
           },
           "End": {
-            "X": 20210124.0,
+            "X": 20210125.0,
             "Y": 276.0
           }
         }
@@ -6855,7 +7119,8 @@
         "20210121": 2815,
         "20210122": 2816,
         "20210123": 2816,
-        "20210124": 2815
+        "20210124": 2815,
+        "20210125": 2815
       },
       "TweetsCountHistory": {
         "20201225": 40787,
@@ -6888,20 +7153,21 @@
         "20210121": 40845,
         "20210122": 40846,
         "20210123": 40846,
-        "20210124": 40846
+        "20210124": 40846,
+        "20210125": 40846
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0228272862161236731639902094,
+        "WeeklyGrowth": -0.0684662296661637357203545036,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2816.1785714285714285714286
+            "X": 20210119.0,
+            "Y": 2816.8214285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2815.5357142857142857142857
+            "X": 20210125.0,
+            "Y": 2814.8928571428571428571428
           }
         }
       }
@@ -6910,8 +7176,8 @@
       "PublicName": "あひるひつじ🐑",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1351260439573794816/jHvye721_normal.jpg",
       "Login": "taco_human8823",
-      "CurrentFollowersCount": 4548,
-      "CurrentTweetsCout": 11299,
+      "CurrentFollowersCount": 4550,
+      "CurrentTweetsCout": 11311,
       "FollowersCountHistory": {
         "20201225": 4139,
         "20201226": 4155,
@@ -6943,7 +7209,8 @@
         "20210121": 4533,
         "20210122": 4536,
         "20210123": 4547,
-        "20210124": 4548
+        "20210124": 4548,
+        "20210125": 4550
       },
       "TweetsCountHistory": {
         "20201225": 10800,
@@ -6976,20 +7243,21 @@
         "20210121": 11272,
         "20210122": 11281,
         "20210123": 11295,
-        "20210124": 11299
+        "20210124": 11299,
+        "20210125": 11311
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.8979119982896914318291600306,
+        "WeeklyGrowth": 0.7776934749620637329286160991,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 4510.46428571428571428571
+            "X": 20210119.0,
+            "Y": 4518.85714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 4550.96428571428571428571
+            "X": 20210125.0,
+            "Y": 4554.00000000000000000000
           }
         }
       }
@@ -6998,7 +7266,7 @@
       "PublicName": "株式会社エイリム",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1241591367869952000/CA3m8Rrn_normal.jpg",
       "Login": "alim_pr",
-      "CurrentFollowersCount": 25206,
+      "CurrentFollowersCount": 25189,
       "CurrentTweetsCout": 1194,
       "FollowersCountHistory": {
         "20201225": 25442,
@@ -7031,7 +7299,8 @@
         "20210121": 25234,
         "20210122": 25223,
         "20210123": 25215,
-        "20210124": 25206
+        "20210124": 25206,
+        "20210125": 25189
       },
       "TweetsCountHistory": {
         "20201225": 1186,
@@ -7064,20 +7333,21 @@
         "20210121": 1194,
         "20210122": 1194,
         "20210123": 1194,
-        "20210124": 1194
+        "20210124": 1194,
+        "20210125": 1194
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1620949570929273698608105031,
+        "WeeklyGrowth": -0.1909889976190038296830685807,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 25249.75000000000000000000
+            "X": 20210119.0,
+            "Y": 25244.53571428571428571429
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 25208.82142857142857142857
+            "X": 20210125.0,
+            "Y": 25196.32142857142857142858
           }
         }
       }
@@ -7119,7 +7389,8 @@
         "20210121": 1113,
         "20210122": 1113,
         "20210123": 1113,
-        "20210124": 1113
+        "20210124": 1113,
+        "20210125": 1113
       },
       "TweetsCountHistory": {
         "20201225": 2729,
@@ -7152,20 +7423,21 @@
         "20210121": 2731,
         "20210122": 2731,
         "20210123": 2731,
-        "20210124": 2731
+        "20210124": 2731,
+        "20210125": 2731
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1154068090017311021350246768,
+        "WeeklyGrowth": -0.0961939269567447975117811933,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1114.0714285714285714285715
+            "X": 20210119.0,
+            "Y": 1113.8214285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1112.7857142857142857142858
+            "X": 20210125.0,
+            "Y": 1112.7500000000000000000000
           }
         }
       }
@@ -7174,8 +7446,8 @@
       "PublicName": "BAN-8KU",
       "AvatarImage": "https://pbs.twimg.com/profile_images/922073805312233475/PC5DpXRB_normal.jpg",
       "Login": "ban8ku",
-      "CurrentFollowersCount": 5539,
-      "CurrentTweetsCout": 3301,
+      "CurrentFollowersCount": 5549,
+      "CurrentTweetsCout": 3306,
       "FollowersCountHistory": {
         "20201225": 5504,
         "20201226": 5504,
@@ -7207,7 +7479,8 @@
         "20210121": 5500,
         "20210122": 5507,
         "20210123": 5533,
-        "20210124": 5539
+        "20210124": 5539,
+        "20210125": 5549
       },
       "TweetsCountHistory": {
         "20201225": 3248,
@@ -7240,20 +7513,21 @@
         "20210121": 3294,
         "20210122": 3298,
         "20210123": 3300,
-        "20210124": 3301
+        "20210124": 3301,
+        "20210125": 3306
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.7415019968518687151200590511,
+        "WeeklyGrowth": 1.026575155319910223465556654,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 5490.78571428571428571428
+            "X": 20210119.0,
+            "Y": 5489.82142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 5531.49999999999999999999
+            "X": 20210125.0,
+            "Y": 5546.17857142857142857143
           }
         }
       }
@@ -7262,8 +7536,8 @@
       "PublicName": "びーぷ🎮ピコピコ＆ドット情報屋",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1112957063796154370/WuqeVNAQ_normal.png",
       "Login": "BeepboyTokyo",
-      "CurrentFollowersCount": 1028,
-      "CurrentTweetsCout": 43212,
+      "CurrentFollowersCount": 1029,
+      "CurrentTweetsCout": 43217,
       "FollowersCountHistory": {
         "20201225": 1019,
         "20201226": 1020,
@@ -7295,7 +7569,8 @@
         "20210121": 1027,
         "20210122": 1028,
         "20210123": 1028,
-        "20210124": 1028
+        "20210124": 1028,
+        "20210125": 1029
       },
       "TweetsCountHistory": {
         "20201225": 43067,
@@ -7328,20 +7603,21 @@
         "20210121": 43201,
         "20210122": 43204,
         "20210123": 43207,
-        "20210124": 43212
+        "20210124": 43212,
+        "20210125": 43217
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1873503799049370294556361161,
+        "WeeklyGrowth": -0.0208369508595242229553736414,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1029.3928571428571428571429
+            "X": 20210119.0,
+            "Y": 1028.39285714285714285714285
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1027.4642857142857142857144
+            "X": 20210125.0,
+            "Y": 1028.17857142857142857142857
           }
         }
       }
@@ -7383,7 +7659,8 @@
         "20210121": 3232,
         "20210122": 3233,
         "20210123": 3231,
-        "20210124": 3231
+        "20210124": 3231,
+        "20210125": 3231
       },
       "TweetsCountHistory": {
         "20201225": 18827,
@@ -7416,20 +7693,21 @@
         "20210121": 18838,
         "20210122": 18841,
         "20210123": 18841,
-        "20210124": 18841
+        "20210124": 18841,
+        "20210125": 18841
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0464001237336632897687727167,
+        "WeeklyGrowth": -0.0397763684175634764545992524,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 3232.75
+            "X": 20210119.0,
+            "Y": 3232.3571428571428571428572
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 3231.25
+            "X": 20210125.0,
+            "Y": 3231.0714285714285714285715
           }
         }
       }
@@ -7471,7 +7749,8 @@
         "20210121": 2933,
         "20210122": 2931,
         "20210123": 2928,
-        "20210124": 2930
+        "20210124": 2930,
+        "20210125": 2930
       },
       "TweetsCountHistory": {
         "20201225": 1525,
@@ -7504,20 +7783,21 @@
         "20210121": 1525,
         "20210122": 1525,
         "20210123": 1525,
-        "20210124": 1525
+        "20210124": 1525,
+        "20210125": 1525
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.2190047451028105608954666124,
+        "WeeklyGrowth": -0.182581705313127624612008954,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2935.357142857142857142857
+            "X": 20210119.0,
+            "Y": 2934.107142857142857142858
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2928.928571428571428571429
+            "X": 20210125.0,
+            "Y": 2928.750000000000000000001
           }
         }
       }
@@ -7526,7 +7806,7 @@
       "PublicName": "furukawa",
       "AvatarImage": "https://pbs.twimg.com/profile_images/883568034912153600/DbybBbJb_normal.jpg",
       "Login": "fururirelo",
-      "CurrentFollowersCount": 2635,
+      "CurrentFollowersCount": 2634,
       "CurrentTweetsCout": 4132,
       "FollowersCountHistory": {
         "20201225": 2646,
@@ -7559,7 +7839,8 @@
         "20210121": 2636,
         "20210122": 2633,
         "20210123": 2635,
-        "20210124": 2635
+        "20210124": 2635,
+        "20210125": 2634
       },
       "TweetsCountHistory": {
         "20201225": 4128,
@@ -7592,20 +7873,21 @@
         "20210121": 4132,
         "20210122": 4132,
         "20210123": 4132,
-        "20210124": 4132
+        "20210124": 4132,
+        "20210125": 4132
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1381009761843512638947237528,
+        "WeeklyGrowth": -0.1543606894777463339336086634,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2637.821428571428571428571
+            "X": 20210119.0,
+            "Y": 2637.607142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2634.178571428571428571428
+            "X": 20210125.0,
+            "Y": 2633.535714285714285714286
           }
         }
       }
@@ -7647,7 +7929,8 @@
         "20210121": 18,
         "20210122": 18,
         "20210123": 18,
-        "20210124": 18
+        "20210124": 18,
+        "20210125": 18
       },
       "TweetsCountHistory": {
         "20201225": 27,
@@ -7680,20 +7963,21 @@
         "20210121": 36,
         "20210122": 36,
         "20210123": 36,
-        "20210124": 36
+        "20210124": 36,
+        "20210125": 36
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 6.237006237006237006237411664,
+        "WeeklyGrowth": 3.6659877800407331975556852676,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 17.1785714285714285714286
+            "X": 20210119.0,
+            "Y": 17.5357142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 18.2500000000000000000001
+            "X": 20210125.0,
+            "Y": 18.1785714285714285714285
           }
         }
       }
@@ -7702,8 +7986,8 @@
       "PublicName": "hako 生活",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1104003274842136577/1ic9a4zw_normal.png",
       "Login": "clrfnd",
-      "CurrentFollowersCount": 23161,
-      "CurrentTweetsCout": 13769,
+      "CurrentFollowersCount": 23167,
+      "CurrentTweetsCout": 13773,
       "FollowersCountHistory": {
         "20201225": 22667,
         "20201226": 22752,
@@ -7735,7 +8019,8 @@
         "20210121": 23167,
         "20210122": 23168,
         "20210123": 23159,
-        "20210124": 23161
+        "20210124": 23161,
+        "20210125": 23167
       },
       "TweetsCountHistory": {
         "20201225": 13644,
@@ -7768,20 +8053,21 @@
         "20210121": 13758,
         "20210122": 13764,
         "20210123": 13766,
-        "20210124": 13769
+        "20210124": 13769,
+        "20210125": 13773
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0212810908255366921474292287,
+        "WeeklyGrowth": 0.0138775170346521600355252097,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 23159.392857142857142857143
+            "X": 20210119.0,
+            "Y": 23161.821428571428571428572
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 23164.321428571428571428571
+            "X": 20210125.0,
+            "Y": 23165.035714285714285714286
           }
         }
       }
@@ -7790,7 +8076,7 @@
       "PublicName": "どんつく、",
       "AvatarImage": "https://pbs.twimg.com/profile_images/767365981303742465/CMC7nxhW_normal.jpg",
       "Login": "HG_EX",
-      "CurrentFollowersCount": 8308,
+      "CurrentFollowersCount": 8312,
       "CurrentTweetsCout": 23154,
       "FollowersCountHistory": {
         "20201225": 8321,
@@ -7823,7 +8109,8 @@
         "20210121": 8311,
         "20210122": 8309,
         "20210123": 8309,
-        "20210124": 8308
+        "20210124": 8308,
+        "20210125": 8312
       },
       "TweetsCountHistory": {
         "20201225": 23092,
@@ -7856,20 +8143,21 @@
         "20210121": 23154,
         "20210122": 23154,
         "20210123": 23154,
-        "20210124": 23154
+        "20210124": 23154,
+        "20210125": 23154
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1082241786557869873308997264,
+        "WeeklyGrowth": -0.0386689295151345893574478526,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 8316.071428571428571428571
+            "X": 20210119.0,
+            "Y": 8312.321428571428571428571
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 8307.071428571428571428571
+            "X": 20210125.0,
+            "Y": 8309.107142857142857142857
           }
         }
       }
@@ -7878,7 +8166,7 @@
       "PublicName": "患者長ひっく",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1274309562724581377/zXaJrIrl_normal.png",
       "Login": "hicchicc",
-      "CurrentFollowersCount": 2787,
+      "CurrentFollowersCount": 2789,
       "CurrentTweetsCout": 4166,
       "FollowersCountHistory": {
         "20201225": 2767,
@@ -7911,7 +8199,8 @@
         "20210121": 2789,
         "20210122": 2788,
         "20210123": 2787,
-        "20210124": 2787
+        "20210124": 2787,
+        "20210125": 2789
       },
       "TweetsCountHistory": {
         "20201225": 4072,
@@ -7944,20 +8233,21 @@
         "20210121": 4161,
         "20210122": 4161,
         "20210123": 4166,
-        "20210124": 4166
+        "20210124": 4166,
+        "20210125": 4166
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0615258408531583264971293049,
+        "WeeklyGrowth": 0.0692085869913489266260824105,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2786.2857142857142857142858
+            "X": 20210119.0,
+            "Y": 2786.6071428571428571428571
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2788.0000000000000000000001
+            "X": 20210125.0,
+            "Y": 2788.5357142857142857142857
           }
         }
       }
@@ -7966,7 +8256,7 @@
       "PublicName": "カイロソフト(Kairosoft)",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1120641345708679170/--1kGc-J_normal.png",
       "Login": "kairokun2010",
-      "CurrentFollowersCount": 37768,
+      "CurrentFollowersCount": 37773,
       "CurrentTweetsCout": 1602,
       "FollowersCountHistory": {
         "20201225": 37562,
@@ -7999,7 +8289,8 @@
         "20210121": 37748,
         "20210122": 37745,
         "20210123": 37748,
-        "20210124": 37768
+        "20210124": 37768,
+        "20210125": 37773
       },
       "TweetsCountHistory": {
         "20201225": 1578,
@@ -8032,20 +8323,21 @@
         "20210121": 1602,
         "20210122": 1602,
         "20210123": 1602,
-        "20210124": 1602
+        "20210124": 1602,
+        "20210125": 1602
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.084627595979905205733097417,
+        "WeeklyGrowth": 0.1056372024694115932096936452,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 37728.32142857142857142858
+            "X": 20210119.0,
+            "Y": 37730.21428571428571428571
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 37760.25000000000000000001
+            "X": 20210125.0,
+            "Y": 37770.07142857142857142857
           }
         }
       }
@@ -8054,7 +8346,7 @@
       "PublicName": "なるめ／ILY.",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1242758837477638147/0cnwqGAy_normal.png",
       "Login": "narumeNKR",
-      "CurrentFollowersCount": 12084,
+      "CurrentFollowersCount": 12089,
       "CurrentTweetsCout": 3031,
       "FollowersCountHistory": {
         "20201225": 11806,
@@ -8087,7 +8379,8 @@
         "20210121": 12007,
         "20210122": 12067,
         "20210123": 12077,
-        "20210124": 12084
+        "20210124": 12084,
+        "20210125": 12089
       },
       "TweetsCountHistory": {
         "20201225": 2970,
@@ -8120,20 +8413,21 @@
         "20210121": 3018,
         "20210122": 3024,
         "20210123": 3028,
-        "20210124": 3031
+        "20210124": 3031,
+        "20210125": 3031
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.7756602346044549825148784588,
+        "WeeklyGrowth": 0.8484188152501049360113954022,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 11989.78571428571428571429
+            "X": 20210119.0,
+            "Y": 11997.10714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 12082.78571428571428571429
+            "X": 20210125.0,
+            "Y": 12098.89285714285714285715
           }
         }
       }
@@ -8142,8 +8436,8 @@
       "PublicName": "おづみかん",
       "AvatarImage": "https://pbs.twimg.com/profile_images/935888499143618560/90TiVh4Z_normal.jpg",
       "Login": "ozumikan",
-      "CurrentFollowersCount": 10288,
-      "CurrentTweetsCout": 7974,
+      "CurrentFollowersCount": 10283,
+      "CurrentTweetsCout": 7980,
       "FollowersCountHistory": {
         "20201225": 10317,
         "20201226": 10319,
@@ -8175,7 +8469,8 @@
         "20210121": 10294,
         "20210122": 10294,
         "20210123": 10290,
-        "20210124": 10288
+        "20210124": 10288,
+        "20210125": 10283
       },
       "TweetsCountHistory": {
         "20201225": 7924,
@@ -8208,20 +8503,21 @@
         "20210121": 7970,
         "20210122": 7974,
         "20210123": 7974,
-        "20210124": 7974
+        "20210124": 7974,
+        "20210125": 7980
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0728395275836353861362099176,
+        "WeeklyGrowth": -0.0999000999000999000999028749,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 10296.607142857142857142857
+            "X": 20210119.0,
+            "Y": 10296.000000000000000000000
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 10289.107142857142857142857
+            "X": 20210125.0,
+            "Y": 10285.714285714285714285714
           }
         }
       }
@@ -8263,7 +8559,8 @@
         "20210121": 84,
         "20210122": 84,
         "20210123": 84,
-        "20210124": 84
+        "20210124": 84,
+        "20210125": 84
       },
       "TweetsCountHistory": {
         "20201225": 160,
@@ -8296,7 +8593,8 @@
         "20210121": 148,
         "20210122": 148,
         "20210123": 148,
-        "20210124": 148
+        "20210124": 148,
+        "20210125": 148
       },
       "LangId": "jp",
       "FollowersTrend": {
@@ -8304,11 +8602,11 @@
         "WeeklyGrowth": 0.0,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
+            "X": 20210119.0,
             "Y": 84.0
           },
           "End": {
-            "X": 20210124.0,
+            "X": 20210125.0,
             "Y": 84.0
           }
         }
@@ -8318,7 +8616,7 @@
       "PublicName": "sᴀɴɢᴏ▷",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1317499413489594370/M--vAy7A_normal.png",
       "Login": "co35rail",
-      "CurrentFollowersCount": 1963,
+      "CurrentFollowersCount": 1962,
       "CurrentTweetsCout": 13638,
       "FollowersCountHistory": {
         "20201225": 1967,
@@ -8351,7 +8649,8 @@
         "20210121": 1964,
         "20210122": 1963,
         "20210123": 1963,
-        "20210124": 1963
+        "20210124": 1963,
+        "20210125": 1962
       },
       "TweetsCountHistory": {
         "20201225": 13639,
@@ -8384,20 +8683,21 @@
         "20210121": 13638,
         "20210122": 13638,
         "20210123": 13638,
-        "20210124": 13638
+        "20210124": 13638,
+        "20210125": 13638
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0327540715130561368392342838,
+        "WeeklyGrowth": -0.0436554132712456344586757852,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1962.6785714285714285714285
+            "X": 20210119.0,
+            "Y": 1963.4285714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1963.3214285714285714285714
+            "X": 20210125.0,
+            "Y": 1962.5714285714285714285714
           }
         }
       }
@@ -8407,7 +8707,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1199666983802830848/Z0fpHn3J_normal.jpg",
       "Login": "takekiyo666",
       "CurrentFollowersCount": 4239,
-      "CurrentTweetsCout": 45836,
+      "CurrentTweetsCout": 45840,
       "FollowersCountHistory": {
         "20201225": 4241,
         "20201226": 4237,
@@ -8439,7 +8739,8 @@
         "20210121": 4239,
         "20210122": 4238,
         "20210123": 4236,
-        "20210124": 4239
+        "20210124": 4239,
+        "20210125": 4239
       },
       "TweetsCountHistory": {
         "20201225": 45789,
@@ -8472,20 +8773,21 @@
         "20210121": 45825,
         "20210122": 45831,
         "20210123": 45835,
-        "20210124": 45836
+        "20210124": 45836,
+        "20210125": 45840
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.2875713673093578413648876945,
+        "WeeklyGrowth": -0.1464658793424187072281686021,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 4247.392857142857142857143
+            "X": 20210119.0,
+            "Y": 4242.821428571428571428571
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 4235.178571428571428571428
+            "X": 20210125.0,
+            "Y": 4236.607142857142857142857
           }
         }
       }
@@ -8494,7 +8796,7 @@
       "PublicName": "choco3",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1317695223284207621/7p1js-77_normal.jpg",
       "Login": "choco3_pixel",
-      "CurrentFollowersCount": 34,
+      "CurrentFollowersCount": 35,
       "CurrentTweetsCout": 2,
       "FollowersCountHistory": {
         "20201225": 31,
@@ -8527,7 +8829,8 @@
         "20210121": 34,
         "20210122": 34,
         "20210123": 34,
-        "20210124": 34
+        "20210124": 34,
+        "20210125": 35
       },
       "TweetsCountHistory": {
         "20201225": 2,
@@ -8560,20 +8863,21 @@
         "20210121": 2,
         "20210122": 2,
         "20210123": 2,
-        "20210124": 2
+        "20210124": 2,
+        "20210125": 2
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0,
+        "WeeklyGrowth": 1.9007391763463569165784965138,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 34.0
+            "X": 20210119.0,
+            "Y": 33.8214285714285714285715
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 34.0
+            "X": 20210125.0,
+            "Y": 34.4642857142857142857143
           }
         }
       }
@@ -8582,8 +8886,8 @@
       "PublicName": "yuta",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1071777629114531841/HWvSv06R_normal.jpg",
       "Login": "yyuta342",
-      "CurrentFollowersCount": 16136,
-      "CurrentTweetsCout": 34576,
+      "CurrentFollowersCount": 16132,
+      "CurrentTweetsCout": 34585,
       "FollowersCountHistory": {
         "20201225": 16144,
         "20201226": 16150,
@@ -8615,7 +8919,8 @@
         "20210121": 16137,
         "20210122": 16133,
         "20210123": 16133,
-        "20210124": 16136
+        "20210124": 16136,
+        "20210125": 16132
       },
       "TweetsCountHistory": {
         "20201225": 34475,
@@ -8648,20 +8953,21 @@
         "20210121": 34561,
         "20210122": 34573,
         "20210123": 34573,
-        "20210124": 34576
+        "20210124": 34576,
+        "20210125": 34585
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0424846435715423695809943169,
+        "WeeklyGrowth": -0.034523203576249806360233694,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 16140.285714285714285714286
+            "X": 20210119.0,
+            "Y": 16138.214285714285714285715
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 16133.428571428571428571429
+            "X": 20210125.0,
+            "Y": 16132.642857142857142857144
           }
         }
       }
@@ -8670,8 +8976,8 @@
       "PublicName": "Zennyan",
       "AvatarImage": "https://pbs.twimg.com/profile_images/924982501012934657/56_4YQdv_normal.jpg",
       "Login": "in_the_RGB",
-      "CurrentFollowersCount": 7431,
-      "CurrentTweetsCout": 2500,
+      "CurrentFollowersCount": 7436,
+      "CurrentTweetsCout": 2502,
       "FollowersCountHistory": {
         "20201225": 7370,
         "20201226": 7372,
@@ -8703,7 +9009,8 @@
         "20210121": 7429,
         "20210122": 7427,
         "20210123": 7429,
-        "20210124": 7431
+        "20210124": 7431,
+        "20210125": 7436
       },
       "TweetsCountHistory": {
         "20201225": 2483,
@@ -8736,20 +9043,21 @@
         "20210121": 2500,
         "20210122": 2500,
         "20210123": 2500,
-        "20210124": 2500
+        "20210124": 2500,
+        "20210125": 2502
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.1443820927703073413481533475,
+        "WeeklyGrowth": 0.1472236789561552488128344436,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 7420.785714285714285714286
+            "X": 20210119.0,
+            "Y": 7423.107142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 7431.500000000000000000001
+            "X": 20210125.0,
+            "Y": 7434.035714285714285714286
           }
         }
       }
@@ -8758,8 +9066,8 @@
       "PublicName": "シロス",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1344461804777271297/x7go_7Aj_normal.jpg",
       "Login": "shin_shiros",
-      "CurrentFollowersCount": 140211,
-      "CurrentTweetsCout": 28399,
+      "CurrentFollowersCount": 140451,
+      "CurrentTweetsCout": 28400,
       "FollowersCountHistory": {
         "20201231": 124394,
         "20210101": 124719,
@@ -8785,7 +9093,8 @@
         "20210121": 136310,
         "20210122": 137584,
         "20210123": 139789,
-        "20210124": 140211
+        "20210124": 140211,
+        "20210125": 140451
       },
       "TweetsCountHistory": {
         "20201231": 28194,
@@ -8812,20 +9121,21 @@
         "20210121": 28361,
         "20210122": 28370,
         "20210123": 28378,
-        "20210124": 28399
+        "20210124": 28399,
+        "20210125": 28400
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 4.5677327269905224266300178817,
+        "WeeklyGrowth": 4.7804286176055183043822984124,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 133917.642857142857142857
+            "X": 20210119.0,
+            "Y": 134575.500000000000000000
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 140034.642857142857142857
+            "X": 20210125.0,
+            "Y": 141008.785714285714285714
           }
         }
       }
@@ -8834,8 +9144,8 @@
       "PublicName": "さくえもン＠なんでZ（ドット絵担当）",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1345294026732306432/rU_-rodd_normal.jpg",
       "Login": "sakuemonq",
-      "CurrentFollowersCount": 67279,
-      "CurrentTweetsCout": 16716,
+      "CurrentFollowersCount": 67277,
+      "CurrentTweetsCout": 16732,
       "FollowersCountHistory": {
         "20201231": 65616,
         "20210101": 65757,
@@ -8861,7 +9171,8 @@
         "20210121": 67262,
         "20210122": 67277,
         "20210123": 67280,
-        "20210124": 67279
+        "20210124": 67279,
+        "20210125": 67277
       },
       "TweetsCountHistory": {
         "20201231": 16207,
@@ -8888,20 +9199,21 @@
         "20210121": 16690,
         "20210122": 16701,
         "20210123": 16715,
-        "20210124": 16716
+        "20210124": 16716,
+        "20210125": 16732
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.05672191919782034872297079,
+        "WeeklyGrowth": 0.0452444955185645812069680723,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 67245.35714285714285714285
+            "X": 20210119.0,
+            "Y": 67253.64285714285714285715
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 67283.50000000000000000000
+            "X": 20210125.0,
+            "Y": 67284.07142857142857142858
           }
         }
       }
@@ -8910,8 +9222,8 @@
       "PublicName": "ぱねる",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1340192283778457600/dSROiRV5_normal.jpg",
       "Login": "hitoyoni1573",
-      "CurrentFollowersCount": 2018,
-      "CurrentTweetsCout": 129277,
+      "CurrentFollowersCount": 2017,
+      "CurrentTweetsCout": 129274,
       "FollowersCountHistory": {
         "20201231": 2024,
         "20210101": 2025,
@@ -8937,7 +9249,8 @@
         "20210121": 2020,
         "20210122": 2020,
         "20210123": 2019,
-        "20210124": 2018
+        "20210124": 2018,
+        "20210125": 2017
       },
       "TweetsCountHistory": {
         "20201231": 128935,
@@ -8964,20 +9277,21 @@
         "20210121": 129222,
         "20210122": 129225,
         "20210123": 129269,
-        "20210124": 129277
+        "20210124": 129277,
+        "20210125": 129274
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1378213623111582295255411255,
+        "WeeklyGrowth": -0.1802406743121697796469474072,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2021.250000000000000000000
+            "X": 20210119.0,
+            "Y": 2021.107142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2018.464285714285714285715
+            "X": 20210125.0,
+            "Y": 2017.464285714285714285714
           }
         }
       }
@@ -8986,7 +9300,7 @@
       "PublicName": "garvash",
       "AvatarImage": "https://pbs.twimg.com/profile_images/871426309833895936/o0njsKBR_normal.jpg",
       "Login": "garvash",
-      "CurrentFollowersCount": 2168,
+      "CurrentFollowersCount": 2169,
       "CurrentTweetsCout": 10007,
       "FollowersCountHistory": {
         "20201231": 2183,
@@ -9013,7 +9327,8 @@
         "20210121": 2169,
         "20210122": 2169,
         "20210123": 2168,
-        "20210124": 2168
+        "20210124": 2168,
+        "20210125": 2169
       },
       "TweetsCountHistory": {
         "20201231": 10014,
@@ -9040,20 +9355,21 @@
         "20210121": 10008,
         "20210122": 10008,
         "20210123": 10007,
-        "20210124": 10007
+        "20210124": 10007,
+        "20210125": 10007
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.157915515199368337939176197,
+        "WeeklyGrowth": -0.1086080073721798943540225816,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2171.142857142857142857143
+            "X": 20210119.0,
+            "Y": 2170.321428571428571428572
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2167.714285714285714285715
+            "X": 20210125.0,
+            "Y": 2167.964285714285714285715
           }
         }
       }
@@ -9062,8 +9378,8 @@
       "PublicName": "UNK教祖",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1112591495800881154/Wi69qQfO_normal.png",
       "Login": "55unkman",
-      "CurrentFollowersCount": 5770,
-      "CurrentTweetsCout": 201798,
+      "CurrentFollowersCount": 5794,
+      "CurrentTweetsCout": 201860,
       "FollowersCountHistory": {
         "20201231": 5711,
         "20210101": 5727,
@@ -9089,7 +9405,8 @@
         "20210121": 5769,
         "20210122": 5770,
         "20210123": 5770,
-        "20210124": 5770
+        "20210124": 5770,
+        "20210125": 5794
       },
       "TweetsCountHistory": {
         "20201231": 200746,
@@ -9116,20 +9433,21 @@
         "20210121": 201730,
         "20210122": 201742,
         "20210123": 201764,
-        "20210124": 201798
+        "20210124": 201798,
+        "20210125": 201860
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.2679568291775213993300980094,
+        "WeeklyGrowth": 0.4129899604993085828738391162,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 5757.857142857142857142857
+            "X": 20210119.0,
+            "Y": 5759.39285714285714285715
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 5773.285714285714285714285
+            "X": 20210125.0,
+            "Y": 5783.17857142857142857143
           }
         }
       }
@@ -9138,8 +9456,8 @@
       "PublicName": "湯村きの",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1352371132683362304/TS19ecOq_normal.png",
       "Login": "yumurama",
-      "CurrentFollowersCount": 41723,
-      "CurrentTweetsCout": 62739,
+      "CurrentFollowersCount": 41744,
+      "CurrentTweetsCout": 62784,
       "FollowersCountHistory": {
         "20201231": 40782,
         "20210101": 40786,
@@ -9165,7 +9483,8 @@
         "20210121": 41714,
         "20210122": 41699,
         "20210123": 41725,
-        "20210124": 41723
+        "20210124": 41723,
+        "20210125": 41744
       },
       "TweetsCountHistory": {
         "20201231": 61990,
@@ -9192,20 +9511,21 @@
         "20210121": 62703,
         "20210122": 62723,
         "20210123": 62737,
-        "20210124": 62739
+        "20210124": 62739,
+        "20210125": 62784
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.1270076333130223960221449076,
+        "WeeklyGrowth": 0.1434399364545657857192535785,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 41673.53571428571428571429
+            "X": 20210119.0,
+            "Y": 41679.96428571428571428572
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 41726.46428571428571428572
+            "X": 20210125.0,
+            "Y": 41739.75000000000000000001
           }
         }
       }
@@ -9214,7 +9534,7 @@
       "PublicName": "なまこ大爆発🔞",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1136938106668535808/xmzCFFyV_normal.png",
       "Login": "namako8982",
-      "CurrentFollowersCount": 121165,
+      "CurrentFollowersCount": 121179,
       "CurrentTweetsCout": 15797,
       "FollowersCountHistory": {
         "20201231": 120707,
@@ -9241,7 +9561,8 @@
         "20210121": 121149,
         "20210122": 121130,
         "20210123": 121168,
-        "20210124": 121165
+        "20210124": 121165,
+        "20210125": 121179
       },
       "TweetsCountHistory": {
         "20201231": 15802,
@@ -9268,20 +9589,21 @@
         "20210121": 15797,
         "20210122": 15797,
         "20210123": 15797,
-        "20210124": 15797
+        "20210124": 15797,
+        "20210125": 15797
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0474185215329629498566840063,
+        "WeeklyGrowth": 0.0463527301227285835348709932,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 121110.00000000000000000000
+            "X": 20210119.0,
+            "Y": 121120.92857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 121167.42857142857142857143
+            "X": 20210125.0,
+            "Y": 121177.07142857142857142857
           }
         }
       }
@@ -9290,8 +9612,8 @@
       "PublicName": "BlueHat",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1108385471539736577/-XCT16Xs_normal.png",
       "Login": "BlueHat_t",
-      "CurrentFollowersCount": 16868,
-      "CurrentTweetsCout": 15607,
+      "CurrentFollowersCount": 16869,
+      "CurrentTweetsCout": 15612,
       "FollowersCountHistory": {
         "20201231": 16873,
         "20210101": 16877,
@@ -9317,7 +9639,8 @@
         "20210121": 16866,
         "20210122": 16868,
         "20210123": 16870,
-        "20210124": 16868
+        "20210124": 16868,
+        "20210125": 16869
       },
       "TweetsCountHistory": {
         "20201231": 15526,
@@ -9344,20 +9667,21 @@
         "20210121": 15595,
         "20210122": 15600,
         "20210123": 15607,
-        "20210124": 15607
+        "20210124": 15607,
+        "20210125": 15612
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0457487546172354197024678904,
+        "WeeklyGrowth": 0.0355784462384264161492261685,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 16862.285714285714285714286
+            "X": 20210119.0,
+            "Y": 16864.142857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 16870.000000000000000000001
+            "X": 20210125.0,
+            "Y": 16870.142857142857142857143
           }
         }
       }
@@ -9367,7 +9691,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1093492836496896000/GuOsrkz3_normal.jpg",
       "Login": "Morichaba",
       "CurrentFollowersCount": 6269,
-      "CurrentTweetsCout": 84974,
+      "CurrentTweetsCout": 84975,
       "FollowersCountHistory": {
         "20201231": 6122,
         "20210101": 6132,
@@ -9393,7 +9717,8 @@
         "20210121": 6256,
         "20210122": 6257,
         "20210123": 6261,
-        "20210124": 6269
+        "20210124": 6269,
+        "20210125": 6269
       },
       "TweetsCountHistory": {
         "20201231": 84164,
@@ -9420,20 +9745,21 @@
         "20210121": 84994,
         "20210122": 84984,
         "20210123": 84976,
-        "20210124": 84974
+        "20210124": 84974,
+        "20210125": 84975
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.5292156840284539341802314021,
+        "WeeklyGrowth": 0.4668512712543195185023684768,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 6235.64285714285714285714
+            "X": 20210119.0,
+            "Y": 6242.42857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 6268.64285714285714285714
+            "X": 20210125.0,
+            "Y": 6271.57142857142857142857
           }
         }
       }
@@ -9443,7 +9769,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/898852525532631040/xWC1GZNT_normal.jpg",
       "Login": "neet_dot",
       "CurrentFollowersCount": 1242,
-      "CurrentTweetsCout": 4208,
+      "CurrentTweetsCout": 4211,
       "FollowersCountHistory": {
         "20201231": 1239,
         "20210101": 1242,
@@ -9469,7 +9795,8 @@
         "20210121": 1242,
         "20210122": 1242,
         "20210123": 1243,
-        "20210124": 1242
+        "20210124": 1242,
+        "20210125": 1242
       },
       "TweetsCountHistory": {
         "20201231": 4189,
@@ -9496,20 +9823,21 @@
         "20210121": 4210,
         "20210122": 4210,
         "20210123": 4210,
-        "20210124": 4208
+        "20210124": 4208,
+        "20210125": 4211
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.034508540863863806292051532,
+        "WeeklyGrowth": 0.0172527820110992897604734163,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1241.9285714285714285714286
+            "X": 20210119.0,
+            "Y": 1242.03571428571428571428572
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1242.3571428571428571428571
+            "X": 20210125.0,
+            "Y": 1242.25000000000000000000000
           }
         }
       }
@@ -9518,8 +9846,8 @@
       "PublicName": "ヒガタ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1174518446341545985/ysMN0zyU_normal.png",
       "Login": "higat_00",
-      "CurrentFollowersCount": 2923,
-      "CurrentTweetsCout": 59027,
+      "CurrentFollowersCount": 2925,
+      "CurrentTweetsCout": 59038,
       "FollowersCountHistory": {
         "20201231": 2892,
         "20210101": 2895,
@@ -9545,7 +9873,8 @@
         "20210121": 2930,
         "20210122": 2927,
         "20210123": 2926,
-        "20210124": 2923
+        "20210124": 2923,
+        "20210125": 2925
       },
       "TweetsCountHistory": {
         "20201231": 58633,
@@ -9572,20 +9901,21 @@
         "20210121": 59007,
         "20210122": 59019,
         "20210123": 59022,
-        "20210124": 59027
+        "20210124": 59027,
+        "20210125": 59038
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0585537230408900165902220179,
+        "WeeklyGrowth": -0.2120735675893085670408326935,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2927.7142857142857142857142
+            "X": 20210119.0,
+            "Y": 2930.250000000000000000000
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2925.9999999999999999999999
+            "X": 20210125.0,
+            "Y": 2924.035714285714285714286
           }
         }
       }
@@ -9594,7 +9924,7 @@
       "PublicName": "warabin",
       "AvatarImage": "https://pbs.twimg.com/profile_images/878988048121208832/qVDHwo9V_normal.jpg",
       "Login": "warabin_sd",
-      "CurrentFollowersCount": 1115,
+      "CurrentFollowersCount": 1116,
       "CurrentTweetsCout": 2419,
       "FollowersCountHistory": {
         "20201231": 1118,
@@ -9621,7 +9951,8 @@
         "20210121": 1116,
         "20210122": 1115,
         "20210123": 1115,
-        "20210124": 1115
+        "20210124": 1115,
+        "20210125": 1116
       },
       "TweetsCountHistory": {
         "20201231": 2367,
@@ -9648,20 +9979,21 @@
         "20210121": 2417,
         "20210122": 2417,
         "20210123": 2419,
-        "20210124": 2419
+        "20210124": 2419,
+        "20210125": 2419
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1151852562871952390094055146,
+        "WeeklyGrowth": -0.0576092174747959673547716464,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1116.2142857142857142857143
+            "X": 20210119.0,
+            "Y": 1115.8928571428571428571428
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1114.9285714285714285714286
+            "X": 20210125.0,
+            "Y": 1115.2500000000000000000000
           }
         }
       }
@@ -9670,8 +10002,8 @@
       "PublicName": "ｍｍｍ街",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1006895100272578561/1W_3R4am_normal.jpg",
       "Login": "mmmmatimmmmati",
-      "CurrentFollowersCount": 6733,
-      "CurrentTweetsCout": 10620,
+      "CurrentFollowersCount": 6740,
+      "CurrentTweetsCout": 10628,
       "FollowersCountHistory": {
         "20201231": 6461,
         "20210101": 6486,
@@ -9697,7 +10029,8 @@
         "20210121": 6708,
         "20210122": 6727,
         "20210123": 6736,
-        "20210124": 6733
+        "20210124": 6733,
+        "20210125": 6740
       },
       "TweetsCountHistory": {
         "20201231": 10386,
@@ -9724,20 +10057,21 @@
         "20210121": 10598,
         "20210122": 10608,
         "20210123": 10616,
-        "20210124": 10620
+        "20210124": 10620,
+        "20210125": 10628
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.8885562297842765109999196154,
+        "WeeklyGrowth": 0.8714410816121660009825709922,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 6680.17857142857142857143
+            "X": 20210119.0,
+            "Y": 6688.42857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 6739.53571428571428571428
+            "X": 20210125.0,
+            "Y": 6746.71428571428571428572
           }
         }
       }
@@ -9747,7 +10081,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/981857369582796800/I2caLSWS_normal.jpg",
       "Login": "lacno_DotR",
       "CurrentFollowersCount": 545,
-      "CurrentTweetsCout": 1827,
+      "CurrentTweetsCout": 1826,
       "FollowersCountHistory": {
         "20201231": 547,
         "20210101": 548,
@@ -9773,7 +10107,8 @@
         "20210121": 547,
         "20210122": 547,
         "20210123": 547,
-        "20210124": 545
+        "20210124": 545,
+        "20210125": 545
       },
       "TweetsCountHistory": {
         "20201231": 1767,
@@ -9800,20 +10135,21 @@
         "20210121": 1827,
         "20210122": 1827,
         "20210123": 1827,
-        "20210124": 1827
+        "20210124": 1827,
+        "20210125": 1826
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.4299954394423089452081304867,
+        "WeeklyGrowth": -0.508375154793717004497217237,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 548.178571428571428571429
+            "X": 20210119.0,
+            "Y": 547.964285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 545.821428571428571428572
+            "X": 20210125.0,
+            "Y": 545.178571428571428571428
           }
         }
       }
@@ -9822,8 +10158,8 @@
       "PublicName": "おかか容疑者(Okaka-Suspect)",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1344772590062059520/suTJBNR7_normal.jpg",
       "Login": "daidaimyou",
-      "CurrentFollowersCount": 2206,
-      "CurrentTweetsCout": 198033,
+      "CurrentFollowersCount": 2205,
+      "CurrentTweetsCout": 198075,
       "FollowersCountHistory": {
         "20201231": 2194,
         "20210101": 2194,
@@ -9849,7 +10185,8 @@
         "20210121": 2205,
         "20210122": 2205,
         "20210123": 2205,
-        "20210124": 2206
+        "20210124": 2206,
+        "20210125": 2205
       },
       "TweetsCountHistory": {
         "20201231": 197067,
@@ -9876,20 +10213,21 @@
         "20210121": 197850,
         "20210122": 197944,
         "20210123": 197997,
-        "20210124": 198033
+        "20210124": 198033,
+        "20210125": 198075
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0,
+        "WeeklyGrowth": 0.0194369756065956137225060738,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2205.2857142857142857142857143
+            "X": 20210119.0,
+            "Y": 2204.9285714285714285714286
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2205.2857142857142857142857143
+            "X": 20210125.0,
+            "Y": 2205.3571428571428571428572
           }
         }
       }
@@ -9899,7 +10237,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/851813513366347778/GdpGeSwg_normal.jpg",
       "Login": "shagunacazanera",
       "CurrentFollowersCount": 2150,
-      "CurrentTweetsCout": 109801,
+      "CurrentTweetsCout": 109782,
       "FollowersCountHistory": {
         "20201231": 2155,
         "20210101": 2156,
@@ -9925,7 +10263,8 @@
         "20210121": 2151,
         "20210122": 2151,
         "20210123": 2150,
-        "20210124": 2150
+        "20210124": 2150,
+        "20210125": 2150
       },
       "TweetsCountHistory": {
         "20201231": 110004,
@@ -9952,20 +10291,21 @@
         "20210121": 109830,
         "20210122": 109829,
         "20210123": 109815,
-        "20210124": 109801
+        "20210124": 109801,
+        "20210125": 109782
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0896191187453323375653439543,
+        "WeeklyGrowth": -0.0796759843303897483566834882,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2151.9642857142857142857143
+            "X": 20210119.0,
+            "Y": 2151.5714285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2150.0357142857142857142858
+            "X": 20210125.0,
+            "Y": 2149.8571428571428571428571
           }
         }
       }
@@ -9974,8 +10314,8 @@
       "PublicName": "秘伝のタレ.🍯",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1238891968920346624/8zMub70Z_normal.png",
       "Login": "tare_pare",
-      "CurrentFollowersCount": 5204,
-      "CurrentTweetsCout": 26573,
+      "CurrentFollowersCount": 5218,
+      "CurrentTweetsCout": 26579,
       "FollowersCountHistory": {
         "20201231": 5158,
         "20210101": 5158,
@@ -10001,7 +10341,8 @@
         "20210121": 5204,
         "20210122": 5204,
         "20210123": 5203,
-        "20210124": 5204
+        "20210124": 5204,
+        "20210125": 5218
       },
       "TweetsCountHistory": {
         "20201231": 26365,
@@ -10028,20 +10369,21 @@
         "20210121": 26564,
         "20210122": 26572,
         "20210123": 26573,
-        "20210124": 26573
+        "20210124": 26573,
+        "20210125": 26579
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.7412877977402455774658162223,
+        "WeeklyGrowth": 0.5370051635111876075732048193,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 5174.39285714285714285715
+            "X": 20210119.0,
+            "Y": 5187.50000000000000000000
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 5212.75000000000000000000
+            "X": 20210125.0,
+            "Y": 5215.35714285714285714286
           }
         }
       }
@@ -10050,8 +10392,8 @@
       "PublicName": "mae",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1320011758581411840/nrqkcMtH_normal.png",
       "Login": "mae_1031_",
-      "CurrentFollowersCount": 2654,
-      "CurrentTweetsCout": 858,
+      "CurrentFollowersCount": 2666,
+      "CurrentTweetsCout": 862,
       "FollowersCountHistory": {
         "20210108": 1830,
         "20210109": 1901,
@@ -10069,7 +10411,8 @@
         "20210121": 2615,
         "20210122": 2626,
         "20210123": 2630,
-        "20210124": 2654
+        "20210124": 2654,
+        "20210125": 2666
       },
       "TweetsCountHistory": {
         "20210108": 827,
@@ -10088,20 +10431,21 @@
         "20210121": 858,
         "20210122": 858,
         "20210123": 858,
-        "20210124": 858
+        "20210124": 858,
+        "20210125": 862
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 3.1165800949973611844118218938,
+        "WeeklyGrowth": 2.905829596412556053811496826,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 2571.50000000000000000000
+            "X": 20210119.0,
+            "Y": 2588.39285714285714285714
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 2651.64285714285714285715
+            "X": 20210125.0,
+            "Y": 2663.60714285714285714285
           }
         }
       }
@@ -10125,7 +10469,8 @@
         "20210121": 151,
         "20210122": 151,
         "20210123": 151,
-        "20210124": 151
+        "20210124": 151,
+        "20210125": 151
       },
       "TweetsCountHistory": {
         "20210112": 199,
@@ -10140,20 +10485,21 @@
         "20210121": 204,
         "20210122": 204,
         "20210123": 204,
-        "20210124": 204
+        "20210124": 204,
+        "20210125": 204
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.7057163020465772759351212808,
+        "WeeklyGrowth": -0.4244282008960150907804385358,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 151.8214285714285714285714
+            "X": 20210119.0,
+            "Y": 151.4642857142857142857143
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 150.7499999999999999999999
+            "X": 20210125.0,
+            "Y": 150.8214285714285714285715
           }
         }
       }
@@ -10177,7 +10523,8 @@
         "20210121": 15,
         "20210122": 15,
         "20210123": 15,
-        "20210124": 15
+        "20210124": 15,
+        "20210125": 15
       },
       "TweetsCountHistory": {
         "20210112": 7,
@@ -10192,7 +10539,8 @@
         "20210121": 8,
         "20210122": 8,
         "20210123": 8,
-        "20210124": 8
+        "20210124": 8,
+        "20210125": 8
       },
       "LangId": "jp",
       "FollowersTrend": {
@@ -10200,11 +10548,11 @@
         "WeeklyGrowth": 0.0,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
+            "X": 20210119.0,
             "Y": 15.0
           },
           "End": {
-            "X": 20210124.0,
+            "X": 20210125.0,
             "Y": 15.0
           }
         }
@@ -10214,7 +10562,7 @@
       "PublicName": "hojicha",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1213471879932940288/QslKt9ke_normal.jpg",
       "Login": "hojicha10",
-      "CurrentFollowersCount": 1431,
+      "CurrentFollowersCount": 1432,
       "CurrentTweetsCout": 38,
       "FollowersCountHistory": {
         "20210113": 1429,
@@ -10228,7 +10576,8 @@
         "20210121": 1431,
         "20210122": 1430,
         "20210123": 1431,
-        "20210124": 1431
+        "20210124": 1431,
+        "20210125": 1432
       },
       "TweetsCountHistory": {
         "20210113": 38,
@@ -10242,20 +10591,21 @@
         "20210121": 38,
         "20210122": 38,
         "20210123": 38,
-        "20210124": 38
+        "20210124": 38,
+        "20210125": 38
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0599340725202277494755738669,
+        "WeeklyGrowth": 0.0898966188882784797482884736,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 1430.1428571428571428571429
+            "X": 20210119.0,
+            "Y": 1430.2142857142857142857142
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 1431.0000000000000000000000
+            "X": 20210125.0,
+            "Y": 1431.4999999999999999999999
           }
         }
       }
@@ -10264,8 +10614,8 @@
       "PublicName": "ﾓ　ﾙ",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1246677719061954567/CloCY2yT_normal.png",
       "Login": "o_8_o_mi",
-      "CurrentFollowersCount": 813,
-      "CurrentTweetsCout": 611,
+      "CurrentFollowersCount": 840,
+      "CurrentTweetsCout": 617,
       "FollowersCountHistory": {
         "20210113": 724,
         "20210114": 759,
@@ -10278,7 +10628,8 @@
         "20210121": 796,
         "20210122": 803,
         "20210123": 808,
-        "20210124": 813
+        "20210124": 813,
+        "20210125": 840
       },
       "TweetsCountHistory": {
         "20210113": 570,
@@ -10292,20 +10643,21 @@
         "20210121": 599,
         "20210122": 600,
         "20210123": 608,
-        "20210124": 611
+        "20210124": 611,
+        "20210125": 617
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 4.9112480456175848431905531155,
+        "WeeklyGrowth": 6.2591508052708638360179470336,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 776.64285714285714285713
+            "X": 20210119.0,
+            "Y": 780.57142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 814.78571428571428571428
+            "X": 20210125.0,
+            "Y": 829.42857142857142857143
           }
         }
       }
@@ -10314,8 +10666,8 @@
       "PublicName": "豊井",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1242171577346584576/M8ZXCN7k_normal.jpg",
       "Login": "1041uuu",
-      "CurrentFollowersCount": 51630,
-      "CurrentTweetsCout": 4353,
+      "CurrentFollowersCount": 51639,
+      "CurrentTweetsCout": 4355,
       "FollowersCountHistory": {
         "20210114": 51638,
         "20210115": 51650,
@@ -10327,7 +10679,8 @@
         "20210121": 51645,
         "20210122": 51644,
         "20210123": 51630,
-        "20210124": 51630
+        "20210124": 51630,
+        "20210125": 51639
       },
       "TweetsCountHistory": {
         "20210114": 4318,
@@ -10340,20 +10693,21 @@
         "20210121": 4346,
         "20210122": 4353,
         "20210123": 4353,
-        "20210124": 4353
+        "20210124": 4353,
+        "20210125": 4355
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0352649538962588032734188684,
+        "WeeklyGrowth": -0.0203314018501575683643387212,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 51649.821428571428571428571
+            "X": 20210119.0,
+            "Y": 51644.25
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 51631.607142857142857142856
+            "X": 20210125.0,
+            "Y": 51633.75
           }
         }
       }
@@ -10362,7 +10716,7 @@
       "PublicName": "Mui",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1257550440050208769/TPF6p8EF_normal.jpg",
       "Login": "mui_doter",
-      "CurrentFollowersCount": 237,
+      "CurrentFollowersCount": 236,
       "CurrentTweetsCout": 91,
       "FollowersCountHistory": {
         "20210114": 238,
@@ -10375,7 +10729,8 @@
         "20210121": 237,
         "20210122": 238,
         "20210123": 237,
-        "20210124": 237
+        "20210124": 237,
+        "20210125": 236
       },
       "TweetsCountHistory": {
         "20210114": 91,
@@ -10388,20 +10743,21 @@
         "20210121": 91,
         "20210122": 91,
         "20210123": 91,
-        "20210124": 91
+        "20210124": 91,
+        "20210125": 91
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.4499775011249437528123894615,
+        "WeeklyGrowth": -0.7198560287942411517696522423,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 238.1071428571428571428571
+            "X": 20210119.0,
+            "Y": 238.1428571428571428571428
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 237.0357142857142857142856
+            "X": 20210125.0,
+            "Y": 236.4285714285714285714285
           }
         }
       }
@@ -10410,7 +10766,7 @@
       "PublicName": "山田太郎🍩(yamada🍩)",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1235581588844339201/rWkp-HFl_normal.jpg",
       "Login": "donut_daisuki",
-      "CurrentFollowersCount": 10338,
+      "CurrentFollowersCount": 10340,
       "CurrentTweetsCout": 1054,
       "FollowersCountHistory": {
         "20210114": 10311,
@@ -10423,7 +10779,8 @@
         "20210121": 10331,
         "20210122": 10333,
         "20210123": 10334,
-        "20210124": 10338
+        "20210124": 10338,
+        "20210125": 10340
       },
       "TweetsCountHistory": {
         "20210114": 1054,
@@ -10436,23 +10793,25 @@
         "20210121": 1054,
         "20210122": 1054,
         "20210123": 1054,
-        "20210124": 1054
+        "20210124": 1054,
+        "20210125": 1054
       },
       "LangId": "jp",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.1619433198380566801619502315,
+        "WeeklyGrowth": 0.1743703293661776916689731549,
         "WeeklyTrendLine": {
           "Start": {
-            "X": 20210118.0,
-            "Y": 10321.071428571428571428572
+            "X": 20210119.0,
+            "Y": 10322.857142857142857142857
           },
           "End": {
-            "X": 20210124.0,
-            "Y": 10337.785714285714285714287
+            "X": 20210125.0,
+            "Y": 10340.857142857142857142857
           }
         }
       }
     }
-  }
+  },
+  "LastTimeUpdate": "2021-01-25 13:57:13"
 }
