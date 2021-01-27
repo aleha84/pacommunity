@@ -330,6 +330,10 @@ ul.styleNone {
       background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABUElEQVQ4T53Sv0tCURTA8e9Nexb5zIT8AYpBoIOLc/0BgsPbhLfn6Opf4qpOguDi4Obi0g8cBBdxM1KSCn+VWfjSjCcEPX8QeOEu997z4dxzjkgLroFLdlgCbkVasLharEd/A3v/oBkBa8AroO+Z3c7BaMQxcLQFWgOGwFsohDuXQwoE+KhU6CWTeJpNpA2IAdBTvrda8TcafLXbdKNRDsdjPmUZs9fLSbOJbQUxAO/AOBbDUyjQVRTkUome14szlcLs8/Ecj+Oq17H8QQzAGJioKu58nsdIBLlcZgLYikWkcJiHYJBzTUNsA+ZA2+XirNVi2mjwpKqYWi3mfj/zwQAhSfj7fUzbAP28B2iKgiubxeRwMK3VeEkkOK1W2QdDsP5+Yxv7wNBiWRZu1ung1LS14v0msRHQL/W5mgFmMPx5tZNLICO4WcDFDpOsh9z9AEecg+ukfDaqAAAAAElFTkSuQmCC);
     }
 
+    .flag.catalan:before {
+      background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAAAXNSR0IArs4c6QAAAJFJREFUSIljnMPA4CucIr6JYQDA2zkv/RjXp4j/HwjLYYAFxvCt/ERXize38zEwMDAwMC7hYfrPwMDAYMYmQVcHnPr1goGBgYGBia62YgED7gAW7ghRBgYGBgalyvd0tfhqO8TeAQ+B0UQ44A4YTYSjiXDAHTCaCEcT4YA7YMAT4YA3SpneznnpN1CWv53z0g8A6GIyf1AAP1wAAAAASUVORK5CYII=);
+    }
+
     .otherLists {
         padding-bottom: 15px;
         font-size: 14px;
