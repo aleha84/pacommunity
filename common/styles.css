@@ -346,6 +346,10 @@ ul.styleNone {
       background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAUElEQVQ4T2NcwM666/PP364MZAA+dtY9jJMZGP57qUqToZ2BYdvtpwyjBjxlYGyaOPd/cXocWYHYO3PRqAGgMJi+ZP3u12/fuZATimLCQnsBItU/YSoyxUcAAAAASUVORK5CYII=);
     }
 
+    .flag.rs:before {
+      background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABEklEQVQ4T2NsYWCfzsDAkMFAHpjF2MLA/j9UVYMs7atv32CgrgEnmP4wnGf8w/CJ4T8DLwMjg+F/FgbLfyw4XQd2Aa9D+X9p61iwIuPt6QwxdvIMD9ceYuBSkWbY9YGJ4YzXbJwGPD26GNUA6ZvrGWQebGAwlhVkOPvoHcNTBX+GJxrBxBsgf2Uxg+PznQwpixcxrKktZdjwXYfhgV4i8QaYb4phCLNQYrAqa2I4OrGZYdmJ5wzn3KfhN6Bp4tz/dfnJjCBVSRpq7bz//1eoa8sz3H74iuHj1x/F827c6sNlAkgvI7IBIIWRIUFZTJ8/J/3j52tcvmrtZnwJBKsBpKQomAEzGRgY0kjRCFPLyMgwGwBC2Hs0VaByCwAAAABJRU5ErkJggg==);
+    }
+
     .otherLists {
         padding-bottom: 15px;
         font-size: 14px;
