@@ -342,6 +342,10 @@ ul.styleNone {
       background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAYElEQVQ4T2PcxMNwhOE/gzUDGYCRkeEY4yZuhv/uOlpkaGdg2HnlGgNj08S5/2vzksgyoHnSPCoYwGXU/l/L0J4sF1w7f5CBcRgYMPCxQHFC2szDcPT/fwYrsuKRkeE4AHGBO1GIifv4AAAAAElFTkSuQmCC);
     }
 
+    .flag.id:before {
+      background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAUElEQVQ4T2NcwM666/PP364MZAA+dtY9jJMZGP57qUqToZ2BYdvtpwyjBjxlYGyaOPd/cXocWYHYO3PRqAGgMJi+ZP3u12/fuZATimLCQnsBItU/YSoyxUcAAAAASUVORK5CYII=);
+    }
+
     .otherLists {
         padding-bottom: 15px;
         font-size: 14px;

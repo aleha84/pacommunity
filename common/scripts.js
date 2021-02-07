@@ -234,7 +234,7 @@ function parseParams(str) {
         if(created)
             created.remove();
 
-        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.6.3');
+        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.6.4');
         let footerHtml = await footerResponse.text();
 
         document.body.insertAdjacentHTML('beforeend', footerHtml)
