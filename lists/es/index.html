@@ -25,11 +25,11 @@
     <link rel="manifest" href="../../common/favicon/site.webmanifest">
 
     <script src="../../external/uPlot.iife.min.js"></script>
-    <script src="../../common/scripts.js?v=6.6.7"></script>
-    <script src="../../common/graph.js?v=6.6.7"></script>
+    <script src="../../common/scripts.js?v=6.6.8"></script>
+    <script src="../../common/graph.js?v=6.6.8"></script>
 
     <link rel="stylesheet" href="../../external/uPlot.min.css">
-    <link rel="stylesheet" href="../../common/styles.css?v=6.6.7">
+    <link rel="stylesheet" href="../../common/styles.css?v=6.6.8">
 
   </head>
     <body>
@@ -67,6 +67,9 @@
             </div>
             <div class="userHrefHolder" onclick="listRender.sort('name')">
               Link
+            </div>
+            <div class="trendHolder" onclick="listRender.sort('trend')">
+              <div class="trendImg" title="Trend"></div>
             </div>
             <div class="followersCountHolder" onclick="listRender.sort('followers')">
               <img width="20" title="Followers count" src="data:image/png;base64,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" />

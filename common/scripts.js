@@ -20,6 +20,40 @@ function setLangRu(event) {
     event.stopPropagation();
   }
   
+  function getSafeByPath(obj, path, defaultValue){
+    if(!obj)
+      return defaultValue != undefined ? defaultValue : undefined;
+  
+    if(!path)
+      return obj;
+  
+    let pathParts = path.split('.');
+    let _subObj = obj;
+    try{
+      for(let i = 0; i < pathParts.length; i++){
+        _subObj = caseInsencitivePropertyGetter(_subObj, pathParts[i]);
+        if(_subObj == undefined)
+          return defaultValue != undefined ? '' : undefined;
+      }
+    }
+    catch {
+      return defaultValue != undefined ? '' : undefined;
+    }
+  
+    return _subObj;
+  }
+  
+  function caseInsencitivePropertyGetter(obj, propName){
+    if(obj == undefined || obj == null)
+      return;
+  
+    let keys = Object.keys(obj).filter(k => k.toLowerCase() == propName.toLowerCase());
+    if(!keys.length)
+      return undefined;
+  
+    return obj[keys[0]];
+  }
+
 function displayNone(selector) {
     let element = document.querySelector(selector);
     if(element){
@@ -234,7 +268,7 @@ function parseParams(str) {
         if(created)
             created.remove();
 
-        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.6.7');
+        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.6.8');
         let footerHtml = await footerResponse.text();
 
         document.body.insertAdjacentHTML('beforeend', footerHtml)
@@ -375,6 +409,10 @@ function parseParams(str) {
         if(this.currentSort.type == "name") {
             return ('' + p1.PublicName).localeCompare(p2.PublicName)
         }
+
+        if(this.currentSort.type == "trend") {
+            return getSafeByPath(p1, 'FollowersTrend.WeeklyGrowth', -100) - getSafeByPath(p2, 'FollowersTrend.WeeklyGrowth', -100);
+        }
     
         return 0;
     }
@@ -400,6 +438,9 @@ function parseParams(str) {
                 break;
             case "name":
                 selector = ".userHrefHolder";
+                break;
+            case "trend":
+                selector = ".trendHolder";
                 break;
             default:
                 break;
