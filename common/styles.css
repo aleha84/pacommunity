@@ -66,6 +66,15 @@ body {
     width: 100%;
   }
 
+  .userDataHolder.highlight {
+    background-color: indianred;
+  }
+
+  .userDataHolder.highlightRemove {
+    background-color: transparent;
+    transition: background-color 1000ms linear;
+  }
+
   .header>div {
     height: 20px;
     cursor: pointer;
@@ -249,6 +258,32 @@ ul.styleNone {
   .updatedAt {
     text-align: center;
     font-size: 75%;
+  }
+
+  .toTop {
+    display: none; 
+    position: fixed;
+    bottom: 20px;
+    right: 0;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: cornflowerblue;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 18px;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+  }
+  
+  .toTop:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+  }
+
+  .search {
+    margin-bottom: 5px;
   }
 
   .flag.ru:before {

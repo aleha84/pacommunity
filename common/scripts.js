@@ -265,10 +265,18 @@ function parseParams(str) {
     }
     async start() {
         let created = document.querySelector('.created');
+        let search = document.querySelector('.search');
         if(created)
             created.remove();
 
-        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=6.6.8');
+        let v = '6.6.9';
+        if(!search) {
+            let searchResponse = await fetch(this.params.rootFolderPath + 'common/html/search.html?v=' + v);
+            let searchHtml = await searchResponse.text();
+            document.getElementsByClassName('otherLists')[0].insertAdjacentHTML('beforebegin', searchHtml)
+        }
+
+        let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=' + v);
         let footerHtml = await footerResponse.text();
 
         document.body.insertAdjacentHTML('beforeend', footerHtml)
@@ -457,6 +465,38 @@ function parseParams(str) {
         this.render();
     }
 
+    search(s) {
+        if(!s || s.length < 3)
+            return;
+
+        let listItems = document.querySelectorAll('.userDataHolder.listItemData .userHref');
+        let elementToFocus = undefined
+        listItems.forEach(element => {
+            if(element.title.indexOf(s) != -1){
+                console.log('bingo');
+                elementToFocus = element;
+                return;
+            }
+        });
+
+        if(!elementToFocus){
+            alert('Not found')
+        }
+        else {
+            let row = elementToFocus.parentNode.parentNode;
+            row.classList.add('highlight')
+            setTimeout(() =>  {
+                row.classList.add('highlightRemove')
+            }, 10)
+
+            setTimeout(() =>  {
+                row.classList.remove('highlight', 'highlightRemove')
+            }, 1100)
+            row.scrollIntoView();
+        }
+
+    }
+
     render() {
         this.parentNode.textContent = '';
 
@@ -540,3 +580,29 @@ function parseParams(str) {
         }, 10)
     }
   }
+
+  function createToTopBtn() {
+    setTimeout(() => {
+        let btn = document.createElement('button')
+        btn.innerText = 'Top';
+        btn.classList.add('toTop');
+
+        btn.onclick = () => {
+            document.body.scrollTop = 0; // For Safari
+            document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+        }
+  
+        document.body.appendChild(btn)
+
+        window.addEventListener('scroll', function(e) { 
+            if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+                btn.style.display = "block";
+            } else {
+                btn.style.display = "none";
+            }
+        })
+    }, 10)  
+    
+  }
+
+  createToTopBtn()
