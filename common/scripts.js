@@ -547,14 +547,18 @@ function parseParams(str) {
             this.users.sort((a,b) => this.sortUsers(a, b)).forEach(ud => {
                 let userDataDiv = document.importNode(this.template.content, true);
         
-                let commission = this.params.commissions[ud.Login];
+                let commission =  getParameterCaseInsensitive(this.params.commissions,ud.Login);
                 let commissionHolder = userDataDiv.querySelector('.commissionHolder');
                 if(commission){
                     if(commission.description){
                         commissionHolder.title = commission.description;
                     }
 
-                    commissionHolder.querySelector('.commissionHref').setAttribute('href', commission.link);
+                    let cHref = commission.link;
+                    if(!cHref){
+                        cHref = 'https://twitter.com/' + ud.Login;
+                    }
+                    commissionHolder.querySelector('.commissionHref').setAttribute('href', cHref);
                 }
                 else {
                     commissionHolder.remove();
