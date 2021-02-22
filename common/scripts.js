@@ -499,10 +499,12 @@ function parseParams(str) {
         if(!s || s.length < 3)
             return;
 
+        s = s.toLowerCase();
+
         let listItems = document.querySelectorAll('.userDataHolder.listItemData .userHref');
         let elementToFocus = undefined
         listItems.forEach(element => {
-            if(element.title.indexOf(s) != -1){
+            if(element.title.toLowerCase().indexOf(s) != -1){
                 elementToFocus = element;
                 return;
             }
