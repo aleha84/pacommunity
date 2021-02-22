@@ -226,7 +226,7 @@ function parseParams(str) {
   class ListRenderer {
     constructor(usersData, params = {}) {
         this.users = [];
-        this.params = Object.assign({ isOther: false, isCommon: false, renderFlag: false, rootFolderPath: '../../' }, params);
+        this.params = Object.assign({ isOther: false, isCommon: false, renderFlag: false, rootFolderPath: '../../', commissions: {} }, params);
         this.languages = Object.values(usersData.Languages);
         this.currentLanguage = usersData.Lang;
         this.updateDate = usersData.LastTimeUpdate;
@@ -239,6 +239,8 @@ function parseParams(str) {
                 this.currentLanguage.Adjective = usersData.Languages[this.currentLanguage.Id].Adjective
             }
         }
+
+        console.log(this.params.commissions);
         
         this.users = Object.values(usersData.Users);
         this.template = this.getRowTemplate();
@@ -260,27 +262,40 @@ function parseParams(str) {
         }
 
         this.createHelp();
-
-        this.sort();
     }
-    async start() {
+    async start() {    
         let created = document.querySelector('.created');
         let search = document.querySelector('.search');
+        let feedback = document.querySelector('.feedback');
+
         if(created)
             created.remove();
 
-        let v = '6.6.9';
+        let v = '6.6.11';
         if(!search) {
             let searchResponse = await fetch(this.params.rootFolderPath + 'common/html/search.html?v=' + v);
             let searchHtml = await searchResponse.text();
             document.getElementsByClassName('otherLists')[0].insertAdjacentHTML('beforebegin', searchHtml)
         }
 
+        if(!feedback){
+            let feedbackResponse = await fetch(this.params.rootFolderPath + 'common/html/feedback.html?v=' + v);
+            let feedbackHtml = await feedbackResponse.text();
+
+            document.getElementsByClassName('pageHeader')[0].insertAdjacentHTML('afterbegin', feedbackHtml)
+        }
+
         let footerResponse = await fetch(this.params.rootFolderPath + 'common/html/footer.html?v=' + v);
         let footerHtml = await footerResponse.text();
 
+        let cResponse = await fetch(this.params.rootFolderPath + 'common/commissions.json?q='+ new Date().getTime());
+        let cData = await cResponse.json();
+
+        this.params.commissions = cData;
+
         document.body.insertAdjacentHTML('beforeend', footerHtml)
 
+        this.sort();
         this.createContributorsLink();
     }
     createOtherListsLinks() {
@@ -290,6 +305,9 @@ function parseParams(str) {
         let t = document.createElement('template');
         t.innerHTML = `
         <div class="userDataHolder listItemData">
+            <div class="commissionHolder">
+                <a class="commissionHref usdSign" target="_blank" href=""></a>
+            </div>
           <div class="userImageHolder">
             <img class="userImage" />
           </div>
@@ -466,6 +484,18 @@ function parseParams(str) {
     }
 
     search(s) {
+        if (location.hostname === "localhost" || location.hostname === "127.0.0.1") { console.log('useSearch ym - local host; do nothing');  } 
+        else {
+            if(ym){
+                try {
+                    ym(70569073,'reachGoal','useSearch')
+                }
+                catch(exception) {
+                    console.log(exception);
+                }
+            }
+        }
+
         if(!s || s.length < 3)
             return;
 
@@ -473,7 +503,6 @@ function parseParams(str) {
         let elementToFocus = undefined
         listItems.forEach(element => {
             if(element.title.indexOf(s) != -1){
-                console.log('bingo');
                 elementToFocus = element;
                 return;
             }
@@ -518,6 +547,19 @@ function parseParams(str) {
             this.users.sort((a,b) => this.sortUsers(a, b)).forEach(ud => {
                 let userDataDiv = document.importNode(this.template.content, true);
         
+                let commission = this.params.commissions[ud.Login];
+                let commissionHolder = userDataDiv.querySelector('.commissionHolder');
+                if(commission){
+                    if(commission.description){
+                        commissionHolder.title = commission.description;
+                    }
+
+                    commissionHolder.querySelector('.commissionHref').setAttribute('href', commission.link);
+                }
+                else {
+                    commissionHolder.remove();
+                }
+
                 userDataDiv.querySelector('.userImage').setAttribute('src', ud.AvatarImage);
                 let href = userDataDiv.querySelector('.userHref');
                 href.setAttribute('href', 'https://twitter.com/' + ud.Login)
