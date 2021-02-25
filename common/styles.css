@@ -455,11 +455,7 @@ ul.styleNone {
     .otherLists>* {
         padding-right: 5px;
     }
-
-    .noData {
-      
-    }
-
+    
     .trend.up_green:before {
       background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAWklEQVQ4je2QsQmAQBAE57OvTSxEsBLBRgQLEIv5Sh7W6MRAzvvA7Gfi2WCh8yMiIw7EicitcUJs6HZHpJaB5RGbazSeXmJz/ooHRHUGKmL0BooTmyX+RSfEBfZTTsYuOdaFAAAAAElFTkSuQmCC');
     }
