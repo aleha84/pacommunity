@@ -239,8 +239,6 @@ function parseParams(str) {
                 this.currentLanguage.Adjective = usersData.Languages[this.currentLanguage.Id].Adjective
             }
         }
-
-        console.log(this.params.commissions);
         
         this.users = Object.values(usersData.Users);
         this.template = this.getRowTemplate();
@@ -271,7 +269,7 @@ function parseParams(str) {
         if(created)
             created.remove();
 
-        let v = '6.6.11';
+        let v = '6.6.12';
         if(!search) {
             let searchResponse = await fetch(this.params.rootFolderPath + 'common/html/search.html?v=' + v);
             let searchHtml = await searchResponse.text();

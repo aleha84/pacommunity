@@ -25,11 +25,24 @@
     <link rel="manifest" href="../../common/favicon/site.webmanifest">
 
     <script src="../../external/uPlot.iife.min.js"></script>
-    <script src="../../common/scripts.js?v=6.6.11"></script>
-    <script src="../../common/graph.js?v=6.6.11"></script>
+    <script src="../../common/scripts.js?v=6.6.12"></script>
+    <script src="../../common/graph.js?v=6.6.12"></script>
 
     <link rel="stylesheet" href="../../external/uPlot.min.css">
-    <link rel="stylesheet" href="../../common/styles.css?v=6.6.11">
+    <link rel="stylesheet" href="../../common/styles.css?v=6.6.12">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2Z77QR2CBD"></script>
+    <script>
+      if (location.hostname === "localhost" || location.hostname === "127.0.0.1") { console.log('local host; ga do nothing');  } 
+      else {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-2Z77QR2CBD');
+      }
+    </script>
 
   </head>
     <body>
@@ -38,7 +51,7 @@
   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-  if (location.hostname === "localhost" || location.hostname === "127.0.0.1") { console.log('local host; do nothing');  } 
+  if (location.hostname === "localhost" || location.hostname === "127.0.0.1") { console.log('local host; ym do nothing');  } 
   else 
     ym(70569073, "init", {
         clickmap:true,
