@@ -11,6 +11,15 @@ function showGraph(userid) {
                 console.log(exception);
             }
         }
+
+        if(gtag) {
+            try {
+                gtag('event', 'showGraphCall', { 'event_label': userid });
+            }
+            catch(exception) {
+                console.log(exception);
+            }
+        }
     }
     
     

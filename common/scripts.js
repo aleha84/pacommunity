@@ -269,7 +269,7 @@ function parseParams(str) {
         if(created)
             created.remove();
 
-        let v = '6.6.13';
+        let v = '6.6.14';
         if(!search) {
             let searchResponse = await fetch(this.params.rootFolderPath + 'common/html/search.html?v=' + v);
             let searchHtml = await searchResponse.text();
@@ -487,6 +487,15 @@ function parseParams(str) {
             if(ym){
                 try {
                     ym(70569073,'reachGoal','useSearch')
+                }
+                catch(exception) {
+                    console.log(exception);
+                }
+            }
+
+            if(gtag) {
+                try {
+                    gtag('event', 'useSearch', { 'event_label': s });
                 }
                 catch(exception) {
                     console.log(exception);
