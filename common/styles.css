@@ -493,12 +493,24 @@ ul.styleNone {
     }
 
     @media (max-width: 800px) { 
+
       .floatingchat-container-wrap {
         max-width: 50px;
       }
 
       .floatingchat-container {
         width: 55px;
+      }
+
+      .floatingchat-donate-button {
+        padding-left: 10px;
+        padding-right: 18px;
+        width: 25px;
+        color: transparent;
+      }
+
+      .floatingchat-donate-button>span {
+        font-size: 0;
       }
       
      }
