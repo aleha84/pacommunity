@@ -269,7 +269,7 @@ function parseParams(str) {
         if(created)
             created.remove();
 
-        let v = '6.6.14';
+        let v = '6.6.15';
         if(!search) {
             let searchResponse = await fetch(this.params.rootFolderPath + 'common/html/search.html?v=' + v);
             let searchHtml = await searchResponse.text();
@@ -307,7 +307,7 @@ function parseParams(str) {
     'floating-chat.donateButton.text-color': '#fff'
   });
 
-  
+
 
         },10)
     }
