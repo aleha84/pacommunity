@@ -491,3 +491,14 @@ ul.styleNone {
     .trend.double_up_yellow:before {
       background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAx0lEQVQ4jc3RMU5CQRRG4TMJMRSoC3gVvQUdhR2tnT2roLV2Ey6ADRgfBYVLYA/QWGmUEEKMx4YXJhN5M1A5yS1mMt+fmXvh3y6lp7woj+fgjlIr7mtyasBThFV+lPtS/JDgpjbKMIfHR3BTb0r/GL5WtpkAlTp2IQm5Ai725wG4BbrAa3T/MwTWJb0YKTvlW7nLggTfKB/Rs7+UQSmulOUff18pVQ5fKouWBi6UXlvArGAKz7HpJBlTYM5hCs2U4v17US9K1y+8suiiDq7rxgAAAABJRU5ErkJggg==');
     }
+
+    @media (max-width: 800px) { 
+      .floatingchat-container-wrap {
+        max-width: 50px;
+      }
+
+      .floatingchat-container {
+        width: 55px;
+      }
+      
+     }

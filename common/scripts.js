@@ -302,10 +302,9 @@ function parseParams(str) {
         setTimeout(() => {
   kofiWidgetOverlay.draw('aleha_84', {
     'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support project',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff',
-    'floating-chat.container.width': '205px'
+    'floating-chat.donateButton.text': 'Support',
+    'floating-chat.donateButton.background-color': '#323842',
+    'floating-chat.donateButton.text-color': '#fff'
   });
         },10)
     }
