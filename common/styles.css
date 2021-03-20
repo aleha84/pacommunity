@@ -451,6 +451,10 @@ ul.styleNone {
       background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAASUlEQVQ4T2PsZRc48v8/gzUDeeAYYw+bwH9XdU2ytO++eZ1hOBjQNHHu/5ykaLLCYMq8pQyMFBswGgvghHSUgYHBiqxoYPh/HACYkjhBdNqc+AAAAABJRU5ErkJggg==);
     }
 
+    .flag.np:before {
+      background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABGklEQVQ4T2NkoBAwoui3mLyOgZEll+F45lNizUU34D8DA8NHBgbGSoYTOdOJMQTDgIkvjjM0ihoxvGNmO8LA/C+F4WjBTXwGYRhw585Khn+eDgwHvrAxpD0X/MXAyNjK8OlNB8PVhl/YDMIw4F0oL4NgUTxY7ZnJ6xlaZh5j2Mgrf42BiTGF4VjOcXRDsLpAqDIFrO7nuesMj/ecYTjJKcaQK2EFEprCwMFUyXAg+wvMIKwGgCQnCukwTBbSxubqpwyMjLkMx3PWgyRxGgA3RFinnuF4ThOugMRqALe7NVj9151HIS7BYwiGAc+VnzBILOkAG/AipoKgIUQZgM87BL2A7Hds3sGWlAmnYEZGeMCiGkBYK4YKig0AAG8dghH5h7UgAAAAAElFTkSuQmCC);
+    }
+
     .otherLists {
         padding-bottom: 15px;
         font-size: 14px;
