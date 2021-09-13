@@ -269,7 +269,7 @@ function parseParams(str) {
         if(created)
             created.remove();
 
-        let v = '6.6.22';
+        let v = '6.6.23';
         if(!search) {
             let searchResponse = await fetch(this.params.rootFolderPath + 'common/html/search.html?v=' + v);
             let searchHtml = await searchResponse.text();

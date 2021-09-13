@@ -466,6 +466,10 @@ ul.styleNone {
     .flag.dk::before {
       background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAKBJREFUOE9jZKAQMFKon4FxPgPDkf8MDNbIBj2ZOBfMlclPJmT+McZ5DAz/g8V1UBRyPDoL5v+QM8ZrwNqXVxiGgwFNE+f+L0uPIRRYWOW7Zi5hYAQZUJIaRZYBPbOXYQ9EpjsnwQb+UzEnLxb+3TgG1sikYUWeAb+uHgFrZNO2Ic+A75cOgTVy6tkRZcBRBgYGFLeSkJSPU56ZyIo/JE0AvQpUHpi3QusAAAAASUVORK5CYII=);
     }
+
+    .flag.hu::before {
+      background-image: url( data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAGxJREFUOE9jZKAQMFKon4FxPjPHrvd//7qSY5AQM/Mexj4G1v/xgiLk6GdY+P4NwyAwoGni3P/F6XFkeaF35iIGxmFgAHcO9///bv/JCgPGXYwMjIPAgEru3QyfGVzI8gMvw17KMxNZNiNpAgC6azq3HqG+HQAAAABJRU5ErkJggg==);
+    }
     
     .otherLists {
         padding-bottom: 15px;

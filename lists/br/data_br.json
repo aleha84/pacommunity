@@ -48,6 +48,12 @@
       "Adjective": "German",
       "Other": false
     },
+    "dk": {
+      "Id": "dk",
+      "Suffix": "",
+      "Adjective": "Danish",
+      "Other": true
+    },
     "en": {
       "Id": "en",
       "Suffix": "_en",
@@ -94,6 +100,12 @@
       "Id": "il",
       "Suffix": "",
       "Adjective": "Hebrew",
+      "Other": true
+    },
+    "ir": {
+      "Id": "ir",
+      "Suffix": "",
+      "Adjective": "Iranian",
       "Other": true
     },
     "it": {
@@ -222,7 +234,7 @@
       "PublicName": "Lu Nascimento 🏳️‍🌈",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1375491589355794435/gDfKPjDI_normal.jpg",
       "Login": "viiolaceus",
-      "CurrentFollowersCount": 38149,
+      "CurrentFollowersCount": 38150,
       "CurrentTweetsCout": 16819,
       "FollowersCountHistory": {
         "20210112": 35173,
@@ -427,7 +439,7 @@
         "20210910": 38149,
         "20210911": 38148,
         "20210912": 38148,
-        "20210913": 38149
+        "20210913": 38150
       },
       "TweetsCountHistory": {
         "20210112": 15877,
@@ -637,15 +649,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0185337900009266895000478322,
+        "WeeklyGrowth": -0.0168489788582757503879930434,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 38154.250000000000000000000
+            "Y": 38154.071428571428571428571
           },
           "End": {
             "X": 20210913.0,
-            "Y": 38147.178571428571428571428
+            "Y": 38147.642857142857142857143
           }
         }
       }
@@ -2036,7 +2048,7 @@
       "PublicName": "Victor “Tic” Athayde",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1348474719041966080/t-Le80_A_normal.jpg",
       "Login": "ArtOfTic",
-      "CurrentFollowersCount": 316,
+      "CurrentFollowersCount": 317,
       "CurrentTweetsCout": 295,
       "FollowersCountHistory": {
         "20201219": 173,
@@ -2266,7 +2278,7 @@
         "20210910": 319,
         "20210911": 318,
         "20210912": 317,
-        "20210913": 316
+        "20210913": 317
       },
       "TweetsCountHistory": {
         "20201219": 131,
@@ -2501,15 +2513,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.5381165919282511210762063263,
+        "WeeklyGrowth": -0.3365114974761637689287628198,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 318.5714285714285714285714
+            "Y": 318.3928571428571428571428
           },
           "End": {
             "X": 20210913.0,
-            "Y": 316.8571428571428571428572
+            "Y": 317.3214285714285714285714
           }
         }
       }
@@ -2518,8 +2530,8 @@
       "PublicName": "Mário Santos",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1388652243239514122/WJAv5l6E_normal.jpg",
       "Login": "Emppixel",
-      "CurrentFollowersCount": 3437,
-      "CurrentTweetsCout": 1485,
+      "CurrentFollowersCount": 3439,
+      "CurrentTweetsCout": 1486,
       "FollowersCountHistory": {
         "20201219": 2990,
         "20201220": 2993,
@@ -2748,7 +2760,7 @@
         "20210910": 3429,
         "20210911": 3430,
         "20210912": 3435,
-        "20210913": 3437
+        "20210913": 3439
       },
       "TweetsCountHistory": {
         "20201219": 1396,
@@ -2978,20 +2990,20 @@
         "20210910": 1484,
         "20210911": 1484,
         "20210912": 1485,
-        "20210913": 1485
+        "20210913": 1486
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.1937681657655405194236709692,
+        "WeeklyGrowth": 0.2312957772892551650847396784,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 3428.250000000000000000000
+            "Y": 3427.892857142857142857143
           },
           "End": {
             "X": 20210913.0,
-            "Y": 3434.892857142857142857142
+            "Y": 3435.821428571428571428571
           }
         }
       }
@@ -3001,7 +3013,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1132765591822057472/B-kmfjV-_normal.jpg",
       "Login": "M_arih",
       "CurrentFollowersCount": 841,
-      "CurrentTweetsCout": 50086,
+      "CurrentTweetsCout": 50091,
       "FollowersCountHistory": {
         "20201219": 756,
         "20201220": 757,
@@ -3460,7 +3472,7 @@
         "20210910": 50081,
         "20210911": 50083,
         "20210912": 50088,
-        "20210913": 50086
+        "20210913": 50091
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -3964,8 +3976,8 @@
       "PublicName": "glauber kotaki",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1399395574722580480/Lq3kVI02_normal.png",
       "Login": "unseven",
-      "CurrentFollowersCount": 23880,
-      "CurrentTweetsCout": 59020,
+      "CurrentFollowersCount": 23889,
+      "CurrentTweetsCout": 59031,
       "FollowersCountHistory": {
         "20201219": 22476,
         "20201220": 22478,
@@ -4194,7 +4206,7 @@
         "20210910": 23887,
         "20210911": 23879,
         "20210912": 23877,
-        "20210913": 23880
+        "20210913": 23889
       },
       "TweetsCountHistory": {
         "20201219": 54237,
@@ -4424,20 +4436,20 @@
         "20210910": 58985,
         "20210911": 59006,
         "20210912": 59009,
-        "20210913": 59020
+        "20210913": 59031
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0260164741098702615253715948,
+        "WeeklyGrowth": -0.001794360325496963045149216,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 23885.964285714285714285714
+            "Y": 23884.3571428571428571428572
           },
           "End": {
             "X": 20210913.0,
-            "Y": 23879.750000000000000000000
+            "Y": 23883.9285714285714285714286
           }
         }
       }
@@ -4447,7 +4459,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1408653440805392393/pwQ0a7_0_normal.jpg",
       "Login": "DidiGameBoy",
       "CurrentFollowersCount": 4011,
-      "CurrentTweetsCout": 13191,
+      "CurrentTweetsCout": 13193,
       "FollowersCountHistory": {
         "20201219": 3943,
         "20201220": 3944,
@@ -4906,7 +4918,7 @@
         "20210910": 13175,
         "20210911": 13189,
         "20210912": 13189,
-        "20210913": 13191
+        "20210913": 13193
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -4928,8 +4940,8 @@
       "PublicName": "Danilo Dias",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1425493871195267075/sd3tO4Kw_normal.jpg",
       "Login": "days_danilo",
-      "CurrentFollowersCount": 3643,
-      "CurrentTweetsCout": 8746,
+      "CurrentFollowersCount": 3647,
+      "CurrentTweetsCout": 8760,
       "FollowersCountHistory": {
         "20201219": 2331,
         "20201220": 2369,
@@ -5157,7 +5169,7 @@
         "20210910": 3642,
         "20210911": 3641,
         "20210912": 3643,
-        "20210913": 3643
+        "20210913": 3647
       },
       "TweetsCountHistory": {
         "20201219": 1759,
@@ -5386,20 +5398,20 @@
         "20210910": 8688,
         "20210911": 8727,
         "20210912": 8746,
-        "20210913": 8746
+        "20210913": 8760
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0235275664653752646851243037,
+        "WeeklyGrowth": 0.047064360513001529591714319,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 3643.1428571428571428571429
+            "Y": 3642.4285714285714285714286
           },
           "End": {
             "X": 20210913.0,
-            "Y": 3642.2857142857142857142857
+            "Y": 3644.1428571428571428571428
           }
         }
       }
@@ -5408,7 +5420,7 @@
       "PublicName": "Bruno 🔜 #octobit",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1436810916411150343/TCZYFOAI_normal.jpg",
       "Login": "brunopixels",
-      "CurrentFollowersCount": 28353,
+      "CurrentFollowersCount": 28356,
       "CurrentTweetsCout": 3996,
       "FollowersCountHistory": {
         "20201219": 21260,
@@ -5637,7 +5649,7 @@
         "20210910": 28289,
         "20210911": 28287,
         "20210912": 28348,
-        "20210913": 28353
+        "20210913": 28356
       },
       "TweetsCountHistory": {
         "20201219": 3489,
@@ -5871,15 +5883,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.2228066053822194266140216817,
+        "WeeklyGrowth": 0.229631566382848113497076532,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 28275.64285714285714285714
+            "Y": 28275.10714285714285714286
           },
           "End": {
             "X": 20210913.0,
-            "Y": 28338.64285714285714285714
+            "Y": 28340.03571428571428571428
           }
         }
       }
@@ -5888,7 +5900,7 @@
       "PublicName": "Bakudas(🏳️‍🌈);",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1363368058346168326/pLT3tdt1_normal.jpg",
       "Login": "bakudas",
-      "CurrentFollowersCount": 5828,
+      "CurrentFollowersCount": 5827,
       "CurrentTweetsCout": 12925,
       "FollowersCountHistory": {
         "20201219": 5877,
@@ -6118,7 +6130,7 @@
         "20210910": 5829,
         "20210911": 5828,
         "20210912": 5826,
-        "20210913": 5828
+        "20210913": 5827
       },
       "TweetsCountHistory": {
         "20201219": 11833,
@@ -6353,15 +6365,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0918560432090827255525287834,
+        "WeeklyGrowth": -0.1028756184784206143144074804,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 5832.107142857142857142858
+            "Y": 5832.285714285714285714286
           },
           "End": {
             "X": 20210913.0,
-            "Y": 5826.750000000000000000000
+            "Y": 5826.285714285714285714286
           }
         }
       }
@@ -6370,7 +6382,7 @@
       "PublicName": "Victor Moura 🌿",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1311853971926024199/7YQJgFhp_normal.png",
       "Login": "CrownoO",
-      "CurrentFollowersCount": 12098,
+      "CurrentFollowersCount": 12167,
       "CurrentTweetsCout": 1916,
       "FollowersCountHistory": {
         "20201219": 10086,
@@ -6600,7 +6612,7 @@
         "20210910": 12043,
         "20210911": 12067,
         "20210912": 12086,
-        "20210913": 12098
+        "20210913": 12167
       },
       "TweetsCountHistory": {
         "20201219": 1649,
@@ -6835,15 +6847,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.7135976023120562314911098481,
+        "WeeklyGrowth": 1.0839963211986463439679979999,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 12011.57142857142857142857
+            "Y": 11999.25000000000000000000
           },
           "End": {
             "X": 20210913.0,
-            "Y": 12097.28571428571428571429
+            "Y": 12129.32142857142857142858
           }
         }
       }
@@ -6852,8 +6864,8 @@
       "PublicName": "Yin",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1277664470190501890/sktQsJ-3_normal.png",
       "Login": "AndreYin",
-      "CurrentFollowersCount": 4314,
-      "CurrentTweetsCout": 183448,
+      "CurrentFollowersCount": 4313,
+      "CurrentTweetsCout": 183479,
       "FollowersCountHistory": {
         "20201219": 4182,
         "20201220": 4184,
@@ -7081,7 +7093,7 @@
         "20210910": 4316,
         "20210911": 4311,
         "20210912": 4314,
-        "20210913": 4314
+        "20210913": 4313
       },
       "TweetsCountHistory": {
         "20201219": 177487,
@@ -7310,20 +7322,20 @@
         "20210910": 183377,
         "20210911": 183413,
         "20210912": 183437,
-        "20210913": 183448
+        "20210913": 183479
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0992687204261937063631315907,
+        "WeeklyGrowth": -0.1141543068434679747536864472,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 4317.285714285714285714286
+            "Y": 4317.464285714285714285714
           },
           "End": {
             "X": 20210913.0,
-            "Y": 4313.000000000000000000000
+            "Y": 4312.535714285714285714286
           }
         }
       }
@@ -7332,7 +7344,7 @@
       "PublicName": "Taj",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1399799710425268228/THI45G_O_normal.png",
       "Login": "taj_tajima",
-      "CurrentFollowersCount": 2434,
+      "CurrentFollowersCount": 2436,
       "CurrentTweetsCout": 2326,
       "FollowersCountHistory": {
         "20201219": 2067,
@@ -7562,7 +7574,7 @@
         "20210910": 2433,
         "20210911": 2434,
         "20210912": 2434,
-        "20210913": 2434
+        "20210913": 2436
       },
       "TweetsCountHistory": {
         "20201219": 1959,
@@ -7797,15 +7809,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.2021889147729770119994491203,
+        "WeeklyGrowth": -0.1494658792843222015444455842,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 2437.607142857142857142857
+            "Y": 2437.250000000000000000000
           },
           "End": {
             "X": 20210913.0,
-            "Y": 2432.678571428571428571429
+            "Y": 2433.607142857142857142858
           }
         }
       }
@@ -7814,8 +7826,8 @@
       "PublicName": "Ricardo Juchem",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1334139875050860548/ruEf37Qz_normal.jpg",
       "Login": "ricardojuchem",
-      "CurrentFollowersCount": 15057,
-      "CurrentTweetsCout": 19734,
+      "CurrentFollowersCount": 15055,
+      "CurrentTweetsCout": 19746,
       "FollowersCountHistory": {
         "20201219": 13629,
         "20201220": 13621,
@@ -8043,7 +8055,7 @@
         "20210910": 14919,
         "20210911": 15040,
         "20210912": 15048,
-        "20210913": 15057
+        "20210913": 15055
       },
       "TweetsCountHistory": {
         "20201219": 15189,
@@ -8272,20 +8284,20 @@
         "20210910": 19663,
         "20210911": 19729,
         "20210912": 19729,
-        "20210913": 19734
+        "20210913": 19746
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.4557888889690446475591759497,
+        "WeeklyGrowth": 1.4470972690788160637895666417,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 14852.03571428571428571428
+            "Y": 14852.39285714285714285715
           },
           "End": {
             "X": 20210913.0,
-            "Y": 15068.25000000000000000000
+            "Y": 15067.32142857142857142857
           }
         }
       }
@@ -8294,7 +8306,7 @@
       "PublicName": "Quintino Pixels (Comissions Open)",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1348424581497942018/UUK2BYUv_normal.png",
       "Login": "QuintinoPixels",
-      "CurrentFollowersCount": 631,
+      "CurrentFollowersCount": 632,
       "CurrentTweetsCout": 385,
       "FollowersCountHistory": {
         "20201219": 551,
@@ -8524,7 +8536,7 @@
         "20210910": 629,
         "20210911": 630,
         "20210912": 632,
-        "20210913": 631
+        "20210913": 632
       },
       "TweetsCountHistory": {
         "20201219": 241,
@@ -8759,15 +8771,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.2693693178569386471495457189,
+        "WeeklyGrowth": 1.3726835964310226492794338803,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 624.607142857142857142857
+            "Y": 624.428571428571428571428
           },
           "End": {
             "X": 20210913.0,
-            "Y": 632.535714285714285714285
+            "Y": 633.000000000000000000000
           }
         }
       }
@@ -8776,7 +8788,7 @@
       "PublicName": "Adriel 💮 DeuTilt",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1403942230381973506/IUA7ojIL_normal.jpg",
       "Login": "_DeuTilt",
-      "CurrentFollowersCount": 2541,
+      "CurrentFollowersCount": 2542,
       "CurrentTweetsCout": 1996,
       "FollowersCountHistory": {
         "20201219": 1564,
@@ -9006,7 +9018,7 @@
         "20210910": 2521,
         "20210911": 2536,
         "20210912": 2542,
-        "20210913": 2541
+        "20210913": 2542
       },
       "TweetsCountHistory": {
         "20201219": 1676,
@@ -9241,15 +9253,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.1250639240865958293086551793,
+        "WeeklyGrowth": 1.1507152903069994743646792642,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 2514.14285714285714285714
+            "Y": 2513.96428571428571428571
           },
           "End": {
             "X": 20210913.0,
-            "Y": 2542.42857142857142857143
+            "Y": 2542.89285714285714285714
           }
         }
       }
@@ -9258,8 +9270,8 @@
       "PublicName": "Sofa",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1407340357495439361/TxcEMO64_normal.jpg",
       "Login": "_sofarama",
-      "CurrentFollowersCount": 4248,
-      "CurrentTweetsCout": 7339,
+      "CurrentFollowersCount": 4249,
+      "CurrentTweetsCout": 7356,
       "FollowersCountHistory": {
         "20201219": 4292,
         "20201220": 4291,
@@ -9488,7 +9500,7 @@
         "20210910": 4250,
         "20210911": 4249,
         "20210912": 4249,
-        "20210913": 4248
+        "20210913": 4249
       },
       "TweetsCountHistory": {
         "20201219": 3759,
@@ -9718,20 +9730,20 @@
         "20210910": 7333,
         "20210911": 7334,
         "20210912": 7338,
-        "20210913": 7339
+        "20210913": 7356
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0806424515305265280064379638,
+        "WeeklyGrowth": -0.0655247439914649820647082027,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 4251.571428571428571428571
+            "Y": 4251.392857142857142857143
           },
           "End": {
             "X": 20210913.0,
-            "Y": 4248.142857142857142857143
+            "Y": 4248.607142857142857142857
           }
         }
       }
@@ -9740,7 +9752,7 @@
       "PublicName": "bertanha",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1384878374707945476/nzKTEMBh_normal.jpg",
       "Login": "BRTNH",
-      "CurrentFollowersCount": 2692,
+      "CurrentFollowersCount": 2691,
       "CurrentTweetsCout": 1284,
       "FollowersCountHistory": {
         "20201219": 1462,
@@ -9970,7 +9982,7 @@
         "20210910": 2693,
         "20210911": 2693,
         "20210912": 2691,
-        "20210913": 2692
+        "20210913": 2691
       },
       "TweetsCountHistory": {
         "20201219": 931,
@@ -10205,15 +10217,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1589825119236883942766401864,
+        "WeeklyGrowth": -0.1828177783665628932900364214,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 2695.714285714285714285714
+            "Y": 2695.892857142857142857143
           },
           "End": {
             "X": 20210913.0,
-            "Y": 2691.428571428571428571428
+            "Y": 2690.964285714285714285715
           }
         }
       }
@@ -10704,8 +10716,8 @@
       "PublicName": "Pedro Medeiros",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1289683065355112448/cKUeBq57_normal.jpg",
       "Login": "saint11",
-      "CurrentFollowersCount": 51383,
-      "CurrentTweetsCout": 11977,
+      "CurrentFollowersCount": 51385,
+      "CurrentTweetsCout": 11976,
       "FollowersCountHistory": {
         "20201219": 49759,
         "20201220": 49761,
@@ -10934,7 +10946,7 @@
         "20210910": 51378,
         "20210911": 51376,
         "20210912": 51387,
-        "20210913": 51383
+        "20210913": 51385
       },
       "TweetsCountHistory": {
         "20201219": 11511,
@@ -11164,20 +11176,20 @@
         "20210910": 11977,
         "20210911": 11977,
         "20210912": 11977,
-        "20210913": 11977
+        "20210913": 11976
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0062559474945277837054805575,
+        "WeeklyGrowth": 0.0087583873723517173737905954,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 51379.678571428571428571429
+            "Y": 51379.321428571428571428571
           },
           "End": {
             "X": 20210913.0,
-            "Y": 51382.892857142857142857143
+            "Y": 51383.821428571428571428571
           }
         }
       }
@@ -11668,8 +11680,8 @@
       "PublicName": "Gabe Fern 🌌",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1309169728989130752/qT_BQu38_normal.png",
       "Login": "_Gabrielfer",
-      "CurrentFollowersCount": 26442,
-      "CurrentTweetsCout": 24817,
+      "CurrentFollowersCount": 26450,
+      "CurrentTweetsCout": 24823,
       "FollowersCountHistory": {
         "20201219": 24287,
         "20201220": 24288,
@@ -11898,7 +11910,7 @@
         "20210910": 26417,
         "20210911": 26422,
         "20210912": 26434,
-        "20210913": 26442
+        "20210913": 26450
       },
       "TweetsCountHistory": {
         "20201219": 23321,
@@ -12128,20 +12140,20 @@
         "20210910": 24804,
         "20210911": 24810,
         "20210912": 24817,
-        "20210913": 24817
+        "20210913": 24823
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.1030471948038249171362454141,
+        "WeeklyGrowth": 0.1225273083076490309388323529,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 26409.53571428571428571429
+            "Y": 26408.10714285714285714286
           },
           "End": {
             "X": 20210913.0,
-            "Y": 26436.75000000000000000000
+            "Y": 26440.46428571428571428572
           }
         }
       }
@@ -12151,7 +12163,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1009977506299105287/QMldzNZj_normal.jpg",
       "Login": "FilipeBrizolara",
       "CurrentFollowersCount": 3174,
-      "CurrentTweetsCout": 18079,
+      "CurrentTweetsCout": 18091,
       "FollowersCountHistory": {
         "20201219": 2819,
         "20201220": 2818,
@@ -12608,7 +12620,7 @@
         "20210910": 18042,
         "20210911": 18063,
         "20210912": 18071,
-        "20210913": 18079
+        "20210913": 18091
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -12630,8 +12642,8 @@
       "PublicName": "Tiani Pixel",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1125977027369164801/PP4tCOuT_normal.png",
       "Login": "TianiPixel",
-      "CurrentFollowersCount": 17683,
-      "CurrentTweetsCout": 6524,
+      "CurrentFollowersCount": 17685,
+      "CurrentTweetsCout": 6526,
       "FollowersCountHistory": {
         "20201219": 14014,
         "20201220": 14019,
@@ -12860,7 +12872,7 @@
         "20210910": 17697,
         "20210911": 17686,
         "20210912": 17687,
-        "20210913": 17683
+        "20210913": 17685
       },
       "TweetsCountHistory": {
         "20201219": 4770,
@@ -13090,20 +13102,20 @@
         "20210910": 6520,
         "20210911": 6522,
         "20210912": 6524,
-        "20210913": 6524
+        "20210913": 6526
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0629656837023822017000686175,
+        "WeeklyGrowth": -0.0557015366358693677875640238,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 17696.714285714285714285714
+            "Y": 17696.357142857142857142858
           },
           "End": {
             "X": 20210913.0,
-            "Y": 17685.571428571428571428572
+            "Y": 17686.500000000000000000000
           }
         }
       }
@@ -14074,8 +14086,8 @@
       "PublicName": "silvino gustavo is a UX manager",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1415637738943090689/p_Lfn9nk_normal.jpg",
       "Login": "rockleegustavo",
-      "CurrentFollowersCount": 2503,
-      "CurrentTweetsCout": 53855,
+      "CurrentFollowersCount": 2505,
+      "CurrentTweetsCout": 53896,
       "FollowersCountHistory": {
         "20201219": 1767,
         "20201220": 1770,
@@ -14303,7 +14315,7 @@
         "20210910": 2495,
         "20210911": 2497,
         "20210912": 2499,
-        "20210913": 2503
+        "20210913": 2505
       },
       "TweetsCountHistory": {
         "20201219": 40991,
@@ -14532,20 +14544,20 @@
         "20210910": 53742,
         "20210911": 53819,
         "20210912": 53858,
-        "20210913": 53855
+        "20210913": 53896
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.094389542782775338586765442,
+        "WeeklyGrowth": 0.1458956131191623875387638839,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 2497.250000000000000000000
+            "Y": 2496.892857142857142857143
           },
           "End": {
             "X": 20210913.0,
-            "Y": 2499.607142857142857142858
+            "Y": 2500.535714285714285714285
           }
         }
       }
@@ -16928,7 +16940,7 @@
       "PublicName": "Yuri Santos",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1427317517375115265/sQObH7WE_normal.jpg",
       "Login": "yurisantosart",
-      "CurrentFollowersCount": 968,
+      "CurrentFollowersCount": 969,
       "CurrentTweetsCout": 3668,
       "FollowersCountHistory": {
         "20201219": 962,
@@ -17158,7 +17170,7 @@
         "20210910": 970,
         "20210911": 968,
         "20210912": 967,
-        "20210913": 968
+        "20210913": 969
       },
       "TweetsCountHistory": {
         "20201219": 2724,
@@ -17393,15 +17405,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.5070360436491898445823716846,
+        "WeeklyGrowth": -0.4409819197412906070851389741,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 972.035714285714285714285
+            "Y": 971.857142857142857142857
           },
           "End": {
             "X": 20210913.0,
-            "Y": 967.107142857142857142857
+            "Y": 967.571428571428571428571
           }
         }
       }
@@ -17410,7 +17422,7 @@
       "PublicName": "Dinin - Commissions Closed",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1371184767409004544/0abYfnIU_normal.jpg",
       "Login": "dinobonoide",
-      "CurrentFollowersCount": 3158,
+      "CurrentFollowersCount": 3157,
       "CurrentTweetsCout": 2512,
       "FollowersCountHistory": {
         "20201219": 2337,
@@ -17640,7 +17652,7 @@
         "20210910": 3155,
         "20210911": 3156,
         "20210912": 3158,
-        "20210913": 3158
+        "20210913": 3157
       },
       "TweetsCountHistory": {
         "20201219": 1496,
@@ -17875,15 +17887,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.1427002049899770094114182944,
+        "WeeklyGrowth": 0.122307535503159611333858836,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 3153.464285714285714285714
+            "Y": 3153.642857142857142857142
           },
           "End": {
             "X": 20210913.0,
-            "Y": 3157.964285714285714285714
+            "Y": 3157.500000000000000000000
           }
         }
       }
@@ -20780,7 +20792,7 @@
       "PublicName": "gillenew 🔞🏳️‍🌈",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1212140507192864770/y4ejibrp_normal.jpg",
       "Login": "gillenewnovo",
-      "CurrentFollowersCount": 1682,
+      "CurrentFollowersCount": 1683,
       "CurrentTweetsCout": 2974,
       "FollowersCountHistory": {
         "20201219": 1523,
@@ -21009,7 +21021,7 @@
         "20210910": 1681,
         "20210911": 1681,
         "20210912": 1682,
-        "20210913": 1682
+        "20210913": 1683
       },
       "TweetsCountHistory": {
         "20201219": 2925,
@@ -21243,15 +21255,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0765078420538105155778518298,
+        "WeeklyGrowth": 0.1147739590639546005228608492,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 1680.5000000000000000000000
+            "Y": 1680.3214285714285714285714
           },
           "End": {
             "X": 20210913.0,
-            "Y": 1681.7857142857142857142858
+            "Y": 1682.2500000000000000000000
           }
         }
       }
@@ -22220,8 +22232,8 @@
       "PublicName": "RyanKamos",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1406046865859166214/F_T8Htmg_normal.jpg",
       "Login": "RyanKamos",
-      "CurrentFollowersCount": 5488,
-      "CurrentTweetsCout": 6270,
+      "CurrentFollowersCount": 5489,
+      "CurrentTweetsCout": 6272,
       "FollowersCountHistory": {
         "20201219": 4772,
         "20201220": 4770,
@@ -22450,7 +22462,7 @@
         "20210910": 5465,
         "20210911": 5486,
         "20210912": 5486,
-        "20210913": 5488
+        "20210913": 5489
       },
       "TweetsCountHistory": {
         "20201219": 4931,
@@ -22680,20 +22692,20 @@
         "20210910": 6253,
         "20210911": 6268,
         "20210912": 6270,
-        "20210913": 6270
+        "20210913": 6272
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.0126283023700230500996481512,
+        "WeeklyGrowth": 1.0244825049910686140591583739,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 5438.46428571428571428571
+            "Y": 5438.28571428571428571428
           },
           "End": {
             "X": 20210913.0,
-            "Y": 5493.53571428571428571429
+            "Y": 5494.00000000000000000000
           }
         }
       }
@@ -23182,7 +23194,7 @@
       "PublicName": "８クリス ✨",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1375632168165195785/1wMv8rg8_normal.jpg",
       "Login": "_8Cris_",
-      "CurrentFollowersCount": 307,
+      "CurrentFollowersCount": 308,
       "CurrentTweetsCout": 812,
       "FollowersCountHistory": {
         "20201219": 193,
@@ -23411,7 +23423,7 @@
         "20210910": 308,
         "20210911": 308,
         "20210912": 307,
-        "20210913": 307
+        "20210913": 308
       },
       "TweetsCountHistory": {
         "20201219": 495,
@@ -23645,15 +23657,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.4196782466775472138027792613,
+        "WeeklyGrowth": 0.6298845211711186282514965002,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 306.3571428571428571428571
+            "Y": 306.1785714285714285714286
           },
           "End": {
             "X": 20210913.0,
-            "Y": 307.6428571428571428571429
+            "Y": 308.1071428571428571428572
           }
         }
       }
@@ -23662,8 +23674,8 @@
       "PublicName": "FoxxDrive 🦊",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1309174527054827520/kYzXZFNJ_normal.jpg",
       "Login": "FoxxDrive",
-      "CurrentFollowersCount": 838,
-      "CurrentTweetsCout": 7768,
+      "CurrentFollowersCount": 839,
+      "CurrentTweetsCout": 7775,
       "FollowersCountHistory": {
         "20201219": 235,
         "20201220": 233,
@@ -23891,7 +23903,7 @@
         "20210910": 834,
         "20210911": 837,
         "20210912": 838,
-        "20210913": 838
+        "20210913": 839
       },
       "TweetsCountHistory": {
         "20201219": 3533,
@@ -24120,20 +24132,20 @@
         "20210910": 7756,
         "20210911": 7764,
         "20210912": 7765,
-        "20210913": 7768
+        "20210913": 7775
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.7210300429184549356223174728,
+        "WeeklyGrowth": 0.7984546039922730199612613879,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 832.142857142857142857143
+            "Y": 831.964285714285714285715
           },
           "End": {
             "X": 20210913.0,
-            "Y": 838.142857142857142857143
+            "Y": 838.607142857142857142857
           }
         }
       }
@@ -25105,7 +25117,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1421926133369606151/9ENkMXef_normal.jpg",
       "Login": "sastrun",
       "CurrentFollowersCount": 131,
-      "CurrentTweetsCout": 3438,
+      "CurrentTweetsCout": 3440,
       "FollowersCountHistory": {
         "20201219": 107,
         "20201220": 108,
@@ -25564,7 +25576,7 @@
         "20210910": 3429,
         "20210911": 3431,
         "20210912": 3438,
-        "20210913": 3438
+        "20210913": 3440
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -26068,8 +26080,8 @@
       "PublicName": "Glentgm",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1348069426495631360/IveBfHJ9_normal.jpg",
       "Login": "Glentgm",
-      "CurrentFollowersCount": 618,
-      "CurrentTweetsCout": 407,
+      "CurrentFollowersCount": 620,
+      "CurrentTweetsCout": 408,
       "FollowersCountHistory": {
         "20201219": 338,
         "20201220": 340,
@@ -26298,7 +26310,7 @@
         "20210910": 616,
         "20210911": 617,
         "20210912": 618,
-        "20210913": 618
+        "20210913": 620
       },
       "TweetsCountHistory": {
         "20201219": 362,
@@ -26528,20 +26540,20 @@
         "20210910": 406,
         "20210911": 407,
         "20210912": 407,
-        "20210913": 407
+        "20210913": 408
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.6629834254143646408840711051,
+        "WeeklyGrowth": 0.8728542333430317137039511202,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 614.107142857142857142857
+            "Y": 613.750000000000000000000
           },
           "End": {
             "X": 20210913.0,
-            "Y": 618.178571428571428571429
+            "Y": 619.107142857142857142858
           }
         }
       }
@@ -26550,7 +26562,7 @@
       "PublicName": "aru",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1347682636836311042/gmtIk8nf_normal.jpg",
       "Login": "catnipdesu",
-      "CurrentFollowersCount": 338,
+      "CurrentFollowersCount": 337,
       "CurrentTweetsCout": 9895,
       "FollowersCountHistory": {
         "20201219": 335,
@@ -26780,7 +26792,7 @@
         "20210910": 338,
         "20210911": 338,
         "20210912": 338,
-        "20210913": 338
+        "20210913": 337
       },
       "TweetsCountHistory": {
         "20201219": 9872,
@@ -27015,15 +27027,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1899335232668566001899166323,
+        "WeeklyGrowth": -0.379666736975321662096629355,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 338.4642857142857142857143
+            "Y": 338.6428571428571428571429
           },
           "End": {
             "X": 20210913.0,
-            "Y": 337.8214285714285714285715
+            "Y": 337.3571428571428571428571
           }
         }
       }
@@ -27032,8 +27044,8 @@
       "PublicName": "saria lemes",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1435007638346117121/Q0Pr3Tp0_normal.jpg",
       "Login": "pedipanol",
-      "CurrentFollowersCount": 6988,
-      "CurrentTweetsCout": 8539,
+      "CurrentFollowersCount": 6987,
+      "CurrentTweetsCout": 8541,
       "FollowersCountHistory": {
         "20201219": 6392,
         "20201220": 6398,
@@ -27262,7 +27274,7 @@
         "20210910": 6991,
         "20210911": 6989,
         "20210912": 6990,
-        "20210913": 6988
+        "20210913": 6987
       },
       "TweetsCountHistory": {
         "20201219": 5902,
@@ -27492,20 +27504,20 @@
         "20210910": 8521,
         "20210911": 8528,
         "20210912": 8539,
-        "20210913": 8539
+        "20210913": 8541
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0674867327218626338231193186,
+        "WeeklyGrowth": 0.058282506556781987637981794,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 6985.500000000000000000000
+            "Y": 6985.678571428571428571428
           },
           "End": {
             "X": 20210913.0,
-            "Y": 6990.214285714285714285714
+            "Y": 6989.750000000000000000000
           }
         }
       }
@@ -27514,7 +27526,7 @@
       "PublicName": "Atari Boy *comission CLOSE*",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1346106854586404864/Bo24aHyy_normal.jpg",
       "Login": "atariboy_",
-      "CurrentFollowersCount": 695,
+      "CurrentFollowersCount": 694,
       "CurrentTweetsCout": 4101,
       "FollowersCountHistory": {
         "20201219": 540,
@@ -27744,7 +27756,7 @@
         "20210910": 695,
         "20210911": 696,
         "20210912": 695,
-        "20210913": 695
+        "20210913": 694
       },
       "TweetsCountHistory": {
         "20201219": 2595,
@@ -27979,15 +27991,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.5261800361103946350269585546,
+        "WeeklyGrowth": 0.4332129963898916967509025271,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 692.321428571428571428572
+            "Y": 692.5
           },
           "End": {
             "X": 20210913.0,
-            "Y": 695.964285714285714285714
+            "Y": 695.5
           }
         }
       }
@@ -28960,7 +28972,7 @@
       "PublicName": "Midio",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1128383290765905921/SHxjF2n-_normal.png",
       "Login": "midio",
-      "CurrentFollowersCount": 22954,
+      "CurrentFollowersCount": 22953,
       "CurrentTweetsCout": 27264,
       "FollowersCountHistory": {
         "20201219": 23436,
@@ -29189,7 +29201,7 @@
         "20210910": 22963,
         "20210911": 22954,
         "20210912": 22954,
-        "20210913": 22954
+        "20210913": 22953
       },
       "TweetsCountHistory": {
         "20201219": 27164,
@@ -29423,15 +29435,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0737007903399099108904554381,
+        "WeeklyGrowth": -0.0764989598007295388605411524,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 22969.321428571428571428571
+            "Y": 22969.500000000000000000000
           },
           "End": {
             "X": 20210913.0,
-            "Y": 22952.392857142857142857143
+            "Y": 22951.928571428571428571428
           }
         }
       }
@@ -29440,7 +29452,7 @@
       "PublicName": "Bruna Negri",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1396714446425370625/s-M9Ij4n_normal.jpg",
       "Login": "bnegriart",
-      "CurrentFollowersCount": 1650,
+      "CurrentFollowersCount": 1649,
       "CurrentTweetsCout": 1696,
       "FollowersCountHistory": {
         "20201220": 1343,
@@ -29669,7 +29681,7 @@
         "20210910": 1651,
         "20210911": 1651,
         "20210912": 1650,
-        "20210913": 1650
+        "20210913": 1649
       },
       "TweetsCountHistory": {
         "20201220": 1482,
@@ -29903,15 +29915,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.3123102281599722390907780375,
+        "WeeklyGrowth": 0.2732418190098236939691626853,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 1646.714285714285714285715
+            "Y": 1646.892857142857142857143
           },
           "End": {
             "X": 20210913.0,
-            "Y": 1651.857142857142857142857
+            "Y": 1651.392857142857142857143
           }
         }
       }
@@ -30877,7 +30889,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1340950192221265923/ng-to74s_normal.jpg",
       "Login": "Anima_nel",
       "CurrentFollowersCount": 920,
-      "CurrentTweetsCout": 289,
+      "CurrentTweetsCout": 293,
       "FollowersCountHistory": {
         "20201221": 405,
         "20201222": 410,
@@ -31332,7 +31344,7 @@
         "20210910": 288,
         "20210911": 288,
         "20210912": 289,
-        "20210913": 289
+        "20210913": 293
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -32785,7 +32797,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/378800000010668066/e99f396f5db1a796b40bfd0ac0e438ef_normal.jpeg",
       "Login": "sstellet",
       "CurrentFollowersCount": 130,
-      "CurrentTweetsCout": 425,
+      "CurrentTweetsCout": 426,
       "FollowersCountHistory": {
         "20201221": 114,
         "20201222": 114,
@@ -33240,7 +33252,7 @@
         "20210910": 424,
         "20210911": 425,
         "20210912": 425,
-        "20210913": 425
+        "20210913": 426
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -33263,7 +33275,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1425922133629222912/rQFryD5Q_normal.jpg",
       "Login": "pixelnovak",
       "CurrentFollowersCount": 1235,
-      "CurrentTweetsCout": 2321,
+      "CurrentTweetsCout": 2323,
       "FollowersCountHistory": {
         "20201221": 633,
         "20201222": 637,
@@ -33718,7 +33730,7 @@
         "20210910": 2312,
         "20210911": 2317,
         "20210912": 2319,
-        "20210913": 2321
+        "20210913": 2323
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -33741,7 +33753,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1418166830942859270/0zWGmZpD_normal.jpg",
       "Login": "andrart7",
       "CurrentFollowersCount": 483,
-      "CurrentTweetsCout": 323,
+      "CurrentTweetsCout": 326,
       "FollowersCountHistory": {
         "20201221": 259,
         "20201222": 261,
@@ -34194,7 +34206,7 @@
         "20210910": 322,
         "20210911": 323,
         "20210912": 323,
-        "20210913": 323
+        "20210913": 326
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -34216,8 +34228,8 @@
       "PublicName": "Talbone 🏳️‍⚧️ 🏳️‍🌈",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1434982551953854465/3aoGeFau_normal.jpg",
       "Login": "iTalbone",
-      "CurrentFollowersCount": 813,
-      "CurrentTweetsCout": 3285,
+      "CurrentFollowersCount": 812,
+      "CurrentTweetsCout": 3296,
       "FollowersCountHistory": {
         "20201221": 569,
         "20201222": 568,
@@ -34444,7 +34456,7 @@
         "20210910": 810,
         "20210911": 813,
         "20210912": 813,
-        "20210913": 813
+        "20210913": 812
       },
       "TweetsCountHistory": {
         "20201221": 2064,
@@ -34672,20 +34684,20 @@
         "20210910": 3270,
         "20210911": 3280,
         "20210912": 3283,
-        "20210913": 3285
+        "20210913": 3296
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.144276400408036545881900031,
+        "WeeklyGrowth": 1.0642071656615821213196885876,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 805.250000000000000000000
+            "Y": 805.428571428571428571428
           },
           "End": {
             "X": 20210913.0,
-            "Y": 814.464285714285714285714
+            "Y": 814.000000000000000000000
           }
         }
       }
@@ -36604,7 +36616,7 @@
       "PublicName": "Luis Tavares",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1329220803209154565/iPR_mjK2_normal.jpg",
       "Login": "LuisLudic",
-      "CurrentFollowersCount": 446,
+      "CurrentFollowersCount": 445,
       "CurrentTweetsCout": 275,
       "FollowersCountHistory": {
         "20201221": 411,
@@ -36832,7 +36844,7 @@
         "20210910": 445,
         "20210911": 446,
         "20210912": 446,
-        "20210913": 446
+        "20210913": 445
       },
       "TweetsCountHistory": {
         "20201221": 269,
@@ -37065,15 +37077,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.2890637546169905251325068344,
+        "WeeklyGrowth": 0.1444738743077293522754506736,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 444.7857142857142857142857
+            "Y": 444.9642857142857142857143
           },
           "End": {
             "X": 20210913.0,
-            "Y": 446.0714285714285714285715
+            "Y": 445.6071428571428571428571
           }
         }
       }
@@ -37082,8 +37094,8 @@
       "PublicName": "vic 🌺",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1428772169711067139/oGUaoVlc_normal.jpg",
       "Login": "lotovik",
-      "CurrentFollowersCount": 6927,
-      "CurrentTweetsCout": 32268,
+      "CurrentFollowersCount": 6929,
+      "CurrentTweetsCout": 32269,
       "FollowersCountHistory": {
         "20201221": 3868,
         "20201222": 3866,
@@ -37310,7 +37322,7 @@
         "20210910": 6922,
         "20210911": 6926,
         "20210912": 6926,
-        "20210913": 6927
+        "20210913": 6929
       },
       "TweetsCountHistory": {
         "20201221": 31561,
@@ -37538,20 +37550,20 @@
         "20210910": 32354,
         "20210911": 32261,
         "20210912": 32267,
-        "20210913": 32268
+        "20210913": 32269
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0835952134000030961190189448,
+        "WeeklyGrowth": 0.1021772000350911596080193621,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 6921.107142857142857142857
+            "Y": 6920.750000000000000000000
           },
           "End": {
             "X": 20210913.0,
-            "Y": 6926.892857142857142857143
+            "Y": 6927.821428571428571428572
           }
         }
       }
@@ -37560,8 +37572,8 @@
       "PublicName": "E. Junior 🍝",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1408618575133356041/5ylPDtdN_normal.jpg",
       "Login": "macapixel",
-      "CurrentFollowersCount": 784,
-      "CurrentTweetsCout": 944,
+      "CurrentFollowersCount": 785,
+      "CurrentTweetsCout": 946,
       "FollowersCountHistory": {
         "20201221": 106,
         "20201222": 107,
@@ -37788,7 +37800,7 @@
         "20210910": 785,
         "20210911": 785,
         "20210912": 784,
-        "20210913": 784
+        "20210913": 785
       },
       "TweetsCountHistory": {
         "20201221": 263,
@@ -38016,20 +38028,20 @@
         "20210910": 935,
         "20210911": 940,
         "20210912": 944,
-        "20210913": 944
+        "20210913": 946
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0820008200082000820008127177,
+        "WeeklyGrowth": 0.164039004830037364440000003,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 783.9642857142857142857143
+            "Y": 783.7857142857142857142857
           },
           "End": {
             "X": 20210913.0,
-            "Y": 784.6071428571428571428571
+            "Y": 785.0714285714285714285715
           }
         }
       }
@@ -38516,8 +38528,8 @@
       "PublicName": "ferva",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1433239404932390913/91f4htJD_normal.png",
       "Login": "sereiapiranha",
-      "CurrentFollowersCount": 1164,
-      "CurrentTweetsCout": 68893,
+      "CurrentFollowersCount": 1163,
+      "CurrentTweetsCout": 68907,
       "FollowersCountHistory": {
         "20201222": 1077,
         "20201223": 1080,
@@ -38742,7 +38754,7 @@
         "20210910": 1165,
         "20210911": 1166,
         "20210912": 1165,
-        "20210913": 1164
+        "20210913": 1163
       },
       "TweetsCountHistory": {
         "20201222": 64610,
@@ -38968,20 +38980,20 @@
         "20210910": 68874,
         "20210911": 68886,
         "20210912": 68893,
-        "20210913": 68893
+        "20210913": 68907
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1836997122037842140713930562,
+        "WeeklyGrowth": -0.2387730737441454679034131428,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 1166.5000000000000000000000
+            "Y": 1166.678571428571428571429
           },
           "End": {
             "X": 20210913.0,
-            "Y": 1164.3571428571428571428572
+            "Y": 1163.892857142857142857143
           }
         }
       }
@@ -38991,7 +39003,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1423699643037331466/aI33h7iU_normal.jpg",
       "Login": "SpriterGors",
       "CurrentFollowersCount": 1456,
-      "CurrentTweetsCout": 9748,
+      "CurrentTweetsCout": 9751,
       "FollowersCountHistory": {
         "20201222": 897,
         "20201223": 898,
@@ -39444,7 +39456,7 @@
         "20210910": 9726,
         "20210911": 9744,
         "20210912": 9746,
-        "20210913": 9748
+        "20210913": 9751
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -39942,8 +39954,8 @@
       "PublicName": "Jão (João Diniz) - |𝕮𝖔𝖒𝖎𝖘𝖘𝖎𝖔𝖓𝖘 𝕺𝖕𝖊𝖓|",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1409158762519216129/8_aqovAG_normal.jpg",
       "Login": "jaowithatilde",
-      "CurrentFollowersCount": 563,
-      "CurrentTweetsCout": 2600,
+      "CurrentFollowersCount": 562,
+      "CurrentTweetsCout": 2601,
       "FollowersCountHistory": {
         "20201222": 340,
         "20201223": 339,
@@ -40169,7 +40181,7 @@
         "20210910": 559,
         "20210911": 562,
         "20210912": 563,
-        "20210913": 563
+        "20210913": 562
       },
       "TweetsCountHistory": {
         "20201222": 938,
@@ -40396,20 +40408,20 @@
         "20210910": 2595,
         "20210911": 2599,
         "20210912": 2599,
-        "20210913": 2600
+        "20210913": 2601
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 2.4065208953292793375598931866,
+        "WeeklyGrowth": 2.2893358339261462846794024445,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 552.071428571428571428571
+            "Y": 552.250000000000000000000
           },
           "End": {
             "X": 20210913.0,
-            "Y": 565.357142857142857142857
+            "Y": 564.892857142857142857142
           }
         }
       }
@@ -40418,8 +40430,8 @@
       "PublicName": "Bruno S. Briseno",
       "AvatarImage": "https://pbs.twimg.com/profile_images/620759252848771072/hFAWz7fq_normal.png",
       "Login": "brunobriseno",
-      "CurrentFollowersCount": 455,
-      "CurrentTweetsCout": 4107,
+      "CurrentFollowersCount": 457,
+      "CurrentTweetsCout": 4110,
       "FollowersCountHistory": {
         "20201222": 439,
         "20201223": 439,
@@ -40644,7 +40656,7 @@
         "20210910": 455,
         "20210911": 455,
         "20210912": 454,
-        "20210913": 455
+        "20210913": 457
       },
       "TweetsCountHistory": {
         "20201222": 3606,
@@ -40870,20 +40882,20 @@
         "20210910": 4104,
         "20210911": 4106,
         "20210912": 4106,
-        "20210913": 4107
+        "20210913": 4110
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.0941767383456286297284633555,
+        "WeeklyGrowth": 0.1885014137606032045240464911,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 455.0714285714285714285714
+            "Y": 454.7142857142857142857143
           },
           "End": {
             "X": 20210913.0,
-            "Y": 454.6428571428571428571428
+            "Y": 455.5714285714285714285715
           }
         }
       }
@@ -41121,7 +41133,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1277758484986150912/nGP3IY7D_normal.jpg",
       "Login": "Ravensherald",
       "CurrentFollowersCount": 123,
-      "CurrentTweetsCout": 4504,
+      "CurrentTweetsCout": 4508,
       "FollowersCountHistory": {
         "20201222": 107,
         "20201223": 107,
@@ -41572,7 +41584,7 @@
         "20210910": 4504,
         "20210911": 4505,
         "20210912": 4506,
-        "20210913": 4504
+        "20210913": 4508
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -41595,7 +41607,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1295601361225162753/_ILDm0LW_normal.jpg",
       "Login": "suricacto",
       "CurrentFollowersCount": 118,
-      "CurrentTweetsCout": 439,
+      "CurrentTweetsCout": 440,
       "FollowersCountHistory": {
         "20201222": 80,
         "20201223": 80,
@@ -42048,7 +42060,7 @@
         "20210910": 439,
         "20210911": 439,
         "20210912": 439,
-        "20210913": 439
+        "20210913": 440
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -43548,8 +43560,8 @@
       "PublicName": "AHIGHMENTALITY",
       "AvatarImage": "https://pbs.twimg.com/profile_images/508710927617642496/2PkLUkxu_normal.jpeg",
       "Login": "ahighmentality",
-      "CurrentFollowersCount": 1305,
-      "CurrentTweetsCout": 968,
+      "CurrentFollowersCount": 1303,
+      "CurrentTweetsCout": 971,
       "FollowersCountHistory": {
         "20201223": 1159,
         "20201224": 1162,
@@ -43774,7 +43786,7 @@
         "20210910": 1304,
         "20210911": 1304,
         "20210912": 1304,
-        "20210913": 1305
+        "20210913": 1303
       },
       "TweetsCountHistory": {
         "20201223": 440,
@@ -44000,20 +44012,20 @@
         "20210910": 960,
         "20210911": 967,
         "20210912": 968,
-        "20210913": 968
+        "20210913": 971
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.2139272098955047859356793128,
+        "WeeklyGrowth": 0.1151599901291437032162540113,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 1302.178571428571428571428
+            "Y": 1302.5357142857142857142857
           },
           "End": {
             "X": 20210913.0,
-            "Y": 1304.964285714285714285714
+            "Y": 1304.0357142857142857142857
           }
         }
       }
@@ -44022,8 +44034,8 @@
       "PublicName": "Tropicalia 🇧🇷 A Brazilian Game ❁",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1342899195913625607/eQ6Nohy7_normal.png",
       "Login": "tropicaliagame",
-      "CurrentFollowersCount": 4785,
-      "CurrentTweetsCout": 4113,
+      "CurrentFollowersCount": 4784,
+      "CurrentTweetsCout": 4116,
       "FollowersCountHistory": {
         "20201223": 3161,
         "20201224": 3163,
@@ -44248,7 +44260,7 @@
         "20210910": 4774,
         "20210911": 4773,
         "20210912": 4781,
-        "20210913": 4785
+        "20210913": 4784
       },
       "TweetsCountHistory": {
         "20201223": 1735,
@@ -44474,20 +44486,20 @@
         "20210910": 4092,
         "20210911": 4109,
         "20210912": 4112,
-        "20210913": 4113
+        "20210913": 4116
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.5673886612329445670284148046,
+        "WeeklyGrowth": 0.5538586234586895014522504984,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 4758.64285714285714285714
+            "Y": 4758.82142857142857142857
           },
           "End": {
             "X": 20210913.0,
-            "Y": 4785.64285714285714285714
+            "Y": 4785.17857142857142857143
           }
         }
       }
@@ -44971,7 +44983,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1393797517305843713/FL6H6Rx2_normal.png",
       "Login": "pixel_davi",
       "CurrentFollowersCount": 2105,
-      "CurrentTweetsCout": 4238,
+      "CurrentTweetsCout": 4249,
       "FollowersCountHistory": {
         "20201224": 338,
         "20201225": 341,
@@ -45420,7 +45432,7 @@
         "20210910": 4190,
         "20210911": 4229,
         "20210912": 4237,
-        "20210913": 4238
+        "20210913": 4249
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -45500,7 +45512,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1297948744445558785/HIPrFD8K_normal.jpg",
       "Login": "Arntorrinco",
       "CurrentFollowersCount": 57,
-      "CurrentTweetsCout": 513,
+      "CurrentTweetsCout": 514,
       "FollowersCountHistory": {
         "20201225": 51,
         "20201226": 51,
@@ -45945,7 +45957,7 @@
         "20210910": 513,
         "20210911": 513,
         "20210912": 513,
-        "20210913": 513
+        "20210913": 514
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -45968,7 +45980,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1352066533497958407/CjN_vMCe_normal.png",
       "Login": "mupixl",
       "CurrentFollowersCount": 3281,
-      "CurrentTweetsCout": 488,
+      "CurrentTweetsCout": 491,
       "FollowersCountHistory": {
         "20201229": 2120,
         "20201230": 2124,
@@ -46405,7 +46417,7 @@
         "20210910": 481,
         "20210911": 487,
         "20210912": 488,
-        "20210913": 488
+        "20210913": 491
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -46889,7 +46901,7 @@
       "PublicName": "Igor Diemorth - (Hiatus) -",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1323629726536212481/NHQwRik0_normal.jpg",
       "Login": "diemorth",
-      "CurrentFollowersCount": 3798,
+      "CurrentFollowersCount": 3800,
       "CurrentTweetsCout": 454,
       "FollowersCountHistory": {
         "20210111": 3926,
@@ -47096,7 +47108,7 @@
         "20210910": 3803,
         "20210911": 3802,
         "20210912": 3799,
-        "20210913": 3798
+        "20210913": 3800
       },
       "TweetsCountHistory": {
         "20210111": 445,
@@ -47308,15 +47320,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.1351909572270832550978031774,
+        "WeeklyGrowth": -0.1014027378739225959101120987,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 3804.142857142857142857142
+            "Y": 3803.785714285714285714286
           },
           "End": {
             "X": 20210913.0,
-            "Y": 3799.000000000000000000000
+            "Y": 3799.928571428571428571428
           }
         }
       }
@@ -49489,8 +49501,8 @@
       "PublicName": "Gabriel - Commissions Open",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1323077979128422401/hlmQda76_normal.jpg",
       "Login": "snowfoxgabs",
-      "CurrentFollowersCount": 1462,
-      "CurrentTweetsCout": 3404,
+      "CurrentFollowersCount": 1463,
+      "CurrentTweetsCout": 3405,
       "FollowersCountHistory": {
         "20210113": 1104,
         "20210114": 1106,
@@ -49693,7 +49705,7 @@
         "20210910": 1461,
         "20210911": 1460,
         "20210912": 1460,
-        "20210913": 1462
+        "20210913": 1463
       },
       "TweetsCountHistory": {
         "20210113": 2761,
@@ -49897,20 +49909,20 @@
         "20210910": 3404,
         "20210911": 3404,
         "20210912": 3404,
-        "20210913": 3404
+        "20210913": 3405
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0146710027630388537056510747,
+        "WeeklyGrowth": 0.0586911865401545534578929893,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 1460.60714285714285714285714
+            "Y": 1460.4285714285714285714285
           },
           "End": {
             "X": 20210913.0,
-            "Y": 1460.82142857142857142857143
+            "Y": 1461.2857142857142857142857
           }
         }
       }
@@ -49920,7 +49932,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1431068356010987521/Xk-VIME2_normal.jpg",
       "Login": "Nemer_Salimos",
       "CurrentFollowersCount": 375,
-      "CurrentTweetsCout": 622,
+      "CurrentTweetsCout": 623,
       "FollowersCountHistory": {
         "20210113": 342,
         "20210114": 343,
@@ -50329,7 +50341,7 @@
         "20210910": 621,
         "20210911": 621,
         "20210912": 622,
-        "20210913": 622
+        "20210913": 623
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -51213,10 +51225,10 @@
     },
     "Salamendroo": {
       "PublicName": "Vincio",
-      "AvatarImage": "https://pbs.twimg.com/profile_images/1433597243576229888/EqRmBL4q_normal.jpg",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1437487214041174017/2mzHMplk_normal.jpg",
       "Login": "Salamendroo",
-      "CurrentFollowersCount": 1060,
-      "CurrentTweetsCout": 32420,
+      "CurrentFollowersCount": 1059,
+      "CurrentTweetsCout": 32422,
       "FollowersCountHistory": {
         "20210114": 479,
         "20210115": 480,
@@ -51419,7 +51431,7 @@
         "20210910": 1055,
         "20210911": 1055,
         "20210912": 1057,
-        "20210913": 1060
+        "20210913": 1059
       },
       "TweetsCountHistory": {
         "20210114": 12653,
@@ -51623,20 +51635,20 @@
         "20210910": 32306,
         "20210911": 32373,
         "20210912": 32405,
-        "20210913": 32420
+        "20210913": 32422
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.4679393713336272083007832898,
+        "WeeklyGrowth": 0.4068348250610252237591811266,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 1053.250000000000000000000
+            "Y": 1053.428571428571428571428
           },
           "End": {
             "X": 20210913.0,
-            "Y": 1058.178571428571428571428
+            "Y": 1057.714285714285714285714
           }
         }
       }
@@ -51645,7 +51657,7 @@
       "PublicName": "Pierry 🍌",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1421843727706951683/kqpB3J5f_normal.jpg",
       "Login": "314erry",
-      "CurrentFollowersCount": 1616,
+      "CurrentFollowersCount": 1617,
       "CurrentTweetsCout": 1229,
       "FollowersCountHistory": {
         "20210116": 1179,
@@ -51846,7 +51858,7 @@
         "20210910": 1621,
         "20210911": 1619,
         "20210912": 1618,
-        "20210913": 1616
+        "20210913": 1617
       },
       "TweetsCountHistory": {
         "20210116": 1156,
@@ -52052,15 +52064,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.4092139132730512837435945902,
+        "WeeklyGrowth": -0.3696532300651293786305227627,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 1623.321428571428571428571
+            "Y": 1623.142857142857142857143
           },
           "End": {
             "X": 20210913.0,
-            "Y": 1616.678571428571428571429
+            "Y": 1617.142857142857142857143
           }
         }
       }
@@ -52496,7 +52508,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1353308558759239682/c-Izl2A2_normal.jpg",
       "Login": "PixelMelixel",
       "CurrentFollowersCount": 175,
-      "CurrentTweetsCout": 850,
+      "CurrentTweetsCout": 855,
       "FollowersCountHistory": {
         "20210116": 93,
         "20210117": 94,
@@ -52897,7 +52909,7 @@
         "20210910": 845,
         "20210911": 845,
         "20210912": 850,
-        "20210913": 850
+        "20210913": 855
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -52920,7 +52932,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1369688272423813120/FKqldwy1_normal.jpg",
       "Login": "CindyGilver",
       "CurrentFollowersCount": 304,
-      "CurrentTweetsCout": 4656,
+      "CurrentTweetsCout": 4671,
       "FollowersCountHistory": {
         "20210116": 182,
         "20210117": 185,
@@ -53323,7 +53335,7 @@
         "20210910": 4649,
         "20210911": 4652,
         "20210912": 4656,
-        "20210913": 4656
+        "20210913": 4671
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -53346,7 +53358,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1417942825916932096/Gd7zKPDJ_normal.jpg",
       "Login": "raul_volp",
       "CurrentFollowersCount": 1021,
-      "CurrentTweetsCout": 7595,
+      "CurrentTweetsCout": 7605,
       "FollowersCountHistory": {
         "20210116": 611,
         "20210117": 612,
@@ -53749,7 +53761,7 @@
         "20210910": 7487,
         "20210911": 7543,
         "20210912": 7581,
-        "20210913": 7595
+        "20210913": 7605
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -53772,7 +53784,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1386330611602837516/F1fKdQCY_normal.jpg",
       "Login": "mirage42citt",
       "CurrentFollowersCount": 658,
-      "CurrentTweetsCout": 8495,
+      "CurrentTweetsCout": 8497,
       "FollowersCountHistory": {
         "20210116": 509,
         "20210117": 509,
@@ -54175,7 +54187,7 @@
         "20210910": 8476,
         "20210911": 8491,
         "20210912": 8494,
-        "20210913": 8495
+        "20210913": 8497
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -54985,8 +54997,8 @@
       "PublicName": "steelaks",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1436655352024637441/HWy9-_Bn_normal.jpg",
       "Login": "Steelaks1",
-      "CurrentFollowersCount": 506,
-      "CurrentTweetsCout": 6879,
+      "CurrentFollowersCount": 505,
+      "CurrentTweetsCout": 6880,
       "FollowersCountHistory": {
         "20210212": 406,
         "20210213": 407,
@@ -55160,7 +55172,7 @@
         "20210910": 498,
         "20210911": 500,
         "20210912": 506,
-        "20210913": 506
+        "20210913": 505
       },
       "TweetsCountHistory": {
         "20210212": 6893,
@@ -55335,20 +55347,20 @@
         "20210910": 6874,
         "20210911": 6876,
         "20210912": 6878,
-        "20210913": 6879
+        "20210913": 6880
       },
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 1.8142548596112311015118806171,
+        "WeeklyGrowth": 1.6840590140338251169487153652,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 496.071428571428571428571
+            "Y": 496.250000000000000000000
           },
           "End": {
             "X": 20210913.0,
-            "Y": 505.071428571428571428571
+            "Y": 504.607142857142857142858
           }
         }
       }
@@ -55727,7 +55739,7 @@
       "PublicName": "Glaubits",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1426267935128051718/xRAkXLUP_normal.jpg",
       "Login": "glaubits",
-      "CurrentFollowersCount": 1422,
+      "CurrentFollowersCount": 1421,
       "CurrentTweetsCout": 486,
       "FollowersCountHistory": {
         "20210213": 1396,
@@ -55901,7 +55913,7 @@
         "20210910": 1421,
         "20210911": 1423,
         "20210912": 1423,
-        "20210913": 1422
+        "20210913": 1421
       },
       "TweetsCountHistory": {
         "20210213": 379,
@@ -56080,15 +56092,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.2112569790251999396408631994,
+        "WeeklyGrowth": 0.1659667563557723740790705862,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 1420.071428571428571428571
+            "Y": 1420.250000000000000000000
           },
           "End": {
             "X": 20210913.0,
-            "Y": 1423.071428571428571428571
+            "Y": 1422.607142857142857142858
           }
         }
       }
@@ -56098,7 +56110,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1433182787083845636/lfab7Q0S_normal.jpg",
       "Login": "Hto_TheCLS",
       "CurrentFollowersCount": 582,
-      "CurrentTweetsCout": 20119,
+      "CurrentTweetsCout": 20154,
       "FollowersCountHistory": {
         "20210214": 476,
         "20210215": 480,
@@ -56441,7 +56453,7 @@
         "20210910": 19942,
         "20210911": 20031,
         "20210912": 20092,
-        "20210913": 20119
+        "20210913": 20154
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -56464,7 +56476,7 @@
       "AvatarImage": "https://pbs.twimg.com/profile_images/1385629471814922241/iG2hXTTR_normal.jpg",
       "Login": "opacamilos",
       "CurrentFollowersCount": 266,
-      "CurrentTweetsCout": 419,
+      "CurrentTweetsCout": 420,
       "FollowersCountHistory": {
         "20210214": 263,
         "20210215": 263,
@@ -56809,7 +56821,7 @@
         "20210910": 417,
         "20210911": 419,
         "20210912": 419,
-        "20210913": 419
+        "20210913": 420
       },
       "LangId": "br",
       "FollowersTrend": {
@@ -57567,7 +57579,7 @@
       "PublicName": "MotorRoach",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1351231678673526786/T_x-oPzv_normal.jpg",
       "Login": "MotorRoach",
-      "CurrentFollowersCount": 2214,
+      "CurrentFollowersCount": 2216,
       "CurrentTweetsCout": 920,
       "FollowersCountHistory": {
         "20210222": 1852,
@@ -57732,7 +57744,7 @@
         "20210910": 2209,
         "20210911": 2210,
         "20210912": 2210,
-        "20210913": 2214
+        "20210913": 2216
       },
       "TweetsCountHistory": {
         "20210222": 635,
@@ -57902,15 +57914,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.5547535239825463511167934597,
+        "WeeklyGrowth": 0.6132481059069744804425769001,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 2201.750000000000000000000
+            "Y": 2201.392857142857142857143
           },
           "End": {
             "X": 20210913.0,
-            "Y": 2213.964285714285714285714
+            "Y": 2214.892857142857142857143
           }
         }
       }
@@ -58345,7 +58357,7 @@
       "PublicName": "8 bit brasil",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1268087886043320321/3ZOz-TZJ_normal.jpg",
       "Login": "8bitbrasil",
-      "CurrentFollowersCount": 10543,
+      "CurrentFollowersCount": 10544,
       "CurrentTweetsCout": 18,
       "FollowersCountHistory": {
         "20210225": 11549,
@@ -58507,7 +58519,7 @@
         "20210910": 10557,
         "20210911": 10553,
         "20210912": 10548,
-        "20210913": 10543
+        "20210913": 10544
       },
       "TweetsCountHistory": {
         "20210225": 18,
@@ -58674,15 +58686,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": -0.2635366620040949542865521972,
+        "WeeklyGrowth": -0.2574593960854008358983139531,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 10570.50000000000000000000
+            "Y": 10570.32142857142857142856
           },
           "End": {
             "X": 20210913.0,
-            "Y": 10542.64285714285714285714
+            "Y": 10543.10714285714285714285
           }
         }
       }
@@ -59333,7 +59345,7 @@
       "PublicName": "Scrapy",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1412168898296885250/FFWbb2RX_normal.jpg",
       "Login": "Scrapy_",
-      "CurrentFollowersCount": 293,
+      "CurrentFollowersCount": 294,
       "CurrentTweetsCout": 1537,
       "FollowersCountHistory": {
         "20210330": 175,
@@ -59467,7 +59479,7 @@
         "20210910": 275,
         "20210911": 289,
         "20210912": 292,
-        "20210913": 293
+        "20210913": 294
       },
       "TweetsCountHistory": {
         "20210330": 1390,
@@ -59606,15 +59618,15 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 13.027447767308480131093054309,
+        "WeeklyGrowth": 13.282317573107406395188157613,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 261.53571428571428571429
+            "Y": 261.35714285714285714286
           },
           "End": {
             "X": 20210913.0,
-            "Y": 295.60714285714285714286
+            "Y": 296.07142857142857142857
           }
         }
       }
@@ -59895,7 +59907,7 @@
       "PublicName": "Spritesaurus",
       "AvatarImage": "https://pbs.twimg.com/profile_images/1377383216156438529/wRxvIewE_normal.jpg",
       "Login": "spritesaurus",
-      "CurrentFollowersCount": 2116,
+      "CurrentFollowersCount": 2115,
       "CurrentTweetsCout": 47,
       "FollowersCountHistory": {
         "20210411": 566,
@@ -60017,7 +60029,7 @@
         "20210910": 2116,
         "20210911": 2117,
         "20210912": 2116,
-        "20210913": 2116
+        "20210913": 2115
       },
       "TweetsCountHistory": {
         "20210411": 15,
@@ -60144,19 +60156,38 @@
       "LangId": "br",
       "FollowersTrend": {
         "ErrorMessage": null,
-        "WeeklyGrowth": 0.0303853880045240466584486567,
+        "WeeklyGrowth": 0.0,
         "WeeklyTrendLine": {
           "Start": {
             "X": 20210907.0,
-            "Y": 2115.6785714285714285714286
+            "Y": 2115.8571428571428571428571429
           },
           "End": {
             "X": 20210913.0,
-            "Y": 2116.3214285714285714285714
+            "Y": 2115.8571428571428571428571429
           }
         }
       }
+    },
+    "Uiu_wi": {
+      "PublicName": "Uiu👾",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1313219839843069953/VV4OnCMN_normal.jpg",
+      "Login": "Uiu_wi",
+      "CurrentFollowersCount": 56,
+      "CurrentTweetsCout": 245,
+      "FollowersCountHistory": {
+        "20210913": 56
+      },
+      "TweetsCountHistory": {
+        "20210913": 245
+      },
+      "LangId": "br",
+      "FollowersTrend": {
+        "ErrorMessage": "Not enought data to build trend",
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": null
+      }
     }
   },
-  "LastTimeUpdate": "2021-09-13 12:20:01"
+  "LastTimeUpdate": "2021-09-13 23:20:01"
 }
