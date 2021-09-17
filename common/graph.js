@@ -1,5 +1,10 @@
-function showGraph(userid) {
-    let user = getParameterCaseInsensitive(usersData.Users, userid);
+function showGraph(user) {
+    //let user = getParameterCaseInsensitive(usersData.Users, userid);
+
+    if (!user) {
+        console.log('No user found');
+        return;
+    }
 
     if (location.hostname === "localhost" || location.hostname === "127.0.0.1") { console.log('showGraph ym - local host; do nothing');  } 
     else {
@@ -14,7 +19,7 @@ function showGraph(userid) {
 
         if(gtag) {
             try {
-                gtag('event', 'showGraphCall', { 'event_label': userid });
+                gtag('event', 'showGraphCall', { 'event_label': user.Login });
             }
             catch(exception) {
                 console.log(exception);
@@ -26,10 +31,7 @@ function showGraph(userid) {
 
     //usersData.Users[userid];
     //console.log(user)
-    if (!user) {
-        console.log('No user found: ' + userid);
-        return;
-    }
+    
 
     let data = [[], [], []];
     
@@ -71,7 +73,7 @@ function showGraph(userid) {
     let width = parseInt(document.body.clientWidth * 0.8);
     let height = parseInt(document.body.clientHeight * 0.8);
 
-    let title = "Followers & tweets count: " + userid;
+    let title = "Followers & tweets count: " + user.Login;
     if(data[0].length < 2) {
         title = 'Dynamics will be available after two days of work'
     }

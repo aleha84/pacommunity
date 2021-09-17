@@ -1,0 +1,2506 @@
+{
+  "Languages": {
+    "arabic": {
+      "Id": "arabic",
+      "Suffix": "",
+      "Adjective": "Arabic",
+      "Other": true
+    },
+    "ba": {
+      "Id": "ba",
+      "Suffix": "",
+      "Adjective": "Bosnian",
+      "Other": true
+    },
+    "bg": {
+      "Id": "bg",
+      "Suffix": "",
+      "Adjective": "Bulgarian",
+      "Other": true
+    },
+    "br": {
+      "Id": "br",
+      "Suffix": "_br",
+      "Adjective": "Brazilian Portuguese",
+      "Other": false
+    },
+    "catalan": {
+      "Id": "catalan",
+      "Suffix": "",
+      "Adjective": "Catalan",
+      "Other": true
+    },
+    "cn": {
+      "Id": "cn",
+      "Suffix": "",
+      "Adjective": "Chinese",
+      "Other": true
+    },
+    "cz": {
+      "Id": "cz",
+      "Suffix": "",
+      "Adjective": "Czech",
+      "Other": true
+    },
+    "de": {
+      "Id": "de",
+      "Suffix": "_de",
+      "Adjective": "German",
+      "Other": false
+    },
+    "dk": {
+      "Id": "dk",
+      "Suffix": "",
+      "Adjective": "Danish",
+      "Other": true
+    },
+    "en": {
+      "Id": "en",
+      "Suffix": "_en",
+      "Adjective": "English",
+      "Other": false
+    },
+    "es": {
+      "Id": "es",
+      "Suffix": "_es",
+      "Adjective": "Spanish",
+      "Other": false
+    },
+    "fi": {
+      "Id": "fi",
+      "Suffix": "",
+      "Adjective": "Finnish",
+      "Other": true
+    },
+    "fr": {
+      "Id": "fr",
+      "Suffix": "_fr",
+      "Adjective": "French",
+      "Other": false
+    },
+    "ge": {
+      "Id": "ge",
+      "Suffix": "",
+      "Adjective": "Georgian",
+      "Other": true
+    },
+    "gr": {
+      "Id": "gr",
+      "Suffix": "",
+      "Adjective": "Greek",
+      "Other": true
+    },
+    "hu": {
+      "Id": "hu",
+      "Suffix": "",
+      "Adjective": "Hungarian",
+      "Other": true
+    },
+    "id": {
+      "Id": "id",
+      "Suffix": "",
+      "Adjective": "Indonesian",
+      "Other": true
+    },
+    "il": {
+      "Id": "il",
+      "Suffix": "",
+      "Adjective": "Hebrew",
+      "Other": true
+    },
+    "ir": {
+      "Id": "ir",
+      "Suffix": "",
+      "Adjective": "Iranian",
+      "Other": true
+    },
+    "it": {
+      "Id": "it",
+      "Suffix": "",
+      "Adjective": "Italian",
+      "Other": true
+    },
+    "jp": {
+      "Id": "jp",
+      "Suffix": "_jp",
+      "Adjective": "Japanese",
+      "Other": false
+    },
+    "kr": {
+      "Id": "kr",
+      "Suffix": "",
+      "Adjective": "Korean",
+      "Other": true
+    },
+    "lv": {
+      "Id": "lv",
+      "Suffix": "",
+      "Adjective": "Latvian",
+      "Other": true
+    },
+    "nl": {
+      "Id": "nl",
+      "Suffix": "",
+      "Adjective": "Dutch",
+      "Other": true
+    },
+    "no": {
+      "Id": "no",
+      "Suffix": "",
+      "Adjective": "Norvegian",
+      "Other": true
+    },
+    "np": {
+      "Id": "np",
+      "Suffix": "",
+      "Adjective": "Nepali",
+      "Other": true
+    },
+    "ph": {
+      "Id": "ph",
+      "Suffix": "",
+      "Adjective": "Filipino",
+      "Other": true
+    },
+    "pl": {
+      "Id": "pl",
+      "Suffix": "",
+      "Adjective": "Polish",
+      "Other": true
+    },
+    "pt": {
+      "Id": "pt",
+      "Suffix": "",
+      "Adjective": "Portuguese",
+      "Other": true
+    },
+    "ro": {
+      "Id": "ro",
+      "Suffix": "",
+      "Adjective": "Romanian",
+      "Other": true
+    },
+    "rs": {
+      "Id": "rs",
+      "Suffix": "",
+      "Adjective": "Serbian",
+      "Other": true
+    },
+    "ru": {
+      "Id": "ru",
+      "Suffix": "",
+      "Adjective": "Russian",
+      "Other": false
+    },
+    "se": {
+      "Id": "se",
+      "Suffix": "",
+      "Adjective": "Swedish",
+      "Other": true
+    },
+    "sk": {
+      "Id": "sk",
+      "Suffix": "",
+      "Adjective": "Slovakian",
+      "Other": true
+    },
+    "th": {
+      "Id": "th",
+      "Suffix": "",
+      "Adjective": "Thai",
+      "Other": true
+    },
+    "tr": {
+      "Id": "tr",
+      "Suffix": "",
+      "Adjective": "Turkish",
+      "Other": true
+    },
+    "ua": {
+      "Id": "ua",
+      "Suffix": "",
+      "Adjective": "Ukrainian",
+      "Other": true
+    },
+    "vn": {
+      "Id": "vn",
+      "Suffix": "",
+      "Adjective": "Vietnamese",
+      "Other": true
+    }
+  },
+  "Lang": {
+    "Id": "fr",
+    "Suffix": "_fr",
+    "Adjective": "French",
+    "Other": false
+  },
+  "Users": {
+    "trustpixels": {
+      "PublicName": "trustpixels",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1428609718428262405/Fwdwq1Zn_normal.jpg",
+      "Login": "trustpixels",
+      "CurrentFollowersCount": 6570,
+      "CurrentTweetsCout": 2086,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 1.2129892307268570799019037488,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 6483.39285714285714285714
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 6562.03571428571428571428
+          }
+        }
+      }
+    },
+    "NOP_Pixels": {
+      "PublicName": "NOP (Commissions Closed)",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1399835050724691972/ObT6Opj0_normal.jpg",
+      "Login": "NOP_Pixels",
+      "CurrentFollowersCount": 22547,
+      "CurrentTweetsCout": 8476,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 1.7048032461410243621466737642,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 22197.7857142857142857143
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 22576.2142857142857142857
+          }
+        }
+      }
+    },
+    "CamiUnknown": {
+      "PublicName": "Camille Unknown",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1391885965673762822/f5xi2b76_normal.jpg",
+      "Login": "CamiUnknown",
+      "CurrentFollowersCount": 13806,
+      "CurrentTweetsCout": 6131,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.8664508359530177200143570731,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 13701.21428571428571428572
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 13819.92857142857142857143
+          }
+        }
+      }
+    },
+    "D44W33D": {
+      "PublicName": "DaaWeeD",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1354781505575395329/dqeu1kwa_normal.jpg",
+      "Login": "D44W33D",
+      "CurrentFollowersCount": 12068,
+      "CurrentTweetsCout": 9457,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.7216691278045062639927469809,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 11996.00000000000000000001
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 12082.57142857142857142858
+          }
+        }
+      }
+    },
+    "ckelsallpxls": {
+      "PublicName": "Chris K. [pixel art]",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1305764427120218113/WHN6Jimq_normal.png",
+      "Login": "ckelsallpxls",
+      "CurrentFollowersCount": 3445,
+      "CurrentTweetsCout": 4699,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 2.0862176472453260904027655959,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 3379.32142857142857142857
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 3449.82142857142857142857
+          }
+        }
+      }
+    },
+    "RobinRomaric": {
+      "PublicName": "Romi",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1260451196441169920/t9AGJ_9g_normal.jpg",
+      "Login": "RobinRomaric",
+      "CurrentFollowersCount": 940,
+      "CurrentTweetsCout": 548,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.642693190512624,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210725.0,
+            "Y": 933.571428571429
+          },
+          "End": {
+            "X": 20210731.0,
+            "Y": 939.571428571429
+          }
+        }
+      }
+    },
+    "hervepiton": {
+      "PublicName": "Hervé Piton",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/465126859311550464/BFLkp7og_normal.png",
+      "Login": "hervepiton",
+      "CurrentFollowersCount": 1013,
+      "CurrentTweetsCout": 3233,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.2743098294355547740460980413,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1015.535714285714285714286
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1012.750000000000000000000
+          }
+        }
+      }
+    },
+    "johanvinet": {
+      "PublicName": "Johan Vinet",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/378800000010855065/8551b3a70f4765d2e525e06b6a7be1eb_normal.gif",
+      "Login": "johanvinet",
+      "CurrentFollowersCount": 34958,
+      "CurrentTweetsCout": 18451,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.2598399803430747731007181731,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 34884.10714285714285714286
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 34974.75000000000000000000
+          }
+        }
+      }
+    },
+    "manupixou": {
+      "PublicName": "Manu Gafar",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/635912306694750208/MjXdEl77_normal.jpg",
+      "Login": "manupixou",
+      "CurrentFollowersCount": 379,
+      "CurrentTweetsCout": 3986,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 379.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 379.0
+          }
+        }
+      }
+    },
+    "baboum": {
+      "PublicName": "Pierre Ostiguy",
+      "AvatarImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "Login": "baboum",
+      "CurrentFollowersCount": 1,
+      "CurrentTweetsCout": 0,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1.0
+          }
+        }
+      }
+    },
+    "Pixergg": {
+      "PublicName": "François Barbary",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/819819724376854528/_1SkoeaI_normal.jpg",
+      "Login": "Pixergg",
+      "CurrentFollowersCount": 1184,
+      "CurrentTweetsCout": 1426,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.1631173538740371545083848401,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1182.3214285714285714285714
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1184.2500000000000000000000
+          }
+        }
+      }
+    },
+    "noscium": {
+      "PublicName": "Scium",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1404523740176826372/abdKTTuo_normal.jpg",
+      "Login": "noscium",
+      "CurrentFollowersCount": 32774,
+      "CurrentTweetsCout": 8051,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.564349997531545,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210730.0,
+            "Y": 32586.7559309063
+          },
+          "End": {
+            "X": 20210818.0,
+            "Y": 32770.659287198
+          }
+        }
+      }
+    },
+    "shmeuh": {
+      "PublicName": "Monsieur Shmeuh",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1273339211282817024/AxvAjuyG_normal.png",
+      "Login": "shmeuh",
+      "CurrentFollowersCount": 1505,
+      "CurrentTweetsCout": 102,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.0853849437882453394051506104,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1505.7857142857142857142857
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1504.5000000000000000000000
+          }
+        }
+      }
+    },
+    "onilink": {
+      "PublicName": "Oni",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/547184664063275008/kUMfdZwQ_normal.jpeg",
+      "Login": "OniLink",
+      "CurrentFollowersCount": 3,
+      "CurrentTweetsCout": 7,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 3.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 3.0
+          }
+        }
+      }
+    },
+    "Fusionnist": {
+      "PublicName": "fufu",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1349120140571504649/DSR0m86q_normal.jpg",
+      "Login": "Fusionnist",
+      "CurrentFollowersCount": 917,
+      "CurrentTweetsCout": 2360,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.23435669088352472463089291,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 914.3571428571428571428571
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 916.5000000000000000000000
+          }
+        }
+      }
+    },
+    "noiracide": {
+      "PublicName": "Noiracide",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1411837294164824064/5XRNwUmB_normal.png",
+      "Login": "Noiracide",
+      "CurrentFollowersCount": 471,
+      "CurrentTweetsCout": 779,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.3650745360511104350471585254,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 469.5714285714285714285714
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 471.2857142857142857142857
+          }
+        }
+      }
+    },
+    "leonbli": {
+      "PublicName": "leon bli",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/378800000188255267/41e54ff97d4f576c29fe6bc30f4e3feb_normal.png",
+      "Login": "leonbli",
+      "CurrentFollowersCount": 16,
+      "CurrentTweetsCout": 37,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 16.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 16.0
+          }
+        }
+      }
+    },
+    "hugueslaborde": {
+      "PublicName": "Hugues Laborde",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/993407807088218112/WzBmRABP_normal.jpg",
+      "Login": "hugueslaborde",
+      "CurrentFollowersCount": 3049,
+      "CurrentTweetsCout": 950,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.3878747987164870297018159228,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 3038.535714285714285714286
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 3050.321428571428571428572
+          }
+        }
+      }
+    },
+    "zak_amana": {
+      "PublicName": "Zak Amana",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/973281305696849920/VMhCVCo-_normal.jpg",
+      "Login": "zak_amana",
+      "CurrentFollowersCount": 10944,
+      "CurrentTweetsCout": 350,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.0176155695537715260628878442,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 10948.1071428571428571428572
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 10946.1785714285714285714286
+          }
+        }
+      }
+    },
+    "iamgunpog": {
+      "PublicName": "Gunpog 🍒",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1285582244531376129/11bRrCx2_normal.jpg",
+      "Login": "iamgunpog",
+      "CurrentFollowersCount": 523,
+      "CurrentTweetsCout": 770,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.3670722588539188362449921528,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 525.3928571428571428571429
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 523.4642857142857142857143
+          }
+        }
+      }
+    },
+    "PorkyArt": {
+      "PublicName": "Porctrijambiste",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1205817367416184833/o30muPot_normal.jpg",
+      "Login": "PorkyArt",
+      "CurrentFollowersCount": 326,
+      "CurrentTweetsCout": 206,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 2.0057945174949855137064025142,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 320.499999999999999999999
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 326.928571428571428571428
+          }
+        }
+      }
+    },
+    "gyhyom": {
+      "PublicName": "Gyhyom",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1403291195632144388/rrRG-Qt2_normal.png",
+      "Login": "gyhyom",
+      "CurrentFollowersCount": 1775,
+      "CurrentTweetsCout": 1758,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.1208751359845279825939828435,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1772.7857142857142857142856
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1774.9285714285714285714285
+          }
+        }
+      }
+    },
+    "FlorianHurtaut": {
+      "PublicName": "Florian Hurtaut",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/968134939282673666/SEv_BeMn_normal.jpg",
+      "Login": "FlorianHurtaut",
+      "CurrentFollowersCount": 1055,
+      "CurrentTweetsCout": 954,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.1826113421933651212336437627,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1056.1071428571428571428572
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1054.1785714285714285714286
+          }
+        }
+      }
+    },
+    "Pluspixels": {
+      "PublicName": "Plus",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/831494785525485568/hDDSGOgB_normal.jpg",
+      "Login": "Pluspixels",
+      "CurrentFollowersCount": 1293,
+      "CurrentTweetsCout": 2662,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.0497223833595757023286682672,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1292.8928571428571428571429
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1292.2500000000000000000000
+          }
+        }
+      }
+    },
+    "ThisIsEllian": {
+      "PublicName": "Ellian",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1191147028442746883/rsXEiyOJ_normal.png",
+      "Login": "ThisIsEllian",
+      "CurrentFollowersCount": 22431,
+      "CurrentTweetsCout": 40520,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0257970409838545556459703275,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 22427.821428571428571428571
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 22433.607142857142857142857
+          }
+        }
+      }
+    },
+    "Denis_Grenier86": {
+      "PublicName": "Denis Grenier",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1422336953773608960/jlhmLBCz_normal.jpg",
+      "Login": "Denis_Grenier86",
+      "CurrentFollowersCount": 98,
+      "CurrentTweetsCout": 544,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 98.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 98.0
+          }
+        }
+      }
+    },
+    "cod31n3": {
+      "PublicName": "COD31N3 - OPEN COMMISSIONS -",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1330802168673210368/T8OmtRCe_normal.jpg",
+      "Login": "cod31n3",
+      "CurrentFollowersCount": 3413,
+      "CurrentTweetsCout": 2759,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.5759311414195753298946236608,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 3385.821428571428571428571
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 3405.321428571428571428571
+          }
+        }
+      }
+    },
+    "Gentle_Squirell": {
+      "PublicName": "Quentin | Squirell",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1416007845405937665/5-EckWAC_normal.jpg",
+      "Login": "Gentle_Squirell",
+      "CurrentFollowersCount": 79,
+      "CurrentTweetsCout": 4008,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 79.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 79.0
+          }
+        }
+      }
+    },
+    "mr_Hk_": {
+      "PublicName": "_Hk_ Alexis Morille",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/788007565720481792/Fb-WtBxw_normal.jpg",
+      "Login": "mr_Hk_",
+      "CurrentFollowersCount": 2845,
+      "CurrentTweetsCout": 1971,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.1281455331231076548111160419,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 2842.749999999999999999999
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 2846.392857142857142857142
+          }
+        }
+      }
+    },
+    "IbanPlays": {
+      "PublicName": "IbanPlay",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1371211566075547650/PW31qYVG_normal.jpg",
+      "Login": "IbanPlays",
+      "CurrentFollowersCount": 2073,
+      "CurrentTweetsCout": 214,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.4565578306585500830105356073,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 2065.142857142857142857142
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 2074.571428571428571428571
+          }
+        }
+      }
+    },
+    "neimadpo": {
+      "PublicName": "neimadpo",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1421559477199937543/ro3HXfj4_normal.jpg",
+      "Login": "neimadpo",
+      "CurrentFollowersCount": 137,
+      "CurrentTweetsCout": 89,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 137.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 137.0
+          }
+        }
+      }
+    },
+    "Mamzilla_": {
+      "PublicName": "Mamzilla",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1338207001143283718/XA98Yefc_normal.png",
+      "Login": "Mamzilla_",
+      "CurrentFollowersCount": 159,
+      "CurrentTweetsCout": 85,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.5371530886302596239928111973,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 159.5714285714285714285714
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 158.7142857142857142857143
+          }
+        }
+      }
+    },
+    "novapixel82": {
+      "PublicName": "nova",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1333716086085324801/9ZO4iRRy_normal.jpg",
+      "Login": "NovaPixel82",
+      "CurrentFollowersCount": 272,
+      "CurrentTweetsCout": 85,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.4708344232278315459063510825,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 273.0714285714285714285714
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 271.7857142857142857142857
+          }
+        }
+      }
+    },
+    "StahlDraws": {
+      "PublicName": "Kiolouw",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1392075904399069187/l5RC06Ds_normal.jpg",
+      "Login": "StahlDraws",
+      "CurrentFollowersCount": 161,
+      "CurrentTweetsCout": 1595,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 3.4145231049396767584793048809,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 156.892857142857142857143
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 162.250000000000000000000
+          }
+        }
+      }
+    },
+    "thomaslean": {
+      "PublicName": "Thomas Lean",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1436854447586648069/D0fBaFh9_normal.jpg",
+      "Login": "ThomasLean",
+      "CurrentFollowersCount": 11285,
+      "CurrentTweetsCout": 1168,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0379929586383323624021706634,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 11280.285714285714285714286
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 11284.571428571428571428572
+          }
+        }
+      }
+    },
+    "pratixel": {
+      "PublicName": "PRΛTIXΣL🔱",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1341414337634811905/-iqeQbOa_normal.jpg",
+      "Login": "pratixel",
+      "CurrentFollowersCount": 1821,
+      "CurrentTweetsCout": 311,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.1175778953556731334509135738,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1822.5000000000000000000001
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1820.3571428571428571428572
+          }
+        }
+      }
+    },
+    "BabaDesBois": {
+      "PublicName": "Baba des Bois (COMMISSONS OPEN)",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1107352193877925889/rLpNCC4E_normal.png",
+      "Login": "BabaDesBois",
+      "CurrentFollowersCount": 496,
+      "CurrentTweetsCout": 794,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.9591629123673884609794506612,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 491.500000000000000000000
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 496.214285714285714285714
+          }
+        }
+      }
+    },
+    "GoofyDrum": {
+      "PublicName": "Drummy",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1325181359816470529/kpAX3zch_normal.jpg",
+      "Login": "GoofyDrum",
+      "CurrentFollowersCount": 438,
+      "CurrentTweetsCout": 780,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.147022788532222,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210118.0,
+            "Y": 437.25
+          },
+          "End": {
+            "X": 20210124.0,
+            "Y": 437.892857142857
+          }
+        }
+      }
+    },
+    "Kroustibate": {
+      "PublicName": "Tiot Moucron",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1348661837722771456/kdhksdoh_normal.jpg",
+      "Login": "Kroustibate",
+      "CurrentFollowersCount": 700,
+      "CurrentTweetsCout": 465,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0612432377258344391140185784,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 699.7857142857142857142857
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 700.2142857142857142857143
+          }
+        }
+      }
+    },
+    "Toulhane": {
+      "PublicName": "Toulhane ✴(comissions open)",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1433955278538543107/v1lUk_Dk_normal.png",
+      "Login": "Toulhane",
+      "CurrentFollowersCount": 232,
+      "CurrentTweetsCout": 3091,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 1.0256410256410256410255763154,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 229.821428571428571428572
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 232.178571428571428571429
+          }
+        }
+      }
+    },
+    "HarmonieGames": {
+      "PublicName": "Harmonie 🦕",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1414579217581449217/UAiMJWsA_normal.jpg",
+      "Login": "HarmonieGames",
+      "CurrentFollowersCount": 677,
+      "CurrentTweetsCout": 2916,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.2209014884552674485878083463,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 679.0357142857142857142857
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 677.5357142857142857142857
+          }
+        }
+      }
+    },
+    "damotime": {
+      "PublicName": "damotime",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1400194392594472968/C1grnrkv_normal.jpg",
+      "Login": "damotime",
+      "CurrentFollowersCount": 289,
+      "CurrentTweetsCout": 353,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.3725319756612442567986985476,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 287.6071428571428571428572
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 288.6785714285714285714286
+          }
+        }
+      }
+    },
+    "JPtomsZ": {
+      "PublicName": "JPtom _ commissions open",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1357692540884033538/zypa0UGf_normal.png",
+      "Login": "JPtomsZ",
+      "CurrentFollowersCount": 1885,
+      "CurrentTweetsCout": 2028,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 1.3758550920127179882454978335,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1853.39285714285714285714
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1878.89285714285714285714
+          }
+        }
+      }
+    },
+    "M3rOj": {
+      "PublicName": "M3rØj",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1433099757497589765/kdqvHJZ0_normal.jpg",
+      "Login": "M3rOj",
+      "CurrentFollowersCount": 3548,
+      "CurrentTweetsCout": 2891,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.9940741794822276206255548239,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 3513.67857142857142857143
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 3548.60714285714285714286
+          }
+        }
+      }
+    },
+    "momimoi_": {
+      "PublicName": "Momisometric",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1427317729611108353/I-QAadEr_normal.png",
+      "Login": "momimoi_",
+      "CurrentFollowersCount": 883,
+      "CurrentTweetsCout": 4592,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.8555016906342933963417113999,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 876.678571428571428571429
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 884.178571428571428571429
+          }
+        }
+      }
+    },
+    "Haykira_": {
+      "PublicName": "Haykira",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1346787021549924352/8kJ_Squb_normal.jpg",
+      "Login": "Haykira_",
+      "CurrentFollowersCount": 3825,
+      "CurrentTweetsCout": 12914,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0336316586012966872816273983,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 3822.9285714285714285714286
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 3824.2142857142857142857143
+          }
+        }
+      }
+    },
+    "nonamenosocks": {
+      "PublicName": "Robin",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1330866326332694530/18NUwxDp_normal.jpg",
+      "Login": "nonamenosocks",
+      "CurrentFollowersCount": 1987,
+      "CurrentTweetsCout": 3857,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1986.4285714285714285714285714
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1986.4285714285714285714285714
+          }
+        }
+      }
+    },
+    "robinduqq_": {
+      "PublicName": "robinduqq",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1398936268109668355/RT03Wdz5_normal.jpg",
+      "Login": "robinduqq_",
+      "CurrentFollowersCount": 14,
+      "CurrentTweetsCout": 144,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 14.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 14.0
+          }
+        }
+      }
+    },
+    "G6sou": {
+      "PublicName": "Cécile G.",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1327343727673827330/DqRAvtDz_normal.jpg",
+      "Login": "G6sou",
+      "CurrentFollowersCount": 140,
+      "CurrentTweetsCout": 3229,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.9264024704065877509006582029,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 138.7857142857142857142858
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 140.0714285714285714285715
+          }
+        }
+      }
+    },
+    "shokostein": {
+      "PublicName": "shokostein",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1398754677911609345/AinS8_Ye_normal.jpg",
+      "Login": "shokostein",
+      "CurrentFollowersCount": 236,
+      "CurrentTweetsCout": 256,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.5472788081483733657646639651,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 234.9285714285714285714286
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 236.2142857142857142857143
+          }
+        }
+      }
+    },
+    "pixelgames": {
+      "PublicName": "pixel games - Xbox, PlayStation, Switch, Atari VCS",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1029288637362577409/R4Yhihcv_normal.jpg",
+      "Login": "pixelgames",
+      "CurrentFollowersCount": 1361,
+      "CurrentTweetsCout": 1861,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.1414241940130424534478715629,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1363.6785714285714285714286
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1361.7500000000000000000000
+          }
+        }
+      }
+    },
+    "kaishido452": {
+      "PublicName": "Kaishido",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1342081183400812545/ZYMRHfp3_normal.png",
+      "Login": "kaishido452",
+      "CurrentFollowersCount": 197,
+      "CurrentTweetsCout": 659,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.657174151150054764512588392,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 195.6428571428571428571429
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 196.9285714285714285714286
+          }
+        }
+      }
+    },
+    "Xeleph_": {
+      "PublicName": "Xeleph🍃",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1438797289527648261/F6ylaslE_normal.png",
+      "Login": "Xeleph_",
+      "CurrentFollowersCount": 742,
+      "CurrentTweetsCout": 342,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 9.035667107001321003962705039,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 675.89285714285714285715
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 736.96428571428571428572
+          }
+        }
+      }
+    },
+    "atlentyps": {
+      "PublicName": "Atlen",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1434555965555322882/FCXDTe2G_normal.jpg",
+      "Login": "atlentyps",
+      "CurrentFollowersCount": 150,
+      "CurrentTweetsCout": 578,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.7202881152460984393757310924,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 148.7500000000000000000000
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 149.8214285714285714285714
+          }
+        }
+      }
+    },
+    "KenetDeluxe": {
+      "PublicName": "Raphaël 'Kenët' Quercy",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1347187589724442625/52emRGXa_normal.jpg",
+      "Login": "KenetDeluxe",
+      "CurrentFollowersCount": 1090,
+      "CurrentTweetsCout": 1964,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 7.1274748176450156304276781972,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 1028.21428571428571428571
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 1101.50000000000000000000
+          }
+        }
+      }
+    },
+    "HomoLudens21": {
+      "PublicName": "LIS Jordan",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1302973855556927490/oRKhgZRc_normal.jpg",
+      "Login": "HomoLudens21",
+      "CurrentFollowersCount": 924,
+      "CurrentTweetsCout": 474,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 1.4338883447600391772771308751,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 911.607142857142857142858
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 924.678571428571428571429
+          }
+        }
+      }
+    },
+    "Skreed3": {
+      "PublicName": "Alexandre Magnat",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/803585719432347648/6_eempsN_normal.jpg",
+      "Login": "Skreed3",
+      "CurrentFollowersCount": 11050,
+      "CurrentTweetsCout": 647,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 3.2506801244602910038011461887,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 10777.9642857142857142857
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 11128.3214285714285714286
+          }
+        }
+      }
+    },
+    "YukiPixels": {
+      "PublicName": "Yuki ✨",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1380564067581054989/XXDOOO6X_normal.jpg",
+      "Login": "YukiPixels",
+      "CurrentFollowersCount": 781,
+      "CurrentTweetsCout": 230,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.2475587952138632925319800165,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 779.0357142857142857142857
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 780.9642857142857142857143
+          }
+        }
+      }
+    },
+    "oxeen_art": {
+      "PublicName": "oxeen 🎠",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1231335893493075968/NCc2htmV_normal.jpg",
+      "Login": "oxeen_art",
+      "CurrentFollowersCount": 164,
+      "CurrentTweetsCout": 46,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 164.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 164.0
+          }
+        }
+      }
+    },
+    "SanshPixel": {
+      "PublicName": "Sansh (Commission slot 0/3)",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1325373816705609729/90v1ysxH_normal.png",
+      "Login": "SanshPixel",
+      "CurrentFollowersCount": 565,
+      "CurrentTweetsCout": 2839,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.9991033687716152171127685429,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 557.642857142857142857144
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 563.214285714285714285715
+          }
+        }
+      }
+    },
+    "inkfloyd_art": {
+      "PublicName": "inkfloydsound",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1285036440636850177/N-Tf2SCz_normal.jpg",
+      "Login": "inkfloyd_art",
+      "CurrentFollowersCount": 172,
+      "CurrentTweetsCout": 1232,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 172.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 172.0
+          }
+        }
+      }
+    },
+    "WaxOWooD": {
+      "PublicName": "Waxo Wood - (LITW pixel art indie game)(Com OPEN)",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1260001698807984128/Cn2ky-Bm_normal.jpg",
+      "Login": "WaxOWooD",
+      "CurrentFollowersCount": 340,
+      "CurrentTweetsCout": 662,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 340.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 340.0
+          }
+        }
+      }
+    },
+    "Sev4games": {
+      "PublicName": "Sev_4",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1115853546568802304/E5v_Rxiv_normal.png",
+      "Login": "Sev4games",
+      "CurrentFollowersCount": 740,
+      "CurrentTweetsCout": 1497,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.4902196376219541500456763702,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 743.107142857142857142858
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 739.464285714285714285715
+          }
+        }
+      }
+    },
+    "angryed3": {
+      "PublicName": "Spirit",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1233080585633062915/HIgIBoAx_normal.jpg",
+      "Login": "angryed3",
+      "CurrentFollowersCount": 173,
+      "CurrentTweetsCout": 115,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 173.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 173.0
+          }
+        }
+      }
+    },
+    "Skaz_": {
+      "PublicName": "Skaz 🦖",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/555656328702472192/uSACMTYP_normal.png",
+      "Login": "Skaz_",
+      "CurrentFollowersCount": 5968,
+      "CurrentTweetsCout": 4386,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.025148044140805096670279203,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 5964.6785714285714285714286
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 5966.1785714285714285714286
+          }
+        }
+      }
+    },
+    "PixenergyArt": {
+      "PublicName": "pixenergyart",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1247869296803528704/4rAjrsOg_normal.jpg",
+      "Login": "PixenergyArt",
+      "CurrentFollowersCount": 445,
+      "CurrentTweetsCout": 1403,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 444.85714285714285714285714286
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 444.85714285714285714285714286
+          }
+        }
+      }
+    },
+    "PixelB_gel": {
+      "PublicName": "B_gel",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1416815964168105984/UQaQ5YHj_normal.jpg",
+      "Login": "PixelB_gel",
+      "CurrentFollowersCount": 109,
+      "CurrentTweetsCout": 109,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 1.996007984031936127744551695,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 107.3571428571428571428571
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 109.5000000000000000000000
+          }
+        }
+      }
+    },
+    "MarieCORDIER14": {
+      "PublicName": "Aschdox",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1278491608057610242/QKSERnXd_normal.jpg",
+      "Login": "MarieCORDIER14",
+      "CurrentFollowersCount": 110,
+      "CurrentTweetsCout": 34,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 110.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 110.0
+          }
+        }
+      }
+    },
+    "ColorSin_": {
+      "PublicName": "Sin",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1244712586274316288/849Sg9gr_normal.png",
+      "Login": "ColorSin_",
+      "CurrentFollowersCount": 920,
+      "CurrentTweetsCout": 948,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.0930521091811414392059506882,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 921.1428571428571428571428
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 920.2857142857142857142857
+          }
+        }
+      }
+    },
+    "carpastek": {
+      "PublicName": "Carpastek 🍉 OPEN COMMISSIONS",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1408056314132111361/P45TlFMQ_normal.png",
+      "Login": "carpastek",
+      "CurrentFollowersCount": 346,
+      "CurrentTweetsCout": 1665,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 3.5805626598465473145780035888,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 335.142857142857142857143
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 347.142857142857142857143
+          }
+        }
+      }
+    },
+    "kryssalian": {
+      "PublicName": "Kryssalian",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1208491000336994304/2CZawNLf_normal.jpg",
+      "Login": "kryssalian",
+      "CurrentFollowersCount": 26810,
+      "CurrentTweetsCout": 197,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.0071935641579333689459164934,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 26809.6785714285714285714286
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 26807.7500000000000000000000
+          }
+        }
+      }
+    },
+    "tyltal": {
+      "PublicName": "Tyltal",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1381735802623959042/DyA34ZEc_normal.jpg",
+      "Login": "tyltal",
+      "CurrentFollowersCount": 162,
+      "CurrentTweetsCout": 545,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 1.2072434607645875251509233177,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 159.7500000000000000000000
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 161.6785714285714285714286
+          }
+        }
+      }
+    },
+    "DraxyDow": {
+      "PublicName": "DraxyDow",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1267858505635160065/9dxxGIaU_normal.jpg",
+      "Login": "DraxyDow",
+      "CurrentFollowersCount": 14,
+      "CurrentTweetsCout": 543,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 14.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 14.0
+          }
+        }
+      }
+    },
+    "bitonicart": {
+      "PublicName": "ghosts pixelin'",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1427709679568834563/WJL89MU0_normal.png",
+      "Login": "bitonicart",
+      "CurrentFollowersCount": 297,
+      "CurrentTweetsCout": 918,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 1.16504854368932,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210816.0,
+            "Y": 294.285714285714
+          },
+          "End": {
+            "X": 20210822.0,
+            "Y": 297.714285714286
+          }
+        }
+      }
+    },
+    "OverboyYT": {
+      "PublicName": "OVERBOY ツ",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1357660425161232390/v5D3MO2F_normal.png",
+      "Login": "OverboyYT",
+      "CurrentFollowersCount": 974,
+      "CurrentTweetsCout": 244,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.242513319860371118868256298,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 971.964285714285714285715
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 974.321428571428571428572
+          }
+        }
+      }
+    },
+    "Zulck_corp": {
+      "PublicName": "Zulck",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1430303042352697348/0wJxKyFS_normal.jpg",
+      "Login": "Zulck_corp",
+      "CurrentFollowersCount": 93,
+      "CurrentTweetsCout": 51,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 1.3986013986013986013985854239,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 91.9285714285714285714286
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 93.2142857142857142857143
+          }
+        }
+      }
+    },
+    "KonAwako": {
+      "PublicName": "Kon Awako",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1330094579039817729/Psnnz9IC_normal.png",
+      "Login": "KonAwako",
+      "CurrentFollowersCount": 4707,
+      "CurrentTweetsCout": 2611,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.2588262004767851061414402016,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 4719.107142857142857142857
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 4706.892857142857142857143
+          }
+        }
+      }
+    },
+    "Pandattack2": {
+      "PublicName": "Pandattack",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1314566243224096771/NddYP9kJ_normal.jpg",
+      "Login": "Pandattack2",
+      "CurrentFollowersCount": 399,
+      "CurrentTweetsCout": 244,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.1613047764136571377363671042,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 398.5357142857142857142856
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 399.1785714285714285714285
+          }
+        }
+      }
+    },
+    "venen0791": {
+      "PublicName": "venen",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1423419613854015494/0UsA9xNG_normal.jpg",
+      "Login": "venen0791",
+      "CurrentFollowersCount": 506,
+      "CurrentTweetsCout": 1039,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.4245082779114192726758257647,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 504.7857142857142857142856
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 506.9285714285714285714285
+          }
+        }
+      }
+    },
+    "2Pblog1": {
+      "PublicName": "Pixel-boy",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1081208546128289792/GjPT_D33_normal.jpg",
+      "Login": "2Pblog1",
+      "CurrentFollowersCount": 20446,
+      "CurrentTweetsCout": 6288,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": -0.0356176342208642514185958972,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 20455.357142857142857142857
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 20448.071428571428571428571
+          }
+        }
+      }
+    },
+    "kamyukami": {
+      "PublicName": "kamyukami",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1358465738709827587/7rKLRwHw_normal.jpg",
+      "Login": "kamyukami",
+      "CurrentFollowersCount": 200,
+      "CurrentTweetsCout": 58,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 200.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 200.0
+          }
+        }
+      }
+    },
+    "rappenem": {
+      "PublicName": "Rappenem | Taking Commissions!",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1419358529060749314/FYf5YRvr_normal.jpg",
+      "Login": "rappenem",
+      "CurrentFollowersCount": 614,
+      "CurrentTweetsCout": 455,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 4.8697758933979406420344269886,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 589.64285714285714285714
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 618.35714285714285714285
+          }
+        }
+      }
+    },
+    "DMG_Tha_Whale": {
+      "PublicName": "D.M.G. AKA Gharmey Hapscoy (Commissions opened!)",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1297942024650465282/dNWoMboa_normal.jpg",
+      "Login": "DMG_Tha_Whale",
+      "CurrentFollowersCount": 85,
+      "CurrentTweetsCout": 12244,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 85.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 85.0
+          }
+        }
+      }
+    },
+    "draken_az": {
+      "PublicName": "Draken Az",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1431601944477544448/bzifzWTd_normal.jpg",
+      "Login": "draken_az",
+      "CurrentFollowersCount": 192,
+      "CurrentTweetsCout": 1531,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 192.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 192.0
+          }
+        }
+      }
+    },
+    "Lafontaine_DL": {
+      "PublicName": "DL",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1417875253095718918/b79BHH4D_normal.jpg",
+      "Login": "Lafontaine_DL",
+      "CurrentFollowersCount": 813,
+      "CurrentTweetsCout": 956,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.7159588102709152782074867576,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 808.107142857142857142857
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 813.892857142857142857143
+          }
+        }
+      }
+    },
+    "maxwell_step": {
+      "PublicName": "Maxwell Step",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1430908701293092865/Hr81vgfC_normal.jpg",
+      "Login": "maxwell_step",
+      "CurrentFollowersCount": 2687,
+      "CurrentTweetsCout": 2378,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 5.5506832262992616063596816408,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 2524.78571428571428571429
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 2664.92857142857142857143
+          }
+        }
+      }
+    },
+    "Grudumpf": {
+      "PublicName": "Grudumpf",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1388234198515781632/Q1hiMD8l_normal.jpg",
+      "Login": "Grudumpf",
+      "CurrentFollowersCount": 105,
+      "CurrentTweetsCout": 42,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 105.0
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 105.0
+          }
+        }
+      }
+    },
+    "Chrysoperla2": {
+      "PublicName": "Chrysope (commissions open)",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1284535153881223169/n9-kLGny_normal.jpg",
+      "Login": "Chrysoperla2",
+      "CurrentFollowersCount": 2497,
+      "CurrentTweetsCout": 441,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 1.4299831424751496831946761786,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 2457.57142857142857142857
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 2492.71428571428571428571
+          }
+        }
+      }
+    },
+    "Taiga_Pog": {
+      "PublicName": "Taiga",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1410227386642280449/35w_nrY-_normal.jpg",
+      "Login": "Taiga_Pog",
+      "CurrentFollowersCount": 11,
+      "CurrentTweetsCout": 434,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210627.0,
+            "Y": 11.0
+          },
+          "End": {
+            "X": 20210706.0,
+            "Y": 11.0
+          }
+        }
+      }
+    },
+    "Clembod": {
+      "PublicName": "Clembod",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1426497809239379973/7A68fXvw_normal.jpg",
+      "Login": "Clembod",
+      "CurrentFollowersCount": 234,
+      "CurrentTweetsCout": 53,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": null,
+        "WeeklyGrowth": 0.5516395954642966595157767234,
+        "WeeklyTrendLine": {
+          "Start": {
+            "X": 20210911.0,
+            "Y": 233.0714285714285714285715
+          },
+          "End": {
+            "X": 20210917.0,
+            "Y": 234.3571428571428571428572
+          }
+        }
+      }
+    },
+    "FrenDiaga": {
+      "PublicName": "Diaga",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1196863883450998785/V8yq23ky_normal.jpg",
+      "Login": "FrenDiaga",
+      "CurrentFollowersCount": 265,
+      "CurrentTweetsCout": 128,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": "Not enought data to build trend",
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": null
+      }
+    },
+    "Dax_zZ": {
+      "PublicName": "Dax",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1434965932833746950/sborbMBJ_normal.jpg",
+      "Login": "Dax_zZ",
+      "CurrentFollowersCount": 112,
+      "CurrentTweetsCout": 576,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": "Not enought data to build trend",
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": null
+      }
+    },
+    "mikanimus": {
+      "PublicName": "MikAnimus",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1321407895846686720/wDW7ckhg_normal.jpg",
+      "Login": "mikanimus",
+      "CurrentFollowersCount": 97,
+      "CurrentTweetsCout": 250,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": "Not enought data to build trend",
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": null
+      }
+    },
+    "gif_not_jif": {
+      "PublicName": "Gif",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1437004764265472000/UBM1WkKG_normal.png",
+      "Login": "gif_not_jif",
+      "CurrentFollowersCount": 2208,
+      "CurrentTweetsCout": 2595,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": "Not enought data to build trend",
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": null
+      }
+    },
+    "WaddayGrimmer": {
+      "PublicName": "Wadday Grimmer",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1351287495053496325/dBCxb7jv_normal.jpg",
+      "Login": "WaddayGrimmer",
+      "CurrentFollowersCount": 7,
+      "CurrentTweetsCout": 59,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": "Not enought data to build trend",
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": null
+      }
+    },
+    "geegaz_": {
+      "PublicName": "Geegaz",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1302872984038838272/6qSkVOWO_normal.png",
+      "Login": "geegaz_",
+      "CurrentFollowersCount": 152,
+      "CurrentTweetsCout": 5475,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": "Not enought data to build trend",
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": null
+      }
+    },
+    "Nico_n_art": {
+      "PublicName": "░ 𝖓 ░ nico nowak ░",
+      "AvatarImage": "https://pbs.twimg.com/profile_images/1266748344619147265/1En9-ePq_normal.png",
+      "Login": "Nico_n_art",
+      "CurrentFollowersCount": 1267,
+      "CurrentTweetsCout": 649,
+      "FollowersCountHistory": {},
+      "TweetsCountHistory": {},
+      "LangId": "fr",
+      "FollowersTrend": {
+        "ErrorMessage": "Not enought data to build trend",
+        "WeeklyGrowth": 0.0,
+        "WeeklyTrendLine": null
+      }
+    }
+  },
+  "LastTimeUpdate": "2021-09-17 15:53:54"
+}

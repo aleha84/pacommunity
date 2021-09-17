@@ -25,11 +25,11 @@
     <link rel="manifest" href="../../common/favicon/site.webmanifest">
 
     <script src="../../external/uPlot.iife.min.js"></script>
-    <script src="../../common/scripts.js?v=6.6.23"></script>
-    <script src="../../common/graph.js?v=6.6.23"></script>
+    <script src="../../common/scripts.js?v=6.6.25"></script>
+    <script src="../../common/graph.js?v=6.6.25"></script>
 
     <link rel="stylesheet" href="../../external/uPlot.min.css">
-    <link rel="stylesheet" href="../../common/styles.css?v=6.6.23">
+    <link rel="stylesheet" href="../../common/styles.css?v=6.6.25">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-2Z77QR2CBD"></script>
@@ -120,7 +120,7 @@ var listRender;
         (async function(){
           let q = new Date().getTime();
 
-          let dataResponse = await fetch("data.json?q="+q);
+          let dataResponse = await fetch("data_v.json?q="+q);
           usersData = await dataResponse.json();
 
           document.querySelector('.total .count').innerHTML = Object.keys(usersData.Users).length;
@@ -130,4 +130,14 @@ var listRender;
           await listRender.start();
         })()
     </script>
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('aleha_84', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support',
+    'floating-chat.donateButton.background-color': '#323842',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
 </html>

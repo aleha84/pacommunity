@@ -216,10 +216,23 @@ function parseParams(str) {
     return container;
   }
 
-  function bodyClickHandler(evt) {
+  async function bodyClickHandler(evt) {
     if (evt.target.className.startsWith('followersCount') || evt.target.className.startsWith('tweetsCount')) {
       let userId = evt.target.closest('.userDataHolder').getAttribute('userid');
-      showGraph(userId);
+      //console.log(listRender.params.rootFolderPath);
+
+      let userResponse = await fetch(listRender.params.rootFolderPath + 'users/' + userId + '.json?q='+ listRender.params.q);
+      let user = await userResponse.json();
+
+      if(!user) {
+        let msg = 'No user found: ' + userId
+        console.log(msg);
+        alert(msg);
+        return;
+      }
+      //console.log(user);
+
+      showGraph(user);
     }
   }
 
@@ -239,6 +252,8 @@ function parseParams(str) {
                 this.currentLanguage.Adjective = usersData.Languages[this.currentLanguage.Id].Adjective
             }
         }
+
+        this.params.q = new Date().getTime();
         
         this.users = Object.values(usersData.Users);
         this.template = this.getRowTemplate();
@@ -269,7 +284,7 @@ function parseParams(str) {
         if(created)
             created.remove();
 
-        let v = '6.6.23';
+        let v = '6.6.25';
         if(!search) {
             let searchResponse = await fetch(this.params.rootFolderPath + 'common/html/search.html?v=' + v);
             let searchHtml = await searchResponse.text();
@@ -296,20 +311,20 @@ function parseParams(str) {
         this.sort();
         this.createContributorsLink();
 
-        let koFiScript = document.createElement('script');
-        koFiScript.src = 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js';
-        document.body.appendChild(koFiScript);
-        setTimeout(() => {
-  kofiWidgetOverlay.draw('aleha_84', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support',
-    'floating-chat.donateButton.background-color': '#323842',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
+//         let koFiScript = document.createElement('script');
+//         koFiScript.src = 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js';
+//         document.body.appendChild(koFiScript);
+//         setTimeout(() => {
+//   kofiWidgetOverlay.draw('aleha_84', {
+//     'type': 'floating-chat',
+//     'floating-chat.donateButton.text': 'Support',
+//     'floating-chat.donateButton.background-color': '#323842',
+//     'floating-chat.donateButton.text-color': '#fff'
+//   });
 
 
 
-        },10)
+//         },10)
     }
     createOtherListsLinks() {
         createListLinks(this.languages, this.currentLanguage.Id, this.params)
