@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1401943530180956160/7eAEG6E9_normal.jpg",
   "Login": "kampyii",
   "CurrentFollowersCount": 51,
-  "CurrentTweetsCout": 947,
+  "CurrentTweetsCout": 952,
   "FollowersCountHistory": {
     "20210115": 29,
     "20210116": 29,
@@ -209,7 +209,8 @@
     "20210914": 51,
     "20210915": 51,
     "20210916": 51,
-    "20210917": 51
+    "20210917": 51,
+    "20210918": 51
   },
   "TweetsCountHistory": {
     "20210115": 239,
@@ -416,20 +417,21 @@
     "20210914": 934,
     "20210915": 936,
     "20210916": 939,
-    "20210917": 947
+    "20210917": 947,
+    "20210918": 952
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 2.567760342368045649072721016,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210911.0,
-        "Y": 50.0714285714285714285715
+        "X": 20210912.0,
+        "Y": 51.0
       },
       "End": {
-        "X": 20210917.0,
-        "Y": 51.3571428571428571428572
+        "X": 20210918.0,
+        "Y": 51.0
       }
     }
   }

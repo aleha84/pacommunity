@@ -2,7 +2,7 @@
   "PublicName": "ファントム",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1434337343163416576/wCkTZALf_normal.jpg",
   "Login": "PhantomEE13",
-  "CurrentFollowersCount": 869,
+  "CurrentFollowersCount": 868,
   "CurrentTweetsCout": 4883,
   "FollowersCountHistory": {
     "20201225": 727,
@@ -230,7 +230,8 @@
     "20210914": 867,
     "20210915": 871,
     "20210916": 870,
-    "20210917": 869
+    "20210917": 869,
+    "20210918": 868
   },
   "TweetsCountHistory": {
     "20201225": 4687,
@@ -458,20 +459,21 @@
     "20210914": 4884,
     "20210915": 4884,
     "20210916": 4883,
-    "20210917": 4883
+    "20210917": 4883,
+    "20210918": 4883
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0986679822397631968426196219,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210911.0,
-        "Y": 868.7142857142857142857144
+        "X": 20210912.0,
+        "Y": 869.0
       },
       "End": {
-        "X": 20210917.0,
-        "Y": 869.5714285714285714285715
+        "X": 20210918.0,
+        "Y": 869.0
       }
     }
   }
