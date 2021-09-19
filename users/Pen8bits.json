@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1387981714069262355/U9QF09TR_normal.jpg",
   "Login": "Pen8bits",
   "CurrentFollowersCount": 343,
-  "CurrentTweetsCout": 82098,
+  "CurrentTweetsCout": 82246,
   "FollowersCountHistory": {
     "20201228": 329,
     "20201229": 330,
@@ -228,7 +228,8 @@
     "20210915": 343,
     "20210916": 343,
     "20210917": 343,
-    "20210918": 343
+    "20210918": 343,
+    "20210919": 343
   },
   "TweetsCountHistory": {
     "20201228": 62757,
@@ -454,20 +455,21 @@
     "20210915": 81965,
     "20210916": 81998,
     "20210917": 82079,
-    "20210918": 82098
+    "20210918": 82098,
+    "20210919": 82246
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1871685556826453155869647421,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210912.0,
-        "Y": 343.4642857142857142857143
+        "X": 20210913.0,
+        "Y": 343.0
       },
       "End": {
-        "X": 20210918.0,
-        "Y": 342.8214285714285714285715
+        "X": 20210919.0,
+        "Y": 343.0
       }
     }
   }

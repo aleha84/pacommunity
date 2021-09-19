@@ -2,8 +2,8 @@
   "PublicName": "Røne",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1403648835025526785/9SAEfupU_normal.jpg",
   "Login": "Cheezegami",
-  "CurrentFollowersCount": 945,
-  "CurrentTweetsCout": 2760,
+  "CurrentFollowersCount": 944,
+  "CurrentTweetsCout": 2761,
   "FollowersCountHistory": {
     "20210125": 684,
     "20210126": 689,
@@ -201,7 +201,8 @@
     "20210915": 947,
     "20210916": 947,
     "20210917": 947,
-    "20210918": 945
+    "20210918": 945,
+    "20210919": 944
   },
   "TweetsCountHistory": {
     "20210125": 2218,
@@ -400,20 +401,21 @@
     "20210915": 2758,
     "20210916": 2758,
     "20210917": 2760,
-    "20210918": 2760
+    "20210918": 2760,
+    "20210919": 2761
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1810500905250452625226327591,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210912.0,
-        "Y": 946.2857142857142857142857143
+        "X": 20210913.0,
+        "Y": 946.8571428571428571428572
       },
       "End": {
-        "X": 20210918.0,
-        "Y": 946.2857142857142857142857143
+        "X": 20210919.0,
+        "Y": 945.1428571428571428571429
       }
     }
   }

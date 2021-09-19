@@ -2,7 +2,7 @@
   "PublicName": "Justin Mitchell",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1430270091615162373/mzwntrKN_normal.jpg",
   "Login": "Gryphonblade77",
-  "CurrentFollowersCount": 460,
+  "CurrentFollowersCount": 459,
   "CurrentTweetsCout": 6239,
   "FollowersCountHistory": {
     "20210914": 453,
@@ -10,7 +10,8 @@
     "20210916": 457,
     "20210917": 457,
     "20210918": 458,
-    "20210919": 460
+    "20210919": 460,
+    "20210920": 459
   },
   "TweetsCountHistory": {
     "20210914": 6179,
@@ -18,12 +19,22 @@
     "20210916": 6214,
     "20210917": 6222,
     "20210918": 6235,
-    "20210919": 6239
+    "20210919": 6239,
+    "20210920": 6239
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.1784115012962526514260668327,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 454.607142857142857142857
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 459.964285714285714285715
+      }
+    }
   }
 }

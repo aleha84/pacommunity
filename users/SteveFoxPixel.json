@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1429874445301190657/5uo7LeIg_normal.jpg",
   "Login": "SteveFoxPixel",
   "CurrentFollowersCount": 32,
-  "CurrentTweetsCout": 42,
+  "CurrentTweetsCout": 44,
   "FollowersCountHistory": {
     "20210914": 20,
     "20210915": 22,
     "20210916": 25,
     "20210917": 27,
     "20210918": 31,
-    "20210919": 32
+    "20210919": 32,
+    "20210920": 32
   },
   "TweetsCountHistory": {
     "20210914": 35,
@@ -18,12 +19,22 @@
     "20210916": 37,
     "20210917": 39,
     "20210918": 40,
-    "20210919": 42
+    "20210919": 42,
+    "20210920": 44
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 65.263157894736842105265019391,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 20.357142857142857142857
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 33.642857142857142857143
+      }
+    }
   }
 }

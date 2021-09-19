@@ -2,15 +2,16 @@
   "PublicName": "🍳 qquoe | comms OPEN!",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1427379705485815809/vTVavfyS_normal.jpg",
   "Login": "_qquoe",
-  "CurrentFollowersCount": 657,
-  "CurrentTweetsCout": 1940,
+  "CurrentFollowersCount": 664,
+  "CurrentTweetsCout": 1949,
   "FollowersCountHistory": {
     "20210914": 573,
     "20210915": 598,
     "20210916": 616,
     "20210917": 620,
     "20210918": 635,
-    "20210919": 657
+    "20210919": 657,
+    "20210920": 664
   },
   "TweetsCountHistory": {
     "20210914": 1882,
@@ -18,12 +19,22 @@
     "20210916": 1911,
     "20210917": 1913,
     "20210918": 1928,
-    "20210919": 1940
+    "20210919": 1940,
+    "20210920": 1949
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 15.164591295771174947602440318,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 579.35714285714285714286
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 667.21428571428571428572
+      }
+    }
   }
 }
