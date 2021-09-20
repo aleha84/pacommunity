@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1339843434555842563/5Mf39grL_normal.jpg",
   "Login": "Kultuk",
   "CurrentFollowersCount": 122,
-  "CurrentTweetsCout": 3807,
+  "CurrentTweetsCout": 3809,
   "FollowersCountHistory": {
     "20210914": 122,
     "20210915": 122,
     "20210916": 122,
     "20210917": 122,
     "20210918": 122,
-    "20210919": 122
+    "20210919": 122,
+    "20210920": 122
   },
   "TweetsCountHistory": {
     "20210914": 3788,
@@ -18,12 +19,22 @@
     "20210916": 3792,
     "20210917": 3798,
     "20210918": 3801,
-    "20210919": 3807
+    "20210919": 3807,
+    "20210920": 3809
   },
   "LangId": "il",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
+    "ErrorMessage": null,
     "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 122.0
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 122.0
+      }
+    }
   }
 }

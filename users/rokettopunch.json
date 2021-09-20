@@ -2,7 +2,7 @@
   "PublicName": "leo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1403395716584771588/2nAzTn62_normal.jpg",
   "Login": "rokettopunch",
-  "CurrentFollowersCount": 357,
+  "CurrentFollowersCount": 356,
   "CurrentTweetsCout": 2953,
   "FollowersCountHistory": {
     "20210914": 359,
@@ -10,7 +10,8 @@
     "20210916": 359,
     "20210917": 357,
     "20210918": 357,
-    "20210919": 357
+    "20210919": 357,
+    "20210920": 356
   },
   "TweetsCountHistory": {
     "20210914": 2945,
@@ -18,12 +19,22 @@
     "20210916": 2947,
     "20210917": 2950,
     "20210918": 2952,
-    "20210919": 2953
+    "20210919": 2953,
+    "20210920": 2953
   },
   "LangId": "br",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -0.8945432859556704104958961072,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 359.321428571428571428571
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 356.107142857142857142857
+      }
+    }
   }
 }

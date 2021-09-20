@@ -1,16 +1,17 @@
 {
   "PublicName": "The Physical Manifestation Of The Concept Of Decay",
-  "AvatarImage": "https://pbs.twimg.com/profile_images/1438579773832249344/tGKJrq6U_normal.jpg",
+  "AvatarImage": "https://pbs.twimg.com/profile_images/1439806874912657411/MNWXgf6I_normal.jpg",
   "Login": "rtrunl",
   "CurrentFollowersCount": 496,
-  "CurrentTweetsCout": 2094,
+  "CurrentTweetsCout": 2115,
   "FollowersCountHistory": {
     "20210914": 493,
     "20210915": 494,
     "20210916": 494,
     "20210917": 495,
     "20210918": 496,
-    "20210919": 496
+    "20210919": 496,
+    "20210920": 496
   },
   "TweetsCountHistory": {
     "20210914": 2000,
@@ -18,12 +19,22 @@
     "20210916": 2038,
     "20210917": 2056,
     "20210918": 2072,
-    "20210919": 2094
+    "20210919": 2094,
+    "20210920": 2115
   },
   "LangId": "ph",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.6516544783143870827600608211,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 493.250000000000000000000
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 496.464285714285714285714
+      }
+    }
   }
 }

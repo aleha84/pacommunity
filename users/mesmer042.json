@@ -2,7 +2,7 @@
   "PublicName": "Mes",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1436722734034128900/lTAycz8i_normal.jpg",
   "Login": "mesmer042",
-  "CurrentFollowersCount": 74,
+  "CurrentFollowersCount": 75,
   "CurrentTweetsCout": 163,
   "FollowersCountHistory": {
     "20210914": 73,
@@ -10,7 +10,8 @@
     "20210916": 73,
     "20210917": 74,
     "20210918": 74,
-    "20210919": 74
+    "20210919": 74,
+    "20210920": 75
   },
   "TweetsCountHistory": {
     "20210914": 163,
@@ -18,12 +19,22 @@
     "20210916": 163,
     "20210917": 163,
     "20210918": 163,
-    "20210919": 163
+    "20210919": 163,
+    "20210920": 163
   },
   "LangId": "ph",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 2.6509572901325478645066666667,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 72.7500000000000000000000
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 74.6785714285714285714286
+      }
+    }
   }
 }

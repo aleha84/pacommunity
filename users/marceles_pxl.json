@@ -2,7 +2,7 @@
   "PublicName": "Marceles 🌴",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1426229580097069059/-C48G1ou_normal.jpg",
   "Login": "marceles_pxl",
-  "CurrentFollowersCount": 28,
+  "CurrentFollowersCount": 29,
   "CurrentTweetsCout": 108,
   "FollowersCountHistory": {
     "20210914": 29,
@@ -10,7 +10,8 @@
     "20210916": 29,
     "20210917": 29,
     "20210918": 28,
-    "20210919": 28
+    "20210919": 28,
+    "20210920": 29
   },
   "TweetsCountHistory": {
     "20210914": 102,
@@ -18,12 +19,22 @@
     "20210916": 106,
     "20210917": 108,
     "20210918": 108,
-    "20210919": 108
+    "20210919": 108,
+    "20210920": 108
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -2.2140221402214022140219445087,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 29.0357142857142857142857
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 28.3928571428571428571429
+      }
+    }
   }
 }

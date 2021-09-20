@@ -2,15 +2,16 @@
   "PublicName": "Du",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1439324879522836491/OrarzNWJ_normal.jpg",
   "Login": "salgueiroAzul",
-  "CurrentFollowersCount": 466,
-  "CurrentTweetsCout": 449,
+  "CurrentFollowersCount": 470,
+  "CurrentTweetsCout": 451,
   "FollowersCountHistory": {
     "20210914": 466,
     "20210915": 469,
     "20210916": 467,
     "20210917": 467,
     "20210918": 467,
-    "20210919": 466
+    "20210919": 466,
+    "20210920": 470
   },
   "TweetsCountHistory": {
     "20210914": 438,
@@ -18,12 +19,22 @@
     "20210916": 444,
     "20210917": 444,
     "20210918": 446,
-    "20210919": 449
+    "20210919": 449,
+    "20210920": 451
   },
   "LangId": "pt",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.2754399387911247130834154637,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 466.7857142857142857142857
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 468.0714285714285714285715
+      }
+    }
   }
 }

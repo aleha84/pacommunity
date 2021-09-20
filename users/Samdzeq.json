@@ -2,7 +2,7 @@
   "PublicName": "Samuele Zolfanelli",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1242859586777948162/GRcYL2FG_normal.jpg",
   "Login": "Samdzeq",
-  "CurrentFollowersCount": 1478,
+  "CurrentFollowersCount": 1480,
   "CurrentTweetsCout": 980,
   "FollowersCountHistory": {
     "20210914": 1447,
@@ -10,7 +10,8 @@
     "20210916": 1463,
     "20210917": 1465,
     "20210918": 1468,
-    "20210919": 1478
+    "20210919": 1478,
+    "20210920": 1480
   },
   "TweetsCountHistory": {
     "20210914": 960,
@@ -18,12 +19,22 @@
     "20210916": 967,
     "20210917": 972,
     "20210918": 979,
-    "20210919": 980
+    "20210919": 980,
+    "20210920": 980
   },
   "LangId": "it",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 2.3991706570568198647378000757,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 1446.92857142857142857144
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 1481.64285714285714285715
+      }
+    }
   }
 }

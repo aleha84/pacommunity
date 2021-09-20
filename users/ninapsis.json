@@ -2,15 +2,16 @@
   "PublicName": "ahueahueaheuha",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1435300405395791879/lDX4zIX4_normal.jpg",
   "Login": "ninapsis",
-  "CurrentFollowersCount": 1951,
-  "CurrentTweetsCout": 74589,
+  "CurrentFollowersCount": 1950,
+  "CurrentTweetsCout": 74599,
   "FollowersCountHistory": {
     "20210914": 1923,
     "20210915": 1927,
     "20210916": 1944,
     "20210917": 1948,
     "20210918": 1951,
-    "20210919": 1951
+    "20210919": 1951,
+    "20210920": 1950
   },
   "TweetsCountHistory": {
     "20210914": 74522,
@@ -18,12 +19,22 @@
     "20210916": 74555,
     "20210917": 74576,
     "20210918": 74586,
-    "20210919": 74589
+    "20210919": 74589,
+    "20210920": 74599
   },
   "LangId": "br",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.5120071153276015416541643107,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 1927.42857142857142857143
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 1956.57142857142857142857
+      }
+    }
   }
 }

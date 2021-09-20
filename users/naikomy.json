@@ -10,7 +10,8 @@
     "20210916": 16,
     "20210917": 16,
     "20210918": 16,
-    "20210919": 16
+    "20210919": 16,
+    "20210920": 16
   },
   "TweetsCountHistory": {
     "20210914": 75,
@@ -18,12 +19,22 @@
     "20210916": 76,
     "20210917": 76,
     "20210918": 76,
-    "20210919": 76
+    "20210919": 76,
+    "20210920": 76
   },
   "LangId": "ru",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
+    "ErrorMessage": null,
     "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 16.0
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 16.0
+      }
+    }
   }
 }

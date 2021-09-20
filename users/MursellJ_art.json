@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1400610605464231943/XU8bYavt_normal.jpg",
   "Login": "MursellJ_art",
   "CurrentFollowersCount": 92,
-  "CurrentTweetsCout": 3973,
+  "CurrentTweetsCout": 3983,
   "FollowersCountHistory": {
     "20210914": 91,
     "20210915": 91,
     "20210916": 92,
     "20210917": 91,
     "20210918": 92,
-    "20210919": 92
+    "20210919": 92,
+    "20210920": 92
   },
   "TweetsCountHistory": {
     "20210914": 3934,
@@ -18,12 +19,22 @@
     "20210916": 3952,
     "20210917": 3960,
     "20210918": 3966,
-    "20210919": 3973
+    "20210919": 3973,
+    "20210920": 3983
   },
   "LangId": "tr",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.1769321302471557473518715068,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 91.0357142857142857142857
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 92.1071428571428571428571
+      }
+    }
   }
 }

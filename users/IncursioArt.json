@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1350818813227528193/X9YDnRTW_normal.jpg",
   "Login": "IncursioArt",
   "CurrentFollowersCount": 127,
-  "CurrentTweetsCout": 426,
+  "CurrentTweetsCout": 427,
   "FollowersCountHistory": {
     "20210914": 126,
     "20210915": 126,
     "20210916": 126,
     "20210917": 126,
     "20210918": 126,
-    "20210919": 127
+    "20210919": 127,
+    "20210920": 127
   },
   "TweetsCountHistory": {
     "20210914": 414,
@@ -18,12 +19,22 @@
     "20210916": 416,
     "20210917": 418,
     "20210918": 425,
-    "20210919": 426
+    "20210919": 426,
+    "20210920": 427
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.8520306731042317523430616302,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 125.7500000000000000000000
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 126.8214285714285714285714
+      }
+    }
   }
 }

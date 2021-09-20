@@ -2,15 +2,16 @@
   "PublicName": "Eh Ely",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1435332760583884800/i8N7rcmR_normal.jpg",
   "Login": "elaystuff",
-  "CurrentFollowersCount": 64,
-  "CurrentTweetsCout": 4638,
+  "CurrentFollowersCount": 65,
+  "CurrentTweetsCout": 4643,
   "FollowersCountHistory": {
     "20210914": 59,
     "20210915": 59,
     "20210916": 59,
     "20210917": 60,
     "20210918": 63,
-    "20210919": 64
+    "20210919": 64,
+    "20210920": 65
   },
   "TweetsCountHistory": {
     "20210914": 4629,
@@ -18,12 +19,22 @@
     "20210916": 4632,
     "20210917": 4635,
     "20210918": 4638,
-    "20210919": 4638
+    "20210919": 4638,
+    "20210920": 4643
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 11.851851851851851851853362597,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 57.857142857142857142857
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 64.714285714285714285715
+      }
+    }
   }
 }

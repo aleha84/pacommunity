@@ -2,7 +2,7 @@
   "PublicName": "Cairebell",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1406569089863077894/RT3z4U4q_normal.jpg",
   "Login": "Caire_bell",
-  "CurrentFollowersCount": 59,
+  "CurrentFollowersCount": 60,
   "CurrentTweetsCout": 194,
   "FollowersCountHistory": {
     "20210914": 58,
@@ -10,7 +10,8 @@
     "20210916": 59,
     "20210917": 59,
     "20210918": 59,
-    "20210919": 59
+    "20210919": 59,
+    "20210920": 60
   },
   "TweetsCountHistory": {
     "20210914": 193,
@@ -18,12 +19,22 @@
     "20210916": 193,
     "20210917": 193,
     "20210918": 193,
-    "20210919": 194
+    "20210919": 194,
+    "20210920": 194
   },
   "LangId": "id",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 2.2031823745410036719707727318,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 58.3571428571428571428571
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 59.6428571428571428571429
+      }
+    }
   }
 }

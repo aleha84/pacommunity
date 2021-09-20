@@ -2,15 +2,16 @@
   "PublicName": "OHMz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1423708062339145728/Zxpw0nQ2_normal.jpg",
   "Login": "IllustratorOhmz",
-  "CurrentFollowersCount": 4873,
-  "CurrentTweetsCout": 11674,
+  "CurrentFollowersCount": 4917,
+  "CurrentTweetsCout": 11751,
   "FollowersCountHistory": {
     "20210914": 4489,
     "20210915": 4549,
     "20210916": 4611,
     "20210917": 4686,
     "20210918": 4771,
-    "20210919": 4873
+    "20210919": 4873,
+    "20210920": 4917
   },
   "TweetsCountHistory": {
     "20210914": 11092,
@@ -18,12 +19,22 @@
     "20210916": 11417,
     "20210917": 11497,
     "20210918": 11560,
-    "20210919": 11674
+    "20210919": 11674,
+    "20210920": 11751
   },
   "LangId": "th",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 10.01691831327608771985878029,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 4475.2857142857142857142
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 4923.5714285714285714285
+      }
+    }
   }
 }

@@ -2,7 +2,7 @@
   "PublicName": "かめふぃ / kameffee",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1303183443774251008/L2XfnKHl_normal.png",
   "Login": "kameffee",
-  "CurrentFollowersCount": 1602,
+  "CurrentFollowersCount": 1601,
   "CurrentTweetsCout": 832,
   "FollowersCountHistory": {
     "20201225": 1087,
@@ -232,7 +232,8 @@
     "20210916": 1602,
     "20210917": 1602,
     "20210918": 1602,
-    "20210919": 1602
+    "20210919": 1602,
+    "20210920": 1601
   },
   "TweetsCountHistory": {
     "20201225": 649,
@@ -462,20 +463,21 @@
     "20210916": 832,
     "20210917": 832,
     "20210918": 832,
-    "20210919": 832
+    "20210919": 832,
+    "20210920": 832
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0401239383874634983616022844,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210913.0,
-        "Y": 1602.0
+        "X": 20210914.0,
+        "Y": 1602.1785714285714285714285
       },
       "End": {
-        "X": 20210919.0,
-        "Y": 1602.0
+        "X": 20210920.0,
+        "Y": 1601.5357142857142857142857
       }
     }
   }

@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1267859942150508545/qrnr_8C9_normal.jpg",
   "Login": "pixel_altos",
   "CurrentFollowersCount": 336,
-  "CurrentTweetsCout": 340,
+  "CurrentTweetsCout": 341,
   "FollowersCountHistory": {
     "20210914": 334,
     "20210915": 334,
     "20210916": 335,
     "20210917": 335,
     "20210918": 335,
-    "20210919": 336
+    "20210919": 336,
+    "20210920": 336
   },
   "TweetsCountHistory": {
     "20210914": 340,
@@ -18,12 +19,22 @@
     "20210916": 340,
     "20210917": 340,
     "20210918": 340,
-    "20210919": 340
+    "20210919": 340,
+    "20210920": 341
   },
   "LangId": "kr",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.6417112299465240641711058274,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 333.9285714285714285714286
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 336.0714285714285714285714
+      }
+    }
   }
 }

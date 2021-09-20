@@ -2,15 +2,16 @@
   "PublicName": "Cheshire",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1371626673393827843/DqDmaukc_normal.png",
   "Login": "lovelytoaster",
-  "CurrentFollowersCount": 187,
-  "CurrentTweetsCout": 779,
+  "CurrentFollowersCount": 189,
+  "CurrentTweetsCout": 780,
   "FollowersCountHistory": {
     "20210914": 186,
     "20210915": 186,
     "20210916": 186,
     "20210917": 187,
     "20210918": 187,
-    "20210919": 187
+    "20210919": 187,
+    "20210920": 189
   },
   "TweetsCountHistory": {
     "20210914": 776,
@@ -18,12 +19,22 @@
     "20210916": 778,
     "20210917": 779,
     "20210918": 779,
-    "20210919": 779
+    "20210919": 779,
+    "20210920": 780
   },
   "LangId": "pl",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.3856812933025404157046991201,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 185.571428571428571428571
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 188.142857142857142857143
+      }
+    }
   }
 }

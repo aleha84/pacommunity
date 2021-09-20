@@ -2,15 +2,16 @@
   "PublicName": "Seb",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1434288891633324032/Qeo65IJK_normal.jpg",
   "Login": "SebPixels_",
-  "CurrentFollowersCount": 84,
-  "CurrentTweetsCout": 391,
+  "CurrentFollowersCount": 86,
+  "CurrentTweetsCout": 392,
   "FollowersCountHistory": {
     "20210914": 82,
     "20210915": 82,
     "20210916": 83,
     "20210917": 83,
     "20210918": 84,
-    "20210919": 84
+    "20210919": 84,
+    "20210920": 86
   },
   "TweetsCountHistory": {
     "20210914": 371,
@@ -18,12 +19,22 @@
     "20210916": 379,
     "20210917": 385,
     "20210918": 387,
-    "20210919": 391
+    "20210919": 391,
+    "20210920": 392
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 4.4638949671772428884015286068,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 81.607142857142857142858
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 85.250000000000000000000
+      }
+    }
   }
 }

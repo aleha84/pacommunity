@@ -2,7 +2,7 @@
   "PublicName": "Sim0n404kekNSFW",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1421926733914247169/EzAymj6m_normal.jpg",
   "Login": "sim0n404kek",
-  "CurrentFollowersCount": 964,
+  "CurrentFollowersCount": 969,
   "CurrentTweetsCout": 80,
   "FollowersCountHistory": {
     "20210914": 888,
@@ -10,7 +10,8 @@
     "20210916": 899,
     "20210917": 901,
     "20210918": 947,
-    "20210919": 964
+    "20210919": 964,
+    "20210920": 969
   },
   "TweetsCountHistory": {
     "20210914": 75,
@@ -18,12 +19,22 @@
     "20210916": 76,
     "20210917": 79,
     "20210918": 80,
-    "20210919": 80
+    "20210919": 80,
+    "20210920": 80
   },
   "LangId": "ru",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 10.372178157413056741916846026,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 878.03571428571428571428
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 969.10714285714285714286
+      }
+    }
   }
 }

@@ -2,15 +2,16 @@
   "PublicName": "セーラー",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1424840448565186560/pgCdIqQF_normal.jpg",
   "Login": "sailorglitch_",
-  "CurrentFollowersCount": 5676,
-  "CurrentTweetsCout": 1534,
+  "CurrentFollowersCount": 5675,
+  "CurrentTweetsCout": 1537,
   "FollowersCountHistory": {
     "20210914": 5656,
     "20210915": 5658,
     "20210916": 5661,
     "20210917": 5670,
     "20210918": 5668,
-    "20210919": 5676
+    "20210919": 5676,
+    "20210920": 5675
   },
   "TweetsCountHistory": {
     "20210914": 1506,
@@ -18,12 +19,22 @@
     "20210916": 1517,
     "20210917": 1521,
     "20210918": 1525,
-    "20210919": 1534
+    "20210919": 1534,
+    "20210920": 1537
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.3788931268786784207734370276,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 5655.571428571428571428572
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 5677.000000000000000000000
+      }
+    }
   }
 }

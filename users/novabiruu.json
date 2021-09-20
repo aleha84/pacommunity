@@ -2,7 +2,7 @@
   "PublicName": "Nova Biru",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1434131956468387845/4N4C1_Yj_normal.jpg",
   "Login": "novabiruu",
-  "CurrentFollowersCount": 7,
+  "CurrentFollowersCount": 8,
   "CurrentTweetsCout": 14,
   "FollowersCountHistory": {
     "20210914": 6,
@@ -10,7 +10,8 @@
     "20210916": 7,
     "20210917": 7,
     "20210918": 7,
-    "20210919": 7
+    "20210919": 7,
+    "20210920": 8
   },
   "TweetsCountHistory": {
     "20210914": 13,
@@ -18,12 +19,22 @@
     "20210916": 13,
     "20210917": 13,
     "20210918": 13,
-    "20210919": 14
+    "20210919": 14,
+    "20210920": 14
   },
   "LangId": "id",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 20.224719101123595505619462189,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210914.0,
+        "Y": 6.3571428571428571428571
+      },
+      "End": {
+        "X": 20210920.0,
+        "Y": 7.6428571428571428571429
+      }
+    }
   }
 }
