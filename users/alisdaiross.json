@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1433535833529741313/YPZVcZU0_normal.png",
   "Login": "alisdaiross",
   "CurrentFollowersCount": 1378,
-  "CurrentTweetsCout": 13370,
+  "CurrentTweetsCout": 13393,
   "FollowersCountHistory": {
     "20210915": 1337,
     "20210916": 1337,
     "20210917": 1345,
     "20210918": 1354,
     "20210919": 1370,
-    "20210920": 1378
+    "20210920": 1378,
+    "20210921": 1378
   },
   "TweetsCountHistory": {
     "20210915": 13130,
@@ -18,12 +19,22 @@
     "20210917": 13193,
     "20210918": 13210,
     "20210919": 13311,
-    "20210920": 13370
+    "20210920": 13370,
+    "20210921": 13393
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 3.6991368680641183723800917833,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210915.0,
+        "Y": 1332.35714285714285714286
+      },
+      "End": {
+        "X": 20210921.0,
+        "Y": 1381.64285714285714285715
+      }
+    }
   }
 }

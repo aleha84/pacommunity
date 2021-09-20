@@ -2,15 +2,16 @@
   "PublicName": "ADEMACK🔞",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1421775015196839942/sg3USy2T_normal.png",
   "Login": "_Madcake",
-  "CurrentFollowersCount": 11,
-  "CurrentTweetsCout": 295,
+  "CurrentFollowersCount": 10,
+  "CurrentTweetsCout": 296,
   "FollowersCountHistory": {
     "20210915": 9,
     "20210916": 9,
     "20210917": 9,
     "20210918": 10,
     "20210919": 10,
-    "20210920": 11
+    "20210920": 11,
+    "20210921": 10
   },
   "TweetsCountHistory": {
     "20210915": 288,
@@ -18,12 +19,22 @@
     "20210917": 290,
     "20210918": 291,
     "20210919": 291,
-    "20210920": 295
+    "20210920": 295,
+    "20210921": 296
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 19.354838709677419354838746098,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210915.0,
+        "Y": 8.8571428571428571428572
+      },
+      "End": {
+        "X": 20210921.0,
+        "Y": 10.5714285714285714285715
+      }
+    }
   }
 }

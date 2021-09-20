@@ -2,7 +2,7 @@
   "PublicName": "Holden Starzer",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1369381898397581321/C2tUKjXd_normal.jpg",
   "Login": "StarzerArt",
-  "CurrentFollowersCount": 43,
+  "CurrentFollowersCount": 42,
   "CurrentTweetsCout": 22,
   "FollowersCountHistory": {
     "20210120": 29,
@@ -221,7 +221,8 @@
     "20210917": 43,
     "20210918": 43,
     "20210919": 43,
-    "20210920": 43
+    "20210920": 43,
+    "20210921": 42
   },
   "TweetsCountHistory": {
     "20210120": 9,
@@ -440,20 +441,21 @@
     "20210917": 22,
     "20210918": 22,
     "20210919": 22,
-    "20210920": 22
+    "20210920": 22,
+    "20210921": 22
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.4888337468982630272953870783,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210914.0,
-        "Y": 43.0
+        "X": 20210915.0,
+        "Y": 43.1785714285714285714285
       },
       "End": {
-        "X": 20210920.0,
-        "Y": 43.0
+        "X": 20210921.0,
+        "Y": 42.5357142857142857142856
       }
     }
   }

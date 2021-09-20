@@ -2,15 +2,16 @@
   "PublicName": "vee🍧",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1438636168724238336/KPs7jW0T_normal.png",
   "Login": "veebiejeebies",
-  "CurrentFollowersCount": 4235,
-  "CurrentTweetsCout": 1092,
+  "CurrentFollowersCount": 4238,
+  "CurrentTweetsCout": 1094,
   "FollowersCountHistory": {
     "20210915": 4181,
     "20210916": 4179,
     "20210917": 4180,
     "20210918": 4179,
     "20210919": 4182,
-    "20210920": 4235
+    "20210920": 4235,
+    "20210921": 4238
   },
   "TweetsCountHistory": {
     "20210915": 1070,
@@ -18,12 +19,22 @@
     "20210917": 1082,
     "20210918": 1084,
     "20210919": 1090,
-    "20210920": 1092
+    "20210920": 1092,
+    "20210921": 1094
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.4660368138133246457077357019,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210915.0,
+        "Y": 4165.75000000000000000000
+      },
+      "End": {
+        "X": 20210921.0,
+        "Y": 4226.82142857142857142857
+      }
+    }
   }
 }
