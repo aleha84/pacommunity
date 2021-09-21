@@ -2,7 +2,7 @@
   "PublicName": "Kaimatten",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1119037901176598528/MVlTwFJO_normal.png",
   "Login": "kaimatten",
-  "CurrentFollowersCount": 2356,
+  "CurrentFollowersCount": 2355,
   "CurrentTweetsCout": 2965,
   "FollowersCountHistory": {
     "20210116": 2164,
@@ -226,7 +226,8 @@
     "20210918": 2357,
     "20210919": 2357,
     "20210920": 2356,
-    "20210921": 2356
+    "20210921": 2356,
+    "20210922": 2355
   },
   "TweetsCountHistory": {
     "20210116": 2535,
@@ -450,20 +451,21 @@
     "20210918": 2963,
     "20210919": 2963,
     "20210920": 2964,
-    "20210921": 2965
+    "20210921": 2965,
+    "20210922": 2965
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0090940782393864528547824848,
+    "WeeklyGrowth": -0.081809505052494432408680896,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210915.0,
-        "Y": 2356.32142857142857142857143
+        "X": 20210916.0,
+        "Y": 2357.3928571428571428571429
       },
       "End": {
-        "X": 20210921.0,
-        "Y": 2356.53571428571428571428571
+        "X": 20210922.0,
+        "Y": 2355.4642857142857142857144
       }
     }
   }

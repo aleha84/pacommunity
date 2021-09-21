@@ -2,15 +2,16 @@
   "PublicName": "Flinigan",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1431792032196878343/SQjm2VgY_normal.jpg",
   "Login": "Flinigan6",
-  "CurrentFollowersCount": 1180,
-  "CurrentTweetsCout": 565,
+  "CurrentFollowersCount": 1245,
+  "CurrentTweetsCout": 572,
   "FollowersCountHistory": {
     "20210916": 1168,
     "20210917": 1171,
     "20210918": 1169,
     "20210919": 1169,
     "20210920": 1177,
-    "20210921": 1180
+    "20210921": 1180,
+    "20210922": 1245
   },
   "TweetsCountHistory": {
     "20210916": 561,
@@ -18,12 +19,22 @@
     "20210918": 561,
     "20210919": 564,
     "20210920": 565,
-    "20210921": 565
+    "20210921": 565,
+    "20210922": 572
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 4.7673519863966609986086611274,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210916.0,
+        "Y": 1155.17857142857142857142
+      },
+      "End": {
+        "X": 20210922.0,
+        "Y": 1210.24999999999999999999
+      }
+    }
   }
 }

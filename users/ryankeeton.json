@@ -2,7 +2,7 @@
   "PublicName": "ryan k",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1434022489412317191/2Z8RmYYB_normal.jpg",
   "Login": "ryankeeton",
-  "CurrentFollowersCount": 807,
+  "CurrentFollowersCount": 808,
   "CurrentTweetsCout": 357,
   "FollowersCountHistory": {
     "20210916": 795,
@@ -10,7 +10,8 @@
     "20210918": 795,
     "20210919": 797,
     "20210920": 802,
-    "20210921": 807
+    "20210921": 807,
+    "20210922": 808
   },
   "TweetsCountHistory": {
     "20210916": 348,
@@ -18,12 +19,22 @@
     "20210918": 353,
     "20210919": 353,
     "20210920": 354,
-    "20210921": 357
+    "20210921": 357,
+    "20210922": 357
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.8930857297394753448120439724,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210916.0,
+        "Y": 792.357142857142857142857
+      },
+      "End": {
+        "X": 20210922.0,
+        "Y": 807.357142857142857142857
+      }
+    }
   }
 }
