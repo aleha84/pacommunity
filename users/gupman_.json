@@ -2,7 +2,7 @@
   "PublicName": "gupman",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1067061851412926466/lwQ4YsGC_normal.jpg",
   "Login": "gupman_",
-  "CurrentFollowersCount": 5931,
+  "CurrentFollowersCount": 5930,
   "CurrentTweetsCout": 408,
   "FollowersCountHistory": {
     "20210213": 1308,
@@ -184,7 +184,8 @@
     "20210917": 5937,
     "20210918": 5935,
     "20210919": 5933,
-    "20210920": 5931
+    "20210920": 5931,
+    "20210921": 5930
   },
   "TweetsCountHistory": {
     "20210213": 203,
@@ -366,20 +367,21 @@
     "20210917": 404,
     "20210918": 404,
     "20210919": 404,
-    "20210920": 408
+    "20210920": 408,
+    "20210921": 408
   },
   "LangId": "ro",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0036113903250853190964302129,
+    "WeeklyGrowth": -0.104671098144193461064151357,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210914.0,
-        "Y": 5933.60714285714285714285714
+        "X": 20210915.0,
+        "Y": 5936.964285714285714285714
       },
       "End": {
-        "X": 20210920.0,
-        "Y": 5933.82142857142857142857143
+        "X": 20210921.0,
+        "Y": 5930.750000000000000000000
       }
     }
   }

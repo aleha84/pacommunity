@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1422617727823384576/7HBa3cCX_normal.jpg",
   "Login": "DalasKingora",
   "CurrentFollowersCount": 76,
-  "CurrentTweetsCout": 1918,
+  "CurrentTweetsCout": 1923,
   "FollowersCountHistory": {
     "20210915": 78,
     "20210916": 78,
     "20210917": 77,
     "20210918": 77,
     "20210919": 77,
-    "20210920": 76
+    "20210920": 76,
+    "20210921": 76
   },
   "TweetsCountHistory": {
     "20210915": 1865,
@@ -18,12 +19,22 @@
     "20210917": 1901,
     "20210918": 1904,
     "20210919": 1914,
-    "20210920": 1918
+    "20210920": 1918,
+    "20210921": 1923
   },
   "LangId": "se",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -2.7447392497712717291857832552,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210915.0,
+        "Y": 78.0714285714285714285714
+      },
+      "End": {
+        "X": 20210921.0,
+        "Y": 75.9285714285714285714285
+      }
+    }
   }
 }

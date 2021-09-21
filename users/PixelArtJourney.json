@@ -2,15 +2,16 @@
   "PublicName": "Pixel Art Journey",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1393901138886467590/fi31Bvhg_normal.jpg",
   "Login": "PixelArtJourney",
-  "CurrentFollowersCount": 964,
-  "CurrentTweetsCout": 573,
+  "CurrentFollowersCount": 968,
+  "CurrentTweetsCout": 575,
   "FollowersCountHistory": {
     "20210915": 872,
     "20210916": 876,
     "20210917": 891,
     "20210918": 897,
     "20210919": 929,
-    "20210920": 964
+    "20210920": 964,
+    "20210921": 968
   },
   "TweetsCountHistory": {
     "20210915": 541,
@@ -18,12 +19,22 @@
     "20210917": 559,
     "20210918": 563,
     "20210919": 571,
-    "20210920": 573
+    "20210920": 573,
+    "20210921": 575
   },
   "LangId": "se",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 12.507266838302466572543663329,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210915.0,
+        "Y": 860.07142857142857142857
+      },
+      "End": {
+        "X": 20210921.0,
+        "Y": 967.64285714285714285714
+      }
+    }
   }
 }
