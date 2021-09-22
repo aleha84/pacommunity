@@ -2,7 +2,7 @@
   "PublicName": "tarkan",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1359427081050931212/qv5eamNw_normal.jpg",
   "Login": "jacksromart",
-  "CurrentFollowersCount": 2557,
+  "CurrentFollowersCount": 2561,
   "CurrentTweetsCout": 88,
   "FollowersCountHistory": {
     "20210916": 2558,
@@ -10,7 +10,8 @@
     "20210918": 2547,
     "20210919": 2556,
     "20210920": 2561,
-    "20210921": 2557
+    "20210921": 2557,
+    "20210922": 2561
   },
   "TweetsCountHistory": {
     "20210916": 88,
@@ -18,12 +19,22 @@
     "20210918": 89,
     "20210919": 89,
     "20210920": 89,
-    "20210921": 88
+    "20210921": 88,
+    "20210922": 88
   },
   "LangId": "tr",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.5807347557126625426082284133,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210916.0,
+        "Y": 2546.035714285714285714286
+      },
+      "End": {
+        "X": 20210922.0,
+        "Y": 2560.821428571428571428571
+      }
+    }
   }
 }
