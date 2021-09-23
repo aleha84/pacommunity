@@ -2,7 +2,7 @@
   "PublicName": "Dru the Druid",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1313719138007887873/FPyCoVci_normal.jpg",
   "Login": "K3nch44",
-  "CurrentFollowersCount": 51,
+  "CurrentFollowersCount": 50,
   "CurrentTweetsCout": 364,
   "FollowersCountHistory": {
     "20210914": 51,
@@ -14,7 +14,8 @@
     "20210920": 51,
     "20210921": 51,
     "20210922": 51,
-    "20210923": 51
+    "20210923": 51,
+    "20210924": 50
   },
   "TweetsCountHistory": {
     "20210914": 361,
@@ -26,20 +27,21 @@
     "20210920": 364,
     "20210921": 364,
     "20210922": 364,
-    "20210923": 364
+    "20210923": 364,
+    "20210924": 364
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.2561060711793440334962449373,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210917.0,
-        "Y": 51.0
+        "X": 20210918.0,
+        "Y": 51.1785714285714285714286
       },
       "End": {
-        "X": 20210923.0,
-        "Y": 51.0
+        "X": 20210924.0,
+        "Y": 50.5357142857142857142857
       }
     }
   }
