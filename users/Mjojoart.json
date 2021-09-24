@@ -2,7 +2,7 @@
   "PublicName": "JOJO",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1365775181973700612/XFBi63vL_normal.png",
   "Login": "Mjojoart",
-  "CurrentFollowersCount": 840,
+  "CurrentFollowersCount": 839,
   "CurrentTweetsCout": 680,
   "FollowersCountHistory": {
     "20210219": 916,
@@ -194,7 +194,8 @@
     "20210921": 842,
     "20210922": 841,
     "20210923": 841,
-    "20210924": 840
+    "20210924": 840,
+    "20210925": 839
   },
   "TweetsCountHistory": {
     "20210219": 660,
@@ -386,20 +387,21 @@
     "20210921": 680,
     "20210922": 680,
     "20210923": 680,
-    "20210924": 680
+    "20210924": 680,
+    "20210925": 680
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1275455975511245270184056822,
+    "WeeklyGrowth": -0.152840281905408847754095286,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210918.0,
-        "Y": 840.0357142857142857142857
+        "X": 20210919.0,
+        "Y": 841.2142857142857142857142
       },
       "End": {
-        "X": 20210924.0,
-        "Y": 841.1071428571428571428571
+        "X": 20210925.0,
+        "Y": 839.9285714285714285714285
       }
     }
   }
