@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/853884065505824768/kG6H2f_Z_normal.jpg",
   "Login": "DerNachbart",
   "CurrentFollowersCount": 1004,
-  "CurrentTweetsCout": 1466,
+  "CurrentTweetsCout": 1467,
   "FollowersCountHistory": {
     "20210305": 836,
     "20210306": 849,
@@ -166,7 +166,8 @@
     "20210920": 1004,
     "20210921": 1004,
     "20210922": 1004,
-    "20210923": 1004
+    "20210923": 1004,
+    "20210924": 1004
   },
   "TweetsCountHistory": {
     "20210305": 1144,
@@ -330,20 +331,21 @@
     "20210920": 1467,
     "20210921": 1467,
     "20210922": 1467,
-    "20210923": 1466
+    "20210923": 1466,
+    "20210924": 1467
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0639999999999999999999943102,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210917.0,
-        "Y": 1004.4642857142857142857143
+        "X": 20210918.0,
+        "Y": 1004.0
       },
       "End": {
-        "X": 20210923.0,
-        "Y": 1003.8214285714285714285715
+        "X": 20210924.0,
+        "Y": 1004.0
       }
     }
   }
