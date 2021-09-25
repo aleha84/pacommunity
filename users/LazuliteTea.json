@@ -2,8 +2,8 @@
   "PublicName": "Lazu Tea",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1433115570262654984/JGvUdpVN_normal.jpg",
   "Login": "LazuliteTea",
-  "CurrentFollowersCount": 31,
-  "CurrentTweetsCout": 371,
+  "CurrentFollowersCount": 32,
+  "CurrentTweetsCout": 374,
   "FollowersCountHistory": {
     "20210215": 6,
     "20210216": 6,
@@ -154,7 +154,8 @@
     "20210922": 33,
     "20210923": 33,
     "20210924": 32,
-    "20210925": 31
+    "20210925": 31,
+    "20210926": 32
   },
   "TweetsCountHistory": {
     "20210215": 32,
@@ -306,20 +307,21 @@
     "20210922": 362,
     "20210923": 366,
     "20210924": 371,
-    "20210925": 371
+    "20210925": 371,
+    "20210926": 374
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 6.3010501750291715285878528802,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210919.0,
-        "Y": 30.6071428571428571428572
+        "X": 20210920.0,
+        "Y": 32.0
       },
       "End": {
-        "X": 20210925.0,
-        "Y": 32.5357142857142857142857
+        "X": 20210926.0,
+        "Y": 32.0
       }
     }
   }
