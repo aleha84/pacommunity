@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1431904836090404864/Ph_rLO0p_normal.jpg",
   "Login": "melit_maki",
   "CurrentFollowersCount": 243,
-  "CurrentTweetsCout": 258,
+  "CurrentTweetsCout": 259,
   "FollowersCountHistory": {
     "20210919": 242,
     "20210920": 242,
     "20210921": 242,
     "20210922": 244,
     "20210923": 244,
-    "20210924": 243
+    "20210924": 243,
+    "20210925": 243
   },
   "TweetsCountHistory": {
     "20210919": 257,
@@ -18,12 +19,22 @@
     "20210921": 258,
     "20210922": 258,
     "20210923": 258,
-    "20210924": 258
+    "20210924": 258,
+    "20210925": 259
   },
   "LangId": "kr",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.619560407139696120371736354,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210919.0,
+        "Y": 242.1071428571428571428571
+      },
+      "End": {
+        "X": 20210925.0,
+        "Y": 243.6071428571428571428571
+      }
+    }
   }
 }

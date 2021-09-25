@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1298201130845888513/ZF49vvOW_normal.jpg",
   "Login": "linnen23",
   "CurrentFollowersCount": 735,
-  "CurrentTweetsCout": 172672,
+  "CurrentTweetsCout": 172733,
   "FollowersCountHistory": {
     "20210919": 729,
     "20210920": 732,
     "20210921": 733,
     "20210922": 735,
     "20210923": 735,
-    "20210924": 735
+    "20210924": 735,
+    "20210925": 735
   },
   "TweetsCountHistory": {
     "20210919": 172028,
@@ -18,12 +19,22 @@
     "20210921": 172342,
     "20210922": 172408,
     "20210923": 172496,
-    "20210924": 172672
+    "20210924": 172672,
+    "20210925": 172733
   },
   "LangId": "kr",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.7625378824909570828038711971,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210919.0,
+        "Y": 730.642857142857142857143
+      },
+      "End": {
+        "X": 20210925.0,
+        "Y": 736.214285714285714285715
+      }
+    }
   }
 }
