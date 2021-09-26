@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1319654887911612417/qBLdbYs2_normal.jpg",
   "Login": "ANOKAKI1",
   "CurrentFollowersCount": 98,
-  "CurrentTweetsCout": 178,
+  "CurrentTweetsCout": 177,
   "FollowersCountHistory": {
     "20210312": 96,
     "20210313": 96,
@@ -163,7 +163,8 @@
     "20210922": 98,
     "20210923": 98,
     "20210924": 98,
-    "20210925": 98
+    "20210925": 98,
+    "20210926": 98
   },
   "TweetsCountHistory": {
     "20210312": 130,
@@ -324,20 +325,21 @@
     "20210922": 178,
     "20210923": 178,
     "20210924": 178,
-    "20210925": 178
+    "20210925": 178,
+    "20210926": 177
   },
   "LangId": "cn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.6528835690968443960826404566,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210919.0,
-        "Y": 98.4642857142857142857143
+        "X": 20210920.0,
+        "Y": 98.0
       },
       "End": {
-        "X": 20210925.0,
-        "Y": 97.8214285714285714285715
+        "X": 20210926.0,
+        "Y": 98.0
       }
     }
   }
