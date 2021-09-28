@@ -2,7 +2,7 @@
   "PublicName": "ansimuz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1272969808007626762/XhUQYtqO_normal.png",
   "Login": "ansimuz",
-  "CurrentFollowersCount": 20383,
+  "CurrentFollowersCount": 20381,
   "CurrentTweetsCout": 6837,
   "FollowersCountHistory": {
     "20201228": 21052,
@@ -237,7 +237,8 @@
     "20210924": 20386,
     "20210925": 20385,
     "20210926": 20383,
-    "20210927": 20383
+    "20210927": 20383,
+    "20210928": 20381
   },
   "TweetsCountHistory": {
     "20201228": 6572,
@@ -472,20 +473,21 @@
     "20210924": 6831,
     "20210925": 6835,
     "20210926": 6835,
-    "20210927": 6837
+    "20210927": 6837,
+    "20210928": 6837
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0231245467063287679872170309,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210921.0,
-        "Y": 20384.142857142857142857142857
+        "X": 20210922.0,
+        "Y": 20386.500000000000000000000
       },
       "End": {
-        "X": 20210927.0,
-        "Y": 20384.142857142857142857142857
+        "X": 20210928.0,
+        "Y": 20381.785714285714285714286
       }
     }
   }
