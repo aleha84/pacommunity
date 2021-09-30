@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1267349212150165505/mOICBNa-_normal.jpg",
   "Login": "aKM3mZfpo7wkuDg",
   "CurrentFollowersCount": 105,
-  "CurrentTweetsCout": 284,
+  "CurrentTweetsCout": 289,
   "FollowersCountHistory": {
     "20210919": 103,
     "20210920": 103,
@@ -15,7 +15,8 @@
     "20210926": 105,
     "20210927": 105,
     "20210928": 105,
-    "20210929": 105
+    "20210929": 105,
+    "20210930": 105
   },
   "TweetsCountHistory": {
     "20210919": 258,
@@ -28,20 +29,21 @@
     "20210926": 276,
     "20210927": 278,
     "20210928": 278,
-    "20210929": 284
+    "20210929": 284,
+    "20210930": 289
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.6149641270925862658012032688,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210923.0,
-        "Y": 104.5357142857142857142856
+        "X": 20210924.0,
+        "Y": 105.0
       },
       "End": {
-        "X": 20210929.0,
-        "Y": 105.1785714285714285714285
+        "X": 20210930.0,
+        "Y": 105.0
       }
     }
   }
