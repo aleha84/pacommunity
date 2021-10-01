@@ -2,7 +2,7 @@
   "PublicName": "furukawa",
   "AvatarImage": "https://pbs.twimg.com/profile_images/883568034912153600/DbybBbJb_normal.jpg",
   "Login": "fururirelo",
-  "CurrentFollowersCount": 2583,
+  "CurrentFollowersCount": 2582,
   "CurrentTweetsCout": 4164,
   "FollowersCountHistory": {
     "20201225": 2646,
@@ -243,7 +243,8 @@
     "20210927": 2582,
     "20210928": 2582,
     "20210929": 2583,
-    "20210930": 2583
+    "20210930": 2583,
+    "20211001": 2582
   },
   "TweetsCountHistory": {
     "20201225": 4128,
@@ -484,20 +485,21 @@
     "20210927": 4164,
     "20210928": 4164,
     "20210929": 4164,
-    "20210930": 4164
+    "20210930": 4164,
+    "20211001": 4164
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0415000899168614865332197153,
+    "WeeklyGrowth": -0.0107642581639024934837496951,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210924.0,
-        "Y": 2581.7500000000000000000000
+        "X": 20210925.0,
+        "Y": 2582.333261617900172117039587
       },
       "End": {
-        "X": 20210930.0,
-        "Y": 2582.8214285714285714285714
+        "X": 20211001.0,
+        "Y": 2582.055292598967297762478485
       }
     }
   }

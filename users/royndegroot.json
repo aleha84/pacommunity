@@ -2,7 +2,7 @@
   "PublicName": "Roy Nathan de Groot",
   "AvatarImage": "https://pbs.twimg.com/profile_images/689796878351884289/3BM3GKjl_normal.png",
   "Login": "royndegroot",
-  "CurrentFollowersCount": 1245,
+  "CurrentFollowersCount": 1244,
   "CurrentTweetsCout": 782,
   "FollowersCountHistory": {
     "20210214": 1209,
@@ -193,7 +193,8 @@
     "20210927": 1245,
     "20210928": 1245,
     "20210929": 1245,
-    "20210930": 1245
+    "20210930": 1245,
+    "20211001": 1244
   },
   "TweetsCountHistory": {
     "20210214": 706,
@@ -384,20 +385,21 @@
     "20210927": 780,
     "20210928": 781,
     "20210929": 782,
-    "20210930": 782
+    "20210930": 782,
+    "20211001": 782
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0827383847870583894873171894,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210924.0,
-        "Y": 1245.0
+        "X": 20210925.0,
+        "Y": 1245.03334767641996557659208
       },
       "End": {
-        "X": 20210930.0,
-        "Y": 1245.0
+        "X": 20211001.0,
+        "Y": 1244.00322719449225473321859
       }
     }
   }

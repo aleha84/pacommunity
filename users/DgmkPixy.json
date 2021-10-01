@@ -2,7 +2,7 @@
   "PublicName": "DGMKPixy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1007989202372431872/USfqpYBK_normal.jpg",
   "Login": "DgmkPixy",
-  "CurrentFollowersCount": 366,
+  "CurrentFollowersCount": 365,
   "CurrentTweetsCout": 508,
   "FollowersCountHistory": {
     "20210214": 347,
@@ -192,7 +192,8 @@
     "20210927": 365,
     "20210928": 366,
     "20210929": 366,
-    "20210930": 366
+    "20210930": 366,
+    "20211001": 365
   },
   "TweetsCountHistory": {
     "20210214": 502,
@@ -382,20 +383,21 @@
     "20210927": 508,
     "20210928": 508,
     "20210929": 508,
-    "20210930": 508
+    "20210930": 508,
+    "20211001": 508
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.706991358994501178318814381,
+    "WeeklyGrowth": -0.0089558746413231126377997137,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210924.0,
-        "Y": 363.714285714285714285714
+        "X": 20210925.0,
+        "Y": 365.148450946643717728055077
       },
       "End": {
-        "X": 20210930.0,
-        "Y": 366.285714285714285714285
+        "X": 20211001.0,
+        "Y": 365.115748709122203098106712
       }
     }
   }

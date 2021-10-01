@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1067729597872001025/A8wW4sBV_normal.jpg",
   "Login": "SawaFuyu",
   "CurrentFollowersCount": 1166,
-  "CurrentTweetsCout": 550,
+  "CurrentTweetsCout": 551,
   "FollowersCountHistory": {
     "20210311": 996,
     "20210312": 1001,
@@ -168,7 +168,8 @@
     "20210927": 1164,
     "20210928": 1164,
     "20210929": 1165,
-    "20210930": 1166
+    "20210930": 1166,
+    "20211001": 1166
   },
   "TweetsCountHistory": {
     "20210311": 525,
@@ -334,20 +335,21 @@
     "20210927": 550,
     "20210928": 550,
     "20210929": 550,
-    "20210930": 550
+    "20210930": 550,
+    "20211001": 551
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.0884248900921831326013221536,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210924.0,
-        "Y": 1165.0
+        "X": 20210925.0,
+        "Y": 1164.96665232358003442340792
       },
       "End": {
-        "X": 20210930.0,
-        "Y": 1165.0
+        "X": 20211001.0,
+        "Y": 1165.99677280550774526678141
       }
     }
   }

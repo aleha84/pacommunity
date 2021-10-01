@@ -2,7 +2,7 @@
   "PublicName": "Azuna Pixels - Commissions Closed! 👾",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1094968745116790785/6yNSVtOZ_normal.jpg",
   "Login": "azunapixels",
-  "CurrentFollowersCount": 256,
+  "CurrentFollowersCount": 255,
   "CurrentTweetsCout": 391,
   "FollowersCountHistory": {
     "20210214": 236,
@@ -192,7 +192,8 @@
     "20210927": 256,
     "20210928": 256,
     "20210929": 256,
-    "20210930": 256
+    "20210930": 256,
+    "20211001": 255
   },
   "TweetsCountHistory": {
     "20210214": 336,
@@ -382,20 +383,21 @@
     "20210927": 391,
     "20210928": 391,
     "20210929": 391,
-    "20210930": 391
+    "20210930": 391,
+    "20211001": 391
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.4023384028980465411754013568,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210924.0,
-        "Y": 256.0
+        "X": 20210925.0,
+        "Y": 256.03334767641996557659208
       },
       "End": {
-        "X": 20210930.0,
-        "Y": 256.0
+        "X": 20211001.0,
+        "Y": 255.00322719449225473321859
       }
     }
   }

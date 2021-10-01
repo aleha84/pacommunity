@@ -2,7 +2,7 @@
   "PublicName": "mididuck @ driftcat",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1428025495220678660/J1JImfZd_normal.jpg",
   "Login": "mididuck",
-  "CurrentFollowersCount": 327,
+  "CurrentFollowersCount": 326,
   "CurrentTweetsCout": 620,
   "FollowersCountHistory": {
     "20210320": 228,
@@ -160,7 +160,8 @@
     "20210927": 327,
     "20210928": 327,
     "20210929": 327,
-    "20210930": 327
+    "20210930": 327,
+    "20211001": 326
   },
   "TweetsCountHistory": {
     "20210320": 258,
@@ -318,20 +319,21 @@
     "20210927": 617,
     "20210928": 618,
     "20210929": 618,
-    "20210930": 620
+    "20210930": 620,
+    "20211001": 620
   },
   "LangId": "vn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3149894312756611455799826163,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210924.0,
-        "Y": 327.0
+        "X": 20210925.0,
+        "Y": 327.03334767641996557659208
       },
       "End": {
-        "X": 20210930.0,
-        "Y": 327.0
+        "X": 20211001.0,
+        "Y": 326.00322719449225473321859
       }
     }
   }

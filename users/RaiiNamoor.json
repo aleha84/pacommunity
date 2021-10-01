@@ -2,7 +2,7 @@
   "PublicName": "RaiiNamoor",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1410952273262489605/umGZfUqf_normal.png",
   "Login": "RaiiNamoor",
-  "CurrentFollowersCount": 1013,
+  "CurrentFollowersCount": 1012,
   "CurrentTweetsCout": 1989,
   "FollowersCountHistory": {
     "20201215": 533,
@@ -252,7 +252,8 @@
     "20210927": 1014,
     "20210928": 1015,
     "20210929": 1014,
-    "20210930": 1013
+    "20210930": 1013,
+    "20211001": 1012
   },
   "TweetsCountHistory": {
     "20201215": 780,
@@ -502,20 +503,21 @@
     "20210927": 1975,
     "20210928": 1977,
     "20210929": 1982,
-    "20210930": 1989
+    "20210930": 1989,
+    "20211001": 1989
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2116700769067946094687024505,
+    "WeeklyGrowth": -0.2063899412060233274946702419,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210924.0,
-        "Y": 1012.3571428571428571428572
+        "X": 20210925.0,
+        "Y": 1014.07228915662650602409639
       },
       "End": {
-        "X": 20210930.0,
-        "Y": 1014.5000000000000000000000
+        "X": 20211001.0,
+        "Y": 1011.97934595524956970740104
       }
     }
   }
