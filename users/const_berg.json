@@ -2,7 +2,7 @@
   "PublicName": "Berg",
   "AvatarImage": "https://pbs.twimg.com/profile_images/786842499260289024/NIFwd3dG_normal.jpg",
   "Login": "const_berg",
-  "CurrentFollowersCount": 963,
+  "CurrentFollowersCount": 964,
   "CurrentTweetsCout": 400,
   "FollowersCountHistory": {
     "20201216": 995,
@@ -252,7 +252,8 @@
     "20210928": 963,
     "20210929": 963,
     "20210930": 963,
-    "20211001": 963
+    "20211001": 963,
+    "20211002": 964
   },
   "TweetsCountHistory": {
     "20201216": 400,
@@ -502,20 +503,21 @@
     "20210928": 400,
     "20210929": 400,
     "20210930": 400,
-    "20211001": 400
+    "20211001": 400,
+    "20211002": 400
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.0541256060744302332628183562,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210925.0,
-        "Y": 963.0
+        "X": 20210926.0,
+        "Y": 962.98511904761904761904763
       },
       "End": {
-        "X": 20211001.0,
-        "Y": 963.0
+        "X": 20211002.0,
+        "Y": 963.50634057971014492753624
       }
     }
   }
