@@ -2,7 +2,7 @@
   "PublicName": "The Traveler (Commissions open)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1343616780313513984/jYdk8rSj_normal.jpg",
   "Login": "ekvitki",
-  "CurrentFollowersCount": 475,
+  "CurrentFollowersCount": 474,
   "CurrentTweetsCout": 491,
   "FollowersCountHistory": {
     "20210928": 472,
@@ -10,7 +10,8 @@
     "20210930": 476,
     "20211001": 476,
     "20211002": 476,
-    "20211003": 475
+    "20211003": 475,
+    "20211004": 474
   },
   "TweetsCountHistory": {
     "20210928": 472,
@@ -18,12 +19,22 @@
     "20210930": 484,
     "20211001": 486,
     "20211002": 487,
-    "20211003": 491
+    "20211003": 491,
+    "20211004": 491
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.2733527921913251008796556423,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210928.0,
+        "Y": 473.98122572291756581786794
+      },
+      "End": {
+        "X": 20211004.0,
+        "Y": 475.27686663789382822615452
+      }
+    }
   }
 }

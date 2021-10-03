@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1378141534491705345/1Hqrfn4S_normal.jpg",
   "Login": "Sr_Monkey_",
   "CurrentFollowersCount": 343,
-  "CurrentTweetsCout": 2362,
+  "CurrentTweetsCout": 2361,
   "FollowersCountHistory": {
     "20201228": 290,
     "20201229": 293,
@@ -242,7 +242,8 @@
     "20210929": 343,
     "20210930": 343,
     "20211001": 343,
-    "20211002": 343
+    "20211002": 343,
+    "20211003": 343
   },
   "TweetsCountHistory": {
     "20201228": 1471,
@@ -482,20 +483,21 @@
     "20210929": 2361,
     "20210930": 2361,
     "20211001": 2362,
-    "20211002": 2362
+    "20211002": 2362,
+    "20211003": 2361
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1320521953677479888103166129,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210926.0,
-        "Y": 342.57738095238095238095238
+        "X": 20210927.0,
+        "Y": 343.0
       },
       "End": {
-        "X": 20211002.0,
-        "Y": 343.02976190476190476190477
+        "X": 20211003.0,
+        "Y": 343.0
       }
     }
   }
