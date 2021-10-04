@@ -2,7 +2,7 @@
   "PublicName": "Евгений",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1359039468041347075/18LkGoRo_normal.jpg",
   "Login": "Kasatka_Pixel",
-  "CurrentFollowersCount": 432,
+  "CurrentFollowersCount": 431,
   "CurrentTweetsCout": 58,
   "FollowersCountHistory": {
     "20210225": 49,
@@ -184,7 +184,8 @@
     "20210930": 432,
     "20211001": 432,
     "20211002": 432,
-    "20211003": 432
+    "20211003": 432,
+    "20211004": 431
   },
   "TweetsCountHistory": {
     "20210225": 13,
@@ -366,20 +367,21 @@
     "20210930": 58,
     "20211001": 58,
     "20211002": 58,
-    "20211003": 58
+    "20211003": 58,
+    "20211004": 58
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0626393807392895525355338067,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210927.0,
-        "Y": 432.0
+        "X": 20210928.0,
+        "Y": 432.010250323694432455761761
       },
       "End": {
-        "X": 20211003.0,
-        "Y": 432.0
+        "X": 20211004.0,
+        "Y": 431.739641778161415623651273
       }
     }
   }
