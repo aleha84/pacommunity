@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1169784835751022592/FkLhEz-T_normal.jpg",
   "Login": "kachirjsdn",
   "CurrentFollowersCount": 181,
-  "CurrentTweetsCout": 7597,
+  "CurrentTweetsCout": 7606,
   "FollowersCountHistory": {
     "20210929": 181,
     "20210930": 181,
     "20211001": 181,
     "20211002": 181,
     "20211003": 181,
-    "20211004": 181
+    "20211004": 181,
+    "20211005": 181
   },
   "TweetsCountHistory": {
     "20210929": 7553,
@@ -18,12 +19,22 @@
     "20211001": 7560,
     "20211002": 7583,
     "20211003": 7587,
-    "20211004": 7597
+    "20211004": 7597,
+    "20211005": 7606
   },
   "LangId": "kr",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
+    "ErrorMessage": null,
     "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210929.0,
+        "Y": 181.0
+      },
+      "End": {
+        "X": 20211005.0,
+        "Y": 181.0
+      }
+    }
   }
 }

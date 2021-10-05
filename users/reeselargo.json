@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1423334321209831441/sLqN75bn_normal.jpg",
   "Login": "reeselargo",
   "CurrentFollowersCount": 222,
-  "CurrentTweetsCout": 14275,
+  "CurrentTweetsCout": 14279,
   "FollowersCountHistory": {
     "20210929": 225,
     "20210930": 224,
     "20211001": 223,
     "20211002": 223,
     "20211003": 222,
-    "20211004": 222
+    "20211004": 222,
+    "20211005": 222
   },
   "TweetsCountHistory": {
     "20210929": 14209,
@@ -18,12 +19,22 @@
     "20211001": 14239,
     "20211002": 14257,
     "20211003": 14271,
-    "20211004": 14275
+    "20211004": 14275,
+    "20211005": 14279
   },
   "LangId": "ph",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -0.9810882333957271025624474437,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20210929.0,
+        "Y": 224.53623188405797101449275
+      },
+      "End": {
+        "X": 20211005.0,
+        "Y": 222.33333333333333333333333
+      }
+    }
   }
 }
