@@ -2,7 +2,7 @@
   "PublicName": "Quintino Pixels (Comissions Open)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1348424581497942018/UUK2BYUv_normal.png",
   "Login": "QuintinoPixels",
-  "CurrentFollowersCount": 642,
+  "CurrentFollowersCount": 641,
   "CurrentTweetsCout": 398,
   "FollowersCountHistory": {
     "20201219": 551,
@@ -255,7 +255,8 @@
     "20211003": 642,
     "20211004": 642,
     "20211005": 642,
-    "20211006": 642
+    "20211006": 642,
+    "20211007": 641
   },
   "TweetsCountHistory": {
     "20201219": 241,
@@ -508,20 +509,21 @@
     "20211003": 396,
     "20211004": 398,
     "20211005": 398,
-    "20211006": 398
+    "20211006": 398,
+    "20211007": 398
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1001056670930426561370246483,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210930.0,
-        "Y": 642.0
+        "X": 20211001.0,
+        "Y": 642.1785714285714285714285
       },
       "End": {
-        "X": 20211006.0,
-        "Y": 642.0
+        "X": 20211007.0,
+        "Y": 641.5357142857142857142857
       }
     }
   }

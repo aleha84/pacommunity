@@ -2,7 +2,7 @@
   "PublicName": "Shiruht",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1388093274645225475/kKC-5JMz_normal.jpg",
   "Login": "Shiruht1",
-  "CurrentFollowersCount": 80,
+  "CurrentFollowersCount": 82,
   "CurrentTweetsCout": 157,
   "FollowersCountHistory": {
     "20211001": 76,
@@ -10,7 +10,8 @@
     "20211003": 79,
     "20211004": 80,
     "20211005": 79,
-    "20211006": 80
+    "20211006": 80,
+    "20211007": 82
   },
   "TweetsCountHistory": {
     "20211001": 149,
@@ -18,12 +19,22 @@
     "20211003": 150,
     "20211004": 152,
     "20211005": 152,
-    "20211006": 157
+    "20211006": 157,
+    "20211007": 157
   },
   "LangId": "de",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 6.1395348837209302325577445971,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211001.0,
+        "Y": 76.785714285714285714286
+      },
+      "End": {
+        "X": 20211007.0,
+        "Y": 81.500000000000000000000
+      }
+    }
   }
 }
