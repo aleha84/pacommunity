@@ -2,7 +2,7 @@
   "PublicName": "Fleja2003 (account has moved to @PsychicFleja)",
   "AvatarImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
   "Login": "Fleja2003",
-  "CurrentFollowersCount": 0,
+  "CurrentFollowersCount": 1,
   "CurrentTweetsCout": 0,
   "FollowersCountHistory": {
     "20210113": 5816,
@@ -246,7 +246,8 @@
     "20211005": 0,
     "20211006": 0,
     "20211007": 0,
-    "20211008": 0
+    "20211008": 0,
+    "20211009": 1
   },
   "TweetsCountHistory": {
     "20210113": 833,
@@ -490,12 +491,22 @@
     "20211005": 0,
     "20211006": 0,
     "20211007": 0,
-    "20211008": 0
+    "20211008": 0,
+    "20211009": 0
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at System.Decimal.op_Division(Decimal d1, Decimal d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 83",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -360.000000000000000000112,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211003.0,
+        "Y": -0.1785714285714285714285
+      },
+      "End": {
+        "X": 20211009.0,
+        "Y": 0.4642857142857142857143
+      }
+    }
   }
 }
