@@ -2,7 +2,7 @@
   "PublicName": "Thoof",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1356819384019259392/FmSwvYP3_normal.jpg",
   "Login": "Thoof4",
-  "CurrentFollowersCount": 4343,
+  "CurrentFollowersCount": 4341,
   "CurrentTweetsCout": 330,
   "FollowersCountHistory": {
     "20210227": 2139,
@@ -202,7 +202,8 @@
     "20211006": 4342,
     "20211007": 4344,
     "20211008": 4344,
-    "20211009": 4343
+    "20211009": 4343,
+    "20211010": 4341
   },
   "TweetsCountHistory": {
     "20210227": 279,
@@ -402,20 +403,21 @@
     "20211006": 330,
     "20211007": 330,
     "20211008": 330,
-    "20211009": 330
+    "20211009": 330,
+    "20211010": 330
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0394827756391274306583756132,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211003.0,
-        "Y": 4341.8571428571428571428571
+        "X": 20211004.0,
+        "Y": 4342.5714285714285714285714286
       },
       "End": {
-        "X": 20211009.0,
-        "Y": 4343.5714285714285714285714
+        "X": 20211010.0,
+        "Y": 4342.5714285714285714285714286
       }
     }
   }

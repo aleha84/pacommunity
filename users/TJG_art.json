@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1444143336940576770/BmA4g_Tm_normal.jpg",
   "Login": "TJG_art",
   "CurrentFollowersCount": 194,
-  "CurrentTweetsCout": 3886,
+  "CurrentTweetsCout": 3895,
   "FollowersCountHistory": {
     "20210215": 167,
     "20210216": 167,
@@ -214,7 +214,8 @@
     "20211006": 194,
     "20211007": 194,
     "20211008": 194,
-    "20211009": 194
+    "20211009": 194,
+    "20211010": 194
   },
   "TweetsCountHistory": {
     "20210215": 1567,
@@ -426,20 +427,21 @@
     "20211006": 3871,
     "20211007": 3880,
     "20211008": 3883,
-    "20211009": 3886
+    "20211009": 3886,
+    "20211010": 3895
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3321646060158700867318398474,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211003.0,
-        "Y": 193.5357142857142857142857
+        "X": 20211004.0,
+        "Y": 194.0
       },
       "End": {
-        "X": 20211009.0,
-        "Y": 194.1785714285714285714285
+        "X": 20211010.0,
+        "Y": 194.0
       }
     }
   }

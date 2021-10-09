@@ -2,8 +2,8 @@
   "PublicName": "Aniebodie",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1443975705985957890/96aBU8Bg_normal.jpg",
   "Login": "Aniebodie",
-  "CurrentFollowersCount": 248,
-  "CurrentTweetsCout": 1506,
+  "CurrentFollowersCount": 247,
+  "CurrentTweetsCout": 1509,
   "FollowersCountHistory": {
     "20210103": 41,
     "20210104": 42,
@@ -242,7 +242,8 @@
     "20211005": 248,
     "20211006": 248,
     "20211007": 248,
-    "20211008": 248
+    "20211008": 248,
+    "20211009": 247
   },
   "TweetsCountHistory": {
     "20210103": 317,
@@ -482,20 +483,21 @@
     "20211005": 1492,
     "20211006": 1501,
     "20211007": 1502,
-    "20211008": 1506
+    "20211008": 1506,
+    "20211009": 1509
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.259030076269966901712453665,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211002.0,
-        "Y": 248.0
+        "X": 20211003.0,
+        "Y": 248.1785714285714285714285
       },
       "End": {
-        "X": 20211008.0,
-        "Y": 248.0
+        "X": 20211009.0,
+        "Y": 247.5357142857142857142857
       }
     }
   }
