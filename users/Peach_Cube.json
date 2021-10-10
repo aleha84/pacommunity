@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1344322723372265472/UzauzWQb_normal.jpg",
   "Login": "Peach_Cube",
   "CurrentFollowersCount": 186,
-  "CurrentTweetsCout": 1990,
+  "CurrentTweetsCout": 1997,
   "FollowersCountHistory": {
     "20210120": 80,
     "20210121": 80,
@@ -241,7 +241,8 @@
     "20211007": 186,
     "20211008": 186,
     "20211009": 186,
-    "20211010": 186
+    "20211010": 186,
+    "20211011": 186
   },
   "TweetsCountHistory": {
     "20210120": 526,
@@ -480,20 +481,21 @@
     "20211007": 1960,
     "20211008": 1973,
     "20211009": 1990,
-    "20211010": 1990
+    "20211010": 1990,
+    "20211011": 1997
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.3447615399348783757901014867,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211004.0,
-        "Y": 186.4642857142857142857143
+        "X": 20211005.0,
+        "Y": 186.0
       },
       "End": {
-        "X": 20211010.0,
-        "Y": 185.8214285714285714285714
+        "X": 20211011.0,
+        "Y": 186.0
       }
     }
   }

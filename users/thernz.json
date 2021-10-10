@@ -2,8 +2,8 @@
   "PublicName": "thernz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1431313342153510922/QHXAymcJ_normal.jpg",
   "Login": "thernz",
-  "CurrentFollowersCount": 4381,
-  "CurrentTweetsCout": 18175,
+  "CurrentFollowersCount": 4380,
+  "CurrentTweetsCout": 18179,
   "FollowersCountHistory": {
     "20210216": 4039,
     "20210217": 4040,
@@ -214,7 +214,8 @@
     "20211007": 4381,
     "20211008": 4380,
     "20211009": 4380,
-    "20211010": 4381
+    "20211010": 4381,
+    "20211011": 4380
   },
   "TweetsCountHistory": {
     "20210216": 17446,
@@ -426,20 +427,21 @@
     "20211007": 18169,
     "20211008": 18172,
     "20211009": 18172,
-    "20211010": 18175
+    "20211010": 18175,
+    "20211011": 18179
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0146767446980259778381164842,
+    "WeeklyGrowth": -0.0195650047282094759839580005,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211004.0,
-        "Y": 4380.1071428571428571428572
+        "X": 20211005.0,
+        "Y": 4381.0000000000000000000000
       },
       "End": {
-        "X": 20211010.0,
-        "Y": 4380.7500000000000000000001
+        "X": 20211011.0,
+        "Y": 4380.1428571428571428571428
       }
     }
   }
