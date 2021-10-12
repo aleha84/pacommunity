@@ -2,8 +2,8 @@
   "PublicName": "Project AE",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1392080808043757570/gB8ikxQ__normal.jpg",
   "Login": "Project_AE_",
-  "CurrentFollowersCount": 661,
-  "CurrentTweetsCout": 5133,
+  "CurrentFollowersCount": 660,
+  "CurrentTweetsCout": 5132,
   "FollowersCountHistory": {
     "20210110": 556,
     "20210111": 559,
@@ -238,7 +238,8 @@
     "20211008": 662,
     "20211009": 662,
     "20211010": 662,
-    "20211011": 661
+    "20211011": 661,
+    "20211012": 660
   },
   "TweetsCountHistory": {
     "20210110": 4796,
@@ -474,20 +475,21 @@
     "20211008": 5132,
     "20211009": 5132,
     "20211010": 5132,
-    "20211011": 5133
+    "20211011": 5133,
+    "20211012": 5132
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.258788009488893681259437164,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211005.0,
-        "Y": 661.71428571428571428571428571
+        "X": 20211006.0,
+        "Y": 662.4285714285714285714285
       },
       "End": {
-        "X": 20211011.0,
-        "Y": 661.71428571428571428571428571
+        "X": 20211012.0,
+        "Y": 660.7142857142857142857142
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Padla",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1299084695045582856/udDBSLWw_normal.jpg",
   "Login": "PadlukaPadla",
-  "CurrentFollowersCount": 2472,
+  "CurrentFollowersCount": 2473,
   "CurrentTweetsCout": 326,
   "FollowersCountHistory": {
     "20201213": 2063,
@@ -266,7 +266,8 @@
     "20211008": 2471,
     "20211009": 2471,
     "20211010": 2471,
-    "20211011": 2472
+    "20211011": 2472,
+    "20211012": 2473
   },
   "TweetsCountHistory": {
     "20201213": 299,
@@ -530,20 +531,21 @@
     "20211008": 324,
     "20211009": 324,
     "20211010": 324,
-    "20211011": 326
+    "20211011": 326,
+    "20211012": 326
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0433381968420900567730367075,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211005.0,
-        "Y": 2472.2500000000000000000000
+        "X": 20211006.0,
+        "Y": 2471.8571428571428571428571429
       },
       "End": {
-        "X": 20211011.0,
-        "Y": 2471.1785714285714285714286
+        "X": 20211012.0,
+        "Y": 2471.8571428571428571428571429
       }
     }
   }
