@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1196863883450998785/V8yq23ky_normal.jpg",
   "Login": "FrenDiaga",
   "CurrentFollowersCount": 265,
-  "CurrentTweetsCout": 128,
+  "CurrentTweetsCout": 126,
   "FollowersCountHistory": {
     "20210914": 266,
     "20210915": 266,
@@ -33,7 +33,8 @@
     "20211009": 265,
     "20211010": 265,
     "20211011": 265,
-    "20211012": 265
+    "20211012": 265,
+    "20211013": 265
   },
   "TweetsCountHistory": {
     "20210914": 128,
@@ -64,20 +65,21 @@
     "20211009": 128,
     "20211010": 128,
     "20211011": 128,
-    "20211012": 128
+    "20211012": 128,
+    "20211013": 126
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2430133657351154313487403938,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211006.0,
-        "Y": 264.5357142857142857142857
+        "X": 20211007.0,
+        "Y": 265.0
       },
       "End": {
-        "X": 20211012.0,
-        "Y": 265.1785714285714285714286
+        "X": 20211013.0,
+        "Y": 265.0
       }
     }
   }
