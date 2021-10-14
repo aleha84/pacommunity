@@ -2,8 +2,8 @@
   "PublicName": "Bel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1352312247763271696/vFxqCbCg_normal.jpg",
   "Login": "ScarSnapdragon",
-  "CurrentFollowersCount": 64,
-  "CurrentTweetsCout": 2116,
+  "CurrentFollowersCount": 65,
+  "CurrentTweetsCout": 2122,
   "FollowersCountHistory": {
     "20210301": 46,
     "20210302": 46,
@@ -191,7 +191,8 @@
     "20211011": 64,
     "20211012": 64,
     "20211013": 64,
-    "20211014": 64
+    "20211014": 64,
+    "20211015": 65
   },
   "TweetsCountHistory": {
     "20210301": 1183,
@@ -380,20 +381,21 @@
     "20211011": 2104,
     "20211012": 2111,
     "20211013": 2113,
-    "20211014": 2116
+    "20211014": 2116,
+    "20211015": 2122
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 1.0072747621712367095691778432,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211008.0,
-        "Y": 64.0
+        "X": 20211009.0,
+        "Y": 63.8214285714285714285714
       },
       "End": {
-        "X": 20211014.0,
-        "Y": 64.0
+        "X": 20211015.0,
+        "Y": 64.4642857142857142857143
       }
     }
   }
