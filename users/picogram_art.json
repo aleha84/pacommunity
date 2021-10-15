@@ -2,8 +2,8 @@
   "PublicName": "picogram!!",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1282710218934112256/LhOI685N_normal.png",
   "Login": "picogram_art",
-  "CurrentFollowersCount": 12563,
-  "CurrentTweetsCout": 4373,
+  "CurrentFollowersCount": 12560,
+  "CurrentTweetsCout": 4374,
   "FollowersCountHistory": {
     "20210116": 11647,
     "20210117": 11640,
@@ -249,7 +249,8 @@
     "20211012": 12563,
     "20211013": 12563,
     "20211014": 12563,
-    "20211015": 12563
+    "20211015": 12563,
+    "20211016": 12560
   },
   "TweetsCountHistory": {
     "20210116": 4032,
@@ -496,20 +497,21 @@
     "20211012": 4367,
     "20211013": 4368,
     "20211014": 4368,
-    "20211015": 4373
+    "20211015": 4373,
+    "20211016": 4374
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0136469089751171359687032026,
+    "WeeklyGrowth": -0.010234076061927531370285815,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211009.0,
-        "Y": 12561.7142857142857142857142
+        "X": 20211010.0,
+        "Y": 12563.0714285714285714285714
       },
       "End": {
-        "X": 20211015.0,
-        "Y": 12563.4285714285714285714285
+        "X": 20211016.0,
+        "Y": 12561.7857142857142857142857
       }
     }
   }
