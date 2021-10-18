@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1395904183820226573/7XYHrkez_normal.jpg",
   "Login": "FoT23_PaWa",
   "CurrentFollowersCount": 133,
-  "CurrentTweetsCout": 3073,
+  "CurrentTweetsCout": 3074,
   "FollowersCountHistory": {
     "20201228": 14,
     "20201229": 15,
@@ -256,7 +256,8 @@
     "20211013": 133,
     "20211014": 133,
     "20211015": 133,
-    "20211017": 133
+    "20211017": 133,
+    "20211018": 133
   },
   "TweetsCountHistory": {
     "20201228": 142,
@@ -510,20 +511,21 @@
     "20211013": 3060,
     "20211014": 3061,
     "20211015": 3064,
-    "20211017": 3073
+    "20211017": 3073,
+    "20211018": 3074
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.4730310848998642678795412818,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211010.0,
-        "Y": 133.4262295081967209630539
+        "X": 20211011.0,
+        "Y": 133.0
       },
       "End": {
-        "X": 20211017.0,
-        "Y": 132.7950819672131151817067
+        "X": 20211018.0,
+        "Y": 133.0
       }
     }
   }
