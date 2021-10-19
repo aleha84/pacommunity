@@ -2,7 +2,7 @@
   "PublicName": "P5",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1333525393970761730/LLtQn6Dw_normal.jpg",
   "Login": "P5pixel",
-  "CurrentFollowersCount": 17,
+  "CurrentFollowersCount": 0,
   "CurrentTweetsCout": 74,
   "FollowersCountHistory": {
     "20210214": 5,
@@ -207,7 +207,8 @@
     "20211012": 18,
     "20211013": 17,
     "20211014": 17,
-    "20211015": 17
+    "20211015": 17,
+    "20211019": 0
   },
   "TweetsCountHistory": {
     "20210214": 12,
@@ -412,20 +413,21 @@
     "20211012": 72,
     "20211013": 72,
     "20211014": 73,
-    "20211015": 74
+    "20211015": 74,
+    "20211019": 74
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -7.05882352941176,
+    "WeeklyGrowth": -79.45103857566767052133276444,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211009.0,
-        "Y": 18.2142857142857
+        "X": 20211010.0,
+        "Y": 21.510638297872342157085
       },
       "End": {
-        "X": 20211015.0,
-        "Y": 16.9285714285714
+        "X": 20211019.0,
+        "Y": 4.420212765957443994738
       }
     }
   }

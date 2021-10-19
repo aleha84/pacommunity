@@ -161,6 +161,17 @@ function parseParams(str) {
 
     });
 
+    holder.appendChild(document.createElement('br'));
+    let a = document.createElement('a');
+    if(params.isCommon) {
+        a.setAttribute('href', 'nft/');
+    }
+    else {
+        a.setAttribute('href', '../nft/');
+    }
+    
+    a.innerText = 'NFT artists list';
+    holder.appendChild(a);
 
     if(!params.isCommon) {
         holder.appendChild(document.createElement('br'));
@@ -239,8 +250,9 @@ function parseParams(str) {
   class ListRenderer {
     constructor(usersData, params = {}) {
         this.users = [];
-        this.params = Object.assign({ isOther: false, isCommon: false, renderFlag: false, rootFolderPath: '../../', commissions: {} }, params);
+        this.params = Object.assign({ isOther: false, isCommon: false, nft: false, renderFlag: false, rootFolderPath: '../../', commissions: {} }, params);
         this.languages = Object.values(usersData.Languages);
+
         this.currentLanguage = usersData.Lang;
         this.updateDate = usersData.LastTimeUpdate;
 
@@ -349,7 +361,7 @@ function parseParams(str) {
             <span class="tweetsCount"></span>
           </div>
         </div>
-        `;
+        ${this.params.nft ? '<div>NFT</div>' : ''}`;
 
         return t;
     }

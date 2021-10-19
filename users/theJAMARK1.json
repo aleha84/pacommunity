@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1387258365030637568/0_TYJpXH_normal.jpg",
   "Login": "theJAMARK1",
   "CurrentFollowersCount": 876,
-  "CurrentTweetsCout": 669,
+  "CurrentTweetsCout": 670,
   "FollowersCountHistory": {
     "20210215": 837,
     "20210216": 839,
@@ -224,7 +224,8 @@
     "20211016": 876,
     "20211017": 876,
     "20211018": 876,
-    "20211019": 876
+    "20211019": 876,
+    "20211020": 876
   },
   "TweetsCountHistory": {
     "20210215": 624,
@@ -446,20 +447,21 @@
     "20211016": 669,
     "20211017": 669,
     "20211018": 669,
-    "20211019": 669
+    "20211019": 669,
+    "20211020": 670
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0734244340199877625943348982,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211013.0,
-        "Y": 875.5357142857142857142857
+        "X": 20211014.0,
+        "Y": 876.0
       },
       "End": {
-        "X": 20211019.0,
-        "Y": 876.1785714285714285714286
+        "X": 20211020.0,
+        "Y": 876.0
       }
     }
   }
