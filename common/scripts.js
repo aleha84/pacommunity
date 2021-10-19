@@ -296,7 +296,7 @@ function parseParams(str) {
         if(created)
             created.remove();
 
-        let v = '6.6.25';
+        let v = '6.6.26';
         if(!search) {
             let searchResponse = await fetch(this.params.rootFolderPath + 'common/html/search.html?v=' + v);
             let searchHtml = await searchResponse.text();
@@ -361,7 +361,7 @@ function parseParams(str) {
             <span class="tweetsCount"></span>
           </div>
         </div>
-        ${this.params.nft ? '<div>NFT</div>' : ''}`;
+        ${this.params.nft ? '<div class="nftHolder"></div>' : ''}`;
 
         return t;
     }
@@ -668,6 +668,18 @@ function parseParams(str) {
         
                 userDataDiv.querySelector('.userDataHolder').setAttribute('userid', ud.Login);
         
+                if(this.params.nft) {
+                    let nftHolder = userDataDiv.querySelector('.nftHolder');
+                    for (let [key, value] of Object.entries(ud.nft)) {
+                        let a = document.createElement('a');
+                        a.classList.add('icon', 'small', key);
+                        a.href = value;
+                        a.setAttribute('target', '_blank')
+
+                        nftHolder.appendChild(a);
+                    }
+                }
+
                 this.parentNode.appendChild(userDataDiv)
               });
 

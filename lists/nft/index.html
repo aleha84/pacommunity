@@ -25,11 +25,12 @@
     <link rel="manifest" href="../../common/favicon/site.webmanifest">
 
     <script src="../../external/uPlot.iife.min.js"></script>
-    <script src="../../common/scripts.js?v=6.6.25"></script>
-    <script src="../../common/graph.js?v=6.6.25"></script>
+    <script src="../../common/scripts.js?v=6.6.26"></script>
+    <script src="../../common/graph.js?v=6.6.26"></script>
 
     <link rel="stylesheet" href="../../external/uPlot.min.css">
-    <link rel="stylesheet" href="../../common/styles.css?v=6.6.25">
+    <link rel="stylesheet" href="../../common/styles.css?v=6.6.26">
+    <link rel="stylesheet" href="../../common/nft.css?v=6.6.26">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-2Z77QR2CBD"></script>
@@ -172,39 +173,7 @@ var listRender;
             }
 
             console.log(nftArtists);
-          //   for(let l of langs)
-          //   {
-          //  // langs.forEach(async l => {
-          //       let suffix = '_' + l;
-          //       if(l == 'ru') {
-          //           suffix = '';
-          //       }
-                    
-          //       let url = `${l}/data${suffix}_v.json?q=${ts}"`
-                
-          //       let dataResponse = await fetch(url);  
-          //       let usersData_lang = await dataResponse.json();    
-
-          //       usersData.Users = {
-          //           ...usersData.Users,
-          //           ...usersData_lang.Users
-          //       }
-
-          //       if(!usersData.Languages){
-          //           usersData.Languages = usersData_lang.Languages
-          //       }
-          //   }
-
-          //   let dataResponse = await fetch(`more/data_other_v.json?q=${ts}`);  
-          //   let usersData_other = await dataResponse.json();
-
-          //   for(let l of Object.values(usersData_other.LangData)){
-          //     usersData.Users = {
-          //           ...usersData.Users,
-          //           ...l.Users
-          //       }
-          //   }
-
+          
           document.querySelector('.total .count').innerHTML = Object.keys(usersData.Users).length;
 
           try {
