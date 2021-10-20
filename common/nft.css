@@ -50,5 +50,12 @@
     .nftHolder {
       display: none;
     }
+
+    /* .nftHolder {
+        position: static;
+        text-align: left;
+        width: 100%;
+        padding-left: 15px;
+    } */
     
    }

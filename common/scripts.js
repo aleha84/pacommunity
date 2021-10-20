@@ -344,7 +344,7 @@ function parseParams(str) {
     getRowTemplate() {
         let t = document.createElement('template');
         t.innerHTML = `
-        <div class="userDataHolder listItemData">
+        <div class="userDataHolder listItemData ${this.params.nft ? 'flexWrap' : ''}">
             <div class="commissionHolder">
                 <a class="commissionHref usdSign" target="_blank" href=""></a>
             </div>

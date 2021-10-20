@@ -67,6 +67,10 @@ body {
     position: relative;
   }
 
+  .userDataHolder.flexWrap {
+    flex-wrap: wrap;
+  }
+
   .userDataHolder.highlight {
     background-color: indianred;
   }
