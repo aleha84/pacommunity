@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1435843215463264261/MviK37Fy_normal.jpg",
   "Login": "GoodOldPixel",
   "CurrentFollowersCount": 914,
-  "CurrentTweetsCout": 2122,
+  "CurrentTweetsCout": 2133,
   "FollowersCountHistory": {
     "20210214": 281,
     "20210215": 281,
@@ -225,7 +225,8 @@
     "20211017": 914,
     "20211018": 914,
     "20211019": 914,
-    "20211020": 914
+    "20211020": 914,
+    "20211021": 914
   },
   "TweetsCountHistory": {
     "20210214": 785,
@@ -448,20 +449,21 @@
     "20211017": 2119,
     "20211018": 2119,
     "20211019": 2119,
-    "20211020": 2122
+    "20211020": 2122,
+    "20211021": 2133
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0703702255756675397787294353,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211014.0,
-        "Y": 913.5357142857142857142856
+        "X": 20211015.0,
+        "Y": 914.0
       },
       "End": {
-        "X": 20211020.0,
-        "Y": 914.1785714285714285714285
+        "X": 20211021.0,
+        "Y": 914.0
       }
     }
   }
