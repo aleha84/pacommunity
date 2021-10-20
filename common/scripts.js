@@ -296,7 +296,7 @@ function parseParams(str) {
         if(created)
             created.remove();
 
-        let v = '6.6.27';
+        let v = '6.6.28';
         if(!search) {
             let searchResponse = await fetch(this.params.rootFolderPath + 'common/html/search.html?v=' + v);
             let searchHtml = await searchResponse.text();
@@ -360,8 +360,9 @@ function parseParams(str) {
           <div class="tweetsCountHolder" title="Show tweets count graph">
             <span class="tweetsCount"></span>
           </div>
+          ${this.params.nft ? '<div class="nftHolder"></div>' : ''}
         </div>
-        ${this.params.nft ? '<div class="nftHolder"></div>' : ''}`;
+        `;
 
         return t;
     }
