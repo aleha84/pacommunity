@@ -2,8 +2,8 @@
   "PublicName": "Vincio",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1447603628496330761/crm0NvGc_normal.jpg",
   "Login": "Salamendroo",
-  "CurrentFollowersCount": 1101,
-  "CurrentTweetsCout": 34432,
+  "CurrentFollowersCount": 1099,
+  "CurrentTweetsCout": 34461,
   "FollowersCountHistory": {
     "20210114": 479,
     "20210115": 480,
@@ -244,7 +244,8 @@
     "20211019": 1099,
     "20211020": 1103,
     "20211021": 1102,
-    "20211022": 1101
+    "20211022": 1101,
+    "20211023": 1099
   },
   "TweetsCountHistory": {
     "20210114": 12653,
@@ -486,20 +487,21 @@
     "20211019": 34302,
     "20211020": 34392,
     "20211021": 34392,
-    "20211022": 34432
+    "20211022": 34432,
+    "20211023": 34461
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1668951540799902577985810902,
+    "WeeklyGrowth": -0.1555613170858179932590108752,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211015.0,
-        "Y": 1100.1311475409836078009663
+        "X": 20211017.0,
+        "Y": 1102.0000000000000000000001
       },
       "End": {
-        "X": 20211022.0,
-        "Y": 1101.9672131147540973473610
+        "X": 20211023.0,
+        "Y": 1100.2857142857142857142858
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Daeron",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1304169453379350528/VlE4m3ul_normal.jpg",
   "Login": "DonMarramiau",
-  "CurrentFollowersCount": 3151,
+  "CurrentFollowersCount": 3149,
   "CurrentTweetsCout": 1621,
   "FollowersCountHistory": {
     "20210221": 2198,
@@ -206,7 +206,8 @@
     "20211019": 3149,
     "20211020": 3151,
     "20211021": 3150,
-    "20211022": 3151
+    "20211022": 3151,
+    "20211023": 3149
   },
   "TweetsCountHistory": {
     "20210221": 1285,
@@ -410,20 +411,21 @@
     "20211019": 1616,
     "20211020": 1619,
     "20211021": 1620,
-    "20211022": 1621
+    "20211022": 1621,
+    "20211023": 1621
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0719710033642864159093960133,
+    "WeeklyGrowth": -0.0611946556667384381763969969,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211015.0,
-        "Y": 3149.0368852459016408801821
+        "X": 20211017.0,
+        "Y": 3151.5357142857142857142856
       },
       "End": {
-        "X": 20211022.0,
-        "Y": 3151.3032786885245889124442
+        "X": 20211023.0,
+        "Y": 3149.6071428571428571428571
       }
     }
   }
