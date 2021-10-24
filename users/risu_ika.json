@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1365466900390699009/Gg1HF_p6_normal.jpg",
   "Login": "risu_ika",
   "CurrentFollowersCount": 1173,
-  "CurrentTweetsCout": 8793,
+  "CurrentTweetsCout": 8804,
   "FollowersCountHistory": {
     "20210120": 997,
     "20210121": 1000,
@@ -239,7 +239,8 @@
     "20211020": 1173,
     "20211021": 1173,
     "20211022": 1173,
-    "20211023": 1173
+    "20211023": 1173,
+    "20211024": 1173
   },
   "TweetsCountHistory": {
     "20210120": 6026,
@@ -476,20 +477,21 @@
     "20211020": 8776,
     "20211021": 8779,
     "20211022": 8788,
-    "20211023": 8793
+    "20211023": 8793,
+    "20211024": 8804
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0547828468819429649694080402,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211017.0,
-        "Y": 1173.4642857142857142857143
+        "X": 20211018.0,
+        "Y": 1173.0
       },
       "End": {
-        "X": 20211023.0,
-        "Y": 1172.8214285714285714285715
+        "X": 20211024.0,
+        "Y": 1173.0
       }
     }
   }
