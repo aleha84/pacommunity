@@ -2,7 +2,7 @@
   "PublicName": "Atomic",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1284174175381397506/CEjzKeLI_normal.jpg",
   "Login": "DrATOMlC",
-  "CurrentFollowersCount": 97,
+  "CurrentFollowersCount": 96,
   "CurrentTweetsCout": 26,
   "FollowersCountHistory": {
     "20210112": 104,
@@ -264,7 +264,8 @@
     "20211022": 97,
     "20211023": 97,
     "20211024": 97,
-    "20211025": 97
+    "20211025": 97,
+    "20211026": 96
   },
   "TweetsCountHistory": {
     "20210112": 26,
@@ -526,20 +527,21 @@
     "20211022": 26,
     "20211023": 26,
     "20211024": 26,
-    "20211025": 26
+    "20211025": 26,
+    "20211026": 26
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.6615214994487320837927678512,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211019.0,
-        "Y": 97.0
+        "X": 20211020.0,
+        "Y": 97.1785714285714285714285
       },
       "End": {
-        "X": 20211025.0,
-        "Y": 97.0
+        "X": 20211026.0,
+        "Y": 96.5357142857142857142856
       }
     }
   }
