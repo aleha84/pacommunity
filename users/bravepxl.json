@@ -2,15 +2,16 @@
   "PublicName": "Bravepxl (henpai)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1449546242200068104/ZQJt6Dkn_normal.jpg",
   "Login": "bravepxl",
-  "CurrentFollowersCount": 590,
-  "CurrentTweetsCout": 3481,
+  "CurrentFollowersCount": 591,
+  "CurrentTweetsCout": 3492,
   "FollowersCountHistory": {
     "20211020": 577,
     "20211021": 581,
     "20211022": 583,
     "20211023": 583,
     "20211024": 589,
-    "20211025": 590
+    "20211025": 590,
+    "20211026": 591
   },
   "TweetsCountHistory": {
     "20211020": 3407,
@@ -18,12 +19,22 @@
     "20211022": 3450,
     "20211023": 3454,
     "20211024": 3458,
-    "20211025": 3481
+    "20211025": 3481,
+    "20211026": 3492
   },
   "LangId": "br",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 2.4477685746074916553344282617,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211020.0,
+        "Y": 577.785714285714285714286
+      },
+      "End": {
+        "X": 20211026.0,
+        "Y": 591.928571428571428571429
+      }
+    }
   }
 }

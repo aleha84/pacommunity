@@ -2,7 +2,7 @@
   "PublicName": "Pixelphab",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1360428754187808771/wGAyWMpG_normal.jpg",
   "Login": "Pixelphab",
-  "CurrentFollowersCount": 244,
+  "CurrentFollowersCount": 243,
   "CurrentTweetsCout": 311,
   "FollowersCountHistory": {
     "20210213": 209,
@@ -217,7 +217,8 @@
     "20211022": 244,
     "20211023": 244,
     "20211024": 244,
-    "20211025": 244
+    "20211025": 244,
+    "20211026": 243
   },
   "TweetsCountHistory": {
     "20210213": 276,
@@ -432,20 +433,21 @@
     "20211022": 311,
     "20211023": 311,
     "20211024": 311,
-    "20211025": 311
+    "20211025": 311,
+    "20211026": 311
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2632733655111891180342431661,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211019.0,
-        "Y": 244.0
+        "X": 20211020.0,
+        "Y": 244.1785714285714285714285
       },
       "End": {
-        "X": 20211025.0,
-        "Y": 244.0
+        "X": 20211026.0,
+        "Y": 243.5357142857142857142856
       }
     }
   }

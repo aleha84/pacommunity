@@ -2,15 +2,16 @@
   "PublicName": "Pixel Girl",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1452675021957128199/Xf98HNHl_normal.jpg",
   "Login": "pixel_art_girl",
-  "CurrentFollowersCount": 1925,
-  "CurrentTweetsCout": 2474,
+  "CurrentFollowersCount": 1927,
+  "CurrentTweetsCout": 2503,
   "FollowersCountHistory": {
     "20211020": 1854,
     "20211021": 1881,
     "20211022": 1892,
     "20211023": 1892,
     "20211024": 1915,
-    "20211025": 1925
+    "20211025": 1925,
+    "20211026": 1927
   },
   "TweetsCountHistory": {
     "20211020": 2021,
@@ -18,12 +19,22 @@
     "20211022": 2198,
     "20211023": 2263,
     "20211024": 2361,
-    "20211025": 2474
+    "20211025": 2474,
+    "20211026": 2503
   },
   "LangId": "tr",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 3.7964489780266134908154370464,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211020.0,
+        "Y": 1862.64285714285714285714
+      },
+      "End": {
+        "X": 20211026.0,
+        "Y": 1933.35714285714285714285
+      }
+    }
   }
 }
