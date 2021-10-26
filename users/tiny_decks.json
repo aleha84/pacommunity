@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1451987705651400706/9fr43zA1_normal.jpg",
   "Login": "tiny_decks",
   "CurrentFollowersCount": 148,
-  "CurrentTweetsCout": 1125,
+  "CurrentTweetsCout": 1134,
   "FollowersCountHistory": {
     "20211021": 144,
     "20211022": 148,
     "20211023": 148,
     "20211024": 148,
     "20211025": 148,
-    "20211026": 148
+    "20211026": 148,
+    "20211027": 148
   },
   "TweetsCountHistory": {
     "20211021": 1077,
@@ -18,12 +19,22 @@
     "20211023": 1098,
     "20211024": 1103,
     "20211025": 1114,
-    "20211026": 1125
+    "20211026": 1125,
+    "20211027": 1134
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.7595307917888563049857265303,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211021.0,
+        "Y": 146.142857142857142857143
+      },
+      "End": {
+        "X": 20211027.0,
+        "Y": 148.714285714285714285715
+      }
+    }
   }
 }

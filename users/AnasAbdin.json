@@ -2,15 +2,16 @@
   "PublicName": "Anas Abdin.Ξ 🌿",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1447858897318993920/8S1ZicQV_normal.png",
   "Login": "AnasAbdin",
-  "CurrentFollowersCount": 8709,
-  "CurrentTweetsCout": 11723,
+  "CurrentFollowersCount": 8717,
+  "CurrentTweetsCout": 11726,
   "FollowersCountHistory": {
     "20211021": 8701,
     "20211022": 8676,
     "20211023": 8665,
     "20211024": 8674,
     "20211025": 8684,
-    "20211026": 8709
+    "20211026": 8709,
+    "20211027": 8717
   },
   "TweetsCountHistory": {
     "20211021": 11564,
@@ -18,12 +19,22 @@
     "20211023": 11659,
     "20211024": 11680,
     "20211025": 11702,
-    "20211026": 11723
+    "20211026": 11723,
+    "20211027": 11726
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.3285234968403285234968402744,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211021.0,
+        "Y": 8675.17857142857142857143
+      },
+      "End": {
+        "X": 20211027.0,
+        "Y": 8703.67857142857142857143
+      }
+    }
   }
 }
