@@ -2,8 +2,8 @@
   "PublicName": "Faulty✨",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1331795902319640576/m7kH5aFw_normal.jpg",
   "Login": "FaultyFunctions",
-  "CurrentFollowersCount": 1749,
-  "CurrentTweetsCout": 5900,
+  "CurrentFollowersCount": 1748,
+  "CurrentTweetsCout": 5901,
   "FollowersCountHistory": {
     "20210127": 1733,
     "20210128": 1733,
@@ -250,7 +250,8 @@
     "20211024": 1749,
     "20211025": 1749,
     "20211026": 1749,
-    "20211027": 1749
+    "20211027": 1749,
+    "20211028": 1748
   },
   "TweetsCountHistory": {
     "20210127": 4793,
@@ -498,20 +499,21 @@
     "20211024": 5898,
     "20211025": 5899,
     "20211026": 5899,
-    "20211027": 5900
+    "20211027": 5900,
+    "20211028": 5901
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.036751944790411825959120405,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211021.0,
-        "Y": 1749.0
+        "X": 20211022.0,
+        "Y": 1749.1785714285714285714285
       },
       "End": {
-        "X": 20211027.0,
-        "Y": 1749.0
+        "X": 20211028.0,
+        "Y": 1748.5357142857142857142857
       }
     }
   }

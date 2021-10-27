@@ -2,15 +2,16 @@
   "PublicName": "ʜᴀɴs",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1437824511227858947/iKEGSYi7_normal.jpg",
   "Login": "pxlhns",
-  "CurrentFollowersCount": 7452,
-  "CurrentTweetsCout": 7947,
+  "CurrentFollowersCount": 7457,
+  "CurrentTweetsCout": 7952,
   "FollowersCountHistory": {
     "20211022": 7431,
     "20211023": 7431,
     "20211024": 7435,
     "20211025": 7435,
     "20211026": 7442,
-    "20211027": 7452
+    "20211027": 7452,
+    "20211028": 7457
   },
   "TweetsCountHistory": {
     "20211022": 7911,
@@ -18,12 +19,22 @@
     "20211024": 7923,
     "20211025": 7925,
     "20211026": 7935,
-    "20211027": 7947
+    "20211027": 7947,
+    "20211028": 7952
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.3664324768815730628850835757,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211022.0,
+        "Y": 7426.82142857142857142857
+      },
+      "End": {
+        "X": 20211028.0,
+        "Y": 7454.03571428571428571429
+      }
+    }
   }
 }
