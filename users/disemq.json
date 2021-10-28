@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1314762757955256327/VNHXbhnd_normal.png",
   "Login": "disemq",
   "CurrentFollowersCount": 401,
-  "CurrentTweetsCout": 2563,
+  "CurrentTweetsCout": 2565,
   "FollowersCountHistory": {
     "20201228": 297,
     "20201229": 300,
@@ -266,7 +266,8 @@
     "20211024": 401,
     "20211025": 401,
     "20211026": 401,
-    "20211027": 401
+    "20211027": 401,
+    "20211028": 401
   },
   "TweetsCountHistory": {
     "20201228": 1666,
@@ -530,20 +531,21 @@
     "20211024": 2554,
     "20211025": 2555,
     "20211026": 2555,
-    "20211027": 2563
+    "20211027": 2563,
+    "20211028": 2565
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1604993312527864467231493993,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211021.0,
-        "Y": 400.5357142857142857142856
+        "X": 20211022.0,
+        "Y": 401.0
       },
       "End": {
-        "X": 20211027.0,
-        "Y": 401.1785714285714285714285
+        "X": 20211028.0,
+        "Y": 401.0
       }
     }
   }

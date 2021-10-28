@@ -2,7 +2,7 @@
   "PublicName": "Apples and Oranges",
   "AvatarImage": "https://pbs.twimg.com/profile_images/658107535547854848/vb1BGU1W_normal.png",
   "Login": "orangemagik",
-  "CurrentFollowersCount": 5322,
+  "CurrentFollowersCount": 5321,
   "CurrentTweetsCout": 24740,
   "FollowersCountHistory": {
     "20201213": 4781,
@@ -281,7 +281,8 @@
     "20211024": 5323,
     "20211025": 5326,
     "20211026": 5325,
-    "20211027": 5322
+    "20211027": 5322,
+    "20211028": 5321
   },
   "TweetsCountHistory": {
     "20201213": 23908,
@@ -560,20 +561,21 @@
     "20211024": 24738,
     "20211025": 24740,
     "20211026": 24739,
-    "20211027": 24740
+    "20211027": 24740,
+    "20211028": 24740
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0402635923177065857815842384,
+    "WeeklyGrowth": -0.0040255758250753118143940099,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211021.0,
-        "Y": 5322.0714285714285714285714
+        "X": 20211022.0,
+        "Y": 5323.10714285714285714285714
       },
       "End": {
-        "X": 20211027.0,
-        "Y": 5324.2142857142857142857143
+        "X": 20211028.0,
+        "Y": 5322.89285714285714285714286
       }
     }
   }
