@@ -2,8 +2,8 @@
   "PublicName": "Paude",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1447397455964819458/PYB3VXYL_normal.jpg",
   "Login": "paude_",
-  "CurrentFollowersCount": 60,
-  "CurrentTweetsCout": 1712,
+  "CurrentFollowersCount": 59,
+  "CurrentTweetsCout": 1713,
   "FollowersCountHistory": {
     "20210126": 48,
     "20210127": 48,
@@ -239,7 +239,8 @@
     "20211025": 60,
     "20211026": 60,
     "20211027": 60,
-    "20211028": 60
+    "20211028": 60,
+    "20211029": 59
   },
   "TweetsCountHistory": {
     "20210126": 1584,
@@ -476,20 +477,21 @@
     "20211025": 1711,
     "20211026": 1712,
     "20211027": 1712,
-    "20211028": 1712
+    "20211028": 1712,
+    "20211029": 1713
   },
   "LangId": "catalan",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.0682492581602373887241063177,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211022.0,
-        "Y": 60.0
+        "X": 20211023.0,
+        "Y": 60.1785714285714285714286
       },
       "End": {
-        "X": 20211028.0,
-        "Y": 60.0
+        "X": 20211029.0,
+        "Y": 59.5357142857142857142857
       }
     }
   }

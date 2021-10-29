@@ -2,7 +2,7 @@
   "PublicName": "grayfaxsoftware",
   "AvatarImage": "https://pbs.twimg.com/profile_images/878163602225586176/p5c-Od6R_normal.jpg",
   "Login": "grayfaxsoftware",
-  "CurrentFollowersCount": 15238,
+  "CurrentFollowersCount": 15237,
   "CurrentTweetsCout": 987,
   "FollowersCountHistory": {
     "20211023": 14774,
@@ -10,7 +10,8 @@
     "20211025": 15217,
     "20211026": 15228,
     "20211027": 15230,
-    "20211028": 15238
+    "20211028": 15238,
+    "20211029": 15237
   },
   "TweetsCountHistory": {
     "20211023": 986,
@@ -18,12 +19,22 @@
     "20211025": 986,
     "20211026": 987,
     "20211027": 987,
-    "20211028": 987
+    "20211028": 987,
+    "20211029": 987
   },
   "LangId": "jp",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 2.1780140627679643285887688409,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211023.0,
+        "Y": 14994.0000000000000000000
+      },
+      "End": {
+        "X": 20211029.0,
+        "Y": 15320.5714285714285714286
+      }
+    }
   }
 }
