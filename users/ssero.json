@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1318215857529626627/Mdv93LPV_normal.png",
   "Login": "ssero",
   "CurrentFollowersCount": 1031,
-  "CurrentTweetsCout": 3035,
+  "CurrentTweetsCout": 3036,
   "FollowersCountHistory": {
     "20210214": 809,
     "20210215": 809,
@@ -220,7 +220,8 @@
     "20211026": 1031,
     "20211027": 1031,
     "20211028": 1031,
-    "20211029": 1031
+    "20211029": 1031,
+    "20211030": 1031
   },
   "TweetsCountHistory": {
     "20210214": 2843,
@@ -438,20 +439,21 @@
     "20211026": 3033,
     "20211027": 3034,
     "20211028": 3035,
-    "20211029": 3035
+    "20211029": 3035,
+    "20211030": 3036
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0623247117482081645372431633,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211023.0,
-        "Y": 1031.4642857142857142857144
+        "X": 20211024.0,
+        "Y": 1031.0
       },
       "End": {
-        "X": 20211029.0,
-        "Y": 1030.8214285714285714285715
+        "X": 20211030.0,
+        "Y": 1031.0
       }
     }
   }

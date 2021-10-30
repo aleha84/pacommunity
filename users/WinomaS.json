@@ -2,7 +2,7 @@
   "PublicName": "WinomaS",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1409090855575724035/XUNcsqyU_normal.png",
   "Login": "WinomaS",
-  "CurrentFollowersCount": 2011,
+  "CurrentFollowersCount": 2010,
   "CurrentTweetsCout": 549,
   "FollowersCountHistory": {
     "20210225": 542,
@@ -209,7 +209,8 @@
     "20211026": 2009,
     "20211027": 2010,
     "20211028": 2011,
-    "20211029": 2011
+    "20211029": 2011,
+    "20211030": 2010
   },
   "TweetsCountHistory": {
     "20210225": 113,
@@ -416,20 +417,21 @@
     "20211026": 542,
     "20211027": 546,
     "20211028": 547,
-    "20211029": 549
+    "20211029": 549,
+    "20211030": 549
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0853242320819112627986355257,
+    "WeeklyGrowth": 0.0426499857833380722206454361,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211023.0,
-        "Y": 2009.1428571428571428571428
+        "X": 20211024.0,
+        "Y": 2009.7142857142857142857143
       },
       "End": {
-        "X": 20211029.0,
-        "Y": 2010.8571428571428571428571
+        "X": 20211030.0,
+        "Y": 2010.5714285714285714285715
       }
     }
   }
