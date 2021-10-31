@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1370905627988537344/LP-3gQPI_normal.jpg",
   "Login": "meganglenna",
   "CurrentFollowersCount": 768,
-  "CurrentTweetsCout": 532,
+  "CurrentTweetsCout": 533,
   "FollowersCountHistory": {
     "20210426": 74,
     "20210427": 74,
@@ -171,7 +171,8 @@
     "20211028": 764,
     "20211029": 765,
     "20211030": 767,
-    "20211031": 768
+    "20211031": 768,
+    "20211101": 768
   },
   "TweetsCountHistory": {
     "20210426": 144,
@@ -340,20 +341,21 @@
     "20211028": 531,
     "20211029": 531,
     "20211030": 531,
-    "20211031": 532
+    "20211031": 532,
+    "20211101": 533
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 2.5956738768718801996672212978,
+    "WeeklyGrowth": 0.7214893726229760560996031307,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211025.0,
-        "Y": 751.25
+        "X": 20211026.0,
+        "Y": 763.0562223626026531990883
       },
       "End": {
-        "X": 20211031.0,
-        "Y": 770.75
+        "X": 20211101.0,
+        "Y": 768.5615919140871762044069
       }
     }
   }

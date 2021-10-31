@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1339660710117335040/W8DN29aQ_normal.jpg",
   "Login": "Antenna_Angel",
   "CurrentFollowersCount": 114,
-  "CurrentTweetsCout": 4361,
+  "CurrentTweetsCout": 4362,
   "FollowersCountHistory": {
     "20210112": 98,
     "20210113": 100,
@@ -270,7 +270,8 @@
     "20211028": 114,
     "20211029": 114,
     "20211030": 114,
-    "20211031": 114
+    "20211031": 114,
+    "20211101": 114
   },
   "TweetsCountHistory": {
     "20210112": 3204,
@@ -538,20 +539,21 @@
     "20211028": 4360,
     "20211029": 4361,
     "20211030": 4361,
-    "20211031": 4361
+    "20211031": 4361,
+    "20211101": 4362
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.5616224648985959438377908815,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211025.0,
-        "Y": 114.4642857142857142857143
+        "X": 20211026.0,
+        "Y": 114.0
       },
       "End": {
-        "X": 20211031.0,
-        "Y": 113.8214285714285714285714
+        "X": 20211101.0,
+        "Y": 114.0
       }
     }
   }

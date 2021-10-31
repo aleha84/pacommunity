@@ -2,7 +2,7 @@
   "PublicName": "vee",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1450914683452628994/EuMV2WFt_normal.png",
   "Login": "veebiejeebies",
-  "CurrentFollowersCount": 5267,
+  "CurrentFollowersCount": 5264,
   "CurrentTweetsCout": 23,
   "FollowersCountHistory": {
     "20210915": 4181,
@@ -51,7 +51,8 @@
     "20211028": 5266,
     "20211029": 5271,
     "20211030": 5270,
-    "20211031": 5267
+    "20211031": 5267,
+    "20211101": 5264
   },
   "TweetsCountHistory": {
     "20210915": 1070,
@@ -100,20 +101,21 @@
     "20211028": 23,
     "20211029": 23,
     "20211030": 23,
-    "20211031": 23
+    "20211031": 23,
+    "20211101": 23
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0366178654496877309807490388,
+    "WeeklyGrowth": -0.0642195750618900408482469176,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211025.0,
-        "Y": 5266.7500000000000000000000
+        "X": 20211026.0,
+        "Y": 5267.5799115603284902029698
       },
       "End": {
-        "X": 20211031.0,
-        "Y": 5268.6785714285714285714286
+        "X": 20211101.0,
+        "Y": 5264.1970941250789640189788
       }
     }
   }

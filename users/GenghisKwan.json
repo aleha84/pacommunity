@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/3377446728/b5fe12430411284fb6db5ceccbf3bf1d_normal.jpeg",
   "Login": "GenghisKwan",
   "CurrentFollowersCount": 357,
-  "CurrentTweetsCout": 522,
+  "CurrentTweetsCout": 525,
   "FollowersCountHistory": {
     "20211021": 357,
     "20211022": 357,
@@ -15,7 +15,8 @@
     "20211028": 357,
     "20211029": 357,
     "20211030": 357,
-    "20211031": 357
+    "20211031": 357,
+    "20211101": 357
   },
   "TweetsCountHistory": {
     "20211021": 501,
@@ -28,20 +29,21 @@
     "20211028": 515,
     "20211029": 517,
     "20211030": 520,
-    "20211031": 522
+    "20211031": 522,
+    "20211101": 525
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.359209738575134703651961756,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211025.0,
-        "Y": 357.9285714285714285714285
+        "X": 20211026.0,
+        "Y": 357.0
       },
       "End": {
-        "X": 20211031.0,
-        "Y": 356.6428571428571428571428
+        "X": 20211101.0,
+        "Y": 357.0
       }
     }
   }
