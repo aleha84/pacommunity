@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1442904534297169925/TMjdW-hm_normal.jpg",
   "Login": "atlentyps",
   "CurrentFollowersCount": 151,
-  "CurrentTweetsCout": 605,
+  "CurrentTweetsCout": 606,
   "FollowersCountHistory": {
     "20210101": 151,
     "20210102": 152,
@@ -266,7 +266,8 @@
     "20211028": 151,
     "20211029": 151,
     "20211030": 151,
-    "20211031": 151
+    "20211031": 151,
+    "20211101": 151
   },
   "TweetsCountHistory": {
     "20210101": 473,
@@ -530,20 +531,21 @@
     "20211028": 605,
     "20211029": 605,
     "20211030": 605,
-    "20211031": 605
+    "20211031": 605,
+    "20211101": 606
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.4270462633451957295373950583,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211025.0,
-        "Y": 150.5357142857142857142857
+        "X": 20211026.0,
+        "Y": 151.0
       },
       "End": {
-        "X": 20211031.0,
-        "Y": 151.1785714285714285714286
+        "X": 20211101.0,
+        "Y": 151.0
       }
     }
   }
