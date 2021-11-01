@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1348017223151980546/N3_oIkqO_normal.png",
   "Login": "ShinySeabass",
   "CurrentFollowersCount": 3242,
-  "CurrentTweetsCout": 9398,
+  "CurrentTweetsCout": 9399,
   "FollowersCountHistory": {
     "20210208": 2655,
     "20210209": 2662,
@@ -244,7 +244,8 @@
     "20211029": 3242,
     "20211030": 3242,
     "20211031": 3242,
-    "20211101": 3242
+    "20211101": 3242,
+    "20211102": 3242
   },
   "TweetsCountHistory": {
     "20210208": 8724,
@@ -486,20 +487,21 @@
     "20211029": 9398,
     "20211030": 9398,
     "20211031": 9398,
-    "20211101": 9398
+    "20211101": 9398,
+    "20211102": 9399
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0131540023829206093346311669,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211026.0,
-        "Y": 3241.64118761844598862986557
+        "X": 20211027.0,
+        "Y": 3242.0
       },
       "End": {
-        "X": 20211101.0,
-        "Y": 3242.06759317751105495564979
+        "X": 20211102.0,
+        "Y": 3242.0
       }
     }
   }

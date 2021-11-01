@@ -2,8 +2,8 @@
   "PublicName": "MonstraBot 🐇",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1451577987149619208/mvswlGEW_normal.jpg",
   "Login": "Viveliaaah",
-  "CurrentFollowersCount": 24920,
-  "CurrentTweetsCout": 3614,
+  "CurrentFollowersCount": 24910,
+  "CurrentTweetsCout": 3617,
   "FollowersCountHistory": {
     "20210110": 17715,
     "20210111": 17716,
@@ -272,7 +272,8 @@
     "20211029": 24923,
     "20211030": 24922,
     "20211031": 24921,
-    "20211101": 24920
+    "20211101": 24920,
+    "20211102": 24910
   },
   "TweetsCountHistory": {
     "20210110": 963,
@@ -542,20 +543,21 @@
     "20211029": 3566,
     "20211030": 3613,
     "20211031": 3614,
-    "20211101": 3614
+    "20211101": 3614,
+    "20211102": 3617
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0127775018614842740445622943,
+    "WeeklyGrowth": -0.0194978384204592738211345931,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211026.0,
-        "Y": 24917.4542008843967151030872
+        "X": 20211027.0,
+        "Y": 24919.9001063910631507010624
       },
       "End": {
-        "X": 20211101.0,
-        "Y": 24920.6380290587492103350787
+        "X": 20211102.0,
+        "Y": 24915.0412645337791625371770
       }
     }
   }

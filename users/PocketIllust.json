@@ -2,8 +2,8 @@
   "PublicName": "Pocket!",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1454989173149118468/K8nEqa9u_normal.jpg",
   "Login": "PocketIllust",
-  "CurrentFollowersCount": 79,
-  "CurrentTweetsCout": 1605,
+  "CurrentFollowersCount": 78,
+  "CurrentTweetsCout": 1606,
   "FollowersCountHistory": {
     "20210215": 43,
     "20210216": 43,
@@ -237,7 +237,8 @@
     "20211029": 79,
     "20211030": 79,
     "20211031": 79,
-    "20211101": 79
+    "20211101": 79,
+    "20211102": 78
   },
   "TweetsCountHistory": {
     "20210215": 711,
@@ -472,20 +473,21 @@
     "20211029": 1587,
     "20211030": 1587,
     "20211031": 1601,
-    "20211101": 1605
+    "20211101": 1605,
+    "20211102": 1606
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.6600083961723840970903177032,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211026.0,
-        "Y": 79.0
+        "X": 20211027.0,
+        "Y": 79.01508473288243787581774
       },
       "End": {
-        "X": 20211101.0,
-        "Y": 79.0
+        "X": 20211102.0,
+        "Y": 78.49357853940269017264593
       }
     }
   }
