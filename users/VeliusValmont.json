@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/895117038296977408/aY6szfn2_normal.jpg",
   "Login": "VeliusValmont",
   "CurrentFollowersCount": 412,
-  "CurrentTweetsCout": 532,
+  "CurrentTweetsCout": 534,
   "FollowersCountHistory": {
     "20201228": 329,
     "20201229": 330,
@@ -271,7 +271,8 @@
     "20211029": 412,
     "20211030": 412,
     "20211031": 412,
-    "20211101": 412
+    "20211101": 412,
+    "20211102": 412
   },
   "TweetsCountHistory": {
     "20201228": 344,
@@ -540,20 +541,21 @@
     "20211029": 531,
     "20211030": 531,
     "20211031": 532,
-    "20211101": 532
+    "20211101": 532,
+    "20211102": 534
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1035867089811978603759024156,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211026.0,
-        "Y": 411.64118761844598862987694
+        "X": 20211027.0,
+        "Y": 412.0
       },
       "End": {
-        "X": 20211101.0,
-        "Y": 412.06759317751105495559483
+        "X": 20211102.0,
+        "Y": 412.0
       }
     }
   }

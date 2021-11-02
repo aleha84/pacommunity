@@ -2,7 +2,7 @@
   "PublicName": "TerraStalker",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1439833522827579392/Ki_DjqPg_normal.jpg",
   "Login": "StalkerTerra",
-  "CurrentFollowersCount": 65,
+  "CurrentFollowersCount": 64,
   "CurrentTweetsCout": 975,
   "FollowersCountHistory": {
     "20201216": 46,
@@ -282,7 +282,8 @@
     "20211029": 65,
     "20211030": 65,
     "20211031": 65,
-    "20211101": 65
+    "20211101": 65,
+    "20211102": 64
   },
   "TweetsCountHistory": {
     "20201216": 580,
@@ -562,20 +563,21 @@
     "20211029": 972,
     "20211030": 974,
     "20211031": 975,
-    "20211101": 975
+    "20211101": 975,
+    "20211102": 975
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.8021310679242835056692221422,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211026.0,
-        "Y": 65.0
+        "X": 20211027.0,
+        "Y": 65.01508473288243787581774
       },
       "End": {
-        "X": 20211101.0,
-        "Y": 65.0
+        "X": 20211102.0,
+        "Y": 64.49357853940269017264593
       }
     }
   }
