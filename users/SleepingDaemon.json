@@ -2,7 +2,7 @@
   "PublicName": "Sleeping Daemon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1378822421927628806/9NAY8bMO_normal.jpg",
   "Login": "SleepingDaemon",
-  "CurrentFollowersCount": 540,
+  "CurrentFollowersCount": 541,
   "CurrentTweetsCout": 278,
   "FollowersCountHistory": {
     "20210111": 497,
@@ -275,7 +275,8 @@
     "20211101": 540,
     "20211102": 540,
     "20211103": 540,
-    "20211104": 540
+    "20211104": 540,
+    "20211105": 541
   },
   "TweetsCountHistory": {
     "20210111": 220,
@@ -548,20 +549,21 @@
     "20211101": 278,
     "20211102": 278,
     "20211103": 278,
-    "20211104": 278
+    "20211104": 278,
+    "20211105": 278
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.0419559811567156697707683218,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211029.0,
-        "Y": 540.0
+        "X": 20211030.0,
+        "Y": 539.984915267117562124179402
       },
       "End": {
-        "X": 20211104.0,
-        "Y": 540.0
+        "X": 20211105.0,
+        "Y": 540.211471236416141044413865
       }
     }
   }
