@@ -2,8 +2,8 @@
   "PublicName": "Atlen",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1442904534297169925/TMjdW-hm_normal.jpg",
   "Login": "atlentyps",
-  "CurrentFollowersCount": 151,
-  "CurrentTweetsCout": 610,
+  "CurrentFollowersCount": 152,
+  "CurrentTweetsCout": 611,
   "FollowersCountHistory": {
     "20210101": 151,
     "20210102": 152,
@@ -270,7 +270,8 @@
     "20211101": 151,
     "20211102": 151,
     "20211103": 151,
-    "20211104": 151
+    "20211104": 151,
+    "20211105": 152
   },
   "TweetsCountHistory": {
     "20210101": 473,
@@ -538,20 +539,21 @@
     "20211101": 606,
     "20211102": 609,
     "20211103": 609,
-    "20211104": 610
+    "20211104": 610,
+    "20211105": 611
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.1500520557949537719564693067,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211029.0,
-        "Y": 151.0
+        "X": 20211030.0,
+        "Y": 150.984915267117562124179402
       },
       "End": {
-        "X": 20211104.0,
-        "Y": 151.0
+        "X": 20211105.0,
+        "Y": 151.211471236416141044413865
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "The Une Team",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1435427586256035842/-y7jyecw_normal.jpg",
   "Login": "TheUneTeam1",
-  "CurrentFollowersCount": 196,
+  "CurrentFollowersCount": 195,
   "CurrentTweetsCout": 2274,
   "FollowersCountHistory": {
     "20201228": 116,
@@ -274,7 +274,8 @@
     "20211101": 196,
     "20211102": 196,
     "20211103": 196,
-    "20211104": 196
+    "20211104": 196,
+    "20211105": 195
   },
   "TweetsCountHistory": {
     "20201228": 1205,
@@ -546,20 +547,21 @@
     "20211101": 2273,
     "20211102": 2274,
     "20211103": 2274,
-    "20211104": 2274
+    "20211104": 2274,
+    "20211105": 2274
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1155808848116540428635424783,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211029.0,
-        "Y": 196.0
+        "X": 20211030.0,
+        "Y": 196.015084732882437875820598
       },
       "End": {
-        "X": 20211104.0,
-        "Y": 196.0
+        "X": 20211105.0,
+        "Y": 195.788528763583858955586135
       }
     }
   }

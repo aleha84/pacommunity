@@ -2,7 +2,7 @@
   "PublicName": "フルメロ🔞",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1397115772434927623/BhPBpT1C_normal.png",
   "Login": "ivuXRPJISWPM8GV",
-  "CurrentFollowersCount": 32038,
+  "CurrentFollowersCount": 32076,
   "CurrentTweetsCout": 221,
   "FollowersCountHistory": {
     "20211030": 31387,
@@ -10,7 +10,8 @@
     "20211101": 31801,
     "20211102": 31983,
     "20211103": 32013,
-    "20211104": 32038
+    "20211104": 32038,
+    "20211105": 32076
   },
   "TweetsCountHistory": {
     "20211030": 216,
@@ -18,12 +19,22 @@
     "20211101": 221,
     "20211102": 221,
     "20211103": 221,
-    "20211104": 221
+    "20211104": 221,
+    "20211105": 221
   },
   "LangId": "jp",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.344491137807389216052053704,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211030.0,
+        "Y": 31571.08347898776502661328
+      },
+      "End": {
+        "X": 20211105.0,
+        "Y": 31995.55389847252830811062
+      }
+    }
   }
 }
