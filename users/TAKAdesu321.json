@@ -2,7 +2,7 @@
   "PublicName": "TAKA🎐",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1454474081395376138/iS1g8wZm_normal.png",
   "Login": "TAKAdesu321",
-  "CurrentFollowersCount": 1284,
+  "CurrentFollowersCount": 1287,
   "CurrentTweetsCout": 204,
   "FollowersCountHistory": {
     "20211031": 1279,
@@ -10,7 +10,8 @@
     "20211102": 1284,
     "20211103": 1284,
     "20211104": 1283,
-    "20211105": 1284
+    "20211105": 1284,
+    "20211106": 1287
   },
   "TweetsCountHistory": {
     "20211031": 203,
@@ -18,12 +19,22 @@
     "20211102": 204,
     "20211103": 204,
     "20211104": 204,
-    "20211105": 204
+    "20211105": 204,
+    "20211106": 204
   },
   "LangId": "cn",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.4489802369667310046998600771,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211031.0,
+        "Y": 1278.9564118761844599314348
+      },
+      "End": {
+        "X": 20211106.0,
+        "Y": 1284.6986734049273531176342
+      }
+    }
   }
 }
