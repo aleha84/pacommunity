@@ -2,7 +2,7 @@
   "PublicName": "apoonto",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1455831877353414659/A5frIwWh_normal.jpg",
   "Login": "apoonto",
-  "CurrentFollowersCount": 1440,
+  "CurrentFollowersCount": 1441,
   "CurrentTweetsCout": 2621,
   "FollowersCountHistory": {
     "20210211": 1384,
@@ -231,7 +231,8 @@
     "20211103": 1439,
     "20211104": 1439,
     "20211105": 1439,
-    "20211106": 1440
+    "20211106": 1440,
+    "20211107": 1441
   },
   "TweetsCountHistory": {
     "20210211": 2407,
@@ -460,20 +461,21 @@
     "20211103": 2621,
     "20211104": 2621,
     "20211105": 2621,
-    "20211106": 2621
+    "20211106": 2621,
+    "20211107": 2621
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0999481409426600136130421068,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211031.0,
-        "Y": 1441.05053695514845229440110
+        "X": 20211101.0,
+        "Y": 1439.8571428571428571428571429
       },
       "End": {
-        "X": 20211106.0,
-        "Y": 1439.61023373341756159426184
+        "X": 20211107.0,
+        "Y": 1439.8571428571428571428571429
       }
     }
   }
