@@ -2,15 +2,16 @@
   "PublicName": "Rusron.锈铁🆖",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1456322844019728385/l7NC9axM_normal.jpg",
   "Login": "Rusron1",
-  "CurrentFollowersCount": 2835,
-  "CurrentTweetsCout": 6171,
+  "CurrentFollowersCount": 2844,
+  "CurrentTweetsCout": 6182,
   "FollowersCountHistory": {
     "20211101": 2773,
     "20211102": 2776,
     "20211103": 2789,
     "20211104": 2801,
     "20211105": 2829,
-    "20211106": 2835
+    "20211106": 2835,
+    "20211107": 2844
   },
   "TweetsCountHistory": {
     "20211101": 6125,
@@ -18,12 +19,22 @@
     "20211103": 6142,
     "20211104": 6151,
     "20211105": 6166,
-    "20211106": 6171
+    "20211106": 6171,
+    "20211107": 6182
   },
   "LangId": "cn",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 2.8731848983543078412391138404,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211101.0,
+        "Y": 2766.96428571428571428571
+      },
+      "End": {
+        "X": 20211107.0,
+        "Y": 2846.46428571428571428571
+      }
+    }
   }
 }

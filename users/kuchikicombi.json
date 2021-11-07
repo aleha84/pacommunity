@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1407631861170380802/zzR3AGMK_normal.png",
   "Login": "kuchikicombi",
   "CurrentFollowersCount": 651,
-  "CurrentTweetsCout": 1199,
+  "CurrentTweetsCout": 1200,
   "FollowersCountHistory": {
     "20210127": 524,
     "20210128": 528,
@@ -247,7 +247,8 @@
     "20211103": 651,
     "20211104": 651,
     "20211105": 651,
-    "20211106": 651
+    "20211106": 651,
+    "20211107": 651
   },
   "TweetsCountHistory": {
     "20210127": 794,
@@ -492,20 +493,21 @@
     "20211103": 1199,
     "20211104": 1199,
     "20211105": 1199,
-    "20211106": 1199
+    "20211106": 1199,
+    "20211107": 1200
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.3156173257224008943752613476,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211031.0,
-        "Y": 652.99336702463676561863044
+        "X": 20211101.0,
+        "Y": 651.0
       },
       "End": {
-        "X": 20211106.0,
-        "Y": 650.93240682248894504442129
+        "X": 20211107.0,
+        "Y": 651.0
       }
     }
   }

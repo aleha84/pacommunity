@@ -2,15 +2,16 @@
   "PublicName": "Gustav Örn Samuelson",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1315060724675358720/3XVkprQN_normal.jpg",
   "Login": "MechaBarbarian",
-  "CurrentFollowersCount": 6260,
-  "CurrentTweetsCout": 5761,
+  "CurrentFollowersCount": 6310,
+  "CurrentTweetsCout": 5764,
   "FollowersCountHistory": {
     "20211101": 5749,
     "20211102": 5752,
     "20211103": 5767,
     "20211104": 5773,
     "20211105": 5846,
-    "20211106": 6260
+    "20211106": 6260,
+    "20211107": 6310
   },
   "TweetsCountHistory": {
     "20211101": 5692,
@@ -18,12 +19,22 @@
     "20211103": 5701,
     "20211104": 5702,
     "20211105": 5717,
-    "20211106": 5761
+    "20211106": 5761,
+    "20211107": 5764
   },
   "LangId": "se",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 10.583260314678654424930888795,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20211101.0,
+        "Y": 5624.7857142857142857142
+      },
+      "End": {
+        "X": 20211107.0,
+        "Y": 6220.0714285714285714285
+      }
+    }
   }
 }
