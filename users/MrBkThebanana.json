@@ -2,7 +2,7 @@
   "PublicName": "Mr.Bk",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1386708273655689220/k_rEmOY__normal.jpg",
   "Login": "MrBkThebanana",
-  "CurrentFollowersCount": 4001,
+  "CurrentFollowersCount": 4000,
   "CurrentTweetsCout": 72,
   "FollowersCountHistory": {
     "20210310": 1038,
@@ -222,7 +222,8 @@
     "20211106": 4002,
     "20211107": 4001,
     "20211108": 4001,
-    "20211109": 4001
+    "20211109": 4001,
+    "20211110": 4000
   },
   "TweetsCountHistory": {
     "20210310": 28,
@@ -442,20 +443,21 @@
     "20211106": 72,
     "20211107": 72,
     "20211108": 72,
-    "20211109": 72
+    "20211109": 72,
+    "20211110": 72
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0160687026308037029432492701,
+    "WeeklyGrowth": -0.0214209210996072831131727953,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211103.0,
-        "Y": 4000.6785714285714285714286
+        "X": 20211104.0,
+        "Y": 4001.4285714285714285714286
       },
       "End": {
-        "X": 20211109.0,
-        "Y": 4001.3214285714285714285714
+        "X": 20211110.0,
+        "Y": 4000.5714285714285714285715
       }
     }
   }

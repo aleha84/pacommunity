@@ -2,8 +2,8 @@
   "PublicName": "Scium",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1404523740176826372/abdKTTuo_normal.jpg",
   "Login": "noscium",
-  "CurrentFollowersCount": 32774,
-  "CurrentTweetsCout": 8051,
+  "CurrentFollowersCount": 32360,
+  "CurrentTweetsCout": 8037,
   "FollowersCountHistory": {
     "20201229": 21635,
     "20201230": 21633,
@@ -196,7 +196,8 @@
     "20210815": 32759,
     "20210816": 32770,
     "20210817": 32772,
-    "20210818": 32774
+    "20210818": 32774,
+    "20211109": 32360
   },
   "TweetsCountHistory": {
     "20201229": 7436,
@@ -390,20 +391,21 @@
     "20210815": 8051,
     "20210816": 8050,
     "20210817": 8051,
-    "20210818": 8051
+    "20210818": 8051,
+    "20211109": 8037
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.564349997531545,
+    "WeeklyGrowth": -1.1606233329288877183631026545,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20210730.0,
-        "Y": 32586.7559309063
+        "X": 20210731.0,
+        "Y": 32799.670652481243547884215
       },
       "End": {
-        "X": 20210818.0,
-        "Y": 32770.659287198
+        "X": 20211109.0,
+        "Y": 32418.990021764717485989281
       }
     }
   }
