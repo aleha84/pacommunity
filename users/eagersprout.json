@@ -2,8 +2,8 @@
   "PublicName": "Maru",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1422903282721230854/DlrnsncH_normal.png",
   "Login": "eagersprout",
-  "CurrentFollowersCount": 880,
-  "CurrentTweetsCout": 457,
+  "CurrentFollowersCount": 879,
+  "CurrentTweetsCout": 458,
   "FollowersCountHistory": {
     "20210126": 48,
     "20210127": 50,
@@ -249,7 +249,8 @@
     "20211105": 879,
     "20211106": 878,
     "20211107": 880,
-    "20211108": 880
+    "20211108": 880,
+    "20211109": 879
   },
   "TweetsCountHistory": {
     "20210126": 88,
@@ -496,20 +497,21 @@
     "20211105": 457,
     "20211106": 457,
     "20211107": 457,
-    "20211108": 457
+    "20211108": 457,
+    "20211109": 458
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0243694407213354453515296698,
+    "WeeklyGrowth": -0.0487210718635809987819764491,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211102.0,
-        "Y": 879.32142857142857142857143
+        "X": 20211103.0,
+        "Y": 879.6428571428571428571429
       },
       "End": {
-        "X": 20211108.0,
-        "Y": 879.53571428571428571428572
+        "X": 20211109.0,
+        "Y": 879.2142857142857142857143
       }
     }
   }

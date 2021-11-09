@@ -2,8 +2,8 @@
   "PublicName": "Tom Hirsch",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1430794054128881667/MIEwx_gB_normal.jpg",
   "Login": "Tom_HirschEOD",
-  "CurrentFollowersCount": 608,
-  "CurrentTweetsCout": 430,
+  "CurrentFollowersCount": 607,
+  "CurrentTweetsCout": 431,
   "FollowersCountHistory": {
     "20201217": 620,
     "20201218": 620,
@@ -289,7 +289,8 @@
     "20211105": 608,
     "20211106": 608,
     "20211107": 608,
-    "20211108": 608
+    "20211108": 608,
+    "20211109": 607
   },
   "TweetsCountHistory": {
     "20201217": 409,
@@ -576,20 +577,21 @@
     "20211105": 430,
     "20211106": 430,
     "20211107": 430,
-    "20211108": 430
+    "20211108": 430,
+    "20211109": 431
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1057020377003934464736531923,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211102.0,
-        "Y": 608.0
+        "X": 20211103.0,
+        "Y": 608.1785714285714285714285
       },
       "End": {
-        "X": 20211108.0,
-        "Y": 608.0
+        "X": 20211109.0,
+        "Y": 607.5357142857142857142857
       }
     }
   }
