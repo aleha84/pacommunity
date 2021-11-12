@@ -2,7 +2,7 @@
   "PublicName": "DownScarf",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1249781122340474884/VBO7ijc8_normal.jpg",
   "Login": "DownScarf1",
-  "CurrentFollowersCount": 609,
+  "CurrentFollowersCount": 608,
   "CurrentTweetsCout": 63,
   "FollowersCountHistory": {
     "20210310": 63,
@@ -209,7 +209,8 @@
     "20211108": 608,
     "20211109": 608,
     "20211110": 609,
-    "20211111": 609
+    "20211111": 609,
+    "20211112": 608
   },
   "TweetsCountHistory": {
     "20210310": 21,
@@ -416,20 +417,21 @@
     "20211108": 63,
     "20211109": 63,
     "20211110": 63,
-    "20211111": 63
+    "20211111": 63,
+    "20211112": 63
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2109457400679714051330106645,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211105.0,
-        "Y": 609.5000000000000000000000
+        "X": 20211106.0,
+        "Y": 608.42857142857142857142857143
       },
       "End": {
-        "X": 20211111.0,
-        "Y": 608.2142857142857142857143
+        "X": 20211112.0,
+        "Y": 608.42857142857142857142857143
       }
     }
   }
