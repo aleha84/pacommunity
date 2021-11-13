@@ -2,7 +2,7 @@
   "PublicName": "Tanya Veksell",
   "AvatarImage": "https://pbs.twimg.com/profile_images/871692788953481217/oQ9HVcv5_normal.jpg",
   "Login": "Veksell",
-  "CurrentFollowersCount": 1846,
+  "CurrentFollowersCount": 1845,
   "CurrentTweetsCout": 1853,
   "FollowersCountHistory": {
     "20201215": 1765,
@@ -294,7 +294,8 @@
     "20211109": 1846,
     "20211110": 1847,
     "20211111": 1847,
-    "20211112": 1846
+    "20211112": 1846,
+    "20211113": 1845
   },
   "TweetsCountHistory": {
     "20201215": 1784,
@@ -586,20 +587,21 @@
     "20211109": 1853,
     "20211110": 1853,
     "20211111": 1853,
-    "20211112": 1853
+    "20211112": 1853,
+    "20211113": 1853
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0580484123759215185464662061,
+    "WeeklyGrowth": -0.0464144813181712694360617334,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211106.0,
-        "Y": 1845.7500000000000000000000
+        "X": 20211107.0,
+        "Y": 1846.7142857142857142857142
       },
       "End": {
-        "X": 20211112.0,
-        "Y": 1846.8214285714285714285714
+        "X": 20211113.0,
+        "Y": 1845.8571428571428571428571
       }
     }
   }
