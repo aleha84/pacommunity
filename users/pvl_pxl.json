@@ -2,7 +2,7 @@
   "PublicName": "Pavel Shibaev",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1426283475888492544/CC5yP9pT_normal.jpg",
   "Login": "pvl_pxl",
-  "CurrentFollowersCount": 7119,
+  "CurrentFollowersCount": 7115,
   "CurrentTweetsCout": 85,
   "FollowersCountHistory": {
     "20201214": 2724,
@@ -300,7 +300,8 @@
     "20211113": 7125,
     "20211114": 7124,
     "20211115": 7124,
-    "20211116": 7119
+    "20211116": 7119,
+    "20211117": 7115
   },
   "TweetsCountHistory": {
     "20201214": 45,
@@ -598,20 +599,21 @@
     "20211113": 85,
     "20211114": 85,
     "20211115": 85,
-    "20211116": 85
+    "20211116": 85,
+    "20211117": 85
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0120351426164400048140578489,
+    "WeeklyGrowth": -0.0842139033144186233031901062,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211110.0,
-        "Y": 7122.0000000000000000000000
+        "X": 20211111.0,
+        "Y": 7124.714285714285714285714
       },
       "End": {
-        "X": 20211116.0,
-        "Y": 7122.8571428571428571428572
+        "X": 20211117.0,
+        "Y": 7118.714285714285714285714
       }
     }
   }
