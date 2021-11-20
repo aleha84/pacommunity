@@ -2,8 +2,8 @@
   "PublicName": "pocketsgame",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1313861881245835264/8LrL0dtc_normal.jpg",
   "Login": "pocketsgame",
-  "CurrentFollowersCount": 417,
-  "CurrentTweetsCout": 36,
+  "CurrentFollowersCount": 416,
+  "CurrentTweetsCout": 37,
   "FollowersCountHistory": {
     "20201225": 223,
     "20201226": 240,
@@ -291,7 +291,8 @@
     "20211115": 417,
     "20211116": 417,
     "20211117": 417,
-    "20211118": 417
+    "20211118": 417,
+    "20211120": 416
   },
   "TweetsCountHistory": {
     "20201225": 16,
@@ -580,20 +581,21 @@
     "20211115": 35,
     "20211116": 35,
     "20211117": 36,
-    "20211118": 36
+    "20211118": 36,
+    "20211120": 37
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1543342193260739089428209289,
+    "WeeklyGrowth": -0.1856618008212339808479965247,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211112.0,
-        "Y": 416.5357142857142857142856
+        "X": 20211113.0,
+        "Y": 417.2049180327868848183220
       },
       "End": {
-        "X": 20211118.0,
-        "Y": 417.1785714285714285714285
+        "X": 20211120.0,
+        "Y": 416.4303278688524595411501
       }
     }
   }
