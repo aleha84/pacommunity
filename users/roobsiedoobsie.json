@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1459619809033863175/80OFa3RX_normal.jpg",
   "Login": "roobsiedoobsie",
   "CurrentFollowersCount": 295,
-  "CurrentTweetsCout": 1280,
+  "CurrentTweetsCout": 1281,
   "FollowersCountHistory": {
     "20210213": 121,
     "20210214": 121,
@@ -259,7 +259,8 @@
     "20211118": 295,
     "20211119": 295,
     "20211120": 295,
-    "20211121": 295
+    "20211121": 295,
+    "20211122": 295
   },
   "TweetsCountHistory": {
     "20210213": 577,
@@ -516,20 +517,21 @@
     "20211118": 1279,
     "20211119": 1279,
     "20211120": 1280,
-    "20211121": 1280
+    "20211121": 1280,
+    "20211122": 1281
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2175752447721503686691454023,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211115.0,
-        "Y": 295.4642857142857142857143
+        "X": 20211116.0,
+        "Y": 295.0
       },
       "End": {
-        "X": 20211121.0,
-        "Y": 294.8214285714285714285715
+        "X": 20211122.0,
+        "Y": 295.0
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "Mili",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1410482820687056897/WAlsE6mx_normal.png",
   "Login": "MiniMilieu",
-  "CurrentFollowersCount": 7817,
-  "CurrentTweetsCout": 1618,
+  "CurrentFollowersCount": 7813,
+  "CurrentTweetsCout": 1620,
   "FollowersCountHistory": {
     "20210613": 6610,
     "20210614": 6605,
@@ -146,7 +146,8 @@
     "20211118": 7822,
     "20211119": 7822,
     "20211120": 7820,
-    "20211121": 7817
+    "20211121": 7817,
+    "20211122": 7813
   },
   "TweetsCountHistory": {
     "20210613": 1250,
@@ -290,20 +291,21 @@
     "20211118": 1614,
     "20211119": 1614,
     "20211120": 1618,
-    "20211121": 1618
+    "20211121": 1618,
+    "20211122": 1620
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0027404142592888624997144671,
+    "WeeklyGrowth": -0.0684922124354460897795902402,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211115.0,
-        "Y": 7819.46428571428571428571429
+        "X": 20211116.0,
+        "Y": 7821.535714285714285714285
       },
       "End": {
-        "X": 20211121.0,
-        "Y": 7819.67857142857142857142857
+        "X": 20211122.0,
+        "Y": 7816.178571428571428571428
       }
     }
   }

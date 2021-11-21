@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1232791828526551040/n9EeQxon_normal.jpg",
   "Login": "Cobby_Channel",
   "CurrentFollowersCount": 732,
-  "CurrentTweetsCout": 4713,
+  "CurrentTweetsCout": 4720,
   "FollowersCountHistory": {
     "20201225": 771,
     "20201226": 771,
@@ -292,7 +292,8 @@
     "20211116": 732,
     "20211117": 732,
     "20211118": 732,
-    "20211120": 732
+    "20211120": 732,
+    "20211121": 732
   },
   "TweetsCountHistory": {
     "20201225": 3805,
@@ -582,20 +583,21 @@
     "20211116": 4711,
     "20211117": 4711,
     "20211118": 4711,
-    "20211120": 4713
+    "20211120": 4713,
+    "20211121": 4720
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0861721652714981707266042909,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211113.0,
-        "Y": 732.4262295081967209633244
+        "X": 20211114.0,
+        "Y": 732.0
       },
       "End": {
-        "X": 20211120.0,
-        "Y": 731.7950819672131151813747
+        "X": 20211121.0,
+        "Y": 732.0
       }
     }
   }
