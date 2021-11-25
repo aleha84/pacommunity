@@ -2,7 +2,7 @@
   "PublicName": "Mao",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1346209451406221313/592F_chx_normal.jpg",
   "Login": "maogamedev",
-  "CurrentFollowersCount": 239,
+  "CurrentFollowersCount": 240,
   "CurrentTweetsCout": 167,
   "FollowersCountHistory": {
     "20210110": 31,
@@ -280,7 +280,8 @@
     "20211121": 240,
     "20211122": 240,
     "20211123": 240,
-    "20211124": 239
+    "20211124": 239,
+    "20211125": 240
   },
   "TweetsCountHistory": {
     "20210110": 9,
@@ -558,20 +559,21 @@
     "20211121": 167,
     "20211122": 167,
     "20211123": 167,
-    "20211124": 167
+    "20211124": 167,
+    "20211125": 167
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0317460317460317690082441223,
+    "WeeklyGrowth": -0.179232883259648483386207839,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211117.0,
-        "Y": 239.67391304347826084035003
+        "X": 20211118.0,
+        "Y": 240.0942622950819669215586
       },
       "End": {
-        "X": 20211124.0,
-        "Y": 239.75000000000000002584421
+        "X": 20211125.0,
+        "Y": 239.6639344262295084342855
       }
     }
   }
