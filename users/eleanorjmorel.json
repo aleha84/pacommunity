@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1179200358511497217/y4ZQZ1WD_normal.png",
   "Login": "eleanorjmorel",
   "CurrentFollowersCount": 387,
-  "CurrentTweetsCout": 1900,
+  "CurrentTweetsCout": 1903,
   "FollowersCountHistory": {
     "20210301": 321,
     "20210302": 321,
@@ -250,7 +250,8 @@
     "20211125": 387,
     "20211126": 387,
     "20211127": 387,
-    "20211128": 387
+    "20211128": 387,
+    "20211129": 387
   },
   "TweetsCountHistory": {
     "20210301": 1311,
@@ -498,20 +499,21 @@
     "20211125": 1887,
     "20211126": 1894,
     "20211127": 1894,
-    "20211128": 1900
+    "20211128": 1900,
+    "20211129": 1903
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1663124826757830546059170347,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211122.0,
-        "Y": 386.5357142857142857142857
+        "X": 20211123.0,
+        "Y": 387.0
       },
       "End": {
-        "X": 20211128.0,
-        "Y": 387.1785714285714285714285
+        "X": 20211129.0,
+        "Y": 387.0
       }
     }
   }
