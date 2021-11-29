@@ -2,7 +2,7 @@
   "PublicName": "Cupcakes 🧁",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1462635025522954244/ICMkI17-_normal.jpg",
   "Login": "Cupcakes_3000",
-  "CurrentFollowersCount": 252,
+  "CurrentFollowersCount": 251,
   "CurrentTweetsCout": 6009,
   "FollowersCountHistory": {
     "20210914": 249,
@@ -67,7 +67,8 @@
     "20211125": 252,
     "20211126": 252,
     "20211127": 252,
-    "20211128": 252
+    "20211128": 252,
+    "20211129": 251
   },
   "TweetsCountHistory": {
     "20210914": 5998,
@@ -132,20 +133,21 @@
     "20211125": 6005,
     "20211126": 6006,
     "20211127": 6005,
-    "20211128": 6009
+    "20211128": 6009,
+    "20211129": 6009
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2549213992352358022943096601,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211122.0,
-        "Y": 252.0
+        "X": 20211123.0,
+        "Y": 252.1785714285714285714285
       },
       "End": {
-        "X": 20211128.0,
-        "Y": 252.0
+        "X": 20211129.0,
+        "Y": 251.5357142857142857142856
       }
     }
   }
