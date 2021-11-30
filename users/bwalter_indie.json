@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1347185987584188417/WLeAUVWJ_normal.jpg",
   "Login": "bwalter_indie",
   "CurrentFollowersCount": 3610,
-  "CurrentTweetsCout": 8075,
+  "CurrentTweetsCout": 8077,
   "FollowersCountHistory": {
     "20210115": 3380,
     "20210116": 3381,
@@ -280,7 +280,8 @@
     "20211126": 3608,
     "20211127": 3610,
     "20211128": 3611,
-    "20211129": 3610
+    "20211129": 3610,
+    "20211130": 3610
   },
   "TweetsCountHistory": {
     "20210115": 7069,
@@ -558,20 +559,21 @@
     "20211126": 8071,
     "20211127": 8071,
     "20211128": 8075,
-    "20211129": 8075
+    "20211129": 8075,
+    "20211130": 8077
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0356245175846577077602070173,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211123.0,
-        "Y": 3609.0714285714285714285715
+        "X": 20211124.0,
+        "Y": 3610.0
       },
       "End": {
-        "X": 20211129.0,
-        "Y": 3610.3571428571428571428572
+        "X": 20211130.0,
+        "Y": 3610.0
       }
     }
   }
