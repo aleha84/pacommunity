@@ -2,7 +2,7 @@
   "PublicName": "juno",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1448960248220471297/HLRjxvJs_normal.png",
   "Login": "junopixels",
-  "CurrentFollowersCount": 4755,
+  "CurrentFollowersCount": 4756,
   "CurrentTweetsCout": 855,
   "FollowersCountHistory": {
     "20210125": 1234,
@@ -287,7 +287,8 @@
     "20211127": 4759,
     "20211128": 4761,
     "20211129": 4757,
-    "20211130": 4755
+    "20211130": 4755,
+    "20211201": 4756
   },
   "TweetsCountHistory": {
     "20210125": 255,
@@ -572,20 +573,21 @@
     "20211127": 855,
     "20211128": 855,
     "20211129": 855,
-    "20211130": 855
+    "20211130": 855,
+    "20211201": 855
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0945158314017597947656232447,
+    "WeeklyGrowth": -0.06837324613288126097915231,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211124.0,
-        "Y": 4761.107142857142857142857
+        "X": 20211125.0,
+        "Y": 4758.9851549053356282271945
       },
       "End": {
-        "X": 20211130.0,
-        "Y": 4756.607142857142857142857
+        "X": 20211201.0,
+        "Y": 4755.7312822719449225473322
       }
     }
   }
