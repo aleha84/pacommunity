@@ -2,7 +2,7 @@
   "PublicName": "lazybensch",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1151155682667835392/2nH1blw4_normal.png",
   "Login": "lazybensch",
-  "CurrentFollowersCount": 3971,
+  "CurrentFollowersCount": 3970,
   "CurrentTweetsCout": 1939,
   "FollowersCountHistory": {
     "20210101": 3782,
@@ -295,7 +295,8 @@
     "20211127": 3971,
     "20211128": 3973,
     "20211129": 3973,
-    "20211130": 3971
+    "20211130": 3971,
+    "20211201": 3970
   },
   "TweetsCountHistory": {
     "20210101": 1927,
@@ -588,20 +589,21 @@
     "20211127": 1939,
     "20211128": 1939,
     "20211129": 1939,
-    "20211130": 1939
+    "20211130": 1939,
+    "20211201": 1939
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0107907846698919123068906356,
+    "WeeklyGrowth": -0.0522798527736081423541608937,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211124.0,
-        "Y": 3971.6428571428571428571428
+        "X": 20211125.0,
+        "Y": 3972.06949225473321858864028
       },
       "End": {
-        "X": 20211130.0,
-        "Y": 3972.0714285714285714285714
+        "X": 20211201.0,
+        "Y": 3969.99290017211703958691911
       }
     }
   }

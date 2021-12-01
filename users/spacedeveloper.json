@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/2405497393/g1ofqux8oy2xmav4kvxr_normal.png",
   "Login": "spacedeveloper",
   "CurrentFollowersCount": 361,
-  "CurrentTweetsCout": 224,
+  "CurrentTweetsCout": 225,
   "FollowersCountHistory": {
     "20210112": 364,
     "20210113": 364,
@@ -284,7 +284,8 @@
     "20211127": 360,
     "20211128": 360,
     "20211129": 361,
-    "20211130": 361
+    "20211130": 361,
+    "20211201": 361
   },
   "TweetsCountHistory": {
     "20210112": 204,
@@ -566,20 +567,21 @@
     "20211127": 224,
     "20211128": 224,
     "20211129": 224,
-    "20211130": 224
+    "20211130": 224,
+    "20211201": 225
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2978258711406730864687699792,
+    "WeeklyGrowth": 0.2087570476403168616697957478,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211124.0,
-        "Y": 359.7500000000000000000000
+        "X": 20211125.0,
+        "Y": 360.29991394148020654044750
       },
       "End": {
-        "X": 20211130.0,
-        "Y": 360.8214285714285714285714
+        "X": 20211201.0,
+        "Y": 361.05206540447504302925990
       }
     }
   }
