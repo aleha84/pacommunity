@@ -2,7 +2,7 @@
   "PublicName": "Morad",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1408084005061234697/ovSK9kmG_normal.jpg",
   "Login": "LargeMorad",
-  "CurrentFollowersCount": 249,
+  "CurrentFollowersCount": 248,
   "CurrentTweetsCout": 230,
   "FollowersCountHistory": {
     "20211101": 248,
@@ -34,7 +34,8 @@
     "20211128": 249,
     "20211129": 249,
     "20211130": 249,
-    "20211201": 249
+    "20211201": 249,
+    "20211202": 248
   },
   "TweetsCountHistory": {
     "20211101": 229,
@@ -66,20 +67,21 @@
     "20211128": 230,
     "20211129": 230,
     "20211130": 230,
-    "20211201": 230
+    "20211201": 230,
+    "20211202": 230
   },
   "LangId": "cn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2093134073343875218446174338,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211125.0,
-        "Y": 249.0
+        "X": 20211126.0,
+        "Y": 249.01488095238095238095238
       },
       "End": {
-        "X": 20211201.0,
-        "Y": 249.0
+        "X": 20211202.0,
+        "Y": 248.49365942028985507246377
       }
     }
   }
