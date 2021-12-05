@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1440463388853690377/lZITaytM_normal.jpg",
   "Login": "wannabethecat",
   "CurrentFollowersCount": 243,
-  "CurrentTweetsCout": 86,
+  "CurrentTweetsCout": 87,
   "FollowersCountHistory": {
     "20210311": 58,
     "20210312": 58,
@@ -180,7 +180,8 @@
     "20211201": 243,
     "20211202": 243,
     "20211203": 243,
-    "20211204": 243
+    "20211204": 243,
+    "20211205": 243
   },
   "TweetsCountHistory": {
     "20210311": 141,
@@ -358,20 +359,21 @@
     "20211201": 85,
     "20211202": 85,
     "20211203": 85,
-    "20211204": 86
+    "20211204": 86,
+    "20211205": 87
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1449033098523165685051660519,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211128.0,
-        "Y": 243.34236081139404402244281
+        "X": 20211129.0,
+        "Y": 243.0
       },
       "End": {
-        "X": 20211204.0,
-        "Y": 242.98974967630556754423824
+        "X": 20211205.0,
+        "Y": 243.0
       }
     }
   }

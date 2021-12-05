@@ -2,8 +2,8 @@
   "PublicName": "Spazzeh",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1428570103709421571/Z24C0wPZ_normal.jpg",
   "Login": "SpazzehMan",
-  "CurrentFollowersCount": 364,
-  "CurrentTweetsCout": 3217,
+  "CurrentFollowersCount": 363,
+  "CurrentTweetsCout": 3219,
   "FollowersCountHistory": {
     "20210213": 200,
     "20210214": 199,
@@ -256,7 +256,8 @@
     "20211201": 364,
     "20211202": 364,
     "20211203": 364,
-    "20211204": 364
+    "20211204": 364,
+    "20211205": 363
   },
   "TweetsCountHistory": {
     "20210213": 1173,
@@ -510,20 +511,21 @@
     "20211201": 3215,
     "20211202": 3215,
     "20211203": 3216,
-    "20211204": 3217
+    "20211204": 3217,
+    "20211205": 3219
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0621377004145238698705738547,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211128.0,
-        "Y": 364.0
+        "X": 20211129.0,
+        "Y": 364.014880952380952380952381
       },
       "End": {
-        "X": 20211204.0,
-        "Y": 364.0
+        "X": 20211205.0,
+        "Y": 363.788690476190476190476190
       }
     }
   }
