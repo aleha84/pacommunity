@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1242813752367611905/s7WOz9xV_normal.jpg",
   "Login": "ChippixOfficial",
   "CurrentFollowersCount": 178,
-  "CurrentTweetsCout": 2309,
+  "CurrentTweetsCout": 2312,
   "FollowersCountHistory": {
     "20210503": 153,
     "20210504": 153,
@@ -182,7 +182,8 @@
     "20211202": 178,
     "20211203": 178,
     "20211204": 178,
-    "20211205": 178
+    "20211205": 178,
+    "20211206": 178
   },
   "TweetsCountHistory": {
     "20210503": 2050,
@@ -362,20 +363,21 @@
     "20211202": 2302,
     "20211203": 2305,
     "20211204": 2307,
-    "20211205": 2309
+    "20211205": 2309,
+    "20211206": 2312
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2936564234426476902989168353,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211129.0,
-        "Y": 177.49365942028985507246376
+        "X": 20211130.0,
+        "Y": 178.0
       },
       "End": {
-        "X": 20211205.0,
-        "Y": 178.01488095238095238095238
+        "X": 20211206.0,
+        "Y": 178.0
       }
     }
   }
