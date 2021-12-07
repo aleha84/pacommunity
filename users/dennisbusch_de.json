@@ -2,7 +2,7 @@
   "PublicName": "0xDB",
   "AvatarImage": "https://pbs.twimg.com/profile_images/520255209298067456/b3_pvPJH_normal.png",
   "Login": "dennisbusch_de",
-  "CurrentFollowersCount": 311,
+  "CurrentFollowersCount": 310,
   "CurrentTweetsCout": 954,
   "FollowersCountHistory": {
     "20201217": 276,
@@ -316,7 +316,8 @@
     "20211203": 311,
     "20211204": 311,
     "20211205": 311,
-    "20211206": 311
+    "20211206": 311,
+    "20211207": 310
   },
   "TweetsCountHistory": {
     "20201217": 941,
@@ -630,20 +631,21 @@
     "20211203": 954,
     "20211204": 954,
     "20211205": 954,
-    "20211206": 954
+    "20211206": 954,
+    "20211207": 954
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2065878572248364512796786885,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211130.0,
-        "Y": 311.0
+        "X": 20211201.0,
+        "Y": 311.1785714285714285714285
       },
       "End": {
-        "X": 20211206.0,
-        "Y": 311.0
+        "X": 20211207.0,
+        "Y": 310.5357142857142857142857
       }
     }
   }
