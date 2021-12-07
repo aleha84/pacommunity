@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/701513661265739776/eo3KHaye_normal.png",
   "Login": "_NATSU_KAZE_",
   "CurrentFollowersCount": 2780,
-  "CurrentTweetsCout": 11706,
+  "CurrentTweetsCout": 11707,
   "FollowersCountHistory": {
     "20210914": 2719,
     "20210915": 2722,
@@ -89,7 +89,8 @@
     "20211204": 2781,
     "20211205": 2781,
     "20211206": 2779,
-    "20211207": 2780
+    "20211207": 2780,
+    "20211208": 2780
   },
   "TweetsCountHistory": {
     "20210914": 10889,
@@ -176,20 +177,21 @@
     "20211204": 11668,
     "20211205": 11674,
     "20211206": 11686,
-    "20211207": 11706
+    "20211207": 11706,
+    "20211208": 11707
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.046233272545141653610051113,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211201.0,
-        "Y": 2780.9285714285714285714286
+        "X": 20211202.0,
+        "Y": 2780.0
       },
       "End": {
-        "X": 20211207.0,
-        "Y": 2779.6428571428571428571428
+        "X": 20211208.0,
+        "Y": 2780.0
       }
     }
   }
