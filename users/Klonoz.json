@@ -2,7 +2,7 @@
   "PublicName": "Klonoz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1457931702378975237/yL161_dJ_normal.jpg",
   "Login": "Klonoz",
-  "CurrentFollowersCount": 2048,
+  "CurrentFollowersCount": 2049,
   "CurrentTweetsCout": 4100,
   "FollowersCountHistory": {
     "20201228": 2017,
@@ -307,7 +307,8 @@
     "20211205": 2048,
     "20211206": 2048,
     "20211207": 2048,
-    "20211208": 2048
+    "20211208": 2048,
+    "20211209": 2049
   },
   "TweetsCountHistory": {
     "20201228": 3820,
@@ -612,20 +613,21 @@
     "20211205": 4099,
     "20211206": 4099,
     "20211207": 4100,
-    "20211208": 4100
+    "20211208": 4100,
+    "20211209": 4100
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.031392246115209543242821117,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211202.0,
-        "Y": 2048.0
+        "X": 20211203.0,
+        "Y": 2047.8214285714285714285714
       },
       "End": {
-        "X": 20211208.0,
-        "Y": 2048.0
+        "X": 20211209.0,
+        "Y": 2048.4642857142857142857143
       }
     }
   }
