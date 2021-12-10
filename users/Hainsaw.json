@@ -2,7 +2,7 @@
   "PublicName": "Aaron Hain",
   "AvatarImage": "https://pbs.twimg.com/profile_images/973662692257947648/iEcB1D2I_normal.jpg",
   "Login": "Hainsaw",
-  "CurrentFollowersCount": 7010,
+  "CurrentFollowersCount": 7009,
   "CurrentTweetsCout": 457,
   "FollowersCountHistory": {
     "20210111": 6727,
@@ -311,7 +311,8 @@
     "20211207": 7014,
     "20211208": 7015,
     "20211209": 7013,
-    "20211210": 7010
+    "20211210": 7010,
+    "20211211": 7009
   },
   "TweetsCountHistory": {
     "20210111": 451,
@@ -620,20 +621,21 @@
     "20211207": 456,
     "20211208": 456,
     "20211209": 457,
-    "20211210": 457
+    "20211210": 457,
+    "20211211": 457
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0305639040293413478681668786,
+    "WeeklyGrowth": -0.0366643581700411455574958273,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211204.0,
-        "Y": 7011.0714285714285714285715
+        "X": 20211205.0,
+        "Y": 7013.428571428571428571428
       },
       "End": {
-        "X": 20211210.0,
-        "Y": 7013.2142857142857142857143
+        "X": 20211211.0,
+        "Y": 7010.857142857142857142857
       }
     }
   }
