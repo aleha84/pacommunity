@@ -2,8 +2,8 @@
   "PublicName": "Toronja",
   "AvatarImage": "https://pbs.twimg.com/profile_images/989579378148462594/e2dEMWbD_normal.jpg",
   "Login": "ToronjaGB",
-  "CurrentFollowersCount": 884,
-  "CurrentTweetsCout": 633,
+  "CurrentFollowersCount": 885,
+  "CurrentTweetsCout": 634,
   "FollowersCountHistory": {
     "20210106": 519,
     "20210107": 520,
@@ -299,7 +299,8 @@
     "20211206": 883,
     "20211207": 882,
     "20211208": 884,
-    "20211209": 884
+    "20211209": 884,
+    "20211210": 885
   },
   "TweetsCountHistory": {
     "20210106": 475,
@@ -596,20 +597,21 @@
     "20211206": 632,
     "20211207": 633,
     "20211208": 633,
-    "20211209": 633
+    "20211209": 633,
+    "20211210": 634
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2421112097490113792268630262,
+    "WeeklyGrowth": 0.0242473226914528187512622348,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211203.0,
-        "Y": 885.0714285714285714285715
+        "X": 20211204.0,
+        "Y": 883.75000000000000000000000
       },
       "End": {
-        "X": 20211209.0,
-        "Y": 882.9285714285714285714286
+        "X": 20211210.0,
+        "Y": 883.96428571428571428571428
       }
     }
   }
