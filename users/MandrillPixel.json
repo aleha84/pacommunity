@@ -2,7 +2,7 @@
   "PublicName": "Mandrill Pixel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/683302871815864320/TDAFY5Wa_normal.png",
   "Login": "MandrillPixel",
-  "CurrentFollowersCount": 4822,
+  "CurrentFollowersCount": 4821,
   "CurrentTweetsCout": 2293,
   "FollowersCountHistory": {
     "20201217": 4322,
@@ -322,7 +322,8 @@
     "20211209": 4822,
     "20211210": 4821,
     "20211211": 4822,
-    "20211212": 4822
+    "20211212": 4822,
+    "20211213": 4821
   },
   "TweetsCountHistory": {
     "20201217": 1995,
@@ -642,20 +643,21 @@
     "20211209": 2292,
     "20211210": 2292,
     "20211211": 2292,
-    "20211212": 2293
+    "20211212": 2293,
+    "20211213": 2293
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0266607420573205954232389845,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211206.0,
-        "Y": 4821.8571428571428571428571429
+        "X": 20211207.0,
+        "Y": 4822.4999999999999999999999
       },
       "End": {
-        "X": 20211212.0,
-        "Y": 4821.8571428571428571428571429
+        "X": 20211213.0,
+        "Y": 4821.2142857142857142857142
       }
     }
   }
