@@ -2,7 +2,7 @@
   "PublicName": "Mupix",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1352066533497958407/CjN_vMCe_normal.png",
   "Login": "mupixl",
-  "CurrentFollowersCount": 3581,
+  "CurrentFollowersCount": 3580,
   "CurrentTweetsCout": 604,
   "FollowersCountHistory": {
     "20210114": 2160,
@@ -311,7 +311,8 @@
     "20211211": 3580,
     "20211212": 3582,
     "20211213": 3582,
-    "20211214": 3581
+    "20211214": 3581,
+    "20211215": 3580
   },
   "TweetsCountHistory": {
     "20210114": 215,
@@ -620,20 +621,21 @@
     "20211211": 602,
     "20211212": 603,
     "20211213": 604,
-    "20211214": 604
+    "20211214": 604,
+    "20211215": 604
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.005983783945507674202909954,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211208.0,
-        "Y": 3581.2857142857142857142857143
+        "X": 20211209.0,
+        "Y": 3581.10714285714285714285714
       },
       "End": {
-        "X": 20211214.0,
-        "Y": 3581.2857142857142857142857143
+        "X": 20211215.0,
+        "Y": 3580.89285714285714285714286
       }
     }
   }
