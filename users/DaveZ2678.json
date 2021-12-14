@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1415708294568714241/emolnhsP_normal.jpg",
   "Login": "DaveZ2678",
   "CurrentFollowersCount": 233,
-  "CurrentTweetsCout": 3122,
+  "CurrentTweetsCout": 3126,
   "FollowersCountHistory": {
     "20201219": 176,
     "20201220": 177,
@@ -321,7 +321,8 @@
     "20211210": 233,
     "20211211": 233,
     "20211212": 233,
-    "20211213": 233
+    "20211213": 233,
+    "20211214": 233
   },
   "TweetsCountHistory": {
     "20201219": 2507,
@@ -640,20 +641,21 @@
     "20211210": 3112,
     "20211211": 3112,
     "20211212": 3120,
-    "20211213": 3122
+    "20211213": 3122,
+    "20211214": 3126
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2753556677374942634236071424,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211207.0,
-        "Y": 233.4642857142857142857143
+        "X": 20211208.0,
+        "Y": 233.0
       },
       "End": {
-        "X": 20211213.0,
-        "Y": 232.8214285714285714285714
+        "X": 20211214.0,
+        "Y": 233.0
       }
     }
   }
