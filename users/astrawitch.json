@@ -2,7 +2,7 @@
   "PublicName": "Allison",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1322558617917231104/ZTUIsiBj_normal.jpg",
   "Login": "astrawitch",
-  "CurrentFollowersCount": 725,
+  "CurrentFollowersCount": 724,
   "CurrentTweetsCout": 4097,
   "FollowersCountHistory": {
     "20210110": 730,
@@ -316,7 +316,8 @@
     "20211212": 725,
     "20211213": 725,
     "20211214": 725,
-    "20211215": 725
+    "20211215": 725,
+    "20211216": 724
   },
   "TweetsCountHistory": {
     "20210110": 3769,
@@ -630,20 +631,21 @@
     "20211212": 4097,
     "20211213": 4097,
     "20211214": 4097,
-    "20211215": 4097
+    "20211215": 4097,
+    "20211216": 4097
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0886481162275301649839999965,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211209.0,
-        "Y": 725.0
+        "X": 20211210.0,
+        "Y": 725.1785714285714285714286
       },
       "End": {
-        "X": 20211215.0,
-        "Y": 725.0
+        "X": 20211216.0,
+        "Y": 724.5357142857142857142857
       }
     }
   }
