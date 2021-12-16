@@ -2,8 +2,8 @@
   "PublicName": "asaha",
   "AvatarImage": "https://pbs.twimg.com/profile_images/2323973474/on0jwghvxynnlm1n8hcg_normal.gif",
   "Login": "vpandav",
-  "CurrentFollowersCount": 54089,
-  "CurrentTweetsCout": 18441,
+  "CurrentFollowersCount": 54075,
+  "CurrentTweetsCout": 18455,
   "FollowersCountHistory": {
     "20201225": 32624,
     "20201226": 32641,
@@ -317,7 +317,8 @@
     "20211212": 54086,
     "20211213": 54094,
     "20211214": 54093,
-    "20211215": 54089
+    "20211215": 54089,
+    "20211216": 54075
   },
   "TweetsCountHistory": {
     "20201225": 9676,
@@ -632,20 +633,21 @@
     "20211212": 18360,
     "20211213": 18381,
     "20211214": 18399,
-    "20211215": 18441
+    "20211215": 18441,
+    "20211216": 18455
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0182261227885967866553080941,
+    "WeeklyGrowth": -0.0067350071807061853117419569,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211209.0,
-        "Y": 54082.500000000000000000000
+        "X": 20211210.0,
+        "Y": 54088.392857142857142857142
       },
       "End": {
-        "X": 20211215.0,
-        "Y": 54092.357142857142857142857
+        "X": 20211216.0,
+        "Y": 54084.749999999999999999999
       }
     }
   }
