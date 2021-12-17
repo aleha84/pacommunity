@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/635912306694750208/MjXdEl77_normal.jpg",
   "Login": "manupixou",
   "CurrentFollowersCount": 388,
-  "CurrentTweetsCout": 4202,
+  "CurrentTweetsCout": 4203,
   "FollowersCountHistory": {
     "20201229": 381,
     "20201230": 381,
@@ -314,7 +314,8 @@
     "20211213": 388,
     "20211214": 388,
     "20211215": 388,
-    "20211216": 388
+    "20211216": 388,
+    "20211217": 388
   },
   "TweetsCountHistory": {
     "20201229": 3597,
@@ -626,20 +627,21 @@
     "20211213": 4196,
     "20211214": 4197,
     "20211215": 4200,
-    "20211216": 4202
+    "20211216": 4202,
+    "20211217": 4203
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1654868070239955870184903439,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211210.0,
-        "Y": 388.4642857142857142857144
+        "X": 20211211.0,
+        "Y": 388.0
       },
       "End": {
-        "X": 20211216.0,
-        "Y": 387.8214285714285714285715
+        "X": 20211217.0,
+        "Y": 388.0
       }
     }
   }

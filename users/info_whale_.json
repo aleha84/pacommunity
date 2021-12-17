@@ -2,7 +2,7 @@
   "PublicName": "anuran-san",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1224148009178619904/lguPO3Op_normal.jpg",
   "Login": "info_whale_",
-  "CurrentFollowersCount": 723,
+  "CurrentFollowersCount": 722,
   "CurrentTweetsCout": 2041,
   "FollowersCountHistory": {
     "20210113": 757,
@@ -299,7 +299,8 @@
     "20211213": 723,
     "20211214": 723,
     "20211215": 723,
-    "20211216": 723
+    "20211216": 723,
+    "20211217": 722
   },
   "TweetsCountHistory": {
     "20210113": 1788,
@@ -596,20 +597,21 @@
     "20211213": 2040,
     "20211214": 2040,
     "20211215": 2041,
-    "20211216": 2041
+    "20211216": 2041,
+    "20211217": 2041
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0888932786804286631438510632,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211210.0,
-        "Y": 723.0
+        "X": 20211211.0,
+        "Y": 723.1785714285714285714285
       },
       "End": {
-        "X": 20211216.0,
-        "Y": 723.0
+        "X": 20211217.0,
+        "Y": 722.5357142857142857142857
       }
     }
   }

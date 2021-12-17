@@ -2,7 +2,7 @@
   "PublicName": "Al Santos",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1339382367027425285/WEQ_bZKG_normal.jpg",
   "Login": "al_MSantos",
-  "CurrentFollowersCount": 10865,
+  "CurrentFollowersCount": 10864,
   "CurrentTweetsCout": 750,
   "FollowersCountHistory": {
     "20201219": 8298,
@@ -324,7 +324,8 @@
     "20211213": 10865,
     "20211214": 10864,
     "20211215": 10864,
-    "20211216": 10865
+    "20211216": 10865,
+    "20211217": 10864
   },
   "TweetsCountHistory": {
     "20201219": 598,
@@ -646,20 +647,21 @@
     "20211213": 750,
     "20211214": 750,
     "20211215": 750,
-    "20211216": 750
+    "20211216": 750,
+    "20211217": 750
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0078890276773387679968449149,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211210.0,
-        "Y": 10864.571428571428571428571429
+        "X": 20211211.0,
+        "Y": 10865.0000000000000000000000
       },
       "End": {
-        "X": 20211216.0,
-        "Y": 10864.571428571428571428571429
+        "X": 20211217.0,
+        "Y": 10864.1428571428571428571428
       }
     }
   }
