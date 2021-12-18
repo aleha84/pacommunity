@@ -2,7 +2,7 @@
   "PublicName": "BanFan",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1403370201832378372/3sAaSbVh_normal.jpg",
   "Login": "BanFanpxl",
-  "CurrentFollowersCount": 4083,
+  "CurrentFollowersCount": 4084,
   "CurrentTweetsCout": 813,
   "FollowersCountHistory": {
     "20210930": 3952,
@@ -83,7 +83,8 @@
     "20211214": 4086,
     "20211215": 4085,
     "20211216": 4086,
-    "20211217": 4083
+    "20211217": 4083,
+    "20211219": 4084
   },
   "TweetsCountHistory": {
     "20210930": 791,
@@ -164,20 +165,21 @@
     "20211214": 813,
     "20211215": 813,
     "20211216": 813,
-    "20211217": 813
+    "20211217": 813,
+    "20211219": 813
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0209870929378432264157557105,
+    "WeeklyGrowth": -0.00280941716634157351885562,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211211.0,
-        "Y": 4084.1428571428571428571428
+        "X": 20211212.0,
+        "Y": 4084.62295081967213108432277
       },
       "End": {
-        "X": 20211217.0,
-        "Y": 4085.0000000000000000000000
+        "X": 20211219.0,
+        "Y": 4084.50819672131147548742207
       }
     }
   }
