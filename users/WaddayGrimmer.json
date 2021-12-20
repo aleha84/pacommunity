@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1351287495053496325/dBCxb7jv_normal.jpg",
   "Login": "WaddayGrimmer",
   "CurrentFollowersCount": 18,
-  "CurrentTweetsCout": 94,
+  "CurrentTweetsCout": 96,
   "FollowersCountHistory": {
     "20210914": 7,
     "20210915": 7,
@@ -99,7 +99,8 @@
     "20211216": 18,
     "20211217": 18,
     "20211218": 18,
-    "20211219": 18
+    "20211219": 18,
+    "20211220": 18
   },
   "TweetsCountHistory": {
     "20210914": 58,
@@ -196,20 +197,21 @@
     "20211216": 92,
     "20211217": 92,
     "20211218": 93,
-    "20211219": 94
+    "20211219": 94,
+    "20211220": 96
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 3.6659877800407331975556852676,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211213.0,
-        "Y": 17.5357142857142857142857
+        "X": 20211214.0,
+        "Y": 18.0
       },
       "End": {
-        "X": 20211219.0,
-        "Y": 18.1785714285714285714285
+        "X": 20211220.0,
+        "Y": 18.0
       }
     }
   }
