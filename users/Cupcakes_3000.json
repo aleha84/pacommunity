@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1462635025522954244/ICMkI17-_normal.jpg",
   "Login": "Cupcakes_3000",
   "CurrentFollowersCount": 250,
-  "CurrentTweetsCout": 6032,
+  "CurrentTweetsCout": 6037,
   "FollowersCountHistory": {
     "20210914": 249,
     "20210915": 251,
@@ -79,7 +79,8 @@
     "20211217": 250,
     "20211218": 250,
     "20211219": 250,
-    "20211220": 250
+    "20211220": 250,
+    "20211221": 250
   },
   "TweetsCountHistory": {
     "20210914": 5998,
@@ -156,20 +157,21 @@
     "20211217": 6021,
     "20211218": 6023,
     "20211219": 6029,
-    "20211220": 6032
+    "20211220": 6032,
+    "20211221": 6037
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.4247634467456106486817473084,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211204.0,
-        "Y": 250.9136513157894737476267
+        "X": 20211215.0,
+        "Y": 250.0
       },
       "End": {
-        "X": 20211220.0,
-        "Y": 249.8478618421052631336243
+        "X": 20211221.0,
+        "Y": 250.0
       }
     }
   }
