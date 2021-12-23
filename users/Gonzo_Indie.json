@@ -2,7 +2,7 @@
   "PublicName": "Roman",
   "AvatarImage": "https://pbs.twimg.com/profile_images/864792941302358016/Zmjd-D19_normal.jpg",
   "Login": "Gonzo_Indie",
-  "CurrentFollowersCount": 4090,
+  "CurrentFollowersCount": 4089,
   "CurrentTweetsCout": 648,
   "FollowersCountHistory": {
     "20201215": 4169,
@@ -333,7 +333,8 @@
     "20211219": 4089,
     "20211220": 4091,
     "20211221": 4091,
-    "20211222": 4090
+    "20211222": 4090,
+    "20211223": 4089
   },
   "TweetsCountHistory": {
     "20201215": 650,
@@ -664,20 +665,21 @@
     "20211219": 648,
     "20211220": 648,
     "20211221": 648,
-    "20211222": 648
+    "20211222": 648,
+    "20211223": 648
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.005239122272381966941138566,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211216.0,
-        "Y": 4090.2857142857142857142857143
+        "X": 20211217.0,
+        "Y": 4090.10714285714285714285715
       },
       "End": {
-        "X": 20211222.0,
-        "Y": 4090.2857142857142857142857143
+        "X": 20211223.0,
+        "Y": 4089.89285714285714285714286
       }
     }
   }
