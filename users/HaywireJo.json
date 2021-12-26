@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1473522525606977539/hO8lySS-_normal.png",
   "Login": "HaywireJo",
   "CurrentFollowersCount": 759,
-  "CurrentTweetsCout": 4678,
+  "CurrentTweetsCout": 4679,
   "FollowersCountHistory": {
     "20210215": 448,
     "20210216": 448,
@@ -291,7 +291,8 @@
     "20211223": 759,
     "20211224": 759,
     "20211225": 759,
-    "20211226": 759
+    "20211226": 759,
+    "20211227": 759
   },
   "TweetsCountHistory": {
     "20210215": 4001,
@@ -580,20 +581,21 @@
     "20211223": 4676,
     "20211224": 4676,
     "20211225": 4678,
-    "20211226": 4678
+    "20211226": 4678,
+    "20211227": 4679
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0846461321420173994827105557,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211220.0,
-        "Y": 759.4642857142857142857143
+        "X": 20211221.0,
+        "Y": 759.0
       },
       "End": {
-        "X": 20211226.0,
-        "Y": 758.8214285714285714285715
+        "X": 20211227.0,
+        "Y": 759.0
       }
     }
   }
