@@ -2,7 +2,7 @@
   "PublicName": "Arroz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1396512938756870146/nXYjwBgF_normal.jpg",
   "Login": "YanAmaral8",
-  "CurrentFollowersCount": 203,
+  "CurrentFollowersCount": 202,
   "CurrentTweetsCout": 499,
   "FollowersCountHistory": {
     "20210113": 143,
@@ -312,7 +312,8 @@
     "20211226": 203,
     "20211227": 203,
     "20211228": 203,
-    "20211229": 203
+    "20211229": 203,
+    "20211230": 202
   },
   "TweetsCountHistory": {
     "20210113": 353,
@@ -622,20 +623,21 @@
     "20211226": 496,
     "20211227": 496,
     "20211228": 498,
-    "20211229": 499
+    "20211229": 499,
+    "20211230": 499
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3174043378592840768824052419,
+    "WeeklyGrowth": -0.3164000703111267358059623391,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211223.0,
-        "Y": 202.5357142857142857142857
+        "X": 20211224.0,
+        "Y": 203.1785714285714285714286
       },
       "End": {
-        "X": 20211229.0,
-        "Y": 203.1785714285714285714286
+        "X": 20211230.0,
+        "Y": 202.5357142857142857142857
       }
     }
   }

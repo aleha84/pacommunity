@@ -2,8 +2,8 @@
   "PublicName": "Theodote",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1437468354122498050/cZyW1qcS_normal.jpg",
   "Login": "theodote_",
-  "CurrentFollowersCount": 1018,
-  "CurrentTweetsCout": 2590,
+  "CurrentFollowersCount": 1020,
+  "CurrentTweetsCout": 2593,
   "FollowersCountHistory": {
     "20201214": 601,
     "20201215": 601,
@@ -342,7 +342,8 @@
     "20211226": 1017,
     "20211227": 1016,
     "20211228": 1017,
-    "20211229": 1018
+    "20211229": 1018,
+    "20211230": 1020
   },
   "TweetsCountHistory": {
     "20201214": 2133,
@@ -682,20 +683,21 @@
     "20211226": 2585,
     "20211227": 2585,
     "20211228": 2586,
-    "20211229": 2590
+    "20211229": 2590,
+    "20211230": 2593
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0842105263157894736842063111,
+    "WeeklyGrowth": 0.1264133717255425240536540523,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211223.0,
-        "Y": 1017.8571428571428571428572
+        "X": 20211224.0,
+        "Y": 1017.0714285714285714285714
       },
       "End": {
-        "X": 20211229.0,
-        "Y": 1017.0000000000000000000001
+        "X": 20211230.0,
+        "Y": 1018.3571428571428571428571
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "shigeta.yusuke",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1376092781337214977/vMR5zBih_normal.jpg",
   "Login": "9e9eta",
-  "CurrentFollowersCount": 6405,
+  "CurrentFollowersCount": 6404,
   "CurrentTweetsCout": 1195,
   "FollowersCountHistory": {
     "20210717": 3442,
@@ -153,7 +153,8 @@
     "20211226": 6411,
     "20211227": 6408,
     "20211228": 6407,
-    "20211229": 6405
+    "20211229": 6405,
+    "20211230": 6404
   },
   "TweetsCountHistory": {
     "20210717": 918,
@@ -304,20 +305,21 @@
     "20211226": 1194,
     "20211227": 1194,
     "20211228": 1195,
-    "20211229": 1195
+    "20211229": 1195,
+    "20211230": 1195
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0635249669837342650328580063,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211223.0,
-        "Y": 6407.2857142857142857142857143
+        "X": 20211224.0,
+        "Y": 6409.178571428571428571429
       },
       "End": {
-        "X": 20211229.0,
-        "Y": 6407.2857142857142857142857143
+        "X": 20211230.0,
+        "Y": 6405.107142857142857142857
       }
     }
   }
