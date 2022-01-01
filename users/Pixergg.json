@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/819819724376854528/_1SkoeaI_normal.jpg",
   "Login": "Pixergg",
   "CurrentFollowersCount": 1195,
-  "CurrentTweetsCout": 1439,
+  "CurrentTweetsCout": 1440,
   "FollowersCountHistory": {
     "20201229": 1206,
     "20201230": 1206,
@@ -328,7 +328,8 @@
     "20211227": 1195,
     "20211228": 1195,
     "20211229": 1195,
-    "20211230": 1195
+    "20211230": 1195,
+    "20220101": 1195
   },
   "TweetsCountHistory": {
     "20201229": 1415,
@@ -654,20 +655,21 @@
     "20211227": 1439,
     "20211228": 1439,
     "20211229": 1439,
-    "20211230": 1439
+    "20211230": 1439,
+    "20220101": 1440
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0537746840737310668299859537,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211224.0,
-        "Y": 1195.4642857142857142857144
+        "X": 20211225.0,
+        "Y": 1195.0
       },
       "End": {
-        "X": 20211230.0,
-        "Y": 1194.8214285714285714285715
+        "X": 20220101.0,
+        "Y": 1195.0
       }
     }
   }
