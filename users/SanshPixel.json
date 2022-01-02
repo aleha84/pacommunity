@@ -2,8 +2,8 @@
   "PublicName": "Sansh (Commissions closed)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1470510841976008709/33i3Kt5I_normal.jpg",
   "Login": "SanshPixel",
-  "CurrentFollowersCount": 618,
-  "CurrentTweetsCout": 3028,
+  "CurrentFollowersCount": 616,
+  "CurrentTweetsCout": 3042,
   "FollowersCountHistory": {
     "20210112": 254,
     "20210113": 255,
@@ -315,7 +315,8 @@
     "20211228": 618,
     "20211229": 618,
     "20211230": 618,
-    "20220101": 618
+    "20220101": 618,
+    "20220102": 616
   },
   "TweetsCountHistory": {
     "20210112": 2135,
@@ -628,20 +629,21 @@
     "20211228": 3025,
     "20211229": 3027,
     "20211230": 3027,
-    "20220101": 3028
+    "20220101": 3028,
+    "20220102": 3042
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1618705747356206409529489444,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211225.0,
-        "Y": 618.0
+        "X": 20211226.0,
+        "Y": 618.0002479203142021740644702
       },
       "End": {
-        "X": 20220101.0,
-        "Y": 618.0
+        "X": 20220102.0,
+        "Y": 616.9998873671380291275595627
       }
     }
   }

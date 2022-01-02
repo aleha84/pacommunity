@@ -2,8 +2,8 @@
   "PublicName": "2BitU",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1472011944810856450/SvUshHHV_normal.jpg",
   "Login": "2BitYou",
-  "CurrentFollowersCount": 806,
-  "CurrentTweetsCout": 148,
+  "CurrentFollowersCount": 899,
+  "CurrentTweetsCout": 150,
   "FollowersCountHistory": {
     "20201217": 395,
     "20201218": 396,
@@ -340,7 +340,8 @@
     "20211228": 805,
     "20211229": 805,
     "20211230": 806,
-    "20220101": 806
+    "20220101": 806,
+    "20220102": 899
   },
   "TweetsCountHistory": {
     "20201217": 49,
@@ -678,20 +679,21 @@
     "20211228": 148,
     "20211229": 148,
     "20211230": 148,
-    "20220101": 148
+    "20220101": 148,
+    "20220102": 150
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1035682438938017249289003367,
+    "WeeklyGrowth": 5.8765324845656310591823189153,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211225.0,
-        "Y": 805.1663848672442247060656889
+        "X": 20211226.0,
+        "Y": 805.18824630097963538519955
       },
       "End": {
-        "X": 20220101.0,
-        "Y": 806.0002815524744384686038303
+        "X": 20220102.0,
+        "Y": 852.50539515676102687479933
       }
     }
   }

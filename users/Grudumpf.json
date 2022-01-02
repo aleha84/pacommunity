@@ -2,7 +2,7 @@
   "PublicName": "Grudumpf",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1388234198515781632/Q1hiMD8l_normal.jpg",
   "Login": "Grudumpf",
-  "CurrentFollowersCount": 104,
+  "CurrentFollowersCount": 103,
   "CurrentTweetsCout": 42,
   "FollowersCountHistory": {
     "20210301": 80,
@@ -267,7 +267,8 @@
     "20211228": 104,
     "20211229": 104,
     "20211230": 104,
-    "20220101": 104
+    "20220101": 104,
+    "20220102": 103
   },
   "TweetsCountHistory": {
     "20210301": 15,
@@ -532,20 +533,21 @@
     "20211228": 42,
     "20211229": 42,
     "20211230": 42,
-    "20220101": 42
+    "20220101": 42,
+    "20220102": 42
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.4809420003957954495325741146,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211225.0,
-        "Y": 104.0
+        "X": 20211226.0,
+        "Y": 104.0001239601571010870322578
       },
       "End": {
-        "X": 20220101.0,
-        "Y": 104.0
+        "X": 20220102.0,
+        "Y": 103.4999436835690145637797250
       }
     }
   }

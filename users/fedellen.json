@@ -2,7 +2,7 @@
   "PublicName": "fedellen",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1393385526506528776/gDIujNUW_normal.jpg",
   "Login": "fedellen",
-  "CurrentFollowersCount": 1208,
+  "CurrentFollowersCount": 1207,
   "CurrentTweetsCout": 1582,
   "FollowersCountHistory": {
     "20210113": 1242,
@@ -331,7 +331,8 @@
     "20211230": 1208,
     "20211231": 1208,
     "20220101": 1208,
-    "20220102": 1208
+    "20220102": 1208,
+    "20220103": 1207
   },
   "TweetsCountHistory": {
     "20210113": 1524,
@@ -660,20 +661,21 @@
     "20211230": 1581,
     "20211231": 1582,
     "20220101": 1582,
-    "20220102": 1582
+    "20220102": 1582,
+    "20220103": 1582
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.027607034818958983532783602,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211227.0,
-        "Y": 1208.0
+        "X": 20211228.0,
+        "Y": 1208.0000845345544327984823379
       },
       "End": {
-        "X": 20220102.0,
-        "Y": 1208.0
+        "X": 20220103.0,
+        "Y": 1207.6665915306039244010918001
       }
     }
   }
