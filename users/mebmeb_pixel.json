@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1469214037082710016/Bz-Lxn1Z_normal.jpg",
   "Login": "mebmeb_pixel",
   "CurrentFollowersCount": 45,
-  "CurrentTweetsCout": 6264,
+  "CurrentTweetsCout": 6279,
   "FollowersCountHistory": {
     "20210919": 50,
     "20210920": 49,
@@ -108,7 +108,8 @@
     "20211230": 45,
     "20211231": 45,
     "20220101": 45,
-    "20220102": 45
+    "20220102": 45,
+    "20220103": 45
   },
   "TweetsCountHistory": {
     "20210919": 4045,
@@ -214,20 +215,21 @@
     "20211230": 6217,
     "20211231": 6240,
     "20220101": 6249,
-    "20220102": 6264
+    "20220102": 6264,
+    "20220103": 6279
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.8978250242295573297271826681,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211227.0,
-        "Y": 44.5998196070623033037797934
+        "X": 20211228.0,
+        "Y": 45.0
       },
       "End": {
-        "X": 20220102.0,
-        "Y": 45.0002479482557492890650198
+        "X": 20220103.0,
+        "Y": 45.0
       }
     }
   }
