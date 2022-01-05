@@ -2,7 +2,7 @@
   "PublicName": "niri",
   "AvatarImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
   "Login": "NiRi_0",
-  "CurrentFollowersCount": 0,
+  "CurrentFollowersCount": 2,
   "CurrentTweetsCout": 0,
   "FollowersCountHistory": {
     "20201217": 70,
@@ -251,7 +251,8 @@
     "20211105": 3,
     "20211106": 3,
     "20211107": 3,
-    "20220104": 0
+    "20220104": 0,
+    "20220105": 2
   },
   "TweetsCountHistory": {
     "20201217": 968,
@@ -500,20 +501,21 @@
     "20211105": 1,
     "20211106": 1,
     "20211107": 1,
-    "20220104": 0
+    "20220104": 0,
+    "20220105": 0
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -99.99997839866635094152114735,
+    "WeeklyGrowth": -66.673204085722470315486296187,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211102.0,
-        "Y": 3.0008332713854509517599758
+        "X": 20211103.0,
+        "Y": 3.0004221764985178428624888
       },
       "End": {
-        "X": 20220104.0,
-        "Y": 0.0000006482200072039277578
+        "X": 20220105.0,
+        "Y": 0.9999445753283849749261724
       }
     }
   }
