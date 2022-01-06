@@ -2,7 +2,7 @@
   "PublicName": "windfall.anvils",
   "AvatarImage": "https://pbs.twimg.com/profile_images/924732236578115585/uHRVIC7N_normal.jpg",
   "Login": "windfallapples",
-  "CurrentFollowersCount": 806,
+  "CurrentFollowersCount": 805,
   "CurrentTweetsCout": 15961,
   "FollowersCountHistory": {
     "20210520": 752,
@@ -215,7 +215,8 @@
     "20220103": 806,
     "20220104": 807,
     "20220105": 806,
-    "20220106": 806
+    "20220106": 806,
+    "20220107": 805
   },
   "TweetsCountHistory": {
     "20210520": 14685,
@@ -428,20 +429,21 @@
     "20220103": 15953,
     "20220104": 15958,
     "20220105": 15960,
-    "20220106": 15961
+    "20220106": 15961,
+    "20220107": 15961
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0206922284609543858357129616,
+    "WeeklyGrowth": -0.0797271559551756212074164,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20211231.0,
-        "Y": 805.9999436831626587356751453
+        "X": 20220101.0,
+        "Y": 806.3214285714285714285714
       },
       "End": {
-        "X": 20220106.0,
-        "Y": 806.1667230329047424408725079
+        "X": 20220107.0,
+        "Y": 805.6785714285714285714286
       }
     }
   }
