@@ -2,8 +2,8 @@
   "PublicName": "IllusionOfMana",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1310655015179227136/CXLClYDJ_normal.jpg",
   "Login": "IllusionOfMana",
-  "CurrentFollowersCount": 3335,
-  "CurrentTweetsCout": 6082,
+  "CurrentFollowersCount": 3336,
+  "CurrentTweetsCout": 6083,
   "FollowersCountHistory": {
     "20210207": 1398,
     "20210208": 1398,
@@ -312,7 +312,8 @@
     "20220105": 3335,
     "20220106": 3337,
     "20220107": 3337,
-    "20220108": 3335
+    "20220108": 3335,
+    "20220109": 3336
   },
   "TweetsCountHistory": {
     "20210207": 4496,
@@ -622,20 +623,21 @@
     "20220105": 6066,
     "20220106": 6074,
     "20220107": 6076,
-    "20220108": 6082
+    "20220108": 6082,
+    "20220109": 6083
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0192676164887980218580417673,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220102.0,
-        "Y": 3336.4642857142857142857144
+        "X": 20220103.0,
+        "Y": 3336.0
       },
       "End": {
-        "X": 20220108.0,
-        "Y": 3335.8214285714285714285715
+        "X": 20220109.0,
+        "Y": 3336.0
       }
     }
   }
