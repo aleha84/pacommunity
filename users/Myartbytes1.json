@@ -2,7 +2,7 @@
   "PublicName": "my_art_bytes",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1455424860549570565/lSVpdiV1_normal.jpg",
   "Login": "Myartbytes1",
-  "CurrentFollowersCount": 6496,
+  "CurrentFollowersCount": 6502,
   "CurrentTweetsCout": 475,
   "FollowersCountHistory": {
     "20210302": 754,
@@ -292,7 +292,8 @@
     "20220108": 6395,
     "20220109": 6412,
     "20220110": 6486,
-    "20220111": 6496
+    "20220111": 6496,
+    "20220112": 6502
   },
   "TweetsCountHistory": {
     "20210302": 52,
@@ -582,20 +583,21 @@
     "20220108": 471,
     "20220109": 473,
     "20220110": 473,
-    "20220111": 475
+    "20220111": 475,
+    "20220112": 475
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 7.4342489772063120981884451999,
+    "WeeklyGrowth": 3.9280705440133547584848976174,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220105.0,
-        "Y": 6110.7142857142857142857
+        "X": 20220106.0,
+        "Y": 6289.8928571428571428571
       },
       "End": {
-        "X": 20220111.0,
-        "Y": 6565.0000000000000000000
+        "X": 20220112.0,
+        "Y": 6536.9642857142857142857
       }
     }
   }
