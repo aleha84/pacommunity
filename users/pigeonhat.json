@@ -2,7 +2,7 @@
   "PublicName": "Pidge",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1158833021426044928/YlG2YeCs_normal.jpg",
   "Login": "pigeonhat",
-  "CurrentFollowersCount": 2309,
+  "CurrentFollowersCount": 2307,
   "CurrentTweetsCout": 4020,
   "FollowersCountHistory": {
     "20210113": 2159,
@@ -342,7 +342,8 @@
     "20220110": 2307,
     "20220111": 2307,
     "20220112": 2308,
-    "20220113": 2309
+    "20220113": 2309,
+    "20220114": 2307
   },
   "TweetsCountHistory": {
     "20210113": 3562,
@@ -682,20 +683,21 @@
     "20220110": 4019,
     "20220111": 4019,
     "20220112": 4019,
-    "20220113": 4020
+    "20220113": 4020,
+    "20220114": 4020
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0185718265391401244312347174,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220107.0,
-        "Y": 2307.6428571428571428571428
+        "X": 20220108.0,
+        "Y": 2307.7142857142857142857142857
       },
       "End": {
-        "X": 20220113.0,
-        "Y": 2308.0714285714285714285713
+        "X": 20220114.0,
+        "Y": 2307.7142857142857142857142857
       }
     }
   }
