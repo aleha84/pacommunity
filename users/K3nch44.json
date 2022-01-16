@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1313719138007887873/FPyCoVci_normal.jpg",
   "Login": "K3nch44",
   "CurrentFollowersCount": 64,
-  "CurrentTweetsCout": 495,
+  "CurrentTweetsCout": 498,
   "FollowersCountHistory": {
     "20210914": 51,
     "20210915": 51,
@@ -127,7 +127,8 @@
     "20220112": 64,
     "20220113": 64,
     "20220114": 64,
-    "20220115": 64
+    "20220115": 64,
+    "20220117": 64
   },
   "TweetsCountHistory": {
     "20210914": 361,
@@ -252,20 +253,21 @@
     "20220112": 490,
     "20220113": 491,
     "20220114": 495,
-    "20220115": 495
+    "20220115": 495,
+    "20220117": 498
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.9972299168975069252078209467,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220109.0,
-        "Y": 64.4642857142857142857144
+        "X": 20220110.0,
+        "Y": 64.0
       },
       "End": {
-        "X": 20220115.0,
-        "Y": 63.8214285714285714285715
+        "X": 20220117.0,
+        "Y": 64.0
       }
     }
   }

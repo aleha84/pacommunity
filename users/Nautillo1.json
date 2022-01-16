@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1464302077480419330/cOVmMGbK_normal.jpg",
   "Login": "Nautillo1",
   "CurrentFollowersCount": 535,
-  "CurrentTweetsCout": 7460,
+  "CurrentTweetsCout": 7465,
   "FollowersCountHistory": {
     "20210116": 480,
     "20210117": 481,
@@ -341,7 +341,8 @@
     "20220112": 535,
     "20220113": 535,
     "20220114": 535,
-    "20220115": 535
+    "20220115": 535,
+    "20220117": 535
   },
   "TweetsCountHistory": {
     "20210116": 5916,
@@ -680,20 +681,21 @@
     "20220112": 7439,
     "20220113": 7446,
     "20220114": 7453,
-    "20220115": 7460
+    "20220115": 7460,
+    "20220117": 7465
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1202645820805772699939948142,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220109.0,
-        "Y": 534.5357142857142857142856
+        "X": 20220110.0,
+        "Y": 535.0
       },
       "End": {
-        "X": 20220115.0,
-        "Y": 535.1785714285714285714285
+        "X": 20220117.0,
+        "Y": 535.0
       }
     }
   }
