@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/196967904/VixRenderThumb_normal.jpg",
   "Login": "Aserash",
   "CurrentFollowersCount": 51,
-  "CurrentTweetsCout": 96,
+  "CurrentTweetsCout": 97,
   "FollowersCountHistory": {
     "20210914": 29,
     "20210915": 29,
@@ -128,7 +128,8 @@
     "20220113": 51,
     "20220114": 51,
     "20220115": 51,
-    "20220117": 51
+    "20220117": 51,
+    "20220118": 51
   },
   "TweetsCountHistory": {
     "20210914": 55,
@@ -254,20 +255,21 @@
     "20220113": 95,
     "20220114": 95,
     "20220115": 95,
-    "20220117": 96
+    "20220117": 96,
+    "20220118": 97
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 2.5171624713958778770220164006,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220110.0,
-        "Y": 50.1475409836065580738651
+        "X": 20220111.0,
+        "Y": 51.0
       },
       "End": {
-        "X": 20220117.0,
-        "Y": 51.4098360655737696366199
+        "X": 20220118.0,
+        "Y": 51.0
       }
     }
   }
