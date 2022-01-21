@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1137341409487253505/fLryaH-X_normal.png",
   "Login": "work3studio",
   "CurrentFollowersCount": 1255,
-  "CurrentTweetsCout": 1428,
+  "CurrentTweetsCout": 1429,
   "FollowersCountHistory": {
     "20210120": 1023,
     "20210121": 1028,
@@ -341,7 +341,8 @@
     "20220118": 1255,
     "20220119": 1255,
     "20220120": 1255,
-    "20220121": 1255
+    "20220121": 1255,
+    "20220122": 1255
   },
   "TweetsCountHistory": {
     "20210120": 843,
@@ -680,20 +681,21 @@
     "20220118": 1428,
     "20220119": 1429,
     "20220120": 1428,
-    "20220121": 1428
+    "20220121": 1428,
+    "20220122": 1429
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0525228272287571517786259731,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220114.0,
-        "Y": 1255.4927536231884060510533
+        "X": 20220115.0,
+        "Y": 1255.0
       },
       "End": {
-        "X": 20220121.0,
-        "Y": 1254.8333333333333331086836
+        "X": 20220122.0,
+        "Y": 1255.0
       }
     }
   }
