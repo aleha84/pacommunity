@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1458901028426985473/4078FeiB_normal.jpg",
   "Login": "StahlDraws",
   "CurrentFollowersCount": 195,
-  "CurrentTweetsCout": 1870,
+  "CurrentTweetsCout": 1869,
   "FollowersCountHistory": {
     "20201229": 127,
     "20201230": 127,
@@ -347,7 +347,8 @@
     "20220118": 195,
     "20220119": 195,
     "20220120": 195,
-    "20220121": 195
+    "20220121": 195,
+    "20220123": 195
   },
   "TweetsCountHistory": {
     "20201229": 899,
@@ -692,20 +693,21 @@
     "20220118": 1870,
     "20220119": 1870,
     "20220120": 1870,
-    "20220121": 1870
+    "20220121": 1870,
+    "20220123": 1869
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.3960686518996621222931588499,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220114.0,
-        "Y": 195.5696721311475404588498
+        "X": 20220116.0,
+        "Y": 195.0
       },
       "End": {
-        "X": 20220121.0,
-        "Y": 194.7950819672131151816779
+        "X": 20220123.0,
+        "Y": 195.0
       }
     }
   }
