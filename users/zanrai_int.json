@@ -2,7 +2,7 @@
   "PublicName": "Jason Koohi",
   "AvatarImage": "https://pbs.twimg.com/profile_images/519623823155421185/tITRGge1_normal.png",
   "Login": "zanrai_int",
-  "CurrentFollowersCount": 7899,
+  "CurrentFollowersCount": 7898,
   "CurrentTweetsCout": 10865,
   "FollowersCountHistory": {
     "20210707": 7685,
@@ -188,7 +188,8 @@
     "20220119": 7901,
     "20220120": 7903,
     "20220121": 7901,
-    "20220122": 7899
+    "20220122": 7899,
+    "20220123": 7898
   },
   "TweetsCountHistory": {
     "20210707": 10693,
@@ -374,20 +375,21 @@
     "20220119": 10863,
     "20220120": 10864,
     "20220121": 10864,
-    "20220122": 10865
+    "20220122": 10865,
+    "20220123": 10865
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0355952765171837575739505595,
+    "WeeklyGrowth": -0.0054248076453622415305181596,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220115.0,
-        "Y": 7898.450819672131149445714
+        "X": 20220117.0,
+        "Y": 7900.2142857142857142857142
       },
       "End": {
-        "X": 20220122.0,
-        "Y": 7901.262295081967211562752
+        "X": 20220123.0,
+        "Y": 7899.7857142857142857142857
       }
     }
   }
