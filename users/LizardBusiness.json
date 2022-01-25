@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1467780819871842304/cpvzziEh_normal.png",
   "Login": "LizardBusiness",
   "CurrentFollowersCount": 612,
-  "CurrentTweetsCout": 129054,
+  "CurrentTweetsCout": 129062,
   "FollowersCountHistory": {
     "20210914": 615,
     "20210915": 615,
@@ -136,7 +136,8 @@
     "20220122": 612,
     "20220123": 612,
     "20220124": 612,
-    "20220125": 612
+    "20220125": 612,
+    "20220126": 612
   },
   "TweetsCountHistory": {
     "20210914": 127879,
@@ -270,20 +271,21 @@
     "20220122": 128987,
     "20220123": 129015,
     "20220124": 129040,
-    "20220125": 129054
+    "20220125": 129054,
+    "20220126": 129062
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1049623884774622426963578027,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220119.0,
-        "Y": 612.4642857142857142857143
+        "X": 20220120.0,
+        "Y": 612.0
       },
       "End": {
-        "X": 20220125.0,
-        "Y": 611.8214285714285714285715
+        "X": 20220126.0,
+        "Y": 612.0
       }
     }
   }
