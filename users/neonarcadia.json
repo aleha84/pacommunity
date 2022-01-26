@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1385382262951145472/HTBh9_fl_normal.jpg",
   "Login": "neonarcadia",
   "CurrentFollowersCount": 582,
-  "CurrentTweetsCout": 9639,
+  "CurrentTweetsCout": 9646,
   "FollowersCountHistory": {
     "20210213": 475,
     "20210214": 475,
@@ -323,7 +323,8 @@
     "20220123": 582,
     "20220124": 582,
     "20220125": 582,
-    "20220126": 582
+    "20220126": 582,
+    "20220127": 582
   },
   "TweetsCountHistory": {
     "20210213": 8530,
@@ -644,20 +645,21 @@
     "20220123": 9640,
     "20220124": 9640,
     "20220125": 9640,
-    "20220126": 9639
+    "20220126": 9639,
+    "20220127": 9646
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1103685081856643571034471737,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220120.0,
-        "Y": 582.4642857142857142857143
+        "X": 20220121.0,
+        "Y": 582.0
       },
       "End": {
-        "X": 20220126.0,
-        "Y": 581.8214285714285714285714
+        "X": 20220127.0,
+        "Y": 582.0
       }
     }
   }

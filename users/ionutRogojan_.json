@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1428467711714136064/V9oSvTsF_normal.jpg",
   "Login": "ionutRogojan_",
   "CurrentFollowersCount": 167,
-  "CurrentTweetsCout": 920,
+  "CurrentTweetsCout": 921,
   "FollowersCountHistory": {
     "20210226": 40,
     "20210227": 40,
@@ -310,7 +310,8 @@
     "20220123": 167,
     "20220124": 167,
     "20220125": 167,
-    "20220126": 167
+    "20220126": 167,
+    "20220127": 167
   },
   "TweetsCountHistory": {
     "20210226": 319,
@@ -618,20 +619,21 @@
     "20220123": 916,
     "20220124": 918,
     "20220125": 918,
-    "20220126": 920
+    "20220126": 920,
+    "20220127": 921
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3860175852455500750590006765,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220120.0,
-        "Y": 166.5357142857142857142857
+        "X": 20220121.0,
+        "Y": 167.0
       },
       "End": {
-        "X": 20220126.0,
-        "Y": 167.1785714285714285714286
+        "X": 20220127.0,
+        "Y": 167.0
       }
     }
   }
