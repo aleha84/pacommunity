@@ -2,7 +2,7 @@
   "PublicName": "Hojicha",
   "AvatarImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
   "Login": "hojicha10",
-  "CurrentFollowersCount": 0,
+  "CurrentFollowersCount": 1,
   "CurrentTweetsCout": 0,
   "FollowersCountHistory": {
     "20210113": 1429,
@@ -315,7 +315,7 @@
     "20220124": 0,
     "20220125": 0,
     "20220126": 0,
-    "20220127": 0
+    "20220127": 1
   },
   "TweetsCountHistory": {
     "20210113": 38,
@@ -632,8 +632,17 @@
   },
   "LangId": "jp",
   "FollowersTrend": {
-    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at System.Decimal.op_Division(Decimal d1, Decimal d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 83",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -349.99999999999978260869,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220120.0,
+        "Y": -0.1666666666666668909593
+      },
+      "End": {
+        "X": 20220127.0,
+        "Y": 0.4166666666666668650794
+      }
+    }
   }
 }
