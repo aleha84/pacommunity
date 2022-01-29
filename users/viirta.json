@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1484240283336421381/N62TV5w__normal.jpg",
   "Login": "viirta",
   "CurrentFollowersCount": 492,
-  "CurrentTweetsCout": 6366,
+  "CurrentTweetsCout": 6367,
   "FollowersCountHistory": {
     "20201216": 430,
     "20201217": 432,
@@ -365,7 +365,8 @@
     "20220125": 492,
     "20220126": 492,
     "20220127": 492,
-    "20220128": 492
+    "20220128": 492,
+    "20220129": 492
   },
   "TweetsCountHistory": {
     "20201216": 6459,
@@ -728,20 +729,21 @@
     "20220125": 6366,
     "20220126": 6366,
     "20220127": 6366,
-    "20220128": 6366
+    "20220128": 6366,
+    "20220129": 6367
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.4739574190636200492090518782,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220121.0,
-        "Y": 490.2909836065573786234505
+        "X": 20220123.0,
+        "Y": 492.0
       },
       "End": {
-        "X": 20220128.0,
-        "Y": 492.6147540983606544549663
+        "X": 20220129.0,
+        "Y": 492.0
       }
     }
   }
