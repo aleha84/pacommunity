@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1422108512184803328/Piwo0580_normal.jpg",
   "Login": "alomora_",
   "CurrentFollowersCount": 164,
-  "CurrentTweetsCout": 1462,
+  "CurrentTweetsCout": 1464,
   "FollowersCountHistory": {
     "20210207": 133,
     "20210208": 133,
@@ -333,7 +333,8 @@
     "20220127": 164,
     "20220128": 164,
     "20220129": 164,
-    "20220130": 164
+    "20220130": 164,
+    "20220131": 164
   },
   "TweetsCountHistory": {
     "20210207": 1236,
@@ -664,20 +665,21 @@
     "20220127": 1461,
     "20220128": 1462,
     "20220129": 1462,
-    "20220130": 1462
+    "20220130": 1462,
+    "20220131": 1464
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.3908794788273615635178805307,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220124.0,
-        "Y": 164.4642857142857142857143
+        "X": 20220125.0,
+        "Y": 164.0
       },
       "End": {
-        "X": 20220130.0,
-        "Y": 163.8214285714285714285715
+        "X": 20220131.0,
+        "Y": 164.0
       }
     }
   }

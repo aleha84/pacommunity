@@ -2,15 +2,16 @@
   "PublicName": "victorards | commissions open on Ko-Fi!",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1486435193439326211/iaZ201ob_normal.jpg",
   "Login": "victorards1",
-  "CurrentFollowersCount": 226,
-  "CurrentTweetsCout": 1301,
+  "CurrentFollowersCount": 227,
+  "CurrentTweetsCout": 1311,
   "FollowersCountHistory": {
     "20220124": 202,
     "20220125": 204,
     "20220126": 208,
     "20220127": 212,
     "20220128": 222,
-    "20220129": 226
+    "20220129": 226,
+    "20220130": 227
   },
   "TweetsCountHistory": {
     "20220124": 1212,
@@ -18,12 +19,22 @@
     "20220126": 1236,
     "20220127": 1265,
     "20220128": 1285,
-    "20220129": 1301
+    "20220129": 1301,
+    "20220130": 1311
   },
   "LangId": "br",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 14.237288135593220338982949243,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220124.0,
+        "Y": 200.17857142857142857143
+      },
+      "End": {
+        "X": 20220130.0,
+        "Y": 228.67857142857142857143
+      }
+    }
   }
 }
