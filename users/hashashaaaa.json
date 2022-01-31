@@ -2,7 +2,7 @@
   "PublicName": "Hash",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1393712103148728321/VlNeKTVO_normal.jpg",
   "Login": "hashashaaaa",
-  "CurrentFollowersCount": 2641,
+  "CurrentFollowersCount": 2640,
   "CurrentTweetsCout": 512,
   "FollowersCountHistory": {
     "20210118": 916,
@@ -354,7 +354,8 @@
     "20220128": 2640,
     "20220129": 2640,
     "20220130": 2640,
-    "20220131": 2641
+    "20220131": 2641,
+    "20220201": 2640
   },
   "TweetsCountHistory": {
     "20210118": 152,
@@ -706,20 +707,21 @@
     "20220128": 511,
     "20220129": 512,
     "20220130": 513,
-    "20220131": 512
+    "20220131": 512,
+    "20220201": 512
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0405904558308189800971454077,
+    "WeeklyGrowth": -0.0123813869115222501348538442,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220125.0,
-        "Y": 2639.6071428571428571428572
+        "X": 20220126.0,
+        "Y": 2640.34175615919140871710591
       },
       "End": {
-        "X": 20220131.0,
-        "Y": 2640.6785714285714285714286
+        "X": 20220201.0,
+        "Y": 2640.01484523057485786732143
       }
     }
   }
