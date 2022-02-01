@@ -2,7 +2,7 @@
   "PublicName": "blancablancovic",
   "AvatarImage": "https://pbs.twimg.com/profile_images/733561499063459842/Wzk9IIeO_normal.jpg",
   "Login": "blancablancovic",
-  "CurrentFollowersCount": 83,
+  "CurrentFollowersCount": 82,
   "CurrentTweetsCout": 199,
   "FollowersCountHistory": {
     "20201217": 77,
@@ -368,7 +368,8 @@
     "20220128": 83,
     "20220129": 83,
     "20220130": 83,
-    "20220131": 83
+    "20220131": 83,
+    "20220201": 82
   },
   "TweetsCountHistory": {
     "20201217": 317,
@@ -734,20 +735,21 @@
     "20220128": 199,
     "20220129": 199,
     "20220130": 199,
-    "20220131": 199
+    "20220131": 199,
+    "20220201": 199
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.2410369553226695966464053368,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220125.0,
-        "Y": 83.0
+        "X": 20220126.0,
+        "Y": 83.03379658875552747779504
       },
       "End": {
-        "X": 20220131.0,
-        "Y": 83.0
+        "X": 20220201.0,
+        "Y": 82.00331648768161719065729
       }
     }
   }
