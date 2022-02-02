@@ -2,7 +2,7 @@
   "PublicName": "Karrobyte🥕🔞",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1390411576302211072/jZCpj4Fw_normal.jpg",
   "Login": "karrobyte",
-  "CurrentFollowersCount": 6271,
+  "CurrentFollowersCount": 6274,
   "CurrentTweetsCout": 296,
   "FollowersCountHistory": {
     "20220128": 6265,
@@ -10,7 +10,8 @@
     "20220130": 6270,
     "20220131": 6268,
     "20220201": 6269,
-    "20220202": 6271
+    "20220202": 6271,
+    "20220203": 6274
   },
   "TweetsCountHistory": {
     "20220128": 296,
@@ -18,12 +19,22 @@
     "20220130": 296,
     "20220131": 296,
     "20220201": 296,
-    "20220202": 296
+    "20220202": 296,
+    "20220203": 296
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.0521077001753032687949981404,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220128.0,
+        "Y": 6268.1529687599011469465639
+      },
+      "End": {
+        "X": 20220203.0,
+        "Y": 6271.4191591153919270038182
+      }
+    }
   }
 }
