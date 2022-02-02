@@ -2,7 +2,7 @@
   "PublicName": "Zoya Schultz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1449089934346891266/E5Lfe2oA_normal.jpg",
   "Login": "schultz1417",
-  "CurrentFollowersCount": 5364,
+  "CurrentFollowersCount": 5362,
   "CurrentTweetsCout": 145,
   "FollowersCountHistory": {
     "20210313": 2696,
@@ -283,7 +283,8 @@
     "20220129": 5362,
     "20220130": 5364,
     "20220131": 5364,
-    "20220201": 5364
+    "20220201": 5364,
+    "20220202": 5362
   },
   "TweetsCountHistory": {
     "20210313": 69,
@@ -564,20 +565,21 @@
     "20220129": 144,
     "20220130": 145,
     "20220131": 145,
-    "20220201": 145
+    "20220201": 145,
+    "20220202": 145
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0189491973638265327120038518,
+    "WeeklyGrowth": -0.0155934390586565460680797592,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220126.0,
-        "Y": 5363.11149715729627290122081
+        "X": 20220127.0,
+        "Y": 5363.82473972186336347842176
       },
       "End": {
-        "X": 20220201.0,
-        "Y": 5364.12776373973468097743275
+        "X": 20220202.0,
+        "Y": 5362.98833497986169161570839
       }
     }
   }

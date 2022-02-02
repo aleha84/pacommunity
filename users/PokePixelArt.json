@@ -2,7 +2,7 @@
   "PublicName": "PokePixel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1358051833458098180/Sn5wdWaH_normal.jpg",
   "Login": "PokePixelArt",
-  "CurrentFollowersCount": 128,
+  "CurrentFollowersCount": 126,
   "CurrentTweetsCout": 167,
   "FollowersCountHistory": {
     "20210215": 71,
@@ -312,7 +312,8 @@
     "20220129": 127,
     "20220130": 127,
     "20220131": 127,
-    "20220201": 128
+    "20220201": 128,
+    "20220202": 126
   },
   "TweetsCountHistory": {
     "20210215": 116,
@@ -622,20 +623,21 @@
     "20220129": 167,
     "20220130": 167,
     "20220131": 167,
-    "20220201": 167
+    "20220201": 167,
+    "20220202": 167
   },
   "LangId": "arabic",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.8116176379128055150283210233,
+    "WeeklyGrowth": -0.0078534842020059743622602077,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220126.0,
-        "Y": 126.96620341124447252220496
+        "X": 20220127.0,
+        "Y": 127.0030207462573143856030881
       },
       "End": {
-        "X": 20220201.0,
-        "Y": 127.99668351231838280934271
+        "X": 20220202.0,
+        "Y": 126.9930465840869366972910045
       }
     }
   }
