@@ -2,7 +2,7 @@
   "PublicName": "Work3",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1137341409487253505/fLryaH-X_normal.png",
   "Login": "work3studio",
-  "CurrentFollowersCount": 1257,
+  "CurrentFollowersCount": 1256,
   "CurrentTweetsCout": 1449,
   "FollowersCountHistory": {
     "20210120": 1023,
@@ -354,7 +354,8 @@
     "20220131": 1257,
     "20220201": 1257,
     "20220202": 1257,
-    "20220203": 1257
+    "20220203": 1257,
+    "20220204": 1256
   },
   "TweetsCountHistory": {
     "20210120": 843,
@@ -706,20 +707,21 @@
     "20220131": 1444,
     "20220201": 1445,
     "20220202": 1447,
-    "20220203": 1449
+    "20220203": 1449,
+    "20220204": 1449
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0215507669779336782176544803,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220128.0,
-        "Y": 1257.0
+        "X": 20220129.0,
+        "Y": 1257.010392243837526139277443
       },
       "End": {
-        "X": 20220203.0,
-        "Y": 1257.0
+        "X": 20220204.0,
+        "Y": 1256.739496863316646600150652
       }
     }
   }

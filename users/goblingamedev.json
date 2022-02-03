@@ -2,7 +2,7 @@
   "PublicName": "Goblin (Commissions Closed)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1458507965552422916/cye1wNSc_normal.png",
   "Login": "goblingamedev",
-  "CurrentFollowersCount": 522,
+  "CurrentFollowersCount": 521,
   "CurrentTweetsCout": 820,
   "FollowersCountHistory": {
     "20210125": 288,
@@ -329,7 +329,8 @@
     "20220131": 522,
     "20220201": 522,
     "20220202": 522,
-    "20220203": 522
+    "20220203": 522,
+    "20220204": 521
   },
   "TweetsCountHistory": {
     "20210125": 428,
@@ -656,20 +657,21 @@
     "20220131": 817,
     "20220201": 819,
     "20220202": 819,
-    "20220203": 820
+    "20220203": 820,
+    "20220204": 820
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0518946336214588134668532704,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220128.0,
-        "Y": 522.0
+        "X": 20220129.0,
+        "Y": 522.010392243837526139272738
       },
       "End": {
-        "X": 20220203.0,
-        "Y": 522.0
+        "X": 20220204.0,
+        "Y": 521.739496863316646600154264
       }
     }
   }

@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1421775015196839942/sg3USy2T_normal.png",
   "Login": "_Madcake",
   "CurrentFollowersCount": 31,
-  "CurrentTweetsCout": 601,
+  "CurrentTweetsCout": 605,
   "FollowersCountHistory": {
     "20210915": 9,
     "20210916": 9,
@@ -144,7 +144,8 @@
     "20220131": 31,
     "20220201": 31,
     "20220202": 31,
-    "20220203": 31
+    "20220203": 31,
+    "20220204": 31
   },
   "TweetsCountHistory": {
     "20210915": 288,
@@ -286,20 +287,21 @@
     "20220131": 582,
     "20220201": 592,
     "20220202": 599,
-    "20220203": 601
+    "20220203": 601,
+    "20220204": 605
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.8665739618342583559522214706,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220128.0,
-        "Y": 31.260503136683353399844290
+        "X": 20220129.0,
+        "Y": 31.0
       },
       "End": {
-        "X": 20220203.0,
-        "Y": 30.989607756162473860729144
+        "X": 20220204.0,
+        "Y": 31.0
       }
     }
   }
