@@ -2,7 +2,7 @@
   "PublicName": "Does",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1453240823487868931/75D_G6D4_normal.jpg",
   "Login": "MrDoes1",
-  "CurrentFollowersCount": 228,
+  "CurrentFollowersCount": 227,
   "CurrentTweetsCout": 860,
   "FollowersCountHistory": {
     "20210108": 54,
@@ -348,7 +348,8 @@
     "20220130": 228,
     "20220131": 228,
     "20220201": 228,
-    "20220202": 228
+    "20220202": 228,
+    "20220203": 227
   },
   "TweetsCountHistory": {
     "20210108": 218,
@@ -694,20 +695,21 @@
     "20220130": 857,
     "20220131": 858,
     "20220201": 860,
-    "20220202": 860
+    "20220202": 860,
+    "20220203": 860
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1547635060774291376642689584,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220127.0,
-        "Y": 228.0
+        "X": 20220128.0,
+        "Y": 228.01039224383752613926917
       },
       "End": {
-        "X": 20220202.0,
-        "Y": 228.0
+        "X": 20220203.0,
+        "Y": 227.65751536658006463437305
       }
     }
   }

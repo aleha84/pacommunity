@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1484660296518148096/6a6q8qWR_normal.jpg",
   "Login": "MursellJ_art",
   "CurrentFollowersCount": 124,
-  "CurrentTweetsCout": 5541,
+  "CurrentTweetsCout": 5544,
   "FollowersCountHistory": {
     "20210914": 91,
     "20210915": 91,
@@ -142,7 +142,8 @@
     "20220130": 124,
     "20220131": 124,
     "20220201": 124,
-    "20220202": 124
+    "20220202": 124,
+    "20220203": 124
   },
   "TweetsCountHistory": {
     "20210914": 3934,
@@ -282,20 +283,21 @@
     "20220130": 5512,
     "20220131": 5524,
     "20220201": 5534,
-    "20220202": 5541
+    "20220202": 5541,
+    "20220203": 5544
   },
   "LangId": "tr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1830185491026105588655396534,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220127.0,
-        "Y": 123.788528763583858955586135
+        "X": 20220128.0,
+        "Y": 124.0
       },
       "End": {
-        "X": 20220202.0,
-        "Y": 124.015084732882437875820598
+        "X": 20220203.0,
+        "Y": 124.0
       }
     }
   }

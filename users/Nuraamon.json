@@ -2,8 +2,8 @@
   "PublicName": "Nuramon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1449438954575511553/_DqSK6I5_normal.jpg",
   "Login": "Nuraamon",
-  "CurrentFollowersCount": 796,
-  "CurrentTweetsCout": 439,
+  "CurrentFollowersCount": 795,
+  "CurrentTweetsCout": 440,
   "FollowersCountHistory": {
     "20210213": 125,
     "20210214": 126,
@@ -312,7 +312,8 @@
     "20220130": 796,
     "20220131": 797,
     "20220201": 797,
-    "20220202": 796
+    "20220202": 796,
+    "20220203": 795
   },
   "TweetsCountHistory": {
     "20210213": 33,
@@ -622,20 +623,21 @@
     "20220130": 428,
     "20220131": 430,
     "20220201": 433,
-    "20220202": 439
+    "20220202": 439,
+    "20220203": 440
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0692770613446289753500361338,
+    "WeeklyGrowth": -0.0329765958682862038795277367,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220127.0,
-        "Y": 795.97585302834561896738508
+        "X": 20220128.0,
+        "Y": 796.256891198276408339327815
       },
       "End": {
-        "X": 20220202.0,
-        "Y": 796.52728170833649973545324
+        "X": 20220203.0,
+        "Y": 795.994312781192573347454553
       }
     }
   }

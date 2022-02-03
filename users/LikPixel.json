@@ -2,7 +2,7 @@
   "PublicName": "Lik",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1429393071968595975/hHThBKGt_normal.png",
   "Login": "LikPixel",
-  "CurrentFollowersCount": 193,
+  "CurrentFollowersCount": 192,
   "CurrentTweetsCout": 90,
   "FollowersCountHistory": {
     "20201215": 158,
@@ -371,7 +371,8 @@
     "20220130": 193,
     "20220131": 193,
     "20220201": 193,
-    "20220202": 193
+    "20220202": 193,
+    "20220203": 192
   },
   "TweetsCountHistory": {
     "20201215": 82,
@@ -740,20 +741,21 @@
     "20220130": 90,
     "20220131": 90,
     "20220201": 90,
-    "20220202": 90
+    "20220202": 90,
+    "20220203": 90
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1175152747684505637676054802,
+    "WeeklyGrowth": -0.1828279157174389025222688055,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220127.0,
-        "Y": 192.788528763583858955586135
+        "X": 20220128.0,
+        "Y": 193.01039224383752613926917
       },
       "End": {
-        "X": 20220202.0,
-        "Y": 193.015084732882437875820598
+        "X": 20220203.0,
+        "Y": 192.65751536658006463437305
       }
     }
   }

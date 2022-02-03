@@ -2,7 +2,7 @@
   "PublicName": "Hojicha",
   "AvatarImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
   "Login": "hojicha10",
-  "CurrentFollowersCount": 1,
+  "CurrentFollowersCount": 0,
   "CurrentTweetsCout": 0,
   "FollowersCountHistory": {
     "20210113": 1429,
@@ -321,7 +321,8 @@
     "20220130": 1,
     "20220131": 1,
     "20220201": 1,
-    "20220202": 1
+    "20220202": 1,
+    "20220203": 0
   },
   "TweetsCountHistory": {
     "20210113": 38,
@@ -640,20 +641,21 @@
     "20220130": 0,
     "20220131": 0,
     "20220201": 0,
-    "20220202": 0
+    "20220202": 0,
+    "20220203": 0
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -34.924741298212605879486470516,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220127.0,
-        "Y": 1.0
+        "X": 20220128.0,
+        "Y": 1.01039224383752613927072
       },
       "End": {
-        "X": 20220202.0,
-        "Y": 1.0
+        "X": 20220203.0,
+        "Y": 0.65751536658006463437102
       }
     }
   }
