@@ -2,7 +2,7 @@
   "PublicName": "Echo (HIATUS)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1455821763556827146/5LnwkRQM_normal.png",
   "Login": "EchoTheThird",
-  "CurrentFollowersCount": 2078,
+  "CurrentFollowersCount": 2076,
   "CurrentTweetsCout": 25753,
   "FollowersCountHistory": {
     "20210914": 2013,
@@ -146,7 +146,8 @@
     "20220201": 2077,
     "20220202": 2077,
     "20220203": 2077,
-    "20220204": 2078
+    "20220204": 2078,
+    "20220205": 2076
   },
   "TweetsCountHistory": {
     "20210914": 23798,
@@ -290,20 +291,21 @@
     "20220201": 25751,
     "20220202": 25753,
     "20220203": 25752,
-    "20220204": 25753
+    "20220204": 25753,
+    "20220205": 25753
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0300374700560752078613048819,
+    "WeeklyGrowth": -0.00048021804423783258917967,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220129.0,
-        "Y": 2076.64712312274253849510031
+        "X": 20220130.0,
+        "Y": 2077.0069534159130633027089955
       },
       "End": {
-        "X": 20220204.0,
-        "Y": 2077.27089538052087953911490
+        "X": 20220205.0,
+        "Y": 2076.9969792537426856143969119
       }
     }
   }
