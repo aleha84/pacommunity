@@ -2,8 +2,8 @@
   "PublicName": "NOION",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1482887576935673861/NqBxAQkV_normal.jpg",
   "Login": "NOION_art",
-  "CurrentFollowersCount": 2016,
-  "CurrentTweetsCout": 1037,
+  "CurrentFollowersCount": 2015,
+  "CurrentTweetsCout": 1041,
   "FollowersCountHistory": {
     "20211013": 1114,
     "20211014": 1123,
@@ -118,7 +118,8 @@
     "20220202": 2020,
     "20220203": 2020,
     "20220204": 2017,
-    "20220205": 2016
+    "20220205": 2016,
+    "20220206": 2015
   },
   "TweetsCountHistory": {
     "20211013": 612,
@@ -234,20 +235,21 @@
     "20220202": 1035,
     "20220203": 1035,
     "20220204": 1037,
-    "20220205": 1037
+    "20220205": 1037,
+    "20220206": 1041
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1366550291284707342689725987,
+    "WeeklyGrowth": -0.0803639411102425106274169807,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220130.0,
-        "Y": 2015.50843529143551940905324
+        "X": 20220131.0,
+        "Y": 2019.20167403663929246984832
       },
       "End": {
-        "X": 20220205.0,
-        "Y": 2018.26272893076981533868997
+        "X": 20220206.0,
+        "Y": 2017.57896399241945673037621
       }
     }
   }
