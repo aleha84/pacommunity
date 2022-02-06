@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1485177990547841026/N21mGATU_normal.jpg",
   "Login": "mebmeb_pixel",
   "CurrentFollowersCount": 78,
-  "CurrentTweetsCout": 6803,
+  "CurrentTweetsCout": 6814,
   "FollowersCountHistory": {
     "20210919": 50,
     "20210920": 49,
@@ -140,7 +140,8 @@
     "20220202": 78,
     "20220203": 78,
     "20220204": 78,
-    "20220205": 78
+    "20220205": 78,
+    "20220206": 78
   },
   "TweetsCountHistory": {
     "20210919": 4045,
@@ -278,20 +279,21 @@
     "20220202": 6726,
     "20220203": 6747,
     "20220204": 6780,
-    "20220205": 6803
+    "20220205": 6803,
+    "20220206": 6814
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.6729669777923348964302471492,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220130.0,
-        "Y": 77.49357853940269017264594
+        "X": 20220131.0,
+        "Y": 78.0
       },
       "End": {
-        "X": 20220205.0,
-        "Y": 78.01508473288243787581774
+        "X": 20220206.0,
+        "Y": 78.0
       }
     }
   }

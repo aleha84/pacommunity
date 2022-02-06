@@ -2,7 +2,7 @@
   "PublicName": "Downvote",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1475052493872586753/tUfrEssy_normal.jpg",
   "Login": "downvote_me",
-  "CurrentFollowersCount": 3164,
+  "CurrentFollowersCount": 3172,
   "CurrentTweetsCout": 429,
   "FollowersCountHistory": {
     "20210916": 1656,
@@ -146,7 +146,8 @@
     "20220203": 3156,
     "20220204": 3159,
     "20220205": 3161,
-    "20220206": 3164
+    "20220206": 3164,
+    "20220207": 3172
   },
   "TweetsCountHistory": {
     "20210916": 266,
@@ -290,20 +291,21 @@
     "20220203": 429,
     "20220204": 428,
     "20220205": 429,
-    "20220206": 429
+    "20220206": 429,
+    "20220207": 429
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.8480787225327992813542585178,
+    "WeeklyGrowth": 0.797066070191772733981990763,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220131.0,
-        "Y": 3130.1475047378395453758638
+        "X": 20220201.0,
+        "Y": 3145.46428571428571428572
       },
       "End": {
-        "X": 20220206.0,
-        "Y": 3156.6936197094125078532695
+        "X": 20220207.0,
+        "Y": 3170.53571428571428571429
       }
     }
   }

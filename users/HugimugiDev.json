@@ -2,7 +2,7 @@
   "PublicName": "Hugimugi",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1415814791189434370/rLno2NXm_normal.jpg",
   "Login": "HugimugiDev",
-  "CurrentFollowersCount": 215,
+  "CurrentFollowersCount": 214,
   "CurrentTweetsCout": 248,
   "FollowersCountHistory": {
     "20210915": 195,
@@ -144,7 +144,8 @@
     "20220202": 215,
     "20220203": 215,
     "20220204": 215,
-    "20220205": 215
+    "20220205": 215,
+    "20220206": 214
   },
   "TweetsCountHistory": {
     "20210915": 207,
@@ -286,20 +287,21 @@
     "20220202": 248,
     "20220203": 248,
     "20220204": 248,
-    "20220205": 248
+    "20220205": 248,
+    "20220206": 248
   },
   "LangId": "fi",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0991484980104201389866090813,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220130.0,
-        "Y": 215.0
+        "X": 20220131.0,
+        "Y": 215.033796588755527477797411
       },
       "End": {
-        "X": 20220205.0,
-        "Y": 215.0
+        "X": 20220206.0,
+        "Y": 214.820593809222994314938467
       }
     }
   }
