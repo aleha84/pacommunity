@@ -2,7 +2,7 @@
   "PublicName": "HexBug",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1281158939397312512/JkU0YAy6_normal.png",
   "Login": "hex_bug",
-  "CurrentFollowersCount": 2963,
+  "CurrentFollowersCount": 2962,
   "CurrentTweetsCout": 1148,
   "FollowersCountHistory": {
     "20210728": 2497,
@@ -181,7 +181,8 @@
     "20220203": 2963,
     "20220204": 2962,
     "20220205": 2961,
-    "20220206": 2963
+    "20220206": 2963,
+    "20220207": 2962
   },
   "TweetsCountHistory": {
     "20210728": 917,
@@ -360,20 +361,21 @@
     "20220203": 1145,
     "20220204": 1148,
     "20220205": 1148,
-    "20220206": 1148
+    "20220206": 1148,
+    "20220207": 1148
   },
   "LangId": "ua",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0408821084266052544008232276,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220131.0,
-        "Y": 2960.99699936828806065385029
+        "X": 20220201.0,
+        "Y": 2962.1428571428571428571428571
       },
       "End": {
-        "X": 20220206.0,
-        "Y": 2962.20751737207833227851373
+        "X": 20220207.0,
+        "Y": 2962.1428571428571428571428571
       }
     }
   }
