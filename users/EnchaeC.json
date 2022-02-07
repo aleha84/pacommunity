@@ -2,7 +2,7 @@
   "PublicName": "Enchae",
   "AvatarImage": "https://pbs.twimg.com/profile_images/768560877133901824/GpWcIfJe_normal.jpg",
   "Login": "EnchaeC",
-  "CurrentFollowersCount": 9764,
+  "CurrentFollowersCount": 9765,
   "CurrentTweetsCout": 275,
   "FollowersCountHistory": {
     "20210119": 9964,
@@ -360,7 +360,8 @@
     "20220204": 9766,
     "20220205": 9766,
     "20220206": 9765,
-    "20220207": 9764
+    "20220207": 9764,
+    "20220208": 9765
   },
   "TweetsCountHistory": {
     "20210119": 278,
@@ -718,20 +719,21 @@
     "20220204": 275,
     "20220205": 275,
     "20220206": 275,
-    "20220207": 275
+    "20220207": 275,
+    "20220208": 275
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0241347155943173715100638111,
+    "WeeklyGrowth": 0.0043890128378625507479612304,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220201.0,
-        "Y": 9766.607142857142857142857
+        "X": 20220202.0,
+        "Y": 9764.6428571428571428571428
       },
       "End": {
-        "X": 20220207.0,
-        "Y": 9764.250000000000000000000
+        "X": 20220208.0,
+        "Y": 9765.0714285714285714285714
       }
     }
   }
