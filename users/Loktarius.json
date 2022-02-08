@@ -2,8 +2,8 @@
   "PublicName": "Jorge F. Peral",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1040557130640748544/1w-ejWG2_normal.jpg",
   "Login": "Loktarius",
-  "CurrentFollowersCount": 1669,
-  "CurrentTweetsCout": 10984,
+  "CurrentFollowersCount": 1668,
+  "CurrentTweetsCout": 10985,
   "FollowersCountHistory": {
     "20210224": 1577,
     "20210225": 1579,
@@ -306,7 +306,8 @@
     "20220204": 1670,
     "20220205": 1670,
     "20220206": 1670,
-    "20220207": 1669
+    "20220207": 1669,
+    "20220208": 1668
   },
   "TweetsCountHistory": {
     "20210224": 9695,
@@ -610,20 +611,21 @@
     "20220204": 10980,
     "20220205": 10983,
     "20220206": 10984,
-    "20220207": 10984
+    "20220207": 10984,
+    "20220208": 10985
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0385150315609286402054100768,
+    "WeeklyGrowth": -0.0385034974010139254315626013,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220201.0,
-        "Y": 1669.1071428571428571428572
+        "X": 20220202.0,
+        "Y": 1669.6071428571428571428571
       },
       "End": {
-        "X": 20220207.0,
-        "Y": 1669.7500000000000000000000
+        "X": 20220208.0,
+        "Y": 1668.9642857142857142857142
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "DAKU",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1246561287456411648/QuLNGE4g_normal.jpg",
   "Login": "fiopico",
-  "CurrentFollowersCount": 16870,
-  "CurrentTweetsCout": 58079,
+  "CurrentFollowersCount": 16869,
+  "CurrentTweetsCout": 58078,
   "FollowersCountHistory": {
     "20201228": 12804,
     "20201229": 12802,
@@ -364,7 +364,8 @@
     "20220204": 16869,
     "20220205": 16871,
     "20220206": 16865,
-    "20220207": 16870
+    "20220207": 16870,
+    "20220208": 16869
   },
   "TweetsCountHistory": {
     "20201228": 50776,
@@ -726,20 +727,21 @@
     "20220204": 58064,
     "20220205": 58073,
     "20220206": 58078,
-    "20220207": 58079
+    "20220207": 58079,
+    "20220208": 58078
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0241407277370608875740931872,
+    "WeeklyGrowth": 0.0177867370230931135683158924,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220201.0,
-        "Y": 16865.392857142857142857143
+        "X": 20220202.0,
+        "Y": 16866.5
       },
       "End": {
-        "X": 20220207.0,
-        "Y": 16869.464285714285714285715
+        "X": 20220208.0,
+        "Y": 16869.5
       }
     }
   }
