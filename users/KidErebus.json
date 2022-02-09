@@ -2,7 +2,7 @@
   "PublicName": "Kid Erebus",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1450665765267410948/asxbH2Uw_normal.jpg",
   "Login": "KidErebus",
-  "CurrentFollowersCount": 2389,
+  "CurrentFollowersCount": 2387,
   "CurrentTweetsCout": 1532,
   "FollowersCountHistory": {
     "20210207": 1336,
@@ -343,7 +343,8 @@
     "20220206": 2387,
     "20220207": 2387,
     "20220208": 2387,
-    "20220209": 2389
+    "20220209": 2389,
+    "20220210": 2387
   },
   "TweetsCountHistory": {
     "20210207": 976,
@@ -684,20 +685,21 @@
     "20220206": 1530,
     "20220207": 1530,
     "20220208": 1531,
-    "20220209": 1532
+    "20220209": 1532,
+    "20220210": 1532
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0269287733943718863605738821,
+    "WeeklyGrowth": -0.0089746466232892079874352554,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220203.0,
-        "Y": 2387.2500000000000000000000
+        "X": 20220204.0,
+        "Y": 2387.67857142857142857142857
       },
       "End": {
-        "X": 20220209.0,
-        "Y": 2387.8928571428571428571428
+        "X": 20220210.0,
+        "Y": 2387.46428571428571428571429
       }
     }
   }

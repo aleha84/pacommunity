@@ -2,7 +2,7 @@
   "PublicName": "Beany",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1477764681725100033/_oy5vLEM_normal.png",
   "Login": "MasterBeany",
-  "CurrentFollowersCount": 1016,
+  "CurrentFollowersCount": 1017,
   "CurrentTweetsCout": 186,
   "FollowersCountHistory": {
     "20210930": 538,
@@ -135,7 +135,8 @@
     "20220206": 1017,
     "20220207": 1018,
     "20220208": 1016,
-    "20220209": 1016
+    "20220209": 1016,
+    "20220210": 1017
   },
   "TweetsCountHistory": {
     "20210930": 90,
@@ -268,20 +269,21 @@
     "20220206": 186,
     "20220207": 186,
     "20220208": 186,
-    "20220209": 186
+    "20220209": 186,
+    "20220210": 186
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0632666690098766299954251133,
+    "WeeklyGrowth": -0.0210740753749429243791923009,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220203.0,
-        "Y": 1016.1071428571428571428572
+        "X": 20220204.0,
+        "Y": 1016.82142857142857142857143
       },
       "End": {
-        "X": 20220209.0,
-        "Y": 1016.7500000000000000000000
+        "X": 20220210.0,
+        "Y": 1016.60714285714285714285715
       }
     }
   }
