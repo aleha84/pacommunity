@@ -2,7 +2,7 @@
   "PublicName": "StrawB",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1465061267606016004/5-f9UstH_normal.jpg",
   "Login": "StrawPact",
-  "CurrentFollowersCount": 596,
+  "CurrentFollowersCount": 597,
   "CurrentTweetsCout": 824,
   "FollowersCountHistory": {
     "20210128": 38,
@@ -337,7 +337,8 @@
     "20220205": 597,
     "20220206": 597,
     "20220207": 597,
-    "20220208": 596
+    "20220208": 596,
+    "20220209": 597
   },
   "TweetsCountHistory": {
     "20210128": 94,
@@ -672,20 +673,21 @@
     "20220205": 813,
     "20220206": 814,
     "20220207": 823,
-    "20220208": 824
+    "20220208": 824,
+    "20220209": 824
   },
   "LangId": "ro",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0717789209235554492164182353,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220202.0,
-        "Y": 596.71428571428571428571428571
+        "X": 20220203.0,
+        "Y": 597.0714285714285714285714
       },
       "End": {
-        "X": 20220208.0,
-        "Y": 596.71428571428571428571428571
+        "X": 20220209.0,
+        "Y": 596.6428571428571428571428
       }
     }
   }

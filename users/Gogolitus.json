@@ -2,15 +2,16 @@
   "PublicName": "🤖𝗚𝗢𝗚𝗢𝗟𝗜𝗧𝗨𝗦",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1489828327686877185/hC6pYPlj_normal.jpg",
   "Login": "Gogolitus",
-  "CurrentFollowersCount": 562,
-  "CurrentTweetsCout": 1092,
+  "CurrentFollowersCount": 568,
+  "CurrentTweetsCout": 1128,
   "FollowersCountHistory": {
     "20220203": 487,
     "20220204": 501,
     "20220205": 518,
     "20220206": 532,
     "20220207": 539,
-    "20220208": 562
+    "20220208": 562,
+    "20220209": 568
   },
   "TweetsCountHistory": {
     "20220203": 736,
@@ -18,12 +19,22 @@
     "20220205": 923,
     "20220206": 961,
     "20220207": 996,
-    "20220208": 1092
+    "20220208": 1092,
+    "20220209": 1128
   },
   "LangId": "fr",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 16.942209217264081931237603004,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220203.0,
+        "Y": 488.21428571428571428571
+      },
+      "End": {
+        "X": 20220209.0,
+        "Y": 570.92857142857142857143
+      }
+    }
   }
 }
