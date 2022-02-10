@@ -2,7 +2,7 @@
   "PublicName": "scary | comms open",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1412231595520581632/2X1ZW_z8_normal.jpg",
   "Login": "suchscary",
-  "CurrentFollowersCount": 242,
+  "CurrentFollowersCount": 243,
   "CurrentTweetsCout": 176,
   "FollowersCountHistory": {
     "20210202": 385,
@@ -330,7 +330,8 @@
     "20220206": 242,
     "20220207": 242,
     "20220208": 242,
-    "20220209": 242
+    "20220209": 242,
+    "20220210": 243
   },
   "TweetsCountHistory": {
     "20210202": 3528,
@@ -658,20 +659,21 @@
     "20220206": 173,
     "20220207": 173,
     "20220208": 175,
-    "20220209": 176
+    "20220209": 176,
+    "20220210": 176
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.088456435205661211853164083,
+    "WeeklyGrowth": 0.0884825247013714791328688989,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220203.0,
-        "Y": 242.25000000000000000000001
+        "X": 20220204.0,
+        "Y": 242.17857142857142857142857
       },
       "End": {
-        "X": 20220209.0,
-        "Y": 242.03571428571428571428572
+        "X": 20220210.0,
+        "Y": 242.39285714285714285714285
       }
     }
   }
