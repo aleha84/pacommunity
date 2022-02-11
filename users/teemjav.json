@@ -2,7 +2,7 @@
   "PublicName": "teem",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1489609312737574919/9eFFNNGK_normal.jpg",
   "Login": "teemjav",
-  "CurrentFollowersCount": 3553,
+  "CurrentFollowersCount": 3552,
   "CurrentTweetsCout": 605,
   "FollowersCountHistory": {
     "20211004": 2902,
@@ -133,7 +133,8 @@
     "20220208": 3549,
     "20220209": 3551,
     "20220210": 3555,
-    "20220211": 3553
+    "20220211": 3553,
+    "20220212": 3552
   },
   "TweetsCountHistory": {
     "20211004": 492,
@@ -264,20 +265,21 @@
     "20220208": 603,
     "20220209": 603,
     "20220210": 605,
-    "20220211": 605
+    "20220211": 605,
+    "20220212": 605
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1268052131032053539978865798,
+    "WeeklyGrowth": 0.1207535018515536950571647029,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220205.0,
-        "Y": 3548.75
+        "X": 20220206.0,
+        "Y": 3549.142857142857142857143
       },
       "End": {
-        "X": 20220211.0,
-        "Y": 3553.25
+        "X": 20220212.0,
+        "Y": 3553.428571428571428571429
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Steve Fox Camilleri",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1444821765625163776/tRCu2hQN_normal.jpg",
   "Login": "SteveFoxPixel",
-  "CurrentFollowersCount": 75,
+  "CurrentFollowersCount": 74,
   "CurrentTweetsCout": 100,
   "FollowersCountHistory": {
     "20210914": 20,
@@ -153,7 +153,8 @@
     "20220208": 75,
     "20220209": 75,
     "20220210": 75,
-    "20220211": 75
+    "20220211": 75,
+    "20220212": 74
   },
   "TweetsCountHistory": {
     "20210914": 35,
@@ -304,20 +305,21 @@
     "20220208": 100,
     "20220209": 100,
     "20220210": 100,
-    "20220211": 100
+    "20220211": 100,
+    "20220212": 100
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.8551068883610451306412549692,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220205.0,
-        "Y": 75.0
+        "X": 20220206.0,
+        "Y": 75.1785714285714285714285
       },
       "End": {
-        "X": 20220211.0,
-        "Y": 75.0
+        "X": 20220212.0,
+        "Y": 74.5357142857142857142857
       }
     }
   }
