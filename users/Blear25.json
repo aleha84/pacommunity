@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1269410857391448067/CwCfRoYE_normal.jpg",
   "Login": "Blear25",
   "CurrentFollowersCount": 291,
-  "CurrentTweetsCout": 2337,
+  "CurrentTweetsCout": 2339,
   "FollowersCountHistory": {
     "20211010": 285,
     "20211011": 284,
@@ -128,7 +128,8 @@
     "20220209": 291,
     "20220210": 291,
     "20220211": 291,
-    "20220212": 291
+    "20220212": 291,
+    "20220213": 291
   },
   "TweetsCountHistory": {
     "20211010": 2069,
@@ -254,20 +255,21 @@
     "20220209": 2337,
     "20220210": 2338,
     "20220211": 2338,
-    "20220212": 2337
+    "20220212": 2337,
+    "20220213": 2339
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2212661339889366933005335081,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220206.0,
-        "Y": 290.5357142857142857142857
+        "X": 20220207.0,
+        "Y": 291.0
       },
       "End": {
-        "X": 20220212.0,
-        "Y": 291.1785714285714285714285
+        "X": 20220213.0,
+        "Y": 291.0
       }
     }
   }

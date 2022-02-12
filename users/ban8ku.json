@@ -2,8 +2,8 @@
   "PublicName": "BAN8KU",
   "AvatarImage": "https://pbs.twimg.com/profile_images/922073805312233475/PC5DpXRB_normal.jpg",
   "Login": "ban8ku",
-  "CurrentFollowersCount": 6160,
-  "CurrentTweetsCout": 4302,
+  "CurrentFollowersCount": 6159,
+  "CurrentTweetsCout": 4304,
   "FollowersCountHistory": {
     "20201225": 5504,
     "20201226": 5504,
@@ -371,7 +371,8 @@
     "20220208": 6160,
     "20220209": 6160,
     "20220210": 6160,
-    "20220211": 6160
+    "20220211": 6160,
+    "20220212": 6159
   },
   "TweetsCountHistory": {
     "20201225": 3248,
@@ -740,20 +741,21 @@
     "20220208": 4300,
     "20220209": 4301,
     "20220210": 4302,
-    "20220211": 4302
+    "20220211": 4302,
+    "20220212": 4304
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0243547442461916718372175284,
+    "WeeklyGrowth": -0.0208698071861702744379642661,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220205.0,
-        "Y": 6158.9642857142857142857143
+        "X": 20220206.0,
+        "Y": 6160.6428571428571428571429
       },
       "End": {
-        "X": 20220211.0,
-        "Y": 6160.4642857142857142857143
+        "X": 20220212.0,
+        "Y": 6159.3571428571428571428572
       }
     }
   }

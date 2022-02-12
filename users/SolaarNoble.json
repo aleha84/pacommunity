@@ -2,8 +2,8 @@
   "PublicName": "JP",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1468286697150599180/gfMOV50l_normal.jpg",
   "Login": "SolaarNoble",
-  "CurrentFollowersCount": 344,
-  "CurrentTweetsCout": 6760,
+  "CurrentFollowersCount": 343,
+  "CurrentTweetsCout": 6763,
   "FollowersCountHistory": {
     "20210915": 318,
     "20210916": 319,
@@ -153,7 +153,8 @@
     "20220209": 344,
     "20220210": 345,
     "20220211": 345,
-    "20220212": 344
+    "20220212": 344,
+    "20220213": 343
   },
   "TweetsCountHistory": {
     "20210915": 6304,
@@ -304,20 +305,21 @@
     "20220209": 6752,
     "20220210": 6758,
     "20220211": 6757,
-    "20220212": 6760
+    "20220212": 6760,
+    "20220213": 6763
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1868964801162911431834534239,
+    "WeeklyGrowth": -0.1244555071561916614810288115,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220206.0,
-        "Y": 343.9642857142857142857143
+        "X": 20220207.0,
+        "Y": 344.3571428571428571428572
       },
       "End": {
-        "X": 20220212.0,
-        "Y": 344.6071428571428571428571
+        "X": 20220213.0,
+        "Y": 343.9285714285714285714286
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Eduard Albrecht",
   "AvatarImage": "https://pbs.twimg.com/profile_images/994912944453570560/bNJD8vaS_normal.jpg",
   "Login": "edlixstudios",
-  "CurrentFollowersCount": 101,
+  "CurrentFollowersCount": 100,
   "CurrentTweetsCout": 153,
   "FollowersCountHistory": {
     "20210110": 111,
@@ -355,7 +355,8 @@
     "20220208": 101,
     "20220209": 101,
     "20220210": 101,
-    "20220211": 101
+    "20220211": 101,
+    "20220212": 100
   },
   "TweetsCountHistory": {
     "20210110": 152,
@@ -708,20 +709,21 @@
     "20220208": 153,
     "20220209": 153,
     "20220210": 153,
-    "20220211": 153
+    "20220211": 153,
+    "20220212": 153
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.6353688669255206494881190507,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220205.0,
-        "Y": 101.0
+        "X": 20220206.0,
+        "Y": 101.1785714285714285714285
       },
       "End": {
-        "X": 20220211.0,
-        "Y": 101.0
+        "X": 20220212.0,
+        "Y": 100.5357142857142857142857
       }
     }
   }
