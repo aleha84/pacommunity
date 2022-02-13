@@ -2,8 +2,8 @@
   "PublicName": "Pretsel 🥨",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1445788538918739968/hCxqJ_fC_normal.jpg",
   "Login": "GenericPretsel",
-  "CurrentFollowersCount": 403,
-  "CurrentTweetsCout": 37176,
+  "CurrentFollowersCount": 404,
+  "CurrentTweetsCout": 37178,
   "FollowersCountHistory": {
     "20210213": 270,
     "20210214": 269,
@@ -325,7 +325,8 @@
     "20220209": 405,
     "20220210": 403,
     "20220211": 403,
-    "20220212": 403
+    "20220212": 403,
+    "20220213": 404
   },
   "TweetsCountHistory": {
     "20210213": 34315,
@@ -648,20 +649,21 @@
     "20220209": 37099,
     "20220210": 37149,
     "20220211": 37168,
-    "20220212": 37176
+    "20220212": 37176,
+    "20220213": 37178
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2120890774125132555673277076,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220206.0,
-        "Y": 403.42857142857142857142857143
+        "X": 20220207.0,
+        "Y": 404.1428571428571428571428
       },
       "End": {
-        "X": 20220212.0,
-        "Y": 403.42857142857142857142857143
+        "X": 20220213.0,
+        "Y": 403.2857142857142857142857
       }
     }
   }

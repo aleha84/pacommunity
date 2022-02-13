@@ -2,7 +2,7 @@
   "PublicName": "Draken 🏳️‍🌈",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1492478276769566721/XWDSTcqF_normal.jpg",
   "Login": "draken_az",
-  "CurrentFollowersCount": 226,
+  "CurrentFollowersCount": 225,
   "CurrentTweetsCout": 1635,
   "FollowersCountHistory": {
     "20210225": 72,
@@ -310,7 +310,8 @@
     "20220209": 226,
     "20220210": 226,
     "20220211": 226,
-    "20220212": 226
+    "20220212": 226,
+    "20220213": 225
   },
   "TweetsCountHistory": {
     "20210225": 1141,
@@ -618,20 +619,21 @@
     "20220209": 1635,
     "20220210": 1635,
     "20220211": 1635,
-    "20220212": 1635
+    "20220212": 1635,
+    "20220213": 1635
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2842254855518711511132353975,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220206.0,
-        "Y": 226.0
+        "X": 20220207.0,
+        "Y": 226.1785714285714285714286
       },
       "End": {
-        "X": 20220212.0,
-        "Y": 226.0
+        "X": 20220213.0,
+        "Y": 225.5357142857142857142857
       }
     }
   }
