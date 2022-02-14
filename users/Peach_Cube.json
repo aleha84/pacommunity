@@ -2,8 +2,8 @@
   "PublicName": "Momo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1344322723372265472/UzauzWQb_normal.jpg",
   "Login": "Peach_Cube",
-  "CurrentFollowersCount": 247,
-  "CurrentTweetsCout": 3031,
+  "CurrentFollowersCount": 246,
+  "CurrentTweetsCout": 3033,
   "FollowersCountHistory": {
     "20210120": 80,
     "20210121": 80,
@@ -366,7 +366,8 @@
     "20220211": 247,
     "20220212": 247,
     "20220213": 247,
-    "20220214": 247
+    "20220214": 247,
+    "20220215": 246
   },
   "TweetsCountHistory": {
     "20210120": 526,
@@ -730,20 +731,21 @@
     "20220211": 3016,
     "20220212": 3017,
     "20220213": 3023,
-    "20220214": 3031
+    "20220214": 3031,
+    "20220215": 3033
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2600780234070221066320070106,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220208.0,
-        "Y": 247.0
+        "X": 20220209.0,
+        "Y": 247.1785714285714285714285
       },
       "End": {
-        "X": 20220214.0,
-        "Y": 247.0
+        "X": 20220215.0,
+        "Y": 246.5357142857142857142856
       }
     }
   }

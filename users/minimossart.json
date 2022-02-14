@@ -2,7 +2,7 @@
   "PublicName": "minimoss",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1193005604475785216/kO5w53Dx_normal.jpg",
   "Login": "minimossart",
-  "CurrentFollowersCount": 5621,
+  "CurrentFollowersCount": 5617,
   "CurrentTweetsCout": 196,
   "FollowersCountHistory": {
     "20210111": 4002,
@@ -375,7 +375,8 @@
     "20220211": 5621,
     "20220212": 5623,
     "20220213": 5622,
-    "20220214": 5621
+    "20220214": 5621,
+    "20220215": 5617
   },
   "TweetsCountHistory": {
     "20210111": 119,
@@ -748,20 +749,21 @@
     "20220211": 196,
     "20220212": 196,
     "20220213": 196,
-    "20220214": 196
+    "20220214": 196,
+    "20220215": 196
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0915448188175460902733655459,
+    "WeeklyGrowth": -0.030494777769307006175192752,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220208.0,
-        "Y": 5617.857142857142857142857
+        "X": 20220209.0,
+        "Y": 5621.5714285714285714285715
       },
       "End": {
-        "X": 20220214.0,
-        "Y": 5623.000000000000000000000
+        "X": 20220215.0,
+        "Y": 5619.8571428571428571428572
       }
     }
   }

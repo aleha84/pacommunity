@@ -2,8 +2,8 @@
   "PublicName": "The Traveler",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1343616780313513984/jYdk8rSj_normal.jpg",
   "Login": "ekvitki",
-  "CurrentFollowersCount": 579,
-  "CurrentTweetsCout": 610,
+  "CurrentFollowersCount": 577,
+  "CurrentTweetsCout": 618,
   "FollowersCountHistory": {
     "20210928": 472,
     "20210929": 474,
@@ -142,7 +142,8 @@
     "20220211": 579,
     "20220212": 579,
     "20220213": 579,
-    "20220214": 579
+    "20220214": 579,
+    "20220215": 577
   },
   "TweetsCountHistory": {
     "20210928": 472,
@@ -282,20 +283,21 @@
     "20220211": 610,
     "20220212": 610,
     "20220213": 610,
-    "20220214": 610
+    "20220214": 610,
+    "20220215": 618
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2224694104560622914349252146,
+    "WeeklyGrowth": -0.0370393234150256188653628004,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220208.0,
-        "Y": 577.9285714285714285714286
+        "X": 20220209.0,
+        "Y": 578.53571428571428571428571
       },
       "End": {
-        "X": 20220214.0,
-        "Y": 579.2142857142857142857143
+        "X": 20220215.0,
+        "Y": 578.32142857142857142857142
       }
     }
   }
