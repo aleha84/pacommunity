@@ -2,7 +2,7 @@
   "PublicName": "Oleg Klishin",
   "AvatarImage": "https://pbs.twimg.com/profile_images/967352811347415040/ZL6yDPaL_normal.jpg",
   "Login": "OlegKlishinArt",
-  "CurrentFollowersCount": 1011,
+  "CurrentFollowersCount": 1010,
   "CurrentTweetsCout": 1956,
   "FollowersCountHistory": {
     "20201215": 991,
@@ -382,7 +382,8 @@
     "20220210": 1011,
     "20220211": 1011,
     "20220212": 1011,
-    "20220213": 1011
+    "20220213": 1011,
+    "20220214": 1010
   },
   "TweetsCountHistory": {
     "20201215": 1939,
@@ -762,20 +763,21 @@
     "20220210": 1956,
     "20220211": 1956,
     "20220212": 1956,
-    "20220213": 1956
+    "20220213": 1956,
+    "20220214": 1956
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0635750362024511708402444152,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220207.0,
-        "Y": 1011.0
+        "X": 20220208.0,
+        "Y": 1011.1785714285714285714285
       },
       "End": {
-        "X": 20220213.0,
-        "Y": 1011.0
+        "X": 20220214.0,
+        "Y": 1010.5357142857142857142857
       }
     }
   }
