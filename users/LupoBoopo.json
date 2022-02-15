@@ -2,7 +2,7 @@
   "PublicName": "Lupo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1363601311837671433/iVgv9OX2_normal.jpg",
   "Login": "LupoBoopo",
-  "CurrentFollowersCount": 39,
+  "CurrentFollowersCount": 38,
   "CurrentTweetsCout": 54,
   "FollowersCountHistory": {
     "20210115": 10,
@@ -353,7 +353,8 @@
     "20220211": 39,
     "20220212": 39,
     "20220213": 39,
-    "20220214": 39
+    "20220214": 39,
+    "20220215": 38
   },
   "TweetsCountHistory": {
     "20210115": 6,
@@ -704,20 +705,21 @@
     "20220211": 54,
     "20220212": 54,
     "20220213": 54,
-    "20220214": 54
+    "20220214": 54,
+    "20220215": 54
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.640838650865998176846055863,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220208.0,
-        "Y": 39.0
+        "X": 20220209.0,
+        "Y": 39.1785714285714285714285
       },
       "End": {
-        "X": 20220214.0,
-        "Y": 39.0
+        "X": 20220215.0,
+        "Y": 38.5357142857142857142856
       }
     }
   }

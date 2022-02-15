@@ -2,7 +2,7 @@
   "PublicName": "gijotto",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1467472983518289922/UV3p6tPq_normal.jpg",
   "Login": "gijothehydroid",
-  "CurrentFollowersCount": 10996,
+  "CurrentFollowersCount": 10992,
   "CurrentTweetsCout": 311,
   "FollowersCountHistory": {
     "20201215": 1818,
@@ -383,7 +383,8 @@
     "20220211": 10999,
     "20220212": 10995,
     "20220213": 10997,
-    "20220214": 10996
+    "20220214": 10996,
+    "20220215": 10992
   },
   "TweetsCountHistory": {
     "20201215": 53,
@@ -764,20 +765,21 @@
     "20220211": 311,
     "20220212": 311,
     "20220213": 311,
-    "20220214": 311
+    "20220214": 311,
+    "20220215": 311
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1072546387631265052213443106,
+    "WeeklyGrowth": -0.0662298956554487075430682614,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220208.0,
-        "Y": 10988.535714285714285714287
+        "X": 20220209.0,
+        "Y": 11000.642857142857142857143
       },
       "End": {
-        "X": 20220214.0,
-        "Y": 11000.321428571428571428572
+        "X": 20220215.0,
+        "Y": 10993.357142857142857142857
       }
     }
   }
