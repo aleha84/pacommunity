@@ -2,7 +2,7 @@
   "PublicName": "Peter Milko (Pixel Pete)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1410719788557537284/UX45eJ8q_normal.jpg",
   "Login": "PeterMilko",
-  "CurrentFollowersCount": 8077,
+  "CurrentFollowersCount": 8080,
   "CurrentTweetsCout": 2671,
   "FollowersCountHistory": {
     "20210124": 5992,
@@ -348,7 +348,8 @@
     "20220212": 8076,
     "20220213": 8074,
     "20220214": 8075,
-    "20220215": 8077
+    "20220215": 8077,
+    "20220216": 8080
   },
   "TweetsCountHistory": {
     "20210124": 2358,
@@ -694,20 +695,21 @@
     "20220212": 2663,
     "20220213": 2664,
     "20220214": 2671,
-    "20220215": 2671
+    "20220215": 2671,
+    "20220216": 2671
   },
   "LangId": "sk",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0106125192351911137838932027,
+    "WeeklyGrowth": 0.0053062126906920185717447712,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220209.0,
-        "Y": 8076.7142857142857142857143
+        "X": 20220210.0,
+        "Y": 8076.7857142857142857142857
       },
       "End": {
-        "X": 20220215.0,
-        "Y": 8075.8571428571428571428572
+        "X": 20220216.0,
+        "Y": 8077.2142857142857142857143
       }
     }
   }

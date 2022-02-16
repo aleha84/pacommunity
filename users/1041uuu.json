@@ -2,7 +2,7 @@
   "PublicName": "豊井",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1476939813135683584/sh6eGt3l_normal.jpg",
   "Login": "1041uuu",
-  "CurrentFollowersCount": 63167,
+  "CurrentFollowersCount": 63163,
   "CurrentTweetsCout": 5056,
   "FollowersCountHistory": {
     "20210114": 51638,
@@ -355,7 +355,8 @@
     "20220212": 63163,
     "20220213": 63168,
     "20220214": 63160,
-    "20220215": 63167
+    "20220215": 63167,
+    "20220216": 63163
   },
   "TweetsCountHistory": {
     "20210114": 4318,
@@ -708,20 +709,21 @@
     "20220212": 5055,
     "20220213": 5056,
     "20220214": 5056,
-    "20220215": 5056
+    "20220215": 5056,
+    "20220216": 5056
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0033925944187298352669237424,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220209.0,
-        "Y": 63162.7857142857142857142857
+        "X": 20220210.0,
+        "Y": 63164.0
       },
       "End": {
-        "X": 20220215.0,
-        "Y": 63164.9285714285714285714286
+        "X": 20220216.0,
+        "Y": 63164.0
       }
     }
   }
