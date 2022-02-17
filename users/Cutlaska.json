@@ -2,7 +2,7 @@
   "PublicName": "Carrion Dovecraft",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1141442441137938432/uvvJeYPg_normal.jpg",
   "Login": "Cutlaska",
-  "CurrentFollowersCount": 2200,
+  "CurrentFollowersCount": 2199,
   "CurrentTweetsCout": 3923,
   "FollowersCountHistory": {
     "20201225": 1723,
@@ -376,7 +376,8 @@
     "20220213": 2200,
     "20220214": 2200,
     "20220215": 2201,
-    "20220216": 2200
+    "20220216": 2200,
+    "20220217": 2199
   },
   "TweetsCountHistory": {
     "20201225": 2154,
@@ -750,20 +751,21 @@
     "20220213": 3923,
     "20220214": 3923,
     "20220215": 3923,
-    "20220216": 3923
+    "20220216": 3923,
+    "20220217": 3923
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0194798870166553033992415833,
+    "WeeklyGrowth": -0.0681497347028184783137808504,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220210.0,
-        "Y": 2200.0714285714285714285714
+        "X": 20220211.0,
+        "Y": 2201.0357142857142857142857
       },
       "End": {
-        "X": 20220216.0,
-        "Y": 2200.5000000000000000000000
+        "X": 20220217.0,
+        "Y": 2199.5357142857142857142857
       }
     }
   }
