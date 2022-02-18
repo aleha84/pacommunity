@@ -2,8 +2,8 @@
   "PublicName": "hawken",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1488397462851108866/T5kfzzOi_normal.png",
   "Login": "hawkun",
-  "CurrentFollowersCount": 2762,
-  "CurrentTweetsCout": 25672,
+  "CurrentFollowersCount": 2761,
+  "CurrentTweetsCout": 25674,
   "FollowersCountHistory": {
     "20210120": 2654,
     "20210121": 2655,
@@ -370,7 +370,8 @@
     "20220215": 2762,
     "20220216": 2762,
     "20220217": 2762,
-    "20220218": 2762
+    "20220218": 2762,
+    "20220219": 2761
   },
   "TweetsCountHistory": {
     "20210120": 24724,
@@ -738,20 +739,21 @@
     "20220215": 25669,
     "20220216": 25672,
     "20220217": 25669,
-    "20220218": 25672
+    "20220218": 25672,
+    "20220219": 25674
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0232735547768971179581313927,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220212.0,
-        "Y": 2762.0
+        "X": 20220213.0,
+        "Y": 2762.1785714285714285714285
       },
       "End": {
-        "X": 20220218.0,
-        "Y": 2762.0
+        "X": 20220219.0,
+        "Y": 2761.5357142857142857142857
       }
     }
   }
