@@ -2,7 +2,7 @@
   "PublicName": "Josué Grotesco",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1148650119409098752/gDhgKQQU_normal.jpg",
   "Login": "josuegrotesco",
-  "CurrentFollowersCount": 623,
+  "CurrentFollowersCount": 622,
   "CurrentTweetsCout": 8468,
   "FollowersCountHistory": {
     "20201228": 445,
@@ -375,7 +375,8 @@
     "20220215": 623,
     "20220216": 623,
     "20220217": 623,
-    "20220218": 623
+    "20220218": 623,
+    "20220219": 622
   },
   "TweetsCountHistory": {
     "20201228": 8000,
@@ -748,20 +749,21 @@
     "20220215": 8486,
     "20220216": 8486,
     "20220217": 8468,
-    "20220218": 8468
+    "20220218": 8468,
+    "20220219": 8468
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1031577740844747550002773916,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220212.0,
-        "Y": 623.0
+        "X": 20220213.0,
+        "Y": 623.1785714285714285714285
       },
       "End": {
-        "X": 20220218.0,
-        "Y": 623.0
+        "X": 20220219.0,
+        "Y": 622.5357142857142857142857
       }
     }
   }

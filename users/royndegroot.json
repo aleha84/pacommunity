@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/689796878351884289/3BM3GKjl_normal.png",
   "Login": "royndegroot",
   "CurrentFollowersCount": 1231,
-  "CurrentTweetsCout": 819,
+  "CurrentTweetsCout": 820,
   "FollowersCountHistory": {
     "20210214": 1209,
     "20210215": 1210,
@@ -330,7 +330,8 @@
     "20220215": 1231,
     "20220216": 1231,
     "20220217": 1231,
-    "20220218": 1231
+    "20220218": 1231,
+    "20220219": 1231
   },
   "TweetsCountHistory": {
     "20210214": 706,
@@ -658,20 +659,21 @@
     "20220215": 819,
     "20220216": 819,
     "20220217": 819,
-    "20220218": 819
+    "20220218": 819,
+    "20220219": 820
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0522026623357791247353649788,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220212.0,
-        "Y": 1231.4642857142857142857144
+        "X": 20220213.0,
+        "Y": 1231.0
       },
       "End": {
-        "X": 20220218.0,
-        "Y": 1230.8214285714285714285715
+        "X": 20220219.0,
+        "Y": 1231.0
       }
     }
   }

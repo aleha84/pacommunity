@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1314989798927392768/2Lu3gaDF_normal.jpg",
   "Login": "savacan38",
   "CurrentFollowersCount": 154,
-  "CurrentTweetsCout": 172,
+  "CurrentTweetsCout": 174,
   "FollowersCountHistory": {
     "20210112": 152,
     "20210113": 151,
@@ -360,7 +360,8 @@
     "20220215": 154,
     "20220216": 154,
     "20220217": 154,
-    "20220218": 154
+    "20220218": 154,
+    "20220219": 154
   },
   "TweetsCountHistory": {
     "20210112": 199,
@@ -718,20 +719,21 @@
     "20220215": 206,
     "20220216": 206,
     "20220217": 172,
-    "20220218": 172
+    "20220218": 172,
+    "20220219": 174
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.4161849710982658959537846632,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220212.0,
-        "Y": 154.4642857142857142857144
+        "X": 20220213.0,
+        "Y": 154.0
       },
       "End": {
-        "X": 20220218.0,
-        "Y": 153.8214285714285714285715
+        "X": 20220219.0,
+        "Y": 154.0
       }
     }
   }
