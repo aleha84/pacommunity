@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1016623862610460672/bezHS0OT_normal.jpg",
   "Login": "beckyOwlmusic",
   "CurrentFollowersCount": 361,
-  "CurrentTweetsCout": 5592,
+  "CurrentTweetsCout": 5595,
   "FollowersCountHistory": {
     "20210213": 163,
     "20210214": 163,
@@ -348,7 +348,8 @@
     "20220217": 361,
     "20220218": 361,
     "20220219": 361,
-    "20220220": 361
+    "20220220": 361,
+    "20220221": 361
   },
   "TweetsCountHistory": {
     "20210213": 4742,
@@ -694,20 +695,21 @@
     "20220217": 5588,
     "20220218": 5589,
     "20220219": 5589,
-    "20220220": 5592
+    "20220220": 5592,
+    "20220221": 5595
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1778480387313506570497104467,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220214.0,
-        "Y": 361.4642857142857142857144
+        "X": 20220215.0,
+        "Y": 361.0
       },
       "End": {
-        "X": 20220220.0,
-        "Y": 360.8214285714285714285715
+        "X": 20220221.0,
+        "Y": 361.0
       }
     }
   }

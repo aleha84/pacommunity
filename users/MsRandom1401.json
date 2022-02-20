@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1437732753613606913/Kigj0L_p_normal.jpg",
   "Login": "MsRandom1401",
   "CurrentFollowersCount": 154,
-  "CurrentTweetsCout": 19224,
+  "CurrentTweetsCout": 19221,
   "FollowersCountHistory": {
     "20210117": 67,
     "20210118": 67,
@@ -372,7 +372,8 @@
     "20220216": 154,
     "20220217": 154,
     "20220218": 154,
-    "20220219": 154
+    "20220219": 154,
+    "20220220": 154
   },
   "TweetsCountHistory": {
     "20210117": 10147,
@@ -742,20 +743,21 @@
     "20220216": 19224,
     "20220217": 19224,
     "20220218": 19224,
-    "20220219": 19224
+    "20220219": 19224,
+    "20220220": 19221
   },
   "LangId": "id",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.2637491223964427802480883493,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220213.0,
-        "Y": 152.6071428571428571428571
+        "X": 20220214.0,
+        "Y": 154.0
       },
       "End": {
-        "X": 20220219.0,
-        "Y": 154.5357142857142857142857
+        "X": 20220220.0,
+        "Y": 154.0
       }
     }
   }
