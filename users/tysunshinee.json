@@ -2,8 +2,8 @@
   "PublicName": "taiyou",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1446559143691751461/5kibOru9_normal.png",
   "Login": "tysunshinee",
-  "CurrentFollowersCount": 204,
-  "CurrentTweetsCout": 1446,
+  "CurrentFollowersCount": 203,
+  "CurrentTweetsCout": 1448,
   "FollowersCountHistory": {
     "20210914": 210,
     "20210915": 210,
@@ -158,7 +158,8 @@
     "20220217": 204,
     "20220218": 204,
     "20220219": 204,
-    "20220220": 204
+    "20220220": 204,
+    "20220221": 203
   },
   "TweetsCountHistory": {
     "20210914": 1201,
@@ -314,20 +315,21 @@
     "20220217": 1441,
     "20220218": 1442,
     "20220219": 1446,
-    "20220220": 1446
+    "20220220": 1446,
+    "20220221": 1448
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3148504460381318873534792076,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220214.0,
-        "Y": 204.0
+        "X": 20220215.0,
+        "Y": 204.1785714285714285714285
       },
       "End": {
-        "X": 20220220.0,
-        "Y": 204.0
+        "X": 20220221.0,
+        "Y": 203.5357142857142857142857
       }
     }
   }
