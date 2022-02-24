@@ -2,8 +2,8 @@
   "PublicName": "grimmnail",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1433540510149341184/fFcCaKBM_normal.png",
   "Login": "GrimmNail",
-  "CurrentFollowersCount": 561,
-  "CurrentTweetsCout": 19,
+  "CurrentFollowersCount": 560,
+  "CurrentTweetsCout": 18,
   "FollowersCountHistory": {
     "20211030": 133,
     "20211031": 137,
@@ -116,7 +116,8 @@
     "20220220": 561,
     "20220221": 562,
     "20220222": 561,
-    "20220223": 561
+    "20220223": 561,
+    "20220224": 560
   },
   "TweetsCountHistory": {
     "20211030": 11,
@@ -230,20 +231,21 @@
     "20220220": 18,
     "20220221": 18,
     "20220222": 18,
-    "20220223": 19
+    "20220223": 19,
+    "20220224": 18
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0381946654783881851168127828,
+    "WeeklyGrowth": -0.1145256728383279251765680532,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220217.0,
-        "Y": 561.03571428571428571428571
+        "X": 20220218.0,
+        "Y": 561.3214285714285714285714
       },
       "End": {
-        "X": 20220223.0,
-        "Y": 561.25000000000000000000000
+        "X": 20220224.0,
+        "Y": 560.6785714285714285714285
       }
     }
   }
