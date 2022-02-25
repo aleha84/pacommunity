@@ -2,7 +2,7 @@
   "PublicName": "Vagrant Pixels",
   "AvatarImage": "https://pbs.twimg.com/profile_images/886240279514284033/BDQ8oa3S_normal.jpg",
   "Login": "VagrantPixels",
-  "CurrentFollowersCount": 5902,
+  "CurrentFollowersCount": 5900,
   "CurrentTweetsCout": 869,
   "FollowersCountHistory": {
     "20210108": 3395,
@@ -389,7 +389,8 @@
     "20220222": 5900,
     "20220223": 5901,
     "20220224": 5905,
-    "20220225": 5902
+    "20220225": 5902,
+    "20220226": 5900
   },
   "TweetsCountHistory": {
     "20210108": 461,
@@ -776,20 +777,21 @@
     "20220222": 867,
     "20220223": 867,
     "20220224": 869,
-    "20220225": 869
+    "20220225": 869,
+    "20220226": 869
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0399498810583086673082835473,
+    "WeeklyGrowth": 0.0326866620259677370539637419,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220219.0,
-        "Y": 5900.250000000000000000000
+        "X": 20220220.0,
+        "Y": 5900.1785714285714285714286
       },
       "End": {
-        "X": 20220225.0,
-        "Y": 5902.607142857142857142857
+        "X": 20220226.0,
+        "Y": 5902.1071428571428571428572
       }
     }
   }
