@@ -2,7 +2,7 @@
   "PublicName": "Shilov",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1391052188659720195/StFp0yCg_normal.jpg",
   "Login": "IndieShilov",
-  "CurrentFollowersCount": 1871,
+  "CurrentFollowersCount": 1870,
   "CurrentTweetsCout": 161,
   "FollowersCountHistory": {
     "20201213": 1512,
@@ -396,7 +396,8 @@
     "20220221": 1869,
     "20220222": 1867,
     "20220223": 1870,
-    "20220224": 1871
+    "20220224": 1871,
+    "20220225": 1870
   },
   "TweetsCountHistory": {
     "20201213": 156,
@@ -790,20 +791,21 @@
     "20220221": 161,
     "20220222": 161,
     "20220223": 161,
-    "20220224": 161
+    "20220224": 161,
+    "20220225": 161
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0114602234743577499761242288,
+    "WeeklyGrowth": 0.011461536992110642037097404,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220218.0,
-        "Y": 1869.82142857142857142857143
+        "X": 20220219.0,
+        "Y": 1869.60714285714285714285714
       },
       "End": {
-        "X": 20220224.0,
-        "Y": 1869.60714285714285714285715
+        "X": 20220225.0,
+        "Y": 1869.82142857142857142857143
       }
     }
   }
