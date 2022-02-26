@@ -2,7 +2,7 @@
   "PublicName": "Autumnpunk",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1113454238024249349/X7-bH1nV_normal.png",
   "Login": "_MorganYoung",
-  "CurrentFollowersCount": 651,
+  "CurrentFollowersCount": 650,
   "CurrentTweetsCout": 112,
   "FollowersCountHistory": {
     "20201214": 648,
@@ -396,7 +396,8 @@
     "20220222": 651,
     "20220223": 651,
     "20220224": 651,
-    "20220225": 651
+    "20220225": 651,
+    "20220226": 650
   },
   "TweetsCountHistory": {
     "20201214": 110,
@@ -790,20 +791,21 @@
     "20220222": 112,
     "20220223": 112,
     "20220224": 112,
-    "20220225": 112
+    "20220225": 112,
+    "20220226": 112
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0987220972961114462787166236,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220219.0,
-        "Y": 651.0
+        "X": 20220220.0,
+        "Y": 651.1785714285714285714285
       },
       "End": {
-        "X": 20220225.0,
-        "Y": 651.0
+        "X": 20220226.0,
+        "Y": 650.5357142857142857142857
       }
     }
   }

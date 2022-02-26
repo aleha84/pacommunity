@@ -2,8 +2,8 @@
   "PublicName": "Bored -- Comms OPEN",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1403145320322813958/lxlltVI0_normal.jpg",
   "Login": "ImBoredNStuff",
-  "CurrentFollowersCount": 39,
-  "CurrentTweetsCout": 317,
+  "CurrentFollowersCount": 38,
+  "CurrentTweetsCout": 316,
   "FollowersCountHistory": {
     "20210914": 39,
     "20210915": 39,
@@ -163,7 +163,8 @@
     "20220222": 39,
     "20220223": 39,
     "20220224": 39,
-    "20220225": 39
+    "20220225": 39,
+    "20220226": 38
   },
   "TweetsCountHistory": {
     "20210914": 315,
@@ -324,20 +325,21 @@
     "20220222": 317,
     "20220223": 317,
     "20220224": 317,
-    "20220225": 317
+    "20220225": 317,
+    "20220226": 316
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.6408386508659981768458006214,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220219.0,
-        "Y": 39.0
+        "X": 20220220.0,
+        "Y": 39.1785714285714285714285
       },
       "End": {
-        "X": 20220225.0,
-        "Y": 39.0
+        "X": 20220226.0,
+        "Y": 38.5357142857142857142857
       }
     }
   }
