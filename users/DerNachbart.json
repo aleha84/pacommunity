@@ -2,7 +2,7 @@
   "PublicName": "DerNachbar",
   "AvatarImage": "https://pbs.twimg.com/profile_images/853884065505824768/kG6H2f_Z_normal.jpg",
   "Login": "DerNachbart",
-  "CurrentFollowersCount": 1010,
+  "CurrentFollowersCount": 1009,
   "CurrentTweetsCout": 1579,
   "FollowersCountHistory": {
     "20210305": 836,
@@ -316,7 +316,8 @@
     "20220223": 1009,
     "20220224": 1009,
     "20220225": 1010,
-    "20220226": 1010
+    "20220226": 1010,
+    "20220227": 1009
   },
   "TweetsCountHistory": {
     "20210305": 1144,
@@ -630,20 +631,21 @@
     "20220223": 1577,
     "20220224": 1578,
     "20220225": 1579,
-    "20220226": 1579
+    "20220226": 1579,
+    "20220227": 1579
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0636379706558246420364094088,
+    "WeeklyGrowth": -0.106055785343090465584894828,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220220.0,
-        "Y": 1010.1785714285714285714285
+        "X": 20220221.0,
+        "Y": 1010.2500000000000000000000
       },
       "End": {
-        "X": 20220226.0,
-        "Y": 1009.5357142857142857142857
+        "X": 20220227.0,
+        "Y": 1009.1785714285714285714286
       }
     }
   }

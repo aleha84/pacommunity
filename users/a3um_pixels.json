@@ -2,7 +2,7 @@
   "PublicName": "a3um",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1160499405184733184/E2isAWYU_normal.png",
   "Login": "a3um_pixels",
-  "CurrentFollowersCount": 4463,
+  "CurrentFollowersCount": 4461,
   "CurrentTweetsCout": 82,
   "FollowersCountHistory": {
     "20201215": 3198,
@@ -395,7 +395,8 @@
     "20220223": 4462,
     "20220224": 4461,
     "20220225": 4463,
-    "20220226": 4463
+    "20220226": 4463,
+    "20220227": 4461
   },
   "TweetsCountHistory": {
     "20201215": 59,
@@ -788,20 +789,21 @@
     "20220223": 82,
     "20220224": 82,
     "20220225": 82,
-    "20220226": 82
+    "20220226": 82,
+    "20220227": 82
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.014407953190160968854806573,
+    "WeeklyGrowth": -0.0048023435436493008588191998,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220220.0,
-        "Y": 4461.8214285714285714285715
+        "X": 20220221.0,
+        "Y": 4462.10714285714285714285714
       },
       "End": {
-        "X": 20220226.0,
-        "Y": 4462.4642857142857142857143
+        "X": 20220227.0,
+        "Y": 4461.89285714285714285714285
       }
     }
   }
