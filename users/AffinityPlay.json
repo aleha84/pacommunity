@@ -2,7 +2,7 @@
   "PublicName": "Gordon Zuchhold",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1448041730352295936/jSszo8WR_normal.jpg",
   "Login": "AffinityPlay",
-  "CurrentFollowersCount": 10947,
+  "CurrentFollowersCount": 10949,
   "CurrentTweetsCout": 16660,
   "FollowersCountHistory": {
     "20210116": 6610,
@@ -384,7 +384,8 @@
     "20220225": 10951,
     "20220226": 10950,
     "20220227": 10949,
-    "20220228": 10947
+    "20220228": 10947,
+    "20220301": 10949
   },
   "TweetsCountHistory": {
     "20210116": 7738,
@@ -766,20 +767,21 @@
     "20220225": 16621,
     "20220226": 16624,
     "20220227": 16640,
-    "20220228": 16660
+    "20220228": 16660,
+    "20220301": 16660
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.037194734008711398228361311,
+    "WeeklyGrowth": -0.003569741162474608449889253,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220222.0,
-        "Y": 10946.250000000000000000000
+        "X": 20220223.0,
+        "Y": 10949.35228994289709824060884
       },
       "End": {
-        "X": 20220228.0,
-        "Y": 10950.321428571428571428572
+        "X": 20220301.0,
+        "Y": 10948.96142640717865050542143
       }
     }
   }

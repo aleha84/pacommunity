@@ -2,7 +2,7 @@
   "PublicName": "Barker is streaming",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1480712347954159617/p9LZdQcF_normal.jpg",
   "Login": "BarkerMugen",
-  "CurrentFollowersCount": 8303,
+  "CurrentFollowersCount": 8302,
   "CurrentTweetsCout": 1640,
   "FollowersCountHistory": {
     "20210222": 5872,
@@ -346,7 +346,8 @@
     "20220225": 8271,
     "20220226": 8298,
     "20220227": 8297,
-    "20220228": 8303
+    "20220228": 8303,
+    "20220301": 8302
   },
   "TweetsCountHistory": {
     "20210222": 1158,
@@ -690,20 +691,21 @@
     "20220225": 1639,
     "20220226": 1640,
     "20220227": 1640,
-    "20220228": 1640
+    "20220228": 1640,
+    "20220301": 1640
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.9160782136474833874074127002,
+    "WeeklyGrowth": 0.3539788290526728641964670878,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220222.0,
-        "Y": 8233.85714285714285714285
+        "X": 20220223.0,
+        "Y": 8275.7245950355436429030625
       },
       "End": {
-        "X": 20220228.0,
-        "Y": 8309.28571428571428571428
+        "X": 20220301.0,
+        "Y": 8305.0189080526745136012114
       }
     }
   }
