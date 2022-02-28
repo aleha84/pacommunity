@@ -2,7 +2,7 @@
   "PublicName": "RM",
   "AvatarImage": "https://pbs.twimg.com/profile_images/675978671367188480/Zzl_yRcq_normal.png",
   "Login": "RM_TSS",
-  "CurrentFollowersCount": 4542,
+  "CurrentFollowersCount": 4543,
   "CurrentTweetsCout": 9277,
   "FollowersCountHistory": {
     "20210208": 3858,
@@ -342,7 +342,8 @@
     "20220224": 4544,
     "20220225": 4542,
     "20220226": 4543,
-    "20220227": 4542
+    "20220227": 4542,
+    "20220228": 4543
   },
   "TweetsCountHistory": {
     "20210208": 7293,
@@ -682,20 +683,21 @@
     "20220224": 9268,
     "20220225": 9272,
     "20220226": 9275,
-    "20220227": 9277
+    "20220227": 9277,
+    "20220228": 9277
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0188714851858841290809577275,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220221.0,
-        "Y": 4542.0000000000000000000001
+        "X": 20220222.0,
+        "Y": 4542.7142857142857142857142857
       },
       "End": {
-        "X": 20220227.0,
-        "Y": 4542.8571428571428571428572
+        "X": 20220228.0,
+        "Y": 4542.7142857142857142857142857
       }
     }
   }

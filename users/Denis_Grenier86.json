@@ -2,8 +2,8 @@
   "PublicName": "Denis Grenier",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1462142647355781124/v-dfhU9h_normal.jpg",
   "Login": "Denis_Grenier86",
-  "CurrentFollowersCount": 97,
-  "CurrentTweetsCout": 665,
+  "CurrentFollowersCount": 96,
+  "CurrentTweetsCout": 666,
   "FollowersCountHistory": {
     "20201229": 82,
     "20201230": 82,
@@ -383,7 +383,8 @@
     "20220224": 97,
     "20220225": 97,
     "20220226": 97,
-    "20220227": 97
+    "20220227": 97,
+    "20220228": 96
   },
   "TweetsCountHistory": {
     "20201229": 136,
@@ -764,20 +765,21 @@
     "20220224": 663,
     "20220225": 665,
     "20220226": 665,
-    "20220227": 665
+    "20220227": 665,
+    "20220228": 666
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.6615214994487320837926649478,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220221.0,
-        "Y": 97.0
+        "X": 20220222.0,
+        "Y": 97.1785714285714285714285
       },
       "End": {
-        "X": 20220227.0,
-        "Y": 97.0
+        "X": 20220228.0,
+        "Y": 96.5357142857142857142857
       }
     }
   }
