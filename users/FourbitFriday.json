@@ -2,7 +2,7 @@
   "PublicName": "Tyriq Plummer",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1456653687061766149/ktUgRpb3_normal.jpg",
   "Login": "FourbitFriday",
-  "CurrentFollowersCount": 4673,
+  "CurrentFollowersCount": 4672,
   "CurrentTweetsCout": 7876,
   "FollowersCountHistory": {
     "20210115": 4397,
@@ -386,7 +386,8 @@
     "20220226": 4675,
     "20220227": 4676,
     "20220228": 4673,
-    "20220301": 4673
+    "20220301": 4673,
+    "20220302": 4672
   },
   "TweetsCountHistory": {
     "20210115": 6924,
@@ -770,20 +771,21 @@
     "20220226": 7870,
     "20220227": 7870,
     "20220228": 7874,
-    "20220301": 7876
+    "20220301": 7876,
+    "20220302": 7876
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0210593147065542500955318174,
+    "WeeklyGrowth": -0.0468623841529717389656265045,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220223.0,
-        "Y": 4672.40382822514858408014059
+        "X": 20220224.0,
+        "Y": 4674.66201205410330086316841
       },
       "End": {
-        "X": 20220301.0,
-        "Y": 4673.38780445169560657737970
+        "X": 20220302.0,
+        "Y": 4672.47135398416146891595653
       }
     }
   }
