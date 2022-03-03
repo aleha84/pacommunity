@@ -2,7 +2,7 @@
   "PublicName": "Sergi Savaneli",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1498668560402599942/68Rt5zQM_normal.jpg",
   "Login": "Trid337",
-  "CurrentFollowersCount": 276,
+  "CurrentFollowersCount": 275,
   "CurrentTweetsCout": 386,
   "FollowersCountHistory": {
     "20210116": 150,
@@ -371,7 +371,8 @@
     "20220227": 276,
     "20220228": 276,
     "20220301": 276,
-    "20220302": 276
+    "20220302": 276,
+    "20220303": 275
   },
   "TweetsCountHistory": {
     "20210116": 201,
@@ -740,20 +741,21 @@
     "20220227": 386,
     "20220228": 386,
     "20220301": 386,
-    "20220302": 386
+    "20220302": 386,
+    "20220303": 386
   },
   "LangId": "ge",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1275681208843177532002545075,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220224.0,
-        "Y": 276.0
+        "X": 20220225.0,
+        "Y": 276.00997779465903114524215
       },
       "End": {
-        "X": 20220302.0,
-        "Y": 276.0
+        "X": 20220303.0,
+        "Y": 275.65787705253316192455770
       }
     }
   }
