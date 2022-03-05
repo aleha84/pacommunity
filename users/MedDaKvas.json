@@ -2,7 +2,7 @@
   "PublicName": "MedDaKvas",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1257724381553442816/rlrjDhSo_normal.jpg",
   "Login": "MedDaKvas",
-  "CurrentFollowersCount": 143,
+  "CurrentFollowersCount": 142,
   "CurrentTweetsCout": 105,
   "FollowersCountHistory": {
     "20210111": 150,
@@ -375,7 +375,8 @@
     "20220301": 143,
     "20220302": 143,
     "20220303": 143,
-    "20220304": 143
+    "20220304": 143,
+    "20220305": 142
   },
   "TweetsCountHistory": {
     "20210111": 89,
@@ -748,20 +749,21 @@
     "20220301": 105,
     "20220302": 105,
     "20220303": 105,
-    "20220304": 105
+    "20220304": 105,
+    "20220305": 105
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1576685151166373363546947395,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220226.0,
-        "Y": 143.0
+        "X": 20220227.0,
+        "Y": 143.014489452659611746021060
       },
       "End": {
-        "X": 20220304.0,
-        "Y": 143.0
+        "X": 20220305.0,
+        "Y": 142.789000630737963417077495
       }
     }
   }
