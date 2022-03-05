@@ -2,7 +2,7 @@
   "PublicName": "Clay",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1153859451717160960/FgNDP5Ks_normal.jpg",
   "Login": "ClayTaeto",
-  "CurrentFollowersCount": 592,
+  "CurrentFollowersCount": 591,
   "CurrentTweetsCout": 3177,
   "FollowersCountHistory": {
     "20210115": 590,
@@ -390,7 +390,8 @@
     "20220302": 592,
     "20220303": 592,
     "20220304": 591,
-    "20220305": 592
+    "20220305": 592,
+    "20220306": 591
   },
   "TweetsCountHistory": {
     "20210115": 2638,
@@ -778,20 +779,21 @@
     "20220302": 3175,
     "20220303": 3174,
     "20220304": 3175,
-    "20220305": 3177
+    "20220305": 3177,
+    "20220306": 3177
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0198697565303163373338863807,
+    "WeeklyGrowth": -0.0882874797822163430208651619,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220227.0,
-        "Y": 591.489417618613778120285790
+        "X": 20220228.0,
+        "Y": 592.00506933923785106879833
       },
       "End": {
-        "X": 20220305.0,
-        "Y": 591.606945125797182703813240
+        "X": 20220306.0,
+        "Y": 591.48240298333527560839239
       }
     }
   }

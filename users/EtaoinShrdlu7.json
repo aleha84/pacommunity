@@ -2,7 +2,7 @@
   "PublicName": "Alice",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1310795787169943553/ViZ43ztI_normal.jpg",
   "Login": "EtaoinShrdlu7",
-  "CurrentFollowersCount": 2623,
+  "CurrentFollowersCount": 2624,
   "CurrentTweetsCout": 632,
   "FollowersCountHistory": {
     "20210207": 404,
@@ -367,7 +367,8 @@
     "20220302": 2619,
     "20220303": 2617,
     "20220304": 2623,
-    "20220305": 2623
+    "20220305": 2623,
+    "20220306": 2624
   },
   "TweetsCountHistory": {
     "20210207": 315,
@@ -732,20 +733,21 @@
     "20220302": 632,
     "20220303": 632,
     "20220304": 632,
-    "20220305": 632
+    "20220305": 632,
+    "20220306": 632
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0560534080883242877756913923,
+    "WeeklyGrowth": 0.0256776906200401564606575057,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220227.0,
-        "Y": 2620.88227976732777349679477
+        "X": 20220228.0,
+        "Y": 2619.58478032863302645059801
       },
       "End": {
-        "X": 20220305.0,
-        "Y": 2619.41318592753521620217550
+        "X": 20220306.0,
+        "Y": 2620.25742920405547139093684
       }
     }
   }
