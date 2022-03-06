@@ -2,7 +2,7 @@
   "PublicName": "A pixel farmer doing honest work.",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1406801376592732161/YfnBSZZ-_normal.jpg",
   "Login": "ohilin",
-  "CurrentFollowersCount": 12222,
+  "CurrentFollowersCount": 12221,
   "CurrentTweetsCout": 10499,
   "FollowersCountHistory": {
     "20210113": 4978,
@@ -392,7 +392,8 @@
     "20220303": 12227,
     "20220304": 12225,
     "20220305": 12221,
-    "20220306": 12222
+    "20220306": 12222,
+    "20220307": 12221
   },
   "TweetsCountHistory": {
     "20210113": 5963,
@@ -782,20 +783,21 @@
     "20220303": 10506,
     "20220304": 10502,
     "20220305": 10502,
-    "20220306": 10499
+    "20220306": 10499,
+    "20220307": 10499
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0106156740324598367156257148,
+    "WeeklyGrowth": -0.0455674017818022491602208256,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220228.0,
-        "Y": 12223.20915394476168278165805
+        "X": 20220301.0,
+        "Y": 12226.785714285714285714286
       },
       "End": {
-        "X": 20220306.0,
-        "Y": 12224.50672998485025055475895
+        "X": 20220307.0,
+        "Y": 12221.214285714285714285714
       }
     }
   }

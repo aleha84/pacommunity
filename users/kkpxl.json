@@ -2,7 +2,7 @@
   "PublicName": "kookyloon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1323582569888141312/NVd17OfY_normal.jpg",
   "Login": "kkpxl",
-  "CurrentFollowersCount": 2106,
+  "CurrentFollowersCount": 2105,
   "CurrentTweetsCout": 796,
   "FollowersCountHistory": {
     "20210203": 1446,
@@ -356,7 +356,8 @@
     "20220302": 2106,
     "20220303": 2106,
     "20220304": 2106,
-    "20220305": 2106
+    "20220305": 2106,
+    "20220306": 2105
   },
   "TweetsCountHistory": {
     "20210203": 482,
@@ -710,20 +711,21 @@
     "20220302": 796,
     "20220303": 796,
     "20220304": 796,
-    "20220305": 796
+    "20220305": 796,
+    "20220306": 796
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0100349356587565210169089898,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220227.0,
-        "Y": 2106.0
+        "X": 20220228.0,
+        "Y": 2106.032484558909218040820618
       },
       "End": {
-        "X": 20220305.0,
-        "Y": 2106.0
+        "X": 20220306.0,
+        "Y": 2105.821145554131220137314972
       }
     }
   }

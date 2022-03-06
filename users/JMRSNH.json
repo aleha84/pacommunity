@@ -2,8 +2,8 @@
   "PublicName": "JMRSN",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1317615564353884161/PIiKGm3G_normal.jpg",
   "Login": "JMRSNH",
-  "CurrentFollowersCount": 1234,
-  "CurrentTweetsCout": 1038,
+  "CurrentFollowersCount": 1233,
+  "CurrentTweetsCout": 1039,
   "FollowersCountHistory": {
     "20210204": 291,
     "20210205": 295,
@@ -371,7 +371,8 @@
     "20220303": 1234,
     "20220304": 1234,
     "20220305": 1234,
-    "20220306": 1234
+    "20220306": 1234,
+    "20220307": 1233
   },
   "TweetsCountHistory": {
     "20210204": 411,
@@ -740,20 +741,21 @@
     "20220303": 1037,
     "20220304": 1038,
     "20220305": 1038,
-    "20220306": 1038
+    "20220306": 1038,
+    "20220307": 1039
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1048627445624867678335222663,
+    "WeeklyGrowth": -0.1561460833357429951132082165,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220228.0,
-        "Y": 1233.07006759118983800802307
+        "X": 20220301.0,
+        "Y": 1235.1071428571428571428572
       },
       "End": {
-        "X": 20220306.0,
-        "Y": 1234.36309870644447034272375
+        "X": 20220307.0,
+        "Y": 1233.1785714285714285714286
       }
     }
   }
