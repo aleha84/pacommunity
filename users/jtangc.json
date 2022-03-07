@@ -2,8 +2,8 @@
   "PublicName": "James T.",
   "AvatarImage": "https://pbs.twimg.com/profile_images/775121306324918273/UNKCi7ee_normal.jpg",
   "Login": "jtangc",
-  "CurrentFollowersCount": 30185,
-  "CurrentTweetsCout": 6591,
+  "CurrentFollowersCount": 30187,
+  "CurrentTweetsCout": 6592,
   "FollowersCountHistory": {
     "20211030": 29363,
     "20211031": 29369,
@@ -129,7 +129,8 @@
     "20220303": 30195,
     "20220304": 30193,
     "20220305": 30189,
-    "20220306": 30185
+    "20220306": 30185,
+    "20220307": 30187
   },
   "TweetsCountHistory": {
     "20211030": 5948,
@@ -256,20 +257,21 @@
     "20220303": 6578,
     "20220304": 6582,
     "20220305": 6586,
-    "20220306": 6591
+    "20220306": 6591,
+    "20220307": 6592
   },
   "LangId": "cn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.011027943061893249128805809,
+    "WeeklyGrowth": -0.0298057657597986454935338047,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220228.0,
-        "Y": 30188.3807539913762964530373
+        "X": 20220301.0,
+        "Y": 30195.5
       },
       "End": {
-        "X": 20220306.0,
-        "Y": 30191.7099114322340053639460
+        "X": 20220307.0,
+        "Y": 30186.5
       }
     }
   }

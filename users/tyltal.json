@@ -2,7 +2,7 @@
   "PublicName": "Tyltal",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1450591140718301187/8h8qllGE_normal.jpg",
   "Login": "tyltal",
-  "CurrentFollowersCount": 382,
+  "CurrentFollowersCount": 381,
   "CurrentTweetsCout": 1736,
   "FollowersCountHistory": {
     "20210116": 26,
@@ -372,7 +372,8 @@
     "20220303": 382,
     "20220304": 382,
     "20220305": 382,
-    "20220306": 382
+    "20220306": 382,
+    "20220307": 381
   },
   "TweetsCountHistory": {
     "20210116": 58,
@@ -742,20 +743,21 @@
     "20220303": 1736,
     "20220304": 1736,
     "20220305": 1736,
-    "20220306": 1736
+    "20220306": 1736,
+    "20220307": 1736
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.168208578637510513036149924,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220228.0,
-        "Y": 382.0
+        "X": 20220301.0,
+        "Y": 382.1785714285714285714285
       },
       "End": {
-        "X": 20220306.0,
-        "Y": 382.0
+        "X": 20220307.0,
+        "Y": 381.5357142857142857142857
       }
     }
   }

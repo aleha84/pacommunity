@@ -2,7 +2,7 @@
   "PublicName": "Florian Hurtaut",
   "AvatarImage": "https://pbs.twimg.com/profile_images/968134939282673666/SEv_BeMn_normal.jpg",
   "Login": "FlorianHurtaut",
-  "CurrentFollowersCount": 1071,
+  "CurrentFollowersCount": 1070,
   "CurrentTweetsCout": 974,
   "FollowersCountHistory": {
     "20201229": 1024,
@@ -390,7 +390,8 @@
     "20220303": 1071,
     "20220304": 1071,
     "20220305": 1072,
-    "20220306": 1071
+    "20220306": 1071,
+    "20220307": 1070
   },
   "TweetsCountHistory": {
     "20201229": 916,
@@ -778,20 +779,21 @@
     "20220303": 974,
     "20220304": 974,
     "20220305": 974,
-    "20220306": 974
+    "20220306": 974,
+    "20220307": 974
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.018247925985019399538643888,
+    "WeeklyGrowth": -0.0400080016003200640128052272,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220228.0,
-        "Y": 1070.980713203589325252578739
+        "X": 20220301.0,
+        "Y": 1071.2142857142857142857143
       },
       "End": {
-        "X": 20220306.0,
-        "Y": 1071.176144971448549120331517
+        "X": 20220307.0,
+        "Y": 1070.7857142857142857142857
       }
     }
   }
