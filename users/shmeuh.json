@@ -2,8 +2,8 @@
   "PublicName": "Monsieur Shmeuh",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1452182965522518033/JZburl7O_normal.png",
   "Login": "shmeuh",
-  "CurrentFollowersCount": 2020,
-  "CurrentTweetsCout": 138,
+  "CurrentFollowersCount": 2029,
+  "CurrentTweetsCout": 143,
   "FollowersCountHistory": {
     "20201229": 1283,
     "20201230": 1284,
@@ -391,7 +391,9 @@
     "20220304": 2015,
     "20220305": 2017,
     "20220306": 2019,
-    "20220307": 2020
+    "20220307": 2020,
+    "20220313": 2030,
+    "20220314": 2029
   },
   "TweetsCountHistory": {
     "20201229": 86,
@@ -780,20 +782,22 @@
     "20220304": 138,
     "20220305": 138,
     "20220306": 138,
-    "20220307": 138
+    "20220307": 138,
+    "20220313": 143,
+    "20220314": 143
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 2.3773503349902744759021684317,
+    "WeeklyGrowth": 0.82486035018197844625949467,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 1983.00000000000000000000
+        "X": 20220303.0,
+        "Y": 2013.741206030150752928556
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 2030.14285714285714285714
+        "X": 20220314.0,
+        "Y": 2030.351758793969850493111
       }
     }
   }

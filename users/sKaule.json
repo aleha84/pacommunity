@@ -2,7 +2,7 @@
   "PublicName": "Steven Kaule",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1360609813126864899/kn9CZnEH_normal.jpg",
   "Login": "sKaule",
-  "CurrentFollowersCount": 1824,
+  "CurrentFollowersCount": 1822,
   "CurrentTweetsCout": 692,
   "FollowersCountHistory": {
     "20201219": 1477,
@@ -401,7 +401,9 @@
     "20220304": 1824,
     "20220305": 1824,
     "20220306": 1824,
-    "20220307": 1824
+    "20220307": 1824,
+    "20220313": 1822,
+    "20220314": 1822
   },
   "TweetsCountHistory": {
     "20201219": 657,
@@ -800,20 +802,22 @@
     "20220304": 692,
     "20220305": 692,
     "20220306": 692,
-    "20220307": 692
+    "20220307": 692,
+    "20220313": 692,
+    "20220314": 692
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1287699645090696910259773112,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 1824.0
+        "X": 20220303.0,
+        "Y": 1824.3743718592964825307127
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 1824.0
+        "X": 20220314.0,
+        "Y": 1822.0251256281407033415234
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "Max Ritters",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1167178080345120769/z3pznhiP_normal.jpg",
   "Login": "max_ritters",
-  "CurrentFollowersCount": 120,
-  "CurrentTweetsCout": 649,
+  "CurrentFollowersCount": 121,
+  "CurrentTweetsCout": 651,
   "FollowersCountHistory": {
     "20201217": 90,
     "20201218": 91,
@@ -403,7 +403,9 @@
     "20220304": 120,
     "20220305": 120,
     "20220306": 120,
-    "20220307": 120
+    "20220307": 120,
+    "20220313": 121,
+    "20220314": 121
   },
   "TweetsCountHistory": {
     "20201217": 557,
@@ -804,20 +806,22 @@
     "20220304": 649,
     "20220305": 649,
     "20220306": 649,
-    "20220307": 649
+    "20220307": 649,
+    "20220313": 651,
+    "20220314": 651
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.9803818770905203027281954476,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 120.0
+        "X": 20220303.0,
+        "Y": 119.8128140703517587345658
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 120.0
+        "X": 20220314.0,
+        "Y": 120.9874371859296483293539
       }
     }
   }

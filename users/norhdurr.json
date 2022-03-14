@@ -2,7 +2,7 @@
   "PublicName": "NOR",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1459519045166944267/dsAQj5K-_normal.jpg",
   "Login": "norhdurr",
-  "CurrentFollowersCount": 515,
+  "CurrentFollowersCount": 514,
   "CurrentTweetsCout": 10,
   "FollowersCountHistory": {
     "20210311": 146,
@@ -278,7 +278,9 @@
     "20220304": 514,
     "20220305": 515,
     "20220306": 515,
-    "20220307": 515
+    "20220307": 515,
+    "20220313": 514,
+    "20220314": 514
   },
   "TweetsCountHistory": {
     "20210311": 6,
@@ -554,20 +556,22 @@
     "20220304": 10,
     "20220305": 10,
     "20220306": 10,
-    "20220307": 10
+    "20220307": 10,
+    "20220313": 10,
+    "20220314": 10
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1637108441965603849676294598,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 514.85714285714285714285714286
+        "X": 20220303.0,
+        "Y": 514.9108040201005025552091
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 514.85714285714285714285714286
+        "X": 20220314.0,
+        "Y": 514.0678391959798994342059
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "𝗯' 🦕",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1325276420420079616/bwIQX7ic_normal.png",
   "Login": "belinhacbr",
-  "CurrentFollowersCount": 145,
+  "CurrentFollowersCount": 143,
   "CurrentTweetsCout": 3437,
   "FollowersCountHistory": {
     "20210101": 154,
@@ -388,7 +388,9 @@
     "20220304": 145,
     "20220305": 145,
     "20220306": 145,
-    "20220307": 145
+    "20220307": 145,
+    "20220313": 144,
+    "20220314": 143
   },
   "TweetsCountHistory": {
     "20210101": 3354,
@@ -774,20 +776,22 @@
     "20220304": 3437,
     "20220305": 3437,
     "20220306": 3437,
-    "20220307": 3437
+    "20220307": 3437,
+    "20220313": 3437,
+    "20220314": 3437
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.2459039071754037127625105482,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 145.0
+        "X": 20220303.0,
+        "Y": 145.3002512562814071267477
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 145.0
+        "X": 20220314.0,
+        "Y": 143.4899497487437184570842
       }
     }
   }

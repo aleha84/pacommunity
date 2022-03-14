@@ -2,8 +2,8 @@
   "PublicName": "Glentgm",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1477018106841243648/cKB91KON_normal.jpg",
   "Login": "Glentgm",
-  "CurrentFollowersCount": 916,
-  "CurrentTweetsCout": 509,
+  "CurrentFollowersCount": 901,
+  "CurrentTweetsCout": 515,
   "FollowersCountHistory": {
     "20201219": 338,
     "20201220": 340,
@@ -401,7 +401,9 @@
     "20220304": 914,
     "20220305": 913,
     "20220306": 918,
-    "20220307": 916
+    "20220307": 916,
+    "20220313": 905,
+    "20220314": 901
   },
   "TweetsCountHistory": {
     "20201219": 362,
@@ -800,20 +802,22 @@
     "20220304": 503,
     "20220305": 503,
     "20220306": 509,
-    "20220307": 509
+    "20220307": 509,
+    "20220313": 515,
+    "20220314": 515
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1639920346726016164929131962,
+    "WeeklyGrowth": -1.6123006179048715908030321847,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 914.6785714285714285714286
+        "X": 20220303.0,
+        "Y": 917.958542713567839944541
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 916.1785714285714285714286
+        "X": 20220314.0,
+        "Y": 903.158291457286431050037
       }
     }
   }

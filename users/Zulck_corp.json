@@ -2,7 +2,7 @@
   "PublicName": "Zulck",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1430303042352697348/0wJxKyFS_normal.jpg",
   "Login": "Zulck_corp",
-  "CurrentFollowersCount": 91,
+  "CurrentFollowersCount": 90,
   "CurrentTweetsCout": 47,
   "FollowersCountHistory": {
     "20210126": 77,
@@ -363,7 +363,9 @@
     "20220304": 91,
     "20220305": 91,
     "20220306": 91,
-    "20220307": 91
+    "20220307": 91,
+    "20220313": 90,
+    "20220314": 90
   },
   "TweetsCountHistory": {
     "20210126": 33,
@@ -724,20 +726,22 @@
     "20220304": 47,
     "20220305": 47,
     "20220306": 47,
-    "20220307": 47
+    "20220307": 47,
+    "20220313": 47,
+    "20220314": 47
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.2881449335262108105562034035,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 91.0
+        "X": 20220303.0,
+        "Y": 91.1871859296482412654342
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 91.0
+        "X": 20220314.0,
+        "Y": 90.0125628140703516706461
       }
     }
   }

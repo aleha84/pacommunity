@@ -2,7 +2,7 @@
   "PublicName": "Spirit",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1233080585633062915/HIgIBoAx_normal.jpg",
   "Login": "angryed3",
-  "CurrentFollowersCount": 169,
+  "CurrentFollowersCount": 168,
   "CurrentTweetsCout": 115,
   "FollowersCountHistory": {
     "20210112": 174,
@@ -377,7 +377,9 @@
     "20220304": 169,
     "20220305": 169,
     "20220306": 169,
-    "20220307": 169
+    "20220307": 169,
+    "20220313": 168,
+    "20220314": 168
   },
   "TweetsCountHistory": {
     "20210112": 115,
@@ -752,20 +754,22 @@
     "20220304": 115,
     "20220305": 115,
     "20220306": 115,
-    "20220307": 115
+    "20220307": 115,
+    "20220313": 115,
+    "20220314": 115
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.694274279179939644266509011,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 169.0
+        "X": 20220303.0,
+        "Y": 169.1871859296482412654342
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 169.0
+        "X": 20220314.0,
+        "Y": 168.0125628140703516706461
       }
     }
   }

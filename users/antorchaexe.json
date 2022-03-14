@@ -1,9 +1,9 @@
 {
   "PublicName": "Quince",
-  "AvatarImage": "https://pbs.twimg.com/profile_images/1449444517241778176/BppoK2LC_normal.jpg",
+  "AvatarImage": "https://pbs.twimg.com/profile_images/1502732225749655553/kbDQJytD_normal.jpg",
   "Login": "antorchaexe",
-  "CurrentFollowersCount": 170,
-  "CurrentTweetsCout": 107,
+  "CurrentFollowersCount": 169,
+  "CurrentTweetsCout": 111,
   "FollowersCountHistory": {
     "20210128": 15,
     "20210129": 16,
@@ -361,7 +361,9 @@
     "20220304": 170,
     "20220305": 170,
     "20220306": 170,
-    "20220307": 170
+    "20220307": 170,
+    "20220313": 168,
+    "20220314": 169
   },
   "TweetsCountHistory": {
     "20210128": 14,
@@ -720,20 +722,22 @@
     "20220304": 107,
     "20220305": 107,
     "20220306": 107,
-    "20220307": 107
+    "20220307": 107,
+    "20220313": 110,
+    "20220314": 111
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.0064340947995987328702579836,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 170.0
+        "X": 20220303.0,
+        "Y": 170.2613065326633166695939
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 170.0
+        "X": 20220314.0,
+        "Y": 168.5477386934673365547964
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "leo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1403395716584771588/2nAzTn62_normal.jpg",
   "Login": "rokettopunch",
-  "CurrentFollowersCount": 424,
-  "CurrentTweetsCout": 3195,
+  "CurrentFollowersCount": 422,
+  "CurrentTweetsCout": 3205,
   "FollowersCountHistory": {
     "20210914": 359,
     "20210915": 359,
@@ -173,7 +173,9 @@
     "20220304": 423,
     "20220305": 423,
     "20220306": 423,
-    "20220307": 424
+    "20220307": 424,
+    "20220313": 423,
+    "20220314": 422
   },
   "TweetsCountHistory": {
     "20210914": 2945,
@@ -344,20 +346,22 @@
     "20220304": 3192,
     "20220305": 3194,
     "20220306": 3195,
-    "20220307": 3195
+    "20220307": 3195,
+    "20220313": 3203,
+    "20220314": 3205
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2609912923814269433185216562,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 423.42857142857142857142857143
+        "X": 20220303.0,
+        "Y": 423.5879396984924623674561
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 423.42857142857142857142857143
+        "X": 20220314.0,
+        "Y": 422.4824120603015074547428
       }
     }
   }

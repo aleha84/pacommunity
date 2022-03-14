@@ -2,7 +2,7 @@
   "PublicName": "Naikomy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1286083378857611265/lGfYhjR6_normal.jpg",
   "Login": "naikomy",
-  "CurrentFollowersCount": 19,
+  "CurrentFollowersCount": 21,
   "CurrentTweetsCout": 125,
   "FollowersCountHistory": {
     "20210914": 16,
@@ -173,7 +173,9 @@
     "20220304": 19,
     "20220305": 19,
     "20220306": 19,
-    "20220307": 19
+    "20220307": 19,
+    "20220313": 21,
+    "20220314": 21
   },
   "TweetsCountHistory": {
     "20210914": 75,
@@ -344,20 +346,22 @@
     "20220304": 125,
     "20220305": 125,
     "20220306": 125,
-    "20220307": 125
+    "20220307": 125,
+    "20220313": 125,
+    "20220314": 125
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 12.612977202212331356098500068,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 19.0
+        "X": 20220303.0,
+        "Y": 18.6256281407035174691199
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 19.0
+        "X": 20220314.0,
+        "Y": 20.9748743718592966587251
       }
     }
   }

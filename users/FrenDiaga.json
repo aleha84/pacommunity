@@ -2,8 +2,8 @@
   "PublicName": "Diaga",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1452297416145780744/GUmdq9iM_normal.jpg",
   "Login": "FrenDiaga",
-  "CurrentFollowersCount": 266,
-  "CurrentTweetsCout": 135,
+  "CurrentFollowersCount": 265,
+  "CurrentTweetsCout": 137,
   "FollowersCountHistory": {
     "20210914": 266,
     "20210915": 266,
@@ -173,7 +173,9 @@
     "20220304": 266,
     "20220305": 266,
     "20220306": 266,
-    "20220307": 266
+    "20220307": 266,
+    "20220313": 265,
+    "20220314": 265
   },
   "TweetsCountHistory": {
     "20210914": 128,
@@ -344,20 +346,22 @@
     "20220304": 135,
     "20220305": 135,
     "20220306": 135,
-    "20220307": 135
+    "20220307": 135,
+    "20220313": 137,
+    "20220314": 137
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.242098184263618022864807007,
+    "WeeklyGrowth": -0.4412771078651155661055133537,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 265.5357142857142857142857
+        "X": 20220303.0,
+        "Y": 266.1871859296482412654342
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 266.1785714285714285714285
+        "X": 20220314.0,
+        "Y": 265.0125628140703516706461
       }
     }
   }

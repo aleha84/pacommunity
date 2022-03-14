@@ -2,8 +2,8 @@
   "PublicName": "So Long Trans Bowser",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1486588446302953479/qVzalRdp_normal.jpg",
   "Login": "Kapikyo",
-  "CurrentFollowersCount": 109,
-  "CurrentTweetsCout": 41253,
+  "CurrentFollowersCount": 108,
+  "CurrentTweetsCout": 41690,
   "FollowersCountHistory": {
     "20210214": 97,
     "20210215": 98,
@@ -357,7 +357,8 @@
     "20220304": 109,
     "20220305": 109,
     "20220306": 109,
-    "20220307": 109
+    "20220307": 109,
+    "20220314": 108
   },
   "TweetsCountHistory": {
     "20210214": 25660,
@@ -712,20 +713,21 @@
     "20220304": 41149,
     "20220305": 41148,
     "20220306": 41149,
-    "20220307": 41253
+    "20220307": 41253,
+    "20220314": 41690
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.1912640635340833884845275918,
+    "WeeklyGrowth": -0.1663662830999583332540488215,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 107.9285714285714285714285
+        "X": 20220302.0,
+        "Y": 108.62951807228915660024334
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 109.2142857142857142857143
+        "X": 20220314.0,
+        "Y": 108.44879518072289162170850
       }
     }
   }

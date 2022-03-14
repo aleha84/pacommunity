@@ -2,7 +2,7 @@
   "PublicName": "GatoTempura",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1427141788217786369/kaYJhHAz_normal.jpg",
   "Login": "vancespng",
-  "CurrentFollowersCount": 101,
+  "CurrentFollowersCount": 102,
   "CurrentTweetsCout": 107,
   "FollowersCountHistory": {
     "20201228": 44,
@@ -392,7 +392,9 @@
     "20220304": 99,
     "20220305": 99,
     "20220306": 100,
-    "20220307": 101
+    "20220307": 101,
+    "20220313": 102,
+    "20220314": 102
   },
   "TweetsCountHistory": {
     "20201228": 6,
@@ -782,20 +784,22 @@
     "20220304": 107,
     "20220305": 107,
     "20220306": 107,
-    "20220307": 107
+    "20220307": 107,
+    "20220313": 107,
+    "20220314": 107
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.0818608005769924269743672675,
+    "WeeklyGrowth": 3.3376074343967808842351375871,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 99.0357142857142857142857
+        "X": 20220303.0,
+        "Y": 98.9560301507537686771808
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 100.1071428571428571428571
+        "X": 20220314.0,
+        "Y": 102.2587939698492464790217
       }
     }
   }
