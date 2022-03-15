@@ -2,8 +2,8 @@
   "PublicName": "cure",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1476412529907695619/DtnYLwSW_normal.jpg",
   "Login": "cure_pixel",
-  "CurrentFollowersCount": 11607,
-  "CurrentTweetsCout": 624,
+  "CurrentFollowersCount": 11605,
+  "CurrentTweetsCout": 626,
   "FollowersCountHistory": {
     "20210209": 2727,
     "20210210": 2744,
@@ -368,7 +368,8 @@
     "20220305": 11584,
     "20220306": 11585,
     "20220307": 11585,
-    "20220314": 11607
+    "20220314": 11607,
+    "20220315": 11605
   },
   "TweetsCountHistory": {
     "20210209": 222,
@@ -734,20 +735,21 @@
     "20220305": 621,
     "20220306": 621,
     "20220307": 621,
-    "20220314": 624
+    "20220314": 624,
+    "20220315": 626
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0115310029453402,
+    "WeeklyGrowth": 0.0821926597712622636755868629,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220302.0,
-        "Y": 11597.8584337349
+        "X": 20220303.0,
+        "Y": 11593.113729508196720543899
       },
       "End": {
-        "X": 20220314.0,
-        "Y": 11596.5210843374
+        "X": 20220315.0,
+        "Y": 11602.642418032786886432155
       }
     }
   }
