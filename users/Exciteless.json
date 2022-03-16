@@ -2,7 +2,7 @@
   "PublicName": "ADM BNG",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1312674694605221888/qMKitTla_normal.png",
   "Login": "Exciteless",
-  "CurrentFollowersCount": 663,
+  "CurrentFollowersCount": 662,
   "CurrentTweetsCout": 210,
   "FollowersCountHistory": {
     "20210125": 683,
@@ -367,7 +367,8 @@
     "20220304": 663,
     "20220305": 663,
     "20220306": 663,
-    "20220307": 663
+    "20220307": 663,
+    "20220316": 662
   },
   "TweetsCountHistory": {
     "20210125": 210,
@@ -732,20 +733,21 @@
     "20220304": 210,
     "20220305": 210,
     "20220306": 210,
-    "20220307": 210
+    "20220307": 210,
+    "20220316": 210
   },
   "LangId": "se",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.194237617351894,
+    "WeeklyGrowth": -0.0415163347007364071265379649,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 661.928571428571
+        "X": 20220302.0,
+        "Y": 662.65283842794759822665773
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 663.214285714286
+        "X": 20220316.0,
+        "Y": 662.37772925764192146071095
       }
     }
   }

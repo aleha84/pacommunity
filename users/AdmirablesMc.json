@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1363095407350407168/BbdltvRk_normal.jpg",
   "Login": "AdmirablesMc",
   "CurrentFollowersCount": 179,
-  "CurrentTweetsCout": 1257,
+  "CurrentTweetsCout": 1261,
   "FollowersCountHistory": {
     "20210228": 56,
     "20210301": 56,
@@ -333,7 +333,8 @@
     "20220304": 178,
     "20220305": 178,
     "20220306": 178,
-    "20220307": 179
+    "20220307": 179,
+    "20220316": 179
   },
   "TweetsCountHistory": {
     "20210228": 236,
@@ -664,20 +665,21 @@
     "20220304": 1252,
     "20220305": 1254,
     "20220306": 1255,
-    "20220307": 1257
+    "20220307": 1257,
+    "20220316": 1261
   },
   "LangId": "pl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.359353164304252,
+    "WeeklyGrowth": 0.2055397866301261927714672846,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 178.892857142857
+        "X": 20220302.0,
+        "Y": 178.46288209606986903119691
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 178.25
+        "X": 20220316.0,
+        "Y": 178.82969432314410471887631
       }
     }
   }

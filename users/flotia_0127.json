@@ -2,8 +2,8 @@
   "PublicName": "플로티아",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1397722868385939456/y2mKM8tY_normal.jpg",
   "Login": "flotia_0127",
-  "CurrentFollowersCount": 1510,
-  "CurrentTweetsCout": 2732,
+  "CurrentFollowersCount": 1507,
+  "CurrentTweetsCout": 2750,
   "FollowersCountHistory": {
     "20210828": 1366,
     "20210829": 1365,
@@ -192,7 +192,8 @@
     "20220304": 1510,
     "20220305": 1511,
     "20220306": 1511,
-    "20220307": 1510
+    "20220307": 1510,
+    "20220316": 1507
   },
   "TweetsCountHistory": {
     "20210828": 2187,
@@ -382,20 +383,21 @@
     "20220304": 2741,
     "20220305": 2742,
     "20220306": 2732,
-    "20220307": 2732
+    "20220307": 2732,
+    "20220316": 2750
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.298627734458322,
+    "WeeklyGrowth": -0.1154031372877948511871620497,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220301.0,
-        "Y": 1506.89285714286
+        "X": 20220302.0,
+        "Y": 1509.8013100436681221017434
       },
       "End": {
-        "X": 20220307.0,
-        "Y": 1511.39285714286
+        "X": 20220316.0,
+        "Y": 1508.0589519650655025855070
       }
     }
   }
