@@ -2,7 +2,7 @@
   "PublicName": "空中楼閣",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1416364688468635648/sZ6vUAIv_normal.png",
   "Login": "7UF7UNrEkjOh8hE",
-  "CurrentFollowersCount": 1293,
+  "CurrentFollowersCount": 1296,
   "CurrentTweetsCout": 98,
   "FollowersCountHistory": {
     "20220304": 1286,
@@ -10,7 +10,8 @@
     "20220306": 1288,
     "20220307": 1289,
     "20220313": 1292,
-    "20220314": 1293
+    "20220314": 1293,
+    "20220317": 1296
   },
   "TweetsCountHistory": {
     "20220304": 98,
@@ -18,12 +19,22 @@
     "20220306": 98,
     "20220307": 98,
     "20220313": 98,
-    "20220314": 98
+    "20220314": 98,
+    "20220317": 98
   },
   "LangId": "jp",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.7370808358982667120373054807,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220304.0,
+        "Y": 1286.041666666666666308122
+      },
+      "End": {
+        "X": 20220317.0,
+        "Y": 1295.520833333333333833409
+      }
+    }
   }
 }

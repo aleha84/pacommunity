@@ -2,8 +2,8 @@
   "PublicName": "EXCALIBUR",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1249608328990191616/Xv3LEq8h_normal.jpg",
   "Login": "ENN",
-  "CurrentFollowersCount": 1409,
-  "CurrentTweetsCout": 5288,
+  "CurrentFollowersCount": 1405,
+  "CurrentTweetsCout": 5289,
   "FollowersCountHistory": {
     "20210717": 1190,
     "20210719": 1190,
@@ -219,7 +219,8 @@
     "20220306": 1410,
     "20220307": 1410,
     "20220313": 1409,
-    "20220314": 1409
+    "20220314": 1409,
+    "20220317": 1405
   },
   "TweetsCountHistory": {
     "20210717": 5005,
@@ -436,20 +437,21 @@
     "20220306": 5279,
     "20220307": 5279,
     "20220313": 5288,
-    "20220314": 5288
+    "20220314": 5288,
+    "20220317": 5289
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.034331809357692,
+    "WeeklyGrowth": -0.1854436382422564919152932071,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220303.0,
-        "Y": 1408.80527638191
+        "X": 20220304.0,
+        "Y": 1409.6630434782608696642431
       },
       "End": {
-        "X": 20220314.0,
-        "Y": 1409.28894472362
+        "X": 20220317.0,
+        "Y": 1407.0489130434782607314505
       }
     }
   }
