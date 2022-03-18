@@ -2,7 +2,7 @@
   "PublicName": "VampiricMouse",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1444202876151152641/zif9NSz4_normal.png",
   "Login": "EleventhMouse",
-  "CurrentFollowersCount": 162,
+  "CurrentFollowersCount": 161,
   "CurrentTweetsCout": 526,
   "FollowersCountHistory": {
     "20210214": 44,
@@ -347,7 +347,8 @@
     "20220307": 162,
     "20220313": 162,
     "20220314": 162,
-    "20220317": 162
+    "20220317": 162,
+    "20220318": 161
   },
   "TweetsCountHistory": {
     "20210214": 168,
@@ -692,20 +693,21 @@
     "20220307": 524,
     "20220313": 525,
     "20220314": 525,
-    "20220317": 526
+    "20220317": 526,
+    "20220318": 526
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3033777407997402767651185961,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220304.0,
-        "Y": 162.0
+        "X": 20220305.0,
+        "Y": 162.10032894736842107264631
       },
       "End": {
-        "X": 20220317.0,
-        "Y": 162.0
+        "X": 20220318.0,
+        "Y": 161.60855263157894734796158
       }
     }
   }
