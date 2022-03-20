@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/918211193323622400/WnpvZmtN_normal.jpg",
   "Login": "BrawlersinZone",
   "CurrentFollowersCount": 410,
-  "CurrentTweetsCout": 3677,
+  "CurrentTweetsCout": 3676,
   "FollowersCountHistory": {
     "20210301": 307,
     "20210302": 307,
@@ -353,7 +353,8 @@
     "20220317": 410,
     "20220318": 410,
     "20220319": 410,
-    "20220320": 410
+    "20220320": 410,
+    "20220321": 410
   },
   "TweetsCountHistory": {
     "20210301": 3174,
@@ -704,20 +705,21 @@
     "20220317": 3676,
     "20220318": 3676,
     "20220319": 3677,
-    "20220320": 3677
+    "20220320": 3677,
+    "20220321": 3676
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2389079526522398587637320094,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220307.0,
-        "Y": 410.8007425742574259054387
+        "X": 20220314.0,
+        "Y": 410.0
       },
       "End": {
-        "X": 20220320.0,
-        "Y": 409.8193069306930692268334
+        "X": 20220321.0,
+        "Y": 410.0
       }
     }
   }
