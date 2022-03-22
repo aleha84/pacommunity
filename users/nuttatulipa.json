@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1399587603075067906/QtSmq4hc_normal.png",
   "Login": "nuttatulipa",
   "CurrentFollowersCount": 326,
-  "CurrentTweetsCout": 8595,
+  "CurrentTweetsCout": 8598,
   "FollowersCountHistory": {
     "20210128": 232,
     "20210129": 231,
@@ -370,7 +370,8 @@
     "20220318": 326,
     "20220319": 326,
     "20220320": 326,
-    "20220321": 326
+    "20220321": 326,
+    "20220322": 326
   },
   "TweetsCountHistory": {
     "20210128": 6245,
@@ -738,20 +739,21 @@
     "20220318": 8584,
     "20220319": 8586,
     "20220320": 8592,
-    "20220321": 8595
+    "20220321": 8595,
+    "20220322": 8598
   },
   "LangId": "th",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 2.98437784269369693248890704,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220307.0,
-        "Y": 318.031659388646290398218
+        "X": 20220316.0,
+        "Y": 326.0
       },
       "End": {
-        "X": 20220321.0,
-        "Y": 327.522925764192138818140
+        "X": 20220322.0,
+        "Y": 326.0
       }
     }
   }

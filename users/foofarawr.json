@@ -2,7 +2,7 @@
   "PublicName": "✨Foofarawr✨",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1315011917312819200/0ys9QHjI_normal.jpg",
   "Login": "foofarawr",
-  "CurrentFollowersCount": 2778,
+  "CurrentFollowersCount": 2776,
   "CurrentTweetsCout": 1015,
   "FollowersCountHistory": {
     "20201218": 1437,
@@ -408,7 +408,8 @@
     "20220317": 2781,
     "20220318": 2780,
     "20220319": 2781,
-    "20220321": 2778
+    "20220321": 2778,
+    "20220322": 2776
   },
   "TweetsCountHistory": {
     "20201218": 494,
@@ -814,20 +815,21 @@
     "20220317": 1015,
     "20220318": 1015,
     "20220319": 1015,
-    "20220321": 1015
+    "20220321": 1015,
+    "20220322": 1015
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2237711734582221103486473783,
+    "WeeklyGrowth": -0.151477418897893317113113759,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220307.0,
-        "Y": 2775.340563991323209999845
+        "X": 20220313.0,
+        "Y": 2781.921610169491526359135
       },
       "End": {
-        "X": 20220321.0,
-        "Y": 2781.550976138828633666766
+        "X": 20220322.0,
+        "Y": 2777.707627118644066946240
       }
     }
   }
