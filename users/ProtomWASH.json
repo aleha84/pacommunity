@@ -2,8 +2,8 @@
   "PublicName": "Tomasz 🐌",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1445827021116895235/suYtAFgY_normal.jpg",
   "Login": "ProtomWASH",
-  "CurrentFollowersCount": 1852,
-  "CurrentTweetsCout": 21231,
+  "CurrentFollowersCount": 1851,
+  "CurrentTweetsCout": 21235,
   "FollowersCountHistory": {
     "20210108": 1435,
     "20210109": 1435,
@@ -407,7 +407,8 @@
     "20220319": 1852,
     "20220320": 1853,
     "20220321": 1853,
-    "20220322": 1852
+    "20220322": 1852,
+    "20220323": 1851
   },
   "TweetsCountHistory": {
     "20210108": 19104,
@@ -812,20 +813,21 @@
     "20220319": 21231,
     "20220320": 21231,
     "20220321": 21231,
-    "20220322": 21231
+    "20220322": 21231,
+    "20220323": 21235
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0867886430861331935126157323,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220315.0,
-        "Y": 1851.1147540983606568261220
+        "X": 20220317.0,
+        "Y": 1852.0
       },
       "End": {
-        "X": 20220322.0,
-        "Y": 1852.7213114754098351787154
+        "X": 20220323.0,
+        "Y": 1852.0
       }
     }
   }

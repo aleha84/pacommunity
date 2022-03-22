@@ -2,7 +2,7 @@
   "PublicName": "ILTA",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1501805420154818567/lUMEVZZt_normal.png",
   "Login": "iltailtailta",
-  "CurrentFollowersCount": 7276,
+  "CurrentFollowersCount": 7275,
   "CurrentTweetsCout": 3987,
   "FollowersCountHistory": {
     "20210723": 2405,
@@ -224,7 +224,8 @@
     "20220319": 7274,
     "20220320": 7273,
     "20220321": 7272,
-    "20220322": 7276
+    "20220322": 7276,
+    "20220323": 7275
   },
   "TweetsCountHistory": {
     "20210723": 2348,
@@ -446,20 +447,21 @@
     "20220319": 3960,
     "20220320": 3960,
     "20220321": 3976,
-    "20220322": 3987
+    "20220322": 3987,
+    "20220323": 3987
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1156504818018242143447362828,
+    "WeeklyGrowth": -0.0471170269156016255374207373,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220315.0,
-        "Y": 7268.225409836065579469988
+        "X": 20220317.0,
+        "Y": 7276.714285714285714285714
       },
       "End": {
-        "X": 20220322.0,
-        "Y": 7276.631147540983601913343
+        "X": 20220323.0,
+        "Y": 7273.285714285714285714286
       }
     }
   }
