@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1376884178407526406/gbx4QRUm_normal.jpg",
   "Login": "vaalaras",
   "CurrentFollowersCount": 112,
-  "CurrentTweetsCout": 895,
+  "CurrentTweetsCout": 898,
   "FollowersCountHistory": {
     "20210914": 82,
     "20210915": 82,
@@ -181,7 +181,9 @@
     "20220318": 112,
     "20220319": 112,
     "20220321": 112,
-    "20220322": 112
+    "20220322": 112,
+    "20220323": 112,
+    "20220324": 112
   },
   "TweetsCountHistory": {
     "20210914": 618,
@@ -360,20 +362,22 @@
     "20220318": 891,
     "20220319": 891,
     "20220321": 891,
-    "20220322": 895
+    "20220322": 895,
+    "20220323": 898,
+    "20220324": 898
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.9654415798134933527785309429,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220314.0,
-        "Y": 111.1585365853658541668690
+        "X": 20220317.0,
+        "Y": 112.0
       },
       "End": {
-        "X": 20220322.0,
-        "Y": 112.2317073170731702584323
+        "X": 20220324.0,
+        "Y": 112.0
       }
     }
   }

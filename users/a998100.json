@@ -2,7 +2,7 @@
   "PublicName": "paisley",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1474948237060886535/xxLeO7fr_normal.jpg",
   "Login": "a998100",
-  "CurrentFollowersCount": 552,
+  "CurrentFollowersCount": 551,
   "CurrentTweetsCout": 240,
   "FollowersCountHistory": {
     "20210914": 61,
@@ -182,7 +182,8 @@
     "20220319": 552,
     "20220320": 552,
     "20220321": 552,
-    "20220322": 552
+    "20220322": 552,
+    "20220324": 551
   },
   "TweetsCountHistory": {
     "20210914": 85,
@@ -362,20 +363,21 @@
     "20220319": 237,
     "20220320": 237,
     "20220321": 239,
-    "20220322": 240
+    "20220322": 240,
+    "20220324": 240
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3320387773857871468341333107,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220316.0,
-        "Y": 552.14285714285714285714285714
+        "X": 20220317.0,
+        "Y": 552.9672131147540973470905
       },
       "End": {
-        "X": 20220322.0,
-        "Y": 552.14285714285714285714285714
+        "X": 20220324.0,
+        "Y": 551.1311475409836078012982
       }
     }
   }
