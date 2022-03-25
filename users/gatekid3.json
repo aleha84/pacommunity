@@ -2,8 +2,8 @@
   "PublicName": "gatekid3",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1456322843239661574/Djl89q2U_normal.jpg",
   "Login": "gatekid3",
-  "CurrentFollowersCount": 10899,
-  "CurrentTweetsCout": 6068,
+  "CurrentFollowersCount": 10907,
+  "CurrentTweetsCout": 6073,
   "FollowersCountHistory": {
     "20210116": 3528,
     "20210117": 3531,
@@ -402,7 +402,8 @@
     "20220322": 10893,
     "20220323": 10895,
     "20220324": 10897,
-    "20220325": 10899
+    "20220325": 10899,
+    "20220326": 10907
   },
   "TweetsCountHistory": {
     "20210116": 3481,
@@ -802,20 +803,21 @@
     "20220322": 6062,
     "20220323": 6064,
     "20220324": 6066,
-    "20220325": 6068
+    "20220325": 6068,
+    "20220326": 6073
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0550357732526141992294991745,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220319.0,
-        "Y": 10902.0
+        "X": 20220320.0,
+        "Y": 10900.0
       },
       "End": {
-        "X": 20220325.0,
-        "Y": 10896.0
+        "X": 20220326.0,
+        "Y": 10900.0
       }
     }
   }
