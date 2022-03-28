@@ -2,7 +2,7 @@
   "PublicName": "Three Dots | hibernating",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1470503909269647369/Ix3YAduR_normal.jpg",
   "Login": "Th_d0ts",
-  "CurrentFollowersCount": 51,
+  "CurrentFollowersCount": 50,
   "CurrentTweetsCout": 532,
   "FollowersCountHistory": {
     "20210914": 41,
@@ -183,7 +183,9 @@
     "20220322": 51,
     "20220324": 51,
     "20220325": 51,
-    "20220326": 51
+    "20220326": 51,
+    "20220327": 51,
+    "20220328": 50
   },
   "TweetsCountHistory": {
     "20210914": 258,
@@ -364,20 +366,22 @@
     "20220322": 532,
     "20220324": 532,
     "20220325": 532,
-    "20220326": 532
+    "20220326": 532,
+    "20220327": 532,
+    "20220328": 532
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.1400651465798053814021557788,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220318.0,
-        "Y": 51.0
+        "X": 20220321.0,
+        "Y": 51.1666666666666668909606
       },
       "End": {
-        "X": 20220326.0,
-        "Y": 51.0
+        "X": 20220328.0,
+        "Y": 50.5833333333333331349194
       }
     }
   }
