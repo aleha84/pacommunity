@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/378800000127854660/0f5b7bec99fd78dfd0d9dea8169f0303_normal.gif",
   "Login": "MetaruPX",
   "CurrentFollowersCount": 1385,
-  "CurrentTweetsCout": 14291,
+  "CurrentTweetsCout": 14292,
   "FollowersCountHistory": {
     "20201228": 1010,
     "20201229": 1010,
@@ -405,7 +405,8 @@
     "20220325": 1385,
     "20220326": 1385,
     "20220327": 1385,
-    "20220328": 1385
+    "20220328": 1385,
+    "20220329": 1385
   },
   "TweetsCountHistory": {
     "20201228": 13315,
@@ -808,20 +809,21 @@
     "20220325": 14288,
     "20220326": 14291,
     "20220327": 14291,
-    "20220328": 14291
+    "20220328": 14291,
+    "20220329": 14292
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0464001237336632897687685918,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220322.0,
-        "Y": 1385.4642857142857142857143
+        "X": 20220323.0,
+        "Y": 1385.0
       },
       "End": {
-        "X": 20220328.0,
-        "Y": 1384.8214285714285714285715
+        "X": 20220329.0,
+        "Y": 1385.0
       }
     }
   }
