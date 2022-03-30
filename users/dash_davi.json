@@ -2,7 +2,7 @@
   "PublicName": "Davidash",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1390305010882252811/QqZQEhT6_normal.jpg",
   "Login": "dash_davi",
-  "CurrentFollowersCount": 111,
+  "CurrentFollowersCount": 110,
   "CurrentTweetsCout": 1682,
   "FollowersCountHistory": {
     "20210125": 118,
@@ -377,7 +377,8 @@
     "20220326": 111,
     "20220327": 111,
     "20220328": 111,
-    "20220329": 111
+    "20220329": 111,
+    "20220330": 110
   },
   "TweetsCountHistory": {
     "20210125": 1649,
@@ -752,20 +753,21 @@
     "20220326": 1682,
     "20220327": 1682,
     "20220328": 1682,
-    "20220329": 1682
+    "20220329": 1682,
+    "20220330": 1682
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.5782203662062319306135944547,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220322.0,
-        "Y": 111.0
+        "X": 20220324.0,
+        "Y": 111.1785714285714285714286
       },
       "End": {
-        "X": 20220329.0,
-        "Y": 111.0
+        "X": 20220330.0,
+        "Y": 110.5357142857142857142857
       }
     }
   }

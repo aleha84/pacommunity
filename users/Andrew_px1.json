@@ -2,7 +2,7 @@
   "PublicName": "andrew_px1",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1307143832962846720/5000xg5G_normal.jpg",
   "Login": "Andrew_px1",
-  "CurrentFollowersCount": 59,
+  "CurrentFollowersCount": 58,
   "CurrentTweetsCout": 340,
   "FollowersCountHistory": {
     "20210113": 63,
@@ -389,7 +389,8 @@
     "20220326": 59,
     "20220327": 59,
     "20220328": 59,
-    "20220329": 59
+    "20220329": 59,
+    "20220330": 58
   },
   "TweetsCountHistory": {
     "20210113": 343,
@@ -776,20 +777,21 @@
     "20220326": 341,
     "20220327": 340,
     "20220328": 340,
-    "20220329": 340
+    "20220329": 340,
+    "20220330": 340
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.0863005431502715751358594635,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220322.0,
-        "Y": 59.0
+        "X": 20220324.0,
+        "Y": 59.1785714285714285714286
       },
       "End": {
-        "X": 20220329.0,
-        "Y": 59.0
+        "X": 20220330.0,
+        "Y": 58.5357142857142857142857
       }
     }
   }
