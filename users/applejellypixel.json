@@ -2,7 +2,7 @@
   "PublicName": "apple jelly",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1378969973133996034/wlNUh_l0_normal.jpg",
   "Login": "applejellypixel",
-  "CurrentFollowersCount": 1912,
+  "CurrentFollowersCount": 1911,
   "CurrentTweetsCout": 451,
   "FollowersCountHistory": {
     "20210919": 1345,
@@ -185,7 +185,8 @@
     "20220328": 1913,
     "20220329": 1913,
     "20220330": 1912,
-    "20220331": 1912
+    "20220331": 1912,
+    "20220401": 1911
   },
   "TweetsCountHistory": {
     "20210919": 414,
@@ -368,20 +369,21 @@
     "20220328": 451,
     "20220329": 451,
     "20220330": 451,
-    "20220331": 451
+    "20220331": 451,
+    "20220401": 451
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0336253759503838897087638926,
+    "WeeklyGrowth": -0.0607034464030689013878787758,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220325.0,
-        "Y": 1911.8214285714285714285715
+        "X": 20220326.0,
+        "Y": 1912.19898926089703095199947
       },
       "End": {
-        "X": 20220331.0,
-        "Y": 1912.4642857142857142857143
+        "X": 20220401.0,
+        "Y": 1911.03821857233101706533590
       }
     }
   }

@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1458507965552422916/cye1wNSc_normal.png",
   "Login": "goblingamedev",
   "CurrentFollowersCount": 594,
-  "CurrentTweetsCout": 920,
+  "CurrentTweetsCout": 921,
   "FollowersCountHistory": {
     "20210125": 288,
     "20210126": 296,
@@ -378,7 +378,8 @@
     "20220328": 591,
     "20220329": 592,
     "20220330": 592,
-    "20220331": 594
+    "20220331": 594,
+    "20220401": 594
   },
   "TweetsCountHistory": {
     "20210125": 428,
@@ -754,20 +755,21 @@
     "20220328": 917,
     "20220329": 918,
     "20220330": 920,
-    "20220331": 920
+    "20220331": 920,
+    "20220401": 921
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.790703246675452,
+    "WeeklyGrowth": 0.1238056086869470004291571115,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220325.0,
-        "Y": 596.214285714286
+        "X": 20220326.0,
+        "Y": 593.15982312065698041813496
       },
       "End": {
-        "X": 20220331.0,
-        "Y": 591.5
+        "X": 20220401.0,
+        "Y": 593.89418825015792797901432
       }
     }
   }

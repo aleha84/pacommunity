@@ -2,8 +2,8 @@
   "PublicName": "In The Hoodster 🔴",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1455191014889582596/xLzQsNq__normal.png",
   "Login": "InTheHoodster",
-  "CurrentFollowersCount": 270,
-  "CurrentTweetsCout": 13799,
+  "CurrentFollowersCount": 269,
+  "CurrentTweetsCout": 13828,
   "FollowersCountHistory": {
     "20210914": 171,
     "20210915": 170,
@@ -194,7 +194,8 @@
     "20220328": 269,
     "20220329": 269,
     "20220330": 269,
-    "20220331": 270
+    "20220331": 270,
+    "20220401": 269
   },
   "TweetsCountHistory": {
     "20210914": 6586,
@@ -386,20 +387,21 @@
     "20220328": 13747,
     "20220329": 13761,
     "20220330": 13786,
-    "20220331": 13799
+    "20220331": 13799,
+    "20220401": 13828
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.800213390237397,
+    "WeeklyGrowth": -0.0422451910890810258771160375,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220325.0,
-        "Y": 267.785714285714
+        "X": 20220326.0,
+        "Y": 269.162349968414403032033007
       },
       "End": {
-        "X": 20220331.0,
-        "Y": 269.928571428571
+        "X": 20220401.0,
+        "Y": 269.048641819330385345173798
       }
     }
   }

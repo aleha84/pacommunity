@@ -2,7 +2,7 @@
   "PublicName": "Cye",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1468559199554703362/EnF_cTZw_normal.png",
   "Login": "SacredEye3",
-  "CurrentFollowersCount": 600,
+  "CurrentFollowersCount": 599,
   "CurrentTweetsCout": 448,
   "FollowersCountHistory": {
     "20210930": 312,
@@ -174,7 +174,8 @@
     "20220328": 601,
     "20220329": 601,
     "20220330": 601,
-    "20220331": 600
+    "20220331": 600,
+    "20220401": 599
   },
   "TweetsCountHistory": {
     "20210930": 245,
@@ -346,20 +347,21 @@
     "20220328": 447,
     "20220329": 447,
     "20220330": 448,
-    "20220331": 448
+    "20220331": 448,
+    "20220401": 448
   },
   "LangId": "arabic",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2860548271752085816448175991,
+    "WeeklyGrowth": -0.2178073846173271540905903052,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220325.0,
-        "Y": 599.2857142857142857142858
+        "X": 20220326.0,
+        "Y": 600.36702463676563486836679
       },
       "End": {
-        "X": 20220331.0,
-        "Y": 601.0000000000000000000001
+        "X": 20220401.0,
+        "Y": 599.05938092229943146956051
       }
     }
   }

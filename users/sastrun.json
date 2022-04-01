@@ -2,8 +2,8 @@
   "PublicName": "Val",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1421926133369606151/9ENkMXef_normal.jpg",
   "Login": "sastrun",
-  "CurrentFollowersCount": 144,
-  "CurrentTweetsCout": 3652,
+  "CurrentFollowersCount": 145,
+  "CurrentTweetsCout": 3654,
   "FollowersCountHistory": {
     "20201219": 107,
     "20201220": 108,
@@ -416,7 +416,8 @@
     "20220328": 145,
     "20220329": 146,
     "20220330": 145,
-    "20220331": 144
+    "20220331": 144,
+    "20220401": 145
   },
   "TweetsCountHistory": {
     "20201219": 2913,
@@ -830,20 +831,21 @@
     "20220328": 3652,
     "20220329": 3653,
     "20220330": 3652,
-    "20220331": 3652
+    "20220331": 3652,
+    "20220401": 3654
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1480384900074019245003661485,
+    "WeeklyGrowth": -0.0228714320565991703126835552,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220325.0,
-        "Y": 144.75000000000000000000000
+        "X": 20220326.0,
+        "Y": 145.005685407454200884342842
       },
       "End": {
-        "X": 20220331.0,
-        "Y": 144.96428571428571428571428
+        "X": 20220401.0,
+        "Y": 144.972520530638029059009597
       }
     }
   }

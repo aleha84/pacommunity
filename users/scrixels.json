@@ -2,7 +2,7 @@
   "PublicName": "scribble",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1379865256932032512/Xu6MKMRD_normal.png",
   "Login": "scrixels",
-  "CurrentFollowersCount": 23210,
+  "CurrentFollowersCount": 23206,
   "CurrentTweetsCout": 2204,
   "FollowersCountHistory": {
     "20210115": 13403,
@@ -409,7 +409,8 @@
     "20220328": 23211,
     "20220329": 23216,
     "20220330": 23212,
-    "20220331": 23210
+    "20220331": 23210,
+    "20220401": 23206
   },
   "TweetsCountHistory": {
     "20210115": 1858,
@@ -816,20 +817,21 @@
     "20220328": 2204,
     "20220329": 2204,
     "20220330": 2204,
-    "20220331": 2204
+    "20220331": 2204,
+    "20220401": 2204
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0277005752486127,
+    "WeeklyGrowth": -0.0246568587161995559459742541,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220325.0,
-        "Y": 23207.3571428571
+        "X": 20220326.0,
+        "Y": 23211.8382817435249526124294
       },
       "End": {
-        "X": 20220331.0,
-        "Y": 23213.7857142857
+        "X": 20220401.0,
+        "Y": 23206.1149715729627290399244
       }
     }
   }
