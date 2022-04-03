@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1470557914536501249/U-s5K-ek_normal.jpg",
   "Login": "FreddyZero24",
   "CurrentFollowersCount": 231,
-  "CurrentTweetsCout": 3090,
+  "CurrentTweetsCout": 3089,
   "FollowersCountHistory": {
     "20210226": 162,
     "20210227": 166,
@@ -350,7 +350,8 @@
     "20220330": 231,
     "20220331": 231,
     "20220401": 231,
-    "20220402": 231
+    "20220402": 231,
+    "20220403": 231
   },
   "TweetsCountHistory": {
     "20210226": 1353,
@@ -698,20 +699,21 @@
     "20220330": 3090,
     "20220331": 3090,
     "20220401": 3090,
-    "20220402": 3090
+    "20220402": 3090,
+    "20220403": 3089
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0981660442623902221308222871,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220327.0,
-        "Y": 230.788528763583858955586135
+        "X": 20220328.0,
+        "Y": 231.0
       },
       "End": {
-        "X": 20220402.0,
-        "Y": 231.015084732882437875820598
+        "X": 20220403.0,
+        "Y": 231.0
       }
     }
   }

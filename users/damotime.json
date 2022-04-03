@@ -2,7 +2,7 @@
   "PublicName": "damotime",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1400194392594472968/C1grnrkv_normal.jpg",
   "Login": "damotime",
-  "CurrentFollowersCount": 301,
+  "CurrentFollowersCount": 300,
   "CurrentTweetsCout": 377,
   "FollowersCountHistory": {
     "20201229": 264,
@@ -409,7 +409,8 @@
     "20220330": 301,
     "20220331": 301,
     "20220401": 301,
-    "20220402": 301
+    "20220402": 301,
+    "20220403": 300
   },
   "TweetsCountHistory": {
     "20201229": 277,
@@ -816,20 +817,21 @@
     "20220330": 377,
     "20220331": 377,
     "20220401": 377,
-    "20220402": 377
+    "20220402": 377,
+    "20220403": 377
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1172307954642339502228033925,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220327.0,
-        "Y": 301.0
+        "X": 20220328.0,
+        "Y": 301.01039224383752613926917
       },
       "End": {
-        "X": 20220402.0,
-        "Y": 301.0
+        "X": 20220403.0,
+        "Y": 300.65751536658006463437305
       }
     }
   }
