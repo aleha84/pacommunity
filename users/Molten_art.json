@@ -10,7 +10,8 @@
     "20220331": 42,
     "20220401": 42,
     "20220402": 42,
-    "20220403": 42
+    "20220403": 42,
+    "20220404": 42
   },
   "TweetsCountHistory": {
     "20220329": 22,
@@ -18,12 +19,22 @@
     "20220331": 22,
     "20220401": 22,
     "20220402": 22,
-    "20220403": 23
+    "20220403": 23,
+    "20220404": 23
   },
   "LangId": "ru",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
+    "ErrorMessage": null,
     "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220329.0,
+        "Y": 42.0
+      },
+      "End": {
+        "X": 20220404.0,
+        "Y": 42.0
+      }
+    }
   }
 }
