@@ -2,7 +2,7 @@
   "PublicName": "kake",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1420026181727002636/NByTA3Mh_normal.jpg",
   "Login": "abitofkake",
-  "CurrentFollowersCount": 77,
+  "CurrentFollowersCount": 76,
   "CurrentTweetsCout": 372,
   "FollowersCountHistory": {
     "20210914": 71,
@@ -198,7 +198,8 @@
     "20220401": 77,
     "20220402": 77,
     "20220403": 77,
-    "20220404": 77
+    "20220404": 77,
+    "20220405": 76
   },
   "TweetsCountHistory": {
     "20210914": 337,
@@ -394,20 +395,21 @@
     "20220401": 371,
     "20220402": 371,
     "20220403": 372,
-    "20220404": 372
+    "20220404": 372,
+    "20220405": 372
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2941709018231442082588872395,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220329.0,
-        "Y": 77.0
+        "X": 20220330.0,
+        "Y": 77.015084732882437875820598
       },
       "End": {
-        "X": 20220404.0,
-        "Y": 77.0
+        "X": 20220405.0,
+        "Y": 76.788528763583858955586135
       }
     }
   }
