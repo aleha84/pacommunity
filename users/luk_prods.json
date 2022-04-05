@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1509110922056503298/IWMJ3ZYe_normal.jpg",
   "Login": "luk_prods",
   "CurrentFollowersCount": 16,
-  "CurrentTweetsCout": 912,
+  "CurrentTweetsCout": 913,
   "FollowersCountHistory": {
     "20201222": 49,
     "20201223": 49,
@@ -209,7 +209,8 @@
     "20220401": 16,
     "20220402": 16,
     "20220403": 16,
-    "20220404": 16
+    "20220404": 16,
+    "20220405": 16
   },
   "TweetsCountHistory": {
     "20201222": 2352,
@@ -416,20 +417,21 @@
     "20220401": 900,
     "20220402": 910,
     "20220403": 912,
-    "20220404": 912
+    "20220404": 912,
+    "20220405": 913
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -2.1592608784580890163019481258,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220329.0,
-        "Y": 16.34248463341993536562883
+        "X": 20220330.0,
+        "Y": 16.0
       },
       "End": {
-        "X": 20220404.0,
-        "Y": 15.98960775616247386072939
+        "X": 20220405.0,
+        "Y": 16.0
       }
     }
   }
