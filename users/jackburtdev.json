@@ -2,7 +2,7 @@
   "PublicName": "Jack Burt",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1276950763269488641/kgSSHVyG_normal.png",
   "Login": "jackburtdev",
-  "CurrentFollowersCount": 40,
+  "CurrentFollowersCount": 39,
   "CurrentTweetsCout": 30,
   "FollowersCountHistory": {
     "20210112": 34,
@@ -417,7 +417,8 @@
     "20220402": 40,
     "20220403": 40,
     "20220404": 40,
-    "20220405": 40
+    "20220405": 40,
+    "20220406": 39
   },
   "TweetsCountHistory": {
     "20210112": 22,
@@ -832,20 +833,21 @@
     "20220402": 30,
     "20220403": 30,
     "20220404": 30,
-    "20220405": 30
+    "20220405": 30,
+    "20220406": 30
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.5325569835972449001825509329,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220330.0,
-        "Y": 40.0
+        "X": 20220331.0,
+        "Y": 40.033796588755527477796037
       },
       "End": {
-        "X": 20220405.0,
-        "Y": 40.0
+        "X": 20220406.0,
+        "Y": 39.820593809222994314938752
       }
     }
   }
