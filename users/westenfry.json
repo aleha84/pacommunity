@@ -2,7 +2,7 @@
   "PublicName": "Fry",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1217122553522728960/HK7dwuwd_normal.png",
   "Login": "westenfry",
-  "CurrentFollowersCount": 592,
+  "CurrentFollowersCount": 591,
   "CurrentTweetsCout": 464,
   "FollowersCountHistory": {
     "20210301": 573,
@@ -370,7 +370,8 @@
     "20220403": 592,
     "20220404": 592,
     "20220405": 592,
-    "20220406": 592
+    "20220406": 592,
+    "20220407": 591
   },
   "TweetsCountHistory": {
     "20210301": 397,
@@ -738,20 +739,21 @@
     "20220403": 464,
     "20220404": 464,
     "20220405": 464,
-    "20220406": 464
+    "20220406": 464,
+    "20220407": 464
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1085579880586213135516627413,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220331.0,
-        "Y": 592.0
+        "X": 20220401.0,
+        "Y": 592.1785714285714285714286
       },
       "End": {
-        "X": 20220406.0,
-        "Y": 592.0
+        "X": 20220407.0,
+        "Y": 591.5357142857142857142857
       }
     }
   }
