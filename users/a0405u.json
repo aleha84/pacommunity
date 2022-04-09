@@ -2,7 +2,7 @@
   "PublicName": "A0405u",
   "AvatarImage": "https://pbs.twimg.com/profile_images/919374421193822208/DnPg1M4z_normal.jpg",
   "Login": "a0405u",
-  "CurrentFollowersCount": 293,
+  "CurrentFollowersCount": 292,
   "CurrentTweetsCout": 103,
   "FollowersCountHistory": {
     "20201215": 198,
@@ -428,7 +428,8 @@
     "20220405": 293,
     "20220406": 293,
     "20220407": 293,
-    "20220408": 293
+    "20220408": 293,
+    "20220409": 292
   },
   "TweetsCountHistory": {
     "20201215": 84,
@@ -854,20 +855,21 @@
     "20220405": 103,
     "20220406": 103,
     "20220407": 103,
-    "20220408": 103
+    "20220408": 103,
+    "20220409": 103
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2192715312461932025825459647,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220402.0,
-        "Y": 293.0
+        "X": 20220403.0,
+        "Y": 293.1785714285714285714286
       },
       "End": {
-        "X": 20220408.0,
-        "Y": 293.0
+        "X": 20220409.0,
+        "Y": 292.5357142857142857142857
       }
     }
   }

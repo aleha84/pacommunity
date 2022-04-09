@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1488351357547552768/CcUcIbyJ_normal.jpg",
   "Login": "astrawitch",
   "CurrentFollowersCount": 772,
-  "CurrentTweetsCout": 4244,
+  "CurrentTweetsCout": 4255,
   "FollowersCountHistory": {
     "20210110": 730,
     "20210111": 727,
@@ -421,7 +421,8 @@
     "20220405": 772,
     "20220406": 773,
     "20220407": 772,
-    "20220408": 772
+    "20220408": 772,
+    "20220410": 772
   },
   "TweetsCountHistory": {
     "20210110": 3769,
@@ -840,20 +841,21 @@
     "20220405": 4229,
     "20220406": 4233,
     "20220407": 4241,
-    "20220408": 4244
+    "20220408": 4244,
+    "20220410": 4255
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0277559328306425,
+    "WeeklyGrowth": -0.0037153806142054879003775639,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220402.0,
-        "Y": 772.035714285714
+        "X": 20220403.0,
+        "Y": 772.15573770491803277130611
       },
       "End": {
-        "X": 20220408.0,
-        "Y": 772.25
+        "X": 20220410.0,
+        "Y": 772.12704918032786887157888
       }
     }
   }

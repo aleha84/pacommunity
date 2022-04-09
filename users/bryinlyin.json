@@ -2,8 +2,8 @@
   "PublicName": "hexcavator",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1503495283342204933/F5w3tiTs_normal.jpg",
   "Login": "bryinlyin",
-  "CurrentFollowersCount": 820,
-  "CurrentTweetsCout": 8731,
+  "CurrentFollowersCount": 822,
+  "CurrentTweetsCout": 8740,
   "FollowersCountHistory": {
     "20210114": 516,
     "20210115": 516,
@@ -418,7 +418,8 @@
     "20220405": 820,
     "20220406": 821,
     "20220407": 821,
-    "20220408": 820
+    "20220408": 820,
+    "20220410": 822
   },
   "TweetsCountHistory": {
     "20210114": 4754,
@@ -834,20 +835,21 @@
     "20220405": 8724,
     "20220406": 8726,
     "20220407": 8728,
-    "20220408": 8731
+    "20220408": 8731,
+    "20220410": 8740
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.15650812972785,
+    "WeeklyGrowth": 0.0769153930676255172961682454,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220402.0,
-        "Y": 821.5
+        "X": 20220403.0,
+        "Y": 820.5737704918032790366756
       },
       "End": {
-        "X": 20220408.0,
-        "Y": 820.214285714286
+        "X": 20220410.0,
+        "Y": 821.2049180327868848186253
       }
     }
   }
