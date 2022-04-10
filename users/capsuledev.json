@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1131387240691752960/G6KT5Wjq_normal.png",
   "Login": "capsuledev",
   "CurrentFollowersCount": 616,
-  "CurrentTweetsCout": 4279,
+  "CurrentTweetsCout": 4280,
   "FollowersCountHistory": {
     "20210116": 384,
     "20210117": 388,
@@ -416,7 +416,8 @@
     "20220406": 616,
     "20220407": 616,
     "20220408": 616,
-    "20220410": 616
+    "20220410": 616,
+    "20220411": 616
   },
   "TweetsCountHistory": {
     "20210116": 3813,
@@ -830,20 +831,21 @@
     "20220406": 4281,
     "20220407": 4281,
     "20220408": 4281,
-    "20220410": 4279
+    "20220410": 4279,
+    "20220411": 4280
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1025299600532621908845730904,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220403.0,
-        "Y": 615.5737704918032790366756
+        "X": 20220404.0,
+        "Y": 616.0
       },
       "End": {
-        "X": 20220410.0,
-        "Y": 616.2049180327868848186253
+        "X": 20220411.0,
+        "Y": 616.0
       }
     }
   }
