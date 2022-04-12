@@ -2,7 +2,7 @@
   "PublicName": "Kyle McArthur",
   "AvatarImage": "https://pbs.twimg.com/profile_images/695420332027412482/3_wsI-Qp_normal.jpg",
   "Login": "Calamity_Kyle",
-  "CurrentFollowersCount": 1380,
+  "CurrentFollowersCount": 1379,
   "CurrentTweetsCout": 5978,
   "FollowersCountHistory": {
     "20210225": 1289,
@@ -378,7 +378,8 @@
     "20220408": 1380,
     "20220410": 1380,
     "20220411": 1380,
-    "20220412": 1380
+    "20220412": 1380,
+    "20220413": 1379
   },
   "TweetsCountHistory": {
     "20210225": 5085,
@@ -754,20 +755,21 @@
     "20220408": 5957,
     "20220410": 5967,
     "20220411": 5972,
-    "20220412": 5978
+    "20220412": 5978,
+    "20220413": 5978
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0416869311470854029865761211,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220405.0,
-        "Y": 1380.0
+        "X": 20220406.0,
+        "Y": 1380.1506849315068494154742
       },
       "End": {
-        "X": 20220412.0,
-        "Y": 1380.0
+        "X": 20220413.0,
+        "Y": 1379.5753424657534245611446
       }
     }
   }
