@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1398719869693136898/yaqmlyS3_normal.png",
   "Login": "danielmafra",
   "CurrentFollowersCount": 320,
-  "CurrentTweetsCout": 292,
+  "CurrentTweetsCout": 297,
   "FollowersCountHistory": {
     "20210914": 315,
     "20210915": 316,
@@ -200,7 +200,8 @@
     "20220409": 320,
     "20220410": 320,
     "20220411": 320,
-    "20220412": 320
+    "20220412": 320,
+    "20220413": 320
   },
   "TweetsCountHistory": {
     "20210914": 263,
@@ -398,20 +399,21 @@
     "20220409": 289,
     "20220410": 289,
     "20220411": 291,
-    "20220412": 292
+    "20220412": 292,
+    "20220413": 297
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2006018054162487462386983082,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220406.0,
-        "Y": 320.4642857142857142857143
+        "X": 20220407.0,
+        "Y": 320.0
       },
       "End": {
-        "X": 20220412.0,
-        "Y": 319.8214285714285714285715
+        "X": 20220413.0,
+        "Y": 320.0
       }
     }
   }

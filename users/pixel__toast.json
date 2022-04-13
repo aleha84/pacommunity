@@ -2,8 +2,8 @@
   "PublicName": "Toast",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1512077236274311168/Fa2oCyie_normal.jpg",
   "Login": "pixel__toast",
-  "CurrentFollowersCount": 21067,
-  "CurrentTweetsCout": 9360,
+  "CurrentFollowersCount": 21065,
+  "CurrentTweetsCout": 9362,
   "FollowersCountHistory": {
     "20210320": 10269,
     "20210325": 10317,
@@ -341,7 +341,8 @@
     "20220409": 21068,
     "20220410": 21068,
     "20220411": 21065,
-    "20220412": 21067
+    "20220412": 21067,
+    "20220413": 21065
   },
   "TweetsCountHistory": {
     "20210320": 6192,
@@ -680,20 +681,21 @@
     "20220409": 9343,
     "20220410": 9350,
     "20220411": 9358,
-    "20220412": 9360
+    "20220412": 9360,
+    "20220413": 9362
   },
   "LangId": "np",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0152590218966964217593638679,
+    "WeeklyGrowth": -0.0152561766326227910327570454,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220406.0,
-        "Y": 21064.821428571428571428572
+        "X": 20220407.0,
+        "Y": 21068.750000000000000000000
       },
       "End": {
-        "X": 20220412.0,
-        "Y": 21068.035714285714285714286
+        "X": 20220413.0,
+        "Y": 21065.535714285714285714286
       }
     }
   }
