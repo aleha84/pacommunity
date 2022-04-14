@@ -2,8 +2,8 @@
   "PublicName": "Crabby Sam",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1294280204064444422/uvR41WK3_normal.png",
   "Login": "goawayimcrabby",
-  "CurrentFollowersCount": 19841,
-  "CurrentTweetsCout": 15472,
+  "CurrentFollowersCount": 19840,
+  "CurrentTweetsCout": 15475,
   "FollowersCountHistory": {
     "20210113": 13553,
     "20210114": 13596,
@@ -424,7 +424,8 @@
     "20220411": 19845,
     "20220412": 19845,
     "20220413": 19841,
-    "20220414": 19841
+    "20220414": 19841,
+    "20220415": 19840
   },
   "TweetsCountHistory": {
     "20210113": 12936,
@@ -846,20 +847,21 @@
     "20220411": 15460,
     "20220412": 15462,
     "20220413": 15464,
-    "20220414": 15472
+    "20220414": 15472,
+    "20220415": 15475
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0038346919098956991460873085,
+    "WeeklyGrowth": -0.0080963900014540355971478295,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220407.0,
-        "Y": 19841.7391304347826084044424
+        "X": 20220408.0,
+        "Y": 19842.8852459016393431738780
       },
       "End": {
-        "X": 20220414.0,
-        "Y": 19842.5000000000000002576088
+        "X": 20220415.0,
+        "Y": 19841.2786885245901648212846
       }
     }
   }
