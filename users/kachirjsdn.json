@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1169784835751022592/FkLhEz-T_normal.jpg",
   "Login": "kachirjsdn",
   "CurrentFollowersCount": 219,
-  "CurrentTweetsCout": 9358,
+  "CurrentTweetsCout": 9361,
   "FollowersCountHistory": {
     "20210929": 181,
     "20210930": 181,
@@ -189,7 +189,8 @@
     "20220411": 219,
     "20220412": 219,
     "20220413": 219,
-    "20220414": 219
+    "20220414": 219,
+    "20220415": 219
   },
   "TweetsCountHistory": {
     "20210929": 7553,
@@ -376,20 +377,21 @@
     "20220411": 9349,
     "20220412": 9348,
     "20220413": 9352,
-    "20220414": 9358
+    "20220414": 9358,
+    "20220415": 9361
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2941657133518548782480995165,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220408.0,
-        "Y": 218.5357142857142857142856
+        "X": 20220409.0,
+        "Y": 219.0
       },
       "End": {
-        "X": 20220414.0,
-        "Y": 219.1785714285714285714285
+        "X": 20220415.0,
+        "Y": 219.0
       }
     }
   }
