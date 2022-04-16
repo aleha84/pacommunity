@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1495254893732536328/n-0OU5eY_normal.jpg",
   "Login": "foxiedarling",
   "CurrentFollowersCount": 128,
-  "CurrentTweetsCout": 1021,
+  "CurrentTweetsCout": 1027,
   "FollowersCountHistory": {
     "20210116": 50,
     "20210117": 52,
@@ -423,7 +423,8 @@
     "20220413": 128,
     "20220414": 128,
     "20220415": 128,
-    "20220416": 128
+    "20220416": 128,
+    "20220417": 128
   },
   "TweetsCountHistory": {
     "20210116": 270,
@@ -844,20 +845,21 @@
     "20220413": 1016,
     "20220414": 1018,
     "20220415": 1021,
-    "20220416": 1021
+    "20220416": 1021,
+    "20220417": 1027
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.5040604872584710165220166936,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220410.0,
-        "Y": 127.5357142857142857142856
+        "X": 20220411.0,
+        "Y": 128.0
       },
       "End": {
-        "X": 20220416.0,
-        "Y": 128.1785714285714285714285
+        "X": 20220417.0,
+        "Y": 128.0
       }
     }
   }

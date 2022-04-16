@@ -1,9 +1,9 @@
 {
-  "PublicName": "DieMango (comms: closed)",
+  "PublicName": "DieMango",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1277189850026958849/u5NvIG5Q_normal.jpg",
   "Login": "MimicMango",
-  "CurrentFollowersCount": 43508,
-  "CurrentTweetsCout": 15550,
+  "CurrentFollowersCount": 43504,
+  "CurrentTweetsCout": 15560,
   "FollowersCountHistory": {
     "20201217": 25234,
     "20201218": 25246,
@@ -434,7 +434,8 @@
     "20220412": 43496,
     "20220413": 43497,
     "20220414": 43505,
-    "20220415": 43508
+    "20220415": 43508,
+    "20220416": 43504
   },
   "TweetsCountHistory": {
     "20201217": 11426,
@@ -866,20 +867,21 @@
     "20220412": 15524,
     "20220413": 15526,
     "20220414": 15540,
-    "20220415": 15550
+    "20220415": 15550,
+    "20220416": 15560
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0206917277428445213724198975,
+    "WeeklyGrowth": 0.020198553422300024057627294,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220409.0,
-        "Y": 43495.642857142857142857143
+        "X": 20220410.0,
+        "Y": 43496.750000000000000000000
       },
       "End": {
-        "X": 20220415.0,
-        "Y": 43504.642857142857142857143
+        "X": 20220416.0,
+        "Y": 43505.535714285714285714286
       }
     }
   }
