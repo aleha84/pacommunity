@@ -2,8 +2,8 @@
   "PublicName": "Jon Davies",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1346065172197212161/UxlNw3eZ_normal.jpg",
   "Login": "SovanJedi",
-  "CurrentFollowersCount": 33073,
-  "CurrentTweetsCout": 57768,
+  "CurrentFollowersCount": 33086,
+  "CurrentTweetsCout": 57784,
   "FollowersCountHistory": {
     "20210108": 13678,
     "20210109": 13673,
@@ -435,7 +435,8 @@
     "20220417": 33073,
     "20220418": 33067,
     "20220419": 33064,
-    "20220420": 33073
+    "20220420": 33073,
+    "20220421": 33086
   },
   "TweetsCountHistory": {
     "20210108": 51339,
@@ -868,20 +869,21 @@
     "20220417": 57717,
     "20220418": 57729,
     "20220419": 57748,
-    "20220420": 57768
+    "20220420": 57768,
+    "20220421": 57784
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0161974621816253829350013116,
+    "WeeklyGrowth": 0.0116630417644886296141904661,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220414.0,
-        "Y": 33073.964285714285714285715
+        "X": 20220415.0,
+        "Y": 33071.500000000000000000000
       },
       "End": {
-        "X": 20220420.0,
-        "Y": 33068.607142857142857142858
+        "X": 20220421.0,
+        "Y": 33075.357142857142857142857
       }
     }
   }

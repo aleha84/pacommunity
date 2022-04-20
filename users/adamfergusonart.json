@@ -2,8 +2,8 @@
   "PublicName": "Adam",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1432242337590259713/fO5VSJP5_normal.jpg",
   "Login": "adamfergusonart",
-  "CurrentFollowersCount": 19075,
-  "CurrentTweetsCout": 1061,
+  "CurrentFollowersCount": 19074,
+  "CurrentTweetsCout": 1062,
   "FollowersCountHistory": {
     "20210113": 9189,
     "20210114": 9227,
@@ -430,7 +430,8 @@
     "20220417": 19082,
     "20220418": 19085,
     "20220419": 19081,
-    "20220420": 19075
+    "20220420": 19075,
+    "20220421": 19074
   },
   "TweetsCountHistory": {
     "20210113": 512,
@@ -858,20 +859,21 @@
     "20220417": 1061,
     "20220418": 1061,
     "20220419": 1061,
-    "20220420": 1061
+    "20220420": 1061,
+    "20220421": 1062
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.023588747044386159021853289,
+    "WeeklyGrowth": -0.0303195342021189985570110184,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220414.0,
-        "Y": 19076.892857142857142857143
+        "X": 20220415.0,
+        "Y": 19082.464285714285714285714
       },
       "End": {
-        "X": 20220420.0,
-        "Y": 19081.392857142857142857143
+        "X": 20220421.0,
+        "Y": 19076.678571428571428571429
       }
     }
   }
