@@ -2,7 +2,7 @@
   "PublicName": "Neoriceisgood",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1274009757490319360/EAEc-g-f_normal.jpg",
   "Login": "Neoriceisgood",
-  "CurrentFollowersCount": 11783,
+  "CurrentFollowersCount": 11780,
   "CurrentTweetsCout": 28610,
   "FollowersCountHistory": {
     "20210717": 10394,
@@ -256,7 +256,8 @@
     "20220418": 11789,
     "20220419": 11785,
     "20220420": 11783,
-    "20220421": 11783
+    "20220421": 11783,
+    "20220422": 11780
   },
   "TweetsCountHistory": {
     "20210717": 28039,
@@ -510,20 +511,21 @@
     "20220418": 28599,
     "20220419": 28608,
     "20220420": 28608,
-    "20220421": 28610
+    "20220421": 28610,
+    "20220422": 28610
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0145480996544826332060375825,
+    "WeeklyGrowth": -0.0418140004181400041814036773,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220415.0,
-        "Y": 11783.5714285714285714285715
+        "X": 20220416.0,
+        "Y": 11786.892857142857142857143
       },
       "End": {
-        "X": 20220421.0,
-        "Y": 11785.2857142857142857142858
+        "X": 20220422.0,
+        "Y": 11781.964285714285714285714
       }
     }
   }
