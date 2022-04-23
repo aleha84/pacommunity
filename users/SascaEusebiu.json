@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1338543496068788224/6OdWRWFK_normal.jpg",
   "Login": "SascaEusebiu",
   "CurrentFollowersCount": 27,
-  "CurrentTweetsCout": 22,
+  "CurrentTweetsCout": 23,
   "FollowersCountHistory": {
     "20210915": 10,
     "20210916": 10,
@@ -211,7 +211,8 @@
     "20220419": 27,
     "20220420": 27,
     "20220421": 27,
-    "20220422": 27
+    "20220422": 27,
+    "20220423": 27
   },
   "TweetsCountHistory": {
     "20210915": 14,
@@ -420,20 +421,21 @@
     "20220419": 21,
     "20220420": 21,
     "20220421": 21,
-    "20220422": 22
+    "20220422": 22,
+    "20220423": 23
   },
   "LangId": "ro",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 4.9315068493150684931506355414,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220416.0,
-        "Y": 26.0714285714285714285714
+        "X": 20220417.0,
+        "Y": 27.0
       },
       "End": {
-        "X": 20220422.0,
-        "Y": 27.3571428571428571428571
+        "X": 20220423.0,
+        "Y": 27.0
       }
     }
   }

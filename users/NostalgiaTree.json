@@ -2,7 +2,7 @@
   "PublicName": "Dani",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1261703789607825408/vawNBZ8N_normal.jpg",
   "Login": "NostalgiaTree",
-  "CurrentFollowersCount": 52115,
+  "CurrentFollowersCount": 52113,
   "CurrentTweetsCout": 1081,
   "FollowersCountHistory": {
     "20210125": 44225,
@@ -404,7 +404,8 @@
     "20220419": 52105,
     "20220420": 52099,
     "20220421": 52108,
-    "20220422": 52115
+    "20220422": 52115,
+    "20220423": 52113
   },
   "TweetsCountHistory": {
     "20210125": 885,
@@ -806,20 +807,21 @@
     "20220419": 1081,
     "20220420": 1081,
     "20220421": 1081,
-    "20220422": 1081
+    "20220422": 1081,
+    "20220423": 1081
   },
   "LangId": "no",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.016036129262166727772999407,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220416.0,
-        "Y": 52114.464285714285714285715
+        "X": 20220417.0,
+        "Y": 52109.571428571428571428571429
       },
       "End": {
-        "X": 20220422.0,
-        "Y": 52106.107142857142857142858
+        "X": 20220423.0,
+        "Y": 52109.571428571428571428571429
       }
     }
   }
