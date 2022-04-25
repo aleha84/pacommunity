@@ -2,8 +2,8 @@
   "PublicName": "サグナ(Shaguna)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/851813513366347778/GdpGeSwg_normal.jpg",
   "Login": "shagunacazanera",
-  "CurrentFollowersCount": 2082,
-  "CurrentTweetsCout": 107846,
+  "CurrentFollowersCount": 2080,
+  "CurrentTweetsCout": 107840,
   "FollowersCountHistory": {
     "20201231": 2155,
     "20210101": 2156,
@@ -428,7 +428,8 @@
     "20220421": 2082,
     "20220422": 2082,
     "20220423": 2082,
-    "20220424": 2082
+    "20220424": 2082,
+    "20220425": 2080
   },
   "TweetsCountHistory": {
     "20201231": 110004,
@@ -854,20 +855,21 @@
     "20220421": 107850,
     "20220422": 107850,
     "20220423": 107848,
-    "20220424": 107846
+    "20220424": 107846,
+    "20220425": 107840
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0617432168215964051727088134,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220418.0,
-        "Y": 2082.0
+        "X": 20220419.0,
+        "Y": 2082.3571428571428571428571
       },
       "End": {
-        "X": 20220424.0,
-        "Y": 2082.0
+        "X": 20220425.0,
+        "Y": 2081.0714285714285714285714
       }
     }
   }

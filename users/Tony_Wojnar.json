@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1410292221081964547/rSkBNd97_normal.jpg",
   "Login": "Tony_Wojnar",
   "CurrentFollowersCount": 968,
-  "CurrentTweetsCout": 17565,
+  "CurrentTweetsCout": 17567,
   "FollowersCountHistory": {
     "20210126": 800,
     "20210127": 802,
@@ -421,7 +421,8 @@
     "20220421": 968,
     "20220422": 967,
     "20220423": 969,
-    "20220424": 968
+    "20220424": 968,
+    "20220425": 968
   },
   "TweetsCountHistory": {
     "20210126": 13830,
@@ -840,20 +841,21 @@
     "20220421": 17553,
     "20220422": 17558,
     "20220423": 17562,
-    "20220424": 17565
+    "20220424": 17565,
+    "20220425": 17567
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0663790242283438433454969198,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220418.0,
-        "Y": 968.4642857142857142857143
+        "X": 20220419.0,
+        "Y": 968.0
       },
       "End": {
-        "X": 20220424.0,
-        "Y": 967.8214285714285714285715
+        "X": 20220425.0,
+        "Y": 968.0
       }
     }
   }
