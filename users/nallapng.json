@@ -2,7 +2,7 @@
   "PublicName": "Nalla",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1225198675242213377/X5E83P6X_normal.jpg",
   "Login": "nallapng",
-  "CurrentFollowersCount": 324,
+  "CurrentFollowersCount": 323,
   "CurrentTweetsCout": 169,
   "FollowersCountHistory": {
     "20210112": 266,
@@ -416,7 +416,8 @@
     "20220422": 324,
     "20220423": 324,
     "20220424": 324,
-    "20220425": 324
+    "20220425": 324,
+    "20220426": 323
   },
   "TweetsCountHistory": {
     "20210112": 150,
@@ -830,20 +831,21 @@
     "20220422": 169,
     "20220423": 169,
     "20220424": 169,
-    "20220425": 169
+    "20220425": 169,
+    "20220426": 169
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1983034042084389115346304282,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220419.0,
-        "Y": 324.0
+        "X": 20220420.0,
+        "Y": 324.1785714285714285714285
       },
       "End": {
-        "X": 20220425.0,
-        "Y": 324.0
+        "X": 20220426.0,
+        "Y": 323.5357142857142857142857
       }
     }
   }
