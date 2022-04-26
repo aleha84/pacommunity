@@ -2,7 +2,7 @@
   "PublicName": "옐타",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1500184979464015873/TFd0n8HW_normal.jpg",
   "Login": "yelta8",
-  "CurrentFollowersCount": 0,
+  "CurrentFollowersCount": 1,
   "CurrentTweetsCout": 0,
   "FollowersCountHistory": {
     "20210129": 27,
@@ -311,7 +311,7 @@
     "20220423": 0,
     "20220424": 0,
     "20220425": 0,
-    "20220426": 0
+    "20220426": 1
   },
   "TweetsCountHistory": {
     "20210129": 30,
@@ -624,8 +624,17 @@
   },
   "LangId": "de",
   "FollowersTrend": {
-    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at System.Decimal.op_Division(Decimal d1, Decimal d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 83",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -360.000000000000000000112,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220420.0,
+        "Y": -0.1785714285714285714285
+      },
+      "End": {
+        "X": 20220426.0,
+        "Y": 0.4642857142857142857143
+      }
+    }
   }
 }
