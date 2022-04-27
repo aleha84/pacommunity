@@ -2,8 +2,8 @@
   "PublicName": "Hueshifter",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1512121636392161280/5D3FNXcC_normal.png",
   "Login": "HueShifter",
-  "CurrentFollowersCount": 508,
-  "CurrentTweetsCout": 5041,
+  "CurrentFollowersCount": 507,
+  "CurrentTweetsCout": 5038,
   "FollowersCountHistory": {
     "20201228": 426,
     "20201229": 425,
@@ -434,7 +434,8 @@
     "20220423": 508,
     "20220424": 508,
     "20220425": 508,
-    "20220426": 508
+    "20220426": 508,
+    "20220427": 507
   },
   "TweetsCountHistory": {
     "20201228": 4208,
@@ -866,20 +867,21 @@
     "20220423": 5039,
     "20220424": 5039,
     "20220425": 5040,
-    "20220426": 5041
+    "20220426": 5041,
+    "20220427": 5038
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1265022137887413029728104753,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220420.0,
-        "Y": 508.0
+        "X": 20220421.0,
+        "Y": 508.1785714285714285714285
       },
       "End": {
-        "X": 20220426.0,
-        "Y": 508.0
+        "X": 20220427.0,
+        "Y": 507.5357142857142857142856
       }
     }
   }
