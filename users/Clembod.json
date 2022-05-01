@@ -2,7 +2,7 @@
   "PublicName": "Clembod",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1426497809239379973/7A68fXvw_normal.jpg",
   "Login": "Clembod",
-  "CurrentFollowersCount": 262,
+  "CurrentFollowersCount": 261,
   "CurrentTweetsCout": 59,
   "FollowersCountHistory": {
     "20210728": 91,
@@ -254,7 +254,8 @@
     "20220427": 262,
     "20220428": 262,
     "20220429": 262,
-    "20220430": 262
+    "20220430": 262,
+    "20220501": 261
   },
   "TweetsCountHistory": {
     "20210728": 25,
@@ -506,20 +507,21 @@
     "20220427": 59,
     "20220428": 59,
     "20220429": 59,
-    "20220430": 59
+    "20220430": 59,
+    "20220501": 59
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3278688524590163934426065215,
+    "WeeklyGrowth": -0.3868897577669432589057752167,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220424.0,
-        "Y": 261.4285714285714285714286
+        "X": 20220425.0,
+        "Y": 262.03055077452667814113597
       },
       "End": {
-        "X": 20220430.0,
-        "Y": 262.2857142857142857142857
+        "X": 20220501.0,
+        "Y": 261.01678141135972461273665
       }
     }
   }

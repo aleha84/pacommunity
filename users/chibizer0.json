@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1511707692108496896/wv-fhQnu_normal.jpg",
   "Login": "chibizer0",
   "CurrentFollowersCount": 467,
-  "CurrentTweetsCout": 2529,
+  "CurrentTweetsCout": 2531,
   "FollowersCountHistory": {
     "20210916": 171,
     "20210917": 178,
@@ -222,7 +222,8 @@
     "20220428": 467,
     "20220429": 467,
     "20220430": 467,
-    "20220501": 467
+    "20220501": 467,
+    "20220502": 467
   },
   "TweetsCountHistory": {
     "20210916": 1636,
@@ -442,20 +443,21 @@
     "20220428": 2525,
     "20220429": 2528,
     "20220430": 2529,
-    "20220501": 2529
+    "20220501": 2529,
+    "20220502": 2531
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0455345073677874699912388039,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220425.0,
-        "Y": 466.820783132530120481927711
+        "X": 20220426.0,
+        "Y": 467.0
       },
       "End": {
-        "X": 20220501.0,
-        "Y": 467.033347676419965576592083
+        "X": 20220502.0,
+        "Y": 467.0
       }
     }
   }

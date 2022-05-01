@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1458007026219507712/3RngjkMP_normal.jpg",
   "Login": "KhyleThe",
   "CurrentFollowersCount": 68,
-  "CurrentTweetsCout": 283,
+  "CurrentTweetsCout": 284,
   "FollowersCountHistory": {
     "20210914": 60,
     "20210915": 60,
@@ -224,7 +224,8 @@
     "20220428": 68,
     "20220429": 68,
     "20220430": 68,
-    "20220501": 68
+    "20220501": 68,
+    "20220502": 68
   },
   "TweetsCountHistory": {
     "20210914": 186,
@@ -446,20 +447,21 @@
     "20220428": 281,
     "20220429": 283,
     "20220430": 283,
-    "20220501": 283
+    "20220501": 283,
+    "20220502": 284
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.621911686022723696220055947,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220425.0,
-        "Y": 68.35843373493975903614457
+        "X": 20220426.0,
+        "Y": 68.0
       },
       "End": {
-        "X": 20220501.0,
-        "Y": 67.93330464716006884681583
+        "X": 20220502.0,
+        "Y": 68.0
       }
     }
   }
