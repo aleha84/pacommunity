@@ -2,8 +2,8 @@
   "PublicName": "reverie",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1335235854030299136/c65RtL_z_normal.jpg",
   "Login": "revereverevere1",
-  "CurrentFollowersCount": 97,
-  "CurrentTweetsCout": 2330,
+  "CurrentFollowersCount": 100,
+  "CurrentTweetsCout": 2329,
   "FollowersCountHistory": {
     "20201223": 82,
     "20201224": 82,
@@ -444,7 +444,8 @@
     "20220428": 97,
     "20220429": 97,
     "20220430": 97,
-    "20220501": 97
+    "20220501": 97,
+    "20220502": 100
   },
   "TweetsCountHistory": {
     "20201223": 1192,
@@ -886,20 +887,21 @@
     "20220428": 2330,
     "20220429": 2330,
     "20220430": 2330,
-    "20220501": 2330
+    "20220501": 2330,
+    "20220502": 2329
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 1.6127676101170337568116225518,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220425.0,
-        "Y": 97.0
+        "X": 20220426.0,
+        "Y": 96.95535714285714285714285
       },
       "End": {
-        "X": 20220501.0,
-        "Y": 97.0
+        "X": 20220502.0,
+        "Y": 98.51902173913043478260869
       }
     }
   }

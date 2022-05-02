@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/695420332027412482/3_wsI-Qp_normal.jpg",
   "Login": "Calamity_Kyle",
   "CurrentFollowersCount": 1378,
-  "CurrentTweetsCout": 6019,
+  "CurrentTweetsCout": 6022,
   "FollowersCountHistory": {
     "20210225": 1289,
     "20210226": 1290,
@@ -398,7 +398,8 @@
     "20220429": 1378,
     "20220430": 1378,
     "20220501": 1378,
-    "20220502": 1378
+    "20220502": 1378,
+    "20220503": 1378
   },
   "TweetsCountHistory": {
     "20210225": 5085,
@@ -794,20 +795,21 @@
     "20220429": 6019,
     "20220430": 6019,
     "20220501": 6019,
-    "20220502": 6019
+    "20220502": 6019,
+    "20220503": 6022
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0164118865247614337942338512,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220426.0,
-        "Y": 1378.211309523809523809523810
+        "X": 20220427.0,
+        "Y": 1378.0
       },
       "End": {
-        "X": 20220502.0,
-        "Y": 1377.985119047619047619047619
+        "X": 20220503.0,
+        "Y": 1378.0
       }
     }
   }
