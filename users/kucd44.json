@@ -2,7 +2,7 @@
   "PublicName": "kucd",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1501929248097210368/KqU1a3Ts_normal.jpg",
   "Login": "kucd44",
-  "CurrentFollowersCount": 1829,
+  "CurrentFollowersCount": 1828,
   "CurrentTweetsCout": 170,
   "FollowersCountHistory": {
     "20211101": 1214,
@@ -175,7 +175,8 @@
     "20220429": 1829,
     "20220430": 1828,
     "20220501": 1829,
-    "20220502": 1829
+    "20220502": 1829,
+    "20220504": 1828
   },
   "TweetsCountHistory": {
     "20211101": 129,
@@ -348,20 +349,21 @@
     "20220429": 170,
     "20220430": 170,
     "20220501": 170,
-    "20220502": 170
+    "20220502": 170,
+    "20220504": 170
   },
   "LangId": "cn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0112927790956225,
+    "WeeklyGrowth": -0.020636792452830188583424968,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220426.0,
-        "Y": 1828.79464285714
+        "X": 20220427.0,
+        "Y": 1829.01960784313725490120636
       },
       "End": {
-        "X": 20220502.0,
-        "Y": 1829.00116459627
+        "X": 20220504.0,
+        "Y": 1828.64215686274509804021399
       }
     }
   }

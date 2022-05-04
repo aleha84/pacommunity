@@ -2,7 +2,7 @@
   "PublicName": "🍯🐝🍯",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1240496322622492672/LQ3JVUTB_normal.jpg",
   "Login": "honeycharme",
-  "CurrentFollowersCount": 81,
+  "CurrentFollowersCount": 80,
   "CurrentTweetsCout": 380,
   "FollowersCountHistory": {
     "20210127": 61,
@@ -429,7 +429,8 @@
     "20220430": 81,
     "20220501": 81,
     "20220502": 81,
-    "20220503": 81
+    "20220503": 81,
+    "20220504": 80
   },
   "TweetsCountHistory": {
     "20210127": 345,
@@ -856,20 +857,21 @@
     "20220430": 380,
     "20220501": 380,
     "20220502": 380,
-    "20220503": 380
+    "20220503": 380,
+    "20220504": 380
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3340423519884710103715613167,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220427.0,
-        "Y": 81.0
+        "X": 20220428.0,
+        "Y": 81.010250323694432455761761
       },
       "End": {
-        "X": 20220503.0,
-        "Y": 81.0
+        "X": 20220504.0,
+        "Y": 80.739641778161415623651274
       }
     }
   }

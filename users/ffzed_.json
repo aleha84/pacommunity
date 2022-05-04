@@ -2,7 +2,7 @@
   "PublicName": "Mi ミ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1484911590235598851/ylWka3HH_normal.jpg",
   "Login": "ffzed_",
-  "CurrentFollowersCount": 391,
+  "CurrentFollowersCount": 390,
   "CurrentTweetsCout": 2374,
   "FollowersCountHistory": {
     "20210914": 82,
@@ -222,7 +222,8 @@
     "20220429": 391,
     "20220430": 391,
     "20220501": 391,
-    "20220502": 391
+    "20220502": 391,
+    "20220504": 390
   },
   "TweetsCountHistory": {
     "20210914": 1968,
@@ -442,20 +443,21 @@
     "20220429": 2373,
     "20220430": 2373,
     "20220501": 2374,
-    "20220502": 2374
+    "20220502": 2374,
+    "20220504": 2374
   },
   "LangId": "id",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0923215813871818476681915463,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220426.0,
-        "Y": 391.0
+        "X": 20220427.0,
+        "Y": 391.01252214281351169680256
       },
       "End": {
-        "X": 20220502.0,
-        "Y": 391.0
+        "X": 20220504.0,
+        "Y": 390.65153319894936167707591
       }
     }
   }
