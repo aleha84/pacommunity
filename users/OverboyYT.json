@@ -2,7 +2,7 @@
   "PublicName": "Overboy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1357660425161232390/v5D3MO2F_normal.png",
   "Login": "OverboyYT",
-  "CurrentFollowersCount": 1006,
+  "CurrentFollowersCount": 1005,
   "CurrentTweetsCout": 251,
   "FollowersCountHistory": {
     "20210125": 909,
@@ -416,7 +416,8 @@
     "20220503": 1006,
     "20220504": 1005,
     "20220505": 1006,
-    "20220506": 1006
+    "20220506": 1006,
+    "20220507": 1005
   },
   "TweetsCountHistory": {
     "20210125": 231,
@@ -830,20 +831,21 @@
     "20220503": 251,
     "20220504": 251,
     "20220505": 251,
-    "20220506": 251
+    "20220506": 251,
+    "20220507": 251
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0308826998494575316895214303,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220430.0,
-        "Y": 1005.97181583476764199655767
+        "X": 20220501.0,
+        "Y": 1005.5714285714285714285714286
       },
       "End": {
-        "X": 20220506.0,
-        "Y": 1005.66114457831325301204820
+        "X": 20220507.0,
+        "Y": 1005.5714285714285714285714286
       }
     }
   }

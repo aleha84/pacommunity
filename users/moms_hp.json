@@ -2,8 +2,8 @@
   "PublicName": "YOUR_MOMS_HP",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1195428985330647041/wMN1TJn2_normal.jpg",
   "Login": "moms_hp",
-  "CurrentFollowersCount": 89,
-  "CurrentTweetsCout": 240,
+  "CurrentFollowersCount": 88,
+  "CurrentTweetsCout": 241,
   "FollowersCountHistory": {
     "20201216": 11,
     "20201217": 14,
@@ -454,7 +454,8 @@
     "20220502": 89,
     "20220504": 89,
     "20220505": 89,
-    "20220506": 89
+    "20220506": 89,
+    "20220507": 88
   },
   "TweetsCountHistory": {
     "20201216": 29,
@@ -906,20 +907,21 @@
     "20220502": 236,
     "20220504": 240,
     "20220505": 240,
-    "20220506": 240
+    "20220506": 240,
+    "20220507": 241
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2449140905796390383698232895,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220429.0,
-        "Y": 89.0
+        "X": 20220430.0,
+        "Y": 89.037177633164617980772858
       },
       "End": {
-        "X": 20220506.0,
-        "Y": 89.0
+        "X": 20220507.0,
+        "Y": 88.819113039286575078218765
       }
     }
   }

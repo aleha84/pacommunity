@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1497138407264473089/9fSWmd_-_normal.jpg",
   "Login": "wo_zap",
   "CurrentFollowersCount": 60,
-  "CurrentTweetsCout": 126,
+  "CurrentTweetsCout": 128,
   "FollowersCountHistory": {
     "20220501": 60,
     "20220502": 60,
     "20220503": 60,
     "20220504": 60,
     "20220505": 60,
-    "20220506": 60
+    "20220506": 60,
+    "20220507": 60
   },
   "TweetsCountHistory": {
     "20220501": 125,
@@ -18,12 +19,22 @@
     "20220503": 126,
     "20220504": 126,
     "20220505": 126,
-    "20220506": 126
+    "20220506": 126,
+    "20220507": 128
   },
   "LangId": "lv",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
+    "ErrorMessage": null,
     "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220501.0,
+        "Y": 60.0
+      },
+      "End": {
+        "X": 20220507.0,
+        "Y": 60.0
+      }
+    }
   }
 }
