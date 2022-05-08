@@ -2,8 +2,8 @@
   "PublicName": "Sneep",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1220408134331707392/OodPpHNH_normal.png",
   "Login": "sneep29",
-  "CurrentFollowersCount": 6144,
-  "CurrentTweetsCout": 7188,
+  "CurrentFollowersCount": 6140,
+  "CurrentTweetsCout": 7189,
   "FollowersCountHistory": {
     "20210204": 6325,
     "20210205": 6325,
@@ -426,7 +426,8 @@
     "20220505": 6145,
     "20220506": 6146,
     "20220507": 6146,
-    "20220508": 6144
+    "20220508": 6144,
+    "20220509": 6140
   },
   "TweetsCountHistory": {
     "20210204": 6773,
@@ -850,20 +851,21 @@
     "20220505": 7187,
     "20220506": 7188,
     "20220507": 7188,
-    "20220508": 7188
+    "20220508": 7188,
+    "20220509": 7189
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0383714237542368447061946549,
+    "WeeklyGrowth": -0.0069756897213211956332186995,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220502.0,
-        "Y": 6142.964285714285714285715
+        "X": 20220503.0,
+        "Y": 6143.7857142857142857142857
       },
       "End": {
-        "X": 20220508.0,
-        "Y": 6145.321428571428571428572
+        "X": 20220509.0,
+        "Y": 6143.3571428571428571428571
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "26565deg",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1189887079192432640/cup9eZfn_normal.png",
   "Login": "26565deg",
-  "CurrentFollowersCount": 491,
+  "CurrentFollowersCount": 490,
   "CurrentTweetsCout": 46,
   "FollowersCountHistory": {
     "20201225": 491,
@@ -446,7 +446,8 @@
     "20220504": 491,
     "20220505": 491,
     "20220506": 491,
-    "20220507": 491
+    "20220507": 491,
+    "20220508": 490
   },
   "TweetsCountHistory": {
     "20201225": 46,
@@ -890,20 +891,21 @@
     "20220504": 46,
     "20220505": 46,
     "20220506": 46,
-    "20220507": 46
+    "20220507": 46,
+    "20220508": 46
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.118764845605700798585996186,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220430.0,
-        "Y": 491.0
+        "X": 20220501.0,
+        "Y": 491.1666666666666668909323
       },
       "End": {
-        "X": 20220507.0,
-        "Y": 491.0
+        "X": 20220508.0,
+        "Y": 490.5833333333333331349444
       }
     }
   }

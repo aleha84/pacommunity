@@ -2,7 +2,7 @@
   "PublicName": "vell",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1503943052087508992/Oz9ENJ2h_normal.jpg",
   "Login": "vell_yes",
-  "CurrentFollowersCount": 396,
+  "CurrentFollowersCount": 397,
   "CurrentTweetsCout": 955,
   "FollowersCountHistory": {
     "20220501": 395,
@@ -10,7 +10,8 @@
     "20220504": 396,
     "20220505": 396,
     "20220506": 396,
-    "20220507": 396
+    "20220507": 396,
+    "20220508": 397
   },
   "TweetsCountHistory": {
     "20220501": 947,
@@ -18,12 +19,22 @@
     "20220504": 948,
     "20220505": 955,
     "20220506": 955,
-    "20220507": 955
+    "20220507": 955,
+    "20220508": 955
   },
   "LangId": "arabic",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.5592594633313134264448494371,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220501.0,
+        "Y": 394.5434782608695643690205
+      },
+      "End": {
+        "X": 20220508.0,
+        "Y": 396.7500000000000007504819
+      }
+    }
   }
 }
