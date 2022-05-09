@@ -2,7 +2,7 @@
   "PublicName": "かうざー",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1357771155554197505/58IfZYJB_normal.png",
   "Login": "kauza_a",
-  "CurrentFollowersCount": 15868,
+  "CurrentFollowersCount": 15864,
   "CurrentTweetsCout": 338,
   "FollowersCountHistory": {
     "20211022": 13706,
@@ -188,7 +188,8 @@
     "20220505": 15862,
     "20220506": 15862,
     "20220507": 15862,
-    "20220508": 15868
+    "20220508": 15868,
+    "20220509": 15864
   },
   "TweetsCountHistory": {
     "20211022": 325,
@@ -374,20 +375,21 @@
     "20220505": 338,
     "20220506": 338,
     "20220507": 338,
-    "20220508": 338
+    "20220508": 338,
+    "20220509": 338
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0041565797286804031558288817,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220501.0,
-        "Y": 15864.4927536231884060519954
+        "X": 20220502.0,
+        "Y": 15864.0
       },
       "End": {
-        "X": 20220508.0,
-        "Y": 15863.8333333333333331078503
+        "X": 20220509.0,
+        "Y": 15864.0
       }
     }
   }
