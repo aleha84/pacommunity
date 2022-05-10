@@ -2,7 +2,7 @@
   "PublicName": "Srandgy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1493739746027196418/GWvB-Rf8_normal.png",
   "Login": "srandgy",
-  "CurrentFollowersCount": 417,
+  "CurrentFollowersCount": 416,
   "CurrentTweetsCout": 207,
   "FollowersCountHistory": {
     "20210108": 263,
@@ -454,7 +454,8 @@
     "20220507": 417,
     "20220508": 417,
     "20220509": 417,
-    "20220510": 417
+    "20220510": 417,
+    "20220511": 416
   },
   "TweetsCountHistory": {
     "20210108": 119,
@@ -906,20 +907,21 @@
     "20220507": 207,
     "20220508": 207,
     "20220509": 207,
-    "20220510": 207
+    "20220510": 207,
+    "20220511": 207
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1540963958565191336358291506,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220504.0,
-        "Y": 417.0
+        "X": 20220505.0,
+        "Y": 417.1785714285714285714285
       },
       "End": {
-        "X": 20220510.0,
-        "Y": 417.0
+        "X": 20220511.0,
+        "Y": 416.5357142857142857142856
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Matt Fisher",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1481785260853530625/0TRegPkx_normal.jpg",
   "Login": "MattFDraws",
-  "CurrentFollowersCount": 5802,
+  "CurrentFollowersCount": 5796,
   "CurrentTweetsCout": 712,
   "FollowersCountHistory": {
     "20210113": 1181,
@@ -450,7 +450,8 @@
     "20220507": 5802,
     "20220508": 5802,
     "20220509": 5801,
-    "20220510": 5802
+    "20220510": 5802,
+    "20220511": 5796
   },
   "TweetsCountHistory": {
     "20210113": 152,
@@ -898,20 +899,21 @@
     "20220507": 706,
     "20220508": 708,
     "20220509": 709,
-    "20220510": 712
+    "20220510": 712,
+    "20220511": 712
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0590871042394997291841129592,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220504.0,
-        "Y": 5801.7142857142857142857142857
+        "X": 20220505.0,
+        "Y": 5802.571428571428571428571
       },
       "End": {
-        "X": 20220510.0,
-        "Y": 5801.7142857142857142857142857
+        "X": 20220511.0,
+        "Y": 5799.142857142857142857142
       }
     }
   }
