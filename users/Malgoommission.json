@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1509933307869364225/C1cI3aFV_normal.jpg",
   "Login": "Malgoommission",
   "CurrentFollowersCount": 710,
-  "CurrentTweetsCout": 1429,
+  "CurrentTweetsCout": 1428,
   "FollowersCountHistory": {
     "20210914": 344,
     "20210915": 345,
@@ -229,7 +229,8 @@
     "20220507": 709,
     "20220508": 709,
     "20220509": 708,
-    "20220510": 710
+    "20220510": 710,
+    "20220511": 710
   },
   "TweetsCountHistory": {
     "20210914": 899,
@@ -456,20 +457,21 @@
     "20220507": 1428,
     "20220508": 1429,
     "20220509": 1429,
-    "20220510": 1429
+    "20220510": 1429,
+    "20220511": 1428
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0907303795554211,
+    "WeeklyGrowth": 0.2117896223085068831627250265,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220504.0,
-        "Y": 708.535714285714
+        "X": 20220505.0,
+        "Y": 708.25
       },
       "End": {
-        "X": 20220510.0,
-        "Y": 709.178571428571
+        "X": 20220511.0,
+        "Y": 709.75
       }
     }
   }

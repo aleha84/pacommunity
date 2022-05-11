@@ -2,7 +2,7 @@
   "PublicName": "Artificer-111",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1363765639471587329/NxIBjKGf_normal.jpg",
   "Login": "111Artificer",
-  "CurrentFollowersCount": 1793,
+  "CurrentFollowersCount": 1792,
   "CurrentTweetsCout": 2151,
   "FollowersCountHistory": {
     "20210223": 1164,
@@ -410,7 +410,8 @@
     "20220508": 1790,
     "20220509": 1791,
     "20220510": 1791,
-    "20220511": 1793
+    "20220511": 1793,
+    "20220512": 1792
   },
   "TweetsCountHistory": {
     "20210223": 1005,
@@ -818,20 +819,21 @@
     "20220508": 2151,
     "20220509": 2151,
     "20220510": 2151,
-    "20220511": 2151
+    "20220511": 2151,
+    "20220512": 2151
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0119610071167992344955442059,
+    "WeeklyGrowth": 0.0837738107110800837738107117,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220505.0,
-        "Y": 1791.53571428571428571428571
+        "X": 20220506.0,
+        "Y": 1790.5357142857142857142857
       },
       "End": {
-        "X": 20220511.0,
-        "Y": 1791.32142857142857142857143
+        "X": 20220512.0,
+        "Y": 1792.0357142857142857142857
       }
     }
   }

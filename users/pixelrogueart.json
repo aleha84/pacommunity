@@ -2,7 +2,7 @@
   "PublicName": "pixelrogueart",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1434843665013293057/SrMG9RJK_normal.jpg",
   "Login": "pixelrogueart",
-  "CurrentFollowersCount": 804,
+  "CurrentFollowersCount": 806,
   "CurrentTweetsCout": 1248,
   "FollowersCountHistory": {
     "20201221": 602,
@@ -452,7 +452,8 @@
     "20220507": 806,
     "20220508": 805,
     "20220509": 804,
-    "20220510": 804
+    "20220510": 804,
+    "20220511": 806
   },
   "TweetsCountHistory": {
     "20201221": 1105,
@@ -902,20 +903,21 @@
     "20220507": 1248,
     "20220508": 1248,
     "20220509": 1248,
-    "20220510": 1248
+    "20220510": 1248,
+    "20220511": 1248
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0266252496117151,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220504.0,
-        "Y": 804.821428571429
+        "X": 20220505.0,
+        "Y": 805.0
       },
       "End": {
-        "X": 20220510.0,
-        "Y": 804.607142857143
+        "X": 20220511.0,
+        "Y": 805.0
       }
     }
   }
