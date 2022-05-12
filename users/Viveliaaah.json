@@ -2,8 +2,8 @@
   "PublicName": "Vivelia (Vivy)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1451577987149619208/mvswlGEW_normal.jpg",
   "Login": "Viveliaaah",
-  "CurrentFollowersCount": 25933,
-  "CurrentTweetsCout": 5637,
+  "CurrentFollowersCount": 25921,
+  "CurrentTweetsCout": 5659,
   "FollowersCountHistory": {
     "20210110": 17715,
     "20210111": 17716,
@@ -454,7 +454,8 @@
     "20220509": 25938,
     "20220510": 25934,
     "20220511": 25934,
-    "20220512": 25933
+    "20220512": 25933,
+    "20220513": 25921
   },
   "TweetsCountHistory": {
     "20210110": 963,
@@ -906,20 +907,21 @@
     "20220509": 5628,
     "20220510": 5631,
     "20220511": 5632,
-    "20220512": 5637
+    "20220512": 5637,
+    "20220513": 5659
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.00908941922742691,
+    "WeeklyGrowth": -0.0396550014870625557648469427,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220506.0,
-        "Y": 25932.8214285714
+        "X": 20220507.0,
+        "Y": 25938.000000000000000000000
       },
       "End": {
-        "X": 20220512.0,
-        "Y": 25935.1785714286
+        "X": 20220513.0,
+        "Y": 25927.714285714285714285714
       }
     }
   }
