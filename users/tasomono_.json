@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1514253176224239620/2e99xQPn_normal.png",
   "Login": "tasomono_",
   "CurrentFollowersCount": 523,
-  "CurrentTweetsCout": 96426,
+  "CurrentTweetsCout": 96442,
   "FollowersCountHistory": {
     "20210128": 345,
     "20210129": 345,
@@ -422,7 +422,8 @@
     "20220511": 523,
     "20220512": 523,
     "20220513": 523,
-    "20220514": 523
+    "20220514": 523,
+    "20220515": 523
   },
   "TweetsCountHistory": {
     "20210128": 86523,
@@ -842,20 +843,21 @@
     "20220511": 96393,
     "20220512": 96401,
     "20220513": 96414,
-    "20220514": 96426
+    "20220514": 96426,
+    "20220515": 96442
   },
   "LangId": "th",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1230264506868976830018536254,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220508.0,
-        "Y": 522.5357142857142857142856
+        "X": 20220509.0,
+        "Y": 523.0
       },
       "End": {
-        "X": 20220514.0,
-        "Y": 523.1785714285714285714285
+        "X": 20220515.0,
+        "Y": 523.0
       }
     }
   }

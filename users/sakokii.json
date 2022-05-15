@@ -2,8 +2,8 @@
   "PublicName": "SAKO 💎 working",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1500985455940096003/AZUWjyM0_normal.jpg",
   "Login": "sakokii",
-  "CurrentFollowersCount": 9223,
-  "CurrentTweetsCout": 28253,
+  "CurrentFollowersCount": 9222,
+  "CurrentTweetsCout": 28252,
   "FollowersCountHistory": {
     "20210222": 8529,
     "20210223": 8531,
@@ -414,7 +414,8 @@
     "20220512": 9225,
     "20220513": 9221,
     "20220514": 9221,
-    "20220515": 9223
+    "20220515": 9223,
+    "20220516": 9222
   },
   "TweetsCountHistory": {
     "20210222": 24089,
@@ -826,20 +827,21 @@
     "20220512": 28241,
     "20220513": 28254,
     "20220514": 28256,
-    "20220515": 28253
+    "20220515": 28253,
+    "20220516": 28252
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0302122995045957555592490283,
+    "WeeklyGrowth": -0.023231861723959018995919401,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220509.0,
-        "Y": 9220.464285714285714285715
+        "X": 20220510.0,
+        "Y": 9223.7857142857142857142857
       },
       "End": {
-        "X": 20220515.0,
-        "Y": 9223.250000000000000000000
+        "X": 20220516.0,
+        "Y": 9221.6428571428571428571428
       }
     }
   }

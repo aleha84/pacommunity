@@ -2,7 +2,7 @@
   "PublicName": "lennart butz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/893158175825723393/j_2xYciI_normal.jpg",
   "Login": "lennsan_",
-  "CurrentFollowersCount": 7351,
+  "CurrentFollowersCount": 7350,
   "CurrentTweetsCout": 1445,
   "FollowersCountHistory": {
     "20210201": 7380,
@@ -416,7 +416,8 @@
     "20220511": 7353,
     "20220512": 7355,
     "20220513": 7352,
-    "20220514": 7351
+    "20220514": 7351,
+    "20220515": 7350
   },
   "TweetsCountHistory": {
     "20210201": 1419,
@@ -830,20 +831,21 @@
     "20220511": 1444,
     "20220512": 1445,
     "20220513": 1445,
-    "20220514": 1445
+    "20220514": 1445,
+    "20220515": 1445
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0029144747387902015359282456,
+    "WeeklyGrowth": -0.0378811793673843045646724029,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220508.0,
-        "Y": 7352.46428571428571428571429
+        "X": 20220509.0,
+        "Y": 7353.821428571428571428571
       },
       "End": {
-        "X": 20220514.0,
-        "Y": 7352.67857142857142857142858
+        "X": 20220515.0,
+        "Y": 7351.035714285714285714286
       }
     }
   }
