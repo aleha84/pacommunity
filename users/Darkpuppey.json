@@ -2,7 +2,7 @@
   "PublicName": "Darkpuppey",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1515636709333270532/Qdw0uq4u_normal.jpg",
   "Login": "Darkpuppey",
-  "CurrentFollowersCount": 961,
+  "CurrentFollowersCount": 959,
   "CurrentTweetsCout": 5353,
   "FollowersCountHistory": {
     "20210915": 754,
@@ -238,7 +238,8 @@
     "20220513": 960,
     "20220514": 960,
     "20220515": 962,
-    "20220516": 961
+    "20220516": 961,
+    "20220517": 959
   },
   "TweetsCountHistory": {
     "20210915": 3132,
@@ -474,20 +475,21 @@
     "20220513": 5356,
     "20220514": 5356,
     "20220515": 5355,
-    "20220516": 5353
+    "20220516": 5353,
+    "20220517": 5353
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0892591490627789348408167225,
+    "WeeklyGrowth": -0.08919280511372082652,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220510.0,
-        "Y": 960.2857142857142857142857
+        "X": 20220511.0,
+        "Y": 961.0000000000000000000000
       },
       "End": {
-        "X": 20220516.0,
-        "Y": 961.1428571428571428571428
+        "X": 20220517.0,
+        "Y": 960.1428571428571428571428
       }
     }
   }
