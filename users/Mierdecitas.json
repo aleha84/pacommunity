@@ -2,8 +2,8 @@
   "PublicName": "Héctor Bometón",
   "AvatarImage": "https://pbs.twimg.com/profile_images/857527058460815361/JCbsGGJB_normal.jpg",
   "Login": "Mierdecitas",
-  "CurrentFollowersCount": 31770,
-  "CurrentTweetsCout": 8238,
+  "CurrentFollowersCount": 31753,
+  "CurrentTweetsCout": 8239,
   "FollowersCountHistory": {
     "20210519": 32150,
     "20210520": 32123,
@@ -316,7 +316,8 @@
     "20220513": 31773,
     "20220514": 31774,
     "20220515": 31770,
-    "20220516": 31770
+    "20220516": 31770,
+    "20220518": 31753
   },
   "TweetsCountHistory": {
     "20210519": 7722,
@@ -630,20 +631,21 @@
     "20220513": 8239,
     "20220514": 8239,
     "20220515": 8238,
-    "20220516": 8238
+    "20220516": 8238,
+    "20220518": 8239
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0155145606400093537061263407,
+    "WeeklyGrowth": -0.036658347810069985020805784,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220510.0,
-        "Y": 31767.392857142857142857142
+        "X": 20220511.0,
+        "Y": 31773.229508196721305045687
       },
       "End": {
-        "X": 20220516.0,
-        "Y": 31772.321428571428571428571
+        "X": 20220518.0,
+        "Y": 31761.581967213114761989385
       }
     }
   }

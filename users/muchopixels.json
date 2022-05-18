@@ -2,8 +2,8 @@
   "PublicName": "Mucho Pixels",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1479357971029180417/HgKYnEo5_normal.jpg",
   "Login": "muchopixels",
-  "CurrentFollowersCount": 2146,
-  "CurrentTweetsCout": 1787,
+  "CurrentFollowersCount": 2144,
+  "CurrentTweetsCout": 1797,
   "FollowersCountHistory": {
     "20210225": 773,
     "20210226": 777,
@@ -394,7 +394,8 @@
     "20220513": 2146,
     "20220514": 2147,
     "20220515": 2147,
-    "20220516": 2146
+    "20220516": 2146,
+    "20220518": 2144
   },
   "TweetsCountHistory": {
     "20210225": 406,
@@ -786,20 +787,21 @@
     "20220513": 1768,
     "20220514": 1773,
     "20220515": 1777,
-    "20220516": 1787
+    "20220516": 1787,
+    "20220518": 1797
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.029956562983673673173899845,
+    "WeeklyGrowth": -0.0654857592338738126463315992,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220510.0,
-        "Y": 2145.9642857142857142857143
+        "X": 20220511.0,
+        "Y": 2146.6311475409836057813760
       },
       "End": {
-        "X": 20220516.0,
-        "Y": 2146.6071428571428571428572
+        "X": 20220518.0,
+        "Y": 2145.2254098360655747228567
       }
     }
   }

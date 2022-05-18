@@ -2,7 +2,7 @@
   "PublicName": "J-ROM",
   "AvatarImage": "https://pbs.twimg.com/profile_images/525033293201149954/vATg-SWR_normal.png",
   "Login": "herebefrogs",
-  "CurrentFollowersCount": 666,
+  "CurrentFollowersCount": 665,
   "CurrentTweetsCout": 1526,
   "FollowersCountHistory": {
     "20210302": 653,
@@ -409,7 +409,8 @@
     "20220514": 666,
     "20220515": 666,
     "20220516": 666,
-    "20220517": 666
+    "20220517": 666,
+    "20220518": 665
   },
   "TweetsCountHistory": {
     "20210302": 1316,
@@ -816,20 +817,21 @@
     "20220514": 1526,
     "20220515": 1526,
     "20220516": 1526,
-    "20220517": 1526
+    "20220517": 1526,
+    "20220518": 1526
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0964992226451509140620876102,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220511.0,
-        "Y": 666.0
+        "X": 20220512.0,
+        "Y": 666.1785714285714285714285
       },
       "End": {
-        "X": 20220517.0,
-        "Y": 666.0
+        "X": 20220518.0,
+        "Y": 665.5357142857142857142856
       }
     }
   }

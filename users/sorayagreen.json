@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1503786211051253761/xA2nx5qC_normal.jpg",
   "Login": "sorayagreen",
   "CurrentFollowersCount": 113,
-  "CurrentTweetsCout": 111,
+  "CurrentTweetsCout": 112,
   "FollowersCountHistory": {
     "20210225": 15,
     "20210226": 18,
@@ -394,7 +394,8 @@
     "20220513": 113,
     "20220514": 113,
     "20220515": 113,
-    "20220516": 113
+    "20220516": 113,
+    "20220518": 113
   },
   "TweetsCountHistory": {
     "20210225": 47,
@@ -786,20 +787,21 @@
     "20220513": 111,
     "20220514": 111,
     "20220515": 111,
-    "20220516": 111
+    "20220516": 111,
+    "20220518": 112
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.5712472231037765788638909008,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220510.0,
-        "Y": 112.5357142857142857142857
+        "X": 20220511.0,
+        "Y": 113.0
       },
       "End": {
-        "X": 20220516.0,
-        "Y": 113.1785714285714285714286
+        "X": 20220518.0,
+        "Y": 113.0
       }
     }
   }

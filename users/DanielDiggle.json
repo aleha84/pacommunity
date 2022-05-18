@@ -2,7 +2,7 @@
   "PublicName": "Daniel James Diggle",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1427790502846517254/c1LS4gZH_normal.jpg",
   "Login": "DanielDiggle",
-  "CurrentFollowersCount": 7780,
+  "CurrentFollowersCount": 7778,
   "CurrentTweetsCout": 8844,
   "FollowersCountHistory": {
     "20210112": 4223,
@@ -457,7 +457,8 @@
     "20220514": 7780,
     "20220515": 7782,
     "20220516": 7780,
-    "20220517": 7780
+    "20220517": 7780,
+    "20220518": 7778
   },
   "TweetsCountHistory": {
     "20210112": 7650,
@@ -912,20 +913,21 @@
     "20220514": 8844,
     "20220515": 8844,
     "20220516": 8844,
-    "20220517": 8844
+    "20220517": 8844,
+    "20220518": 8844
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0055085796127468532238965856,
+    "WeeklyGrowth": -0.0165245251494092482259084357,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220511.0,
-        "Y": 7780.0714285714285714285714
+        "X": 20220512.0,
+        "Y": 7780.6428571428571428571429
       },
       "End": {
-        "X": 20220517.0,
-        "Y": 7780.5000000000000000000000
+        "X": 20220518.0,
+        "Y": 7779.3571428571428571428572
       }
     }
   }
