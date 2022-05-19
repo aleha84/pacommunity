@@ -2,7 +2,7 @@
   "PublicName": "steelaks",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1525296895412797440/2GFoTNb5_normal.jpg",
   "Login": "Steelaks1",
-  "CurrentFollowersCount": 485,
+  "CurrentFollowersCount": 484,
   "CurrentTweetsCout": 6883,
   "FollowersCountHistory": {
     "20210212": 406,
@@ -407,7 +407,8 @@
     "20220514": 486,
     "20220515": 487,
     "20220516": 487,
-    "20220518": 485
+    "20220518": 485,
+    "20220519": 484
   },
   "TweetsCountHistory": {
     "20210212": 6893,
@@ -812,20 +813,21 @@
     "20220514": 6883,
     "20220515": 6883,
     "20220516": 6883,
-    "20220518": 6883
+    "20220518": 6883,
+    "20220519": 6883
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.271180379652531709785898886,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220511.0,
-        "Y": 486.0
+        "X": 20220512.0,
+        "Y": 486.3333333333333337818829
       },
       "End": {
-        "X": 20220518.0,
-        "Y": 486.0
+        "X": 20220519.0,
+        "Y": 485.0144927536231878987411
       }
     }
   }
