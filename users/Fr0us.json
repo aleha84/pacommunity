@@ -2,7 +2,7 @@
   "PublicName": "Frous",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1300487891680997379/5X0-L66i_normal.jpg",
   "Login": "Fr0us",
-  "CurrentFollowersCount": 488,
+  "CurrentFollowersCount": 487,
   "CurrentTweetsCout": 477,
   "FollowersCountHistory": {
     "20210109": 247,
@@ -443,7 +443,8 @@
     "20220515": 488,
     "20220516": 488,
     "20220518": 488,
-    "20220519": 488
+    "20220519": 488,
+    "20220520": 487
   },
   "TweetsCountHistory": {
     "20210109": 295,
@@ -884,20 +885,21 @@
     "20220515": 477,
     "20220516": 477,
     "20220518": 477,
-    "20220519": 477
+    "20220519": 477,
+    "20220520": 477
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1227725550722604601630784586,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220512.0,
-        "Y": 488.0
+        "X": 20220513.0,
+        "Y": 488.1506849315068494156319
       },
       "End": {
-        "X": 20220519.0,
-        "Y": 488.0
+        "X": 20220520.0,
+        "Y": 487.5513698630136985253836
       }
     }
   }
