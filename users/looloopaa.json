@@ -2,7 +2,7 @@
   "PublicName": "Brendan Steppig",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1385066605122670596/jLgv0Xm2_normal.jpg",
   "Login": "looloopaa",
-  "CurrentFollowersCount": 1471,
+  "CurrentFollowersCount": 1470,
   "CurrentTweetsCout": 1055,
   "FollowersCountHistory": {
     "20210916": 662,
@@ -241,7 +241,8 @@
     "20220517": 1471,
     "20220518": 1472,
     "20220519": 1472,
-    "20220520": 1471
+    "20220520": 1471,
+    "20220521": 1470
   },
   "TweetsCountHistory": {
     "20210916": 683,
@@ -480,20 +481,21 @@
     "20220517": 1054,
     "20220518": 1054,
     "20220519": 1055,
-    "20220520": 1055
+    "20220520": 1055,
+    "20220521": 1055
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0728491294529030378086962434,
+    "WeeklyGrowth": -0.0582411182294700058241089143,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220514.0,
-        "Y": 1470.7500000000000000000000
+        "X": 20220515.0,
+        "Y": 1471.7142857142857142857142
       },
       "End": {
-        "X": 20220520.0,
-        "Y": 1471.8214285714285714285714
+        "X": 20220521.0,
+        "Y": 1470.8571428571428571428571
       }
     }
   }
