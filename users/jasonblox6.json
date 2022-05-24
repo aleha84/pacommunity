@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1398750695738773504/4hNOF41T_normal.jpg",
   "Login": "jasonblox6",
   "CurrentFollowersCount": 586,
-  "CurrentTweetsCout": 3031,
+  "CurrentTweetsCout": 3034,
   "FollowersCountHistory": {
     "20210109": 597,
     "20210110": 597,
@@ -467,7 +467,8 @@
     "20220520": 585,
     "20220521": 585,
     "20220522": 585,
-    "20220523": 586
+    "20220523": 586,
+    "20220524": 586
   },
   "TweetsCountHistory": {
     "20210109": 2796,
@@ -932,20 +933,21 @@
     "20220520": 3032,
     "20220521": 3031,
     "20220522": 3031,
-    "20220523": 3031
+    "20220523": 3031,
+    "20220524": 3034
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.109722645534898,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220517.0,
-        "Y": 585.892857142857
+        "X": 20220518.0,
+        "Y": 585.57142857142857142857142857
       },
       "End": {
-        "X": 20220523.0,
-        "Y": 585.25
+        "X": 20220524.0,
+        "Y": 585.57142857142857142857142857
       }
     }
   }
