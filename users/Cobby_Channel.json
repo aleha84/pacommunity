@@ -2,8 +2,8 @@
   "PublicName": "Cobby（コビー）",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1232791828526551040/n9EeQxon_normal.jpg",
   "Login": "Cobby_Channel",
-  "CurrentFollowersCount": 721,
-  "CurrentTweetsCout": 5009,
+  "CurrentFollowersCount": 720,
+  "CurrentTweetsCout": 5016,
   "FollowersCountHistory": {
     "20201225": 771,
     "20201226": 771,
@@ -462,7 +462,8 @@
     "20220521": 721,
     "20220522": 721,
     "20220523": 721,
-    "20220524": 721
+    "20220524": 721,
+    "20220525": 720
   },
   "TweetsCountHistory": {
     "20201225": 3805,
@@ -922,20 +923,21 @@
     "20220521": 5009,
     "20220522": 5009,
     "20220523": 5009,
-    "20220524": 5009
+    "20220524": 5009,
+    "20220525": 5016
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0891398009211112761848224721,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220518.0,
-        "Y": 721.0
+        "X": 20220519.0,
+        "Y": 721.1785714285714285714285
       },
       "End": {
-        "X": 20220524.0,
-        "Y": 721.0
+        "X": 20220525.0,
+        "Y": 720.5357142857142857142856
       }
     }
   }

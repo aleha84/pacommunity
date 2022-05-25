@@ -2,7 +2,7 @@
   "PublicName": "JD van der Merwe",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1499783998825971723/RpYuwEzF_normal.jpg",
   "Login": "Aserash",
-  "CurrentFollowersCount": 333,
+  "CurrentFollowersCount": 332,
   "CurrentTweetsCout": 179,
   "FollowersCountHistory": {
     "20210914": 29,
@@ -248,7 +248,8 @@
     "20220522": 333,
     "20220523": 332,
     "20220524": 333,
-    "20220525": 333
+    "20220525": 333,
+    "20220526": 332
   },
   "TweetsCountHistory": {
     "20210914": 55,
@@ -494,20 +495,21 @@
     "20220522": 177,
     "20220523": 177,
     "20220524": 179,
-    "20220525": 179
+    "20220525": 179,
+    "20220526": 179
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0644122383252818035426743945,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220519.0,
-        "Y": 332.71428571428571428571428571
+        "X": 20220520.0,
+        "Y": 332.67857142857142857142858
       },
       "End": {
-        "X": 20220525.0,
-        "Y": 332.71428571428571428571428571
+        "X": 20220526.0,
+        "Y": 332.46428571428571428571429
       }
     }
   }
