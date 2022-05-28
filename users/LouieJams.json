@@ -2,7 +2,7 @@
   "PublicName": "Louie 👾",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1523633452477829125/83KLCTz6_normal.png",
   "Login": "LouieJams",
-  "CurrentFollowersCount": 664,
+  "CurrentFollowersCount": 663,
   "CurrentTweetsCout": 1165,
   "FollowersCountHistory": {
     "20210116": 341,
@@ -465,7 +465,8 @@
     "20220525": 663,
     "20220526": 664,
     "20220527": 664,
-    "20220528": 664
+    "20220528": 664,
+    "20220529": 663
   },
   "TweetsCountHistory": {
     "20210116": 529,
@@ -928,20 +929,21 @@
     "20220525": 1163,
     "20220526": 1163,
     "20220527": 1163,
-    "20220528": 1165
+    "20220528": 1165,
+    "20220529": 1165
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.225648740127867619405791651,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220522.0,
-        "Y": 664.0
+        "X": 20220523.0,
+        "Y": 664.75
       },
       "End": {
-        "X": 20220528.0,
-        "Y": 664.0
+        "X": 20220529.0,
+        "Y": 663.25
       }
     }
   }

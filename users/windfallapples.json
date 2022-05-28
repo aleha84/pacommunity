@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/924732236578115585/uHRVIC7N_normal.jpg",
   "Login": "windfallapples",
   "CurrentFollowersCount": 860,
-  "CurrentTweetsCout": 16574,
+  "CurrentTweetsCout": 16577,
   "FollowersCountHistory": {
     "20210520": 752,
     "20210521": 752,
@@ -348,7 +348,8 @@
     "20220525": 860,
     "20220526": 860,
     "20220527": 860,
-    "20220528": 860
+    "20220528": 860,
+    "20220529": 860
   },
   "TweetsCountHistory": {
     "20210520": 14685,
@@ -694,20 +695,21 @@
     "20220525": 16543,
     "20220526": 16548,
     "20220527": 16557,
-    "20220528": 16574
+    "20220528": 16574,
+    "20220529": 16577
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1496632576702419555998985491,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220522.0,
-        "Y": 859.0714285714285714285715
+        "X": 20220523.0,
+        "Y": 860.0
       },
       "End": {
-        "X": 20220528.0,
-        "Y": 860.3571428571428571428572
+        "X": 20220529.0,
+        "Y": 860.0
       }
     }
   }
