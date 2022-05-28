@@ -2,7 +2,7 @@
   "PublicName": "Artyom Brullov",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1512918538591293444/QWjLfeTx_normal.jpg",
   "Login": "brullov_art",
-  "CurrentFollowersCount": 11265,
+  "CurrentFollowersCount": 11262,
   "CurrentTweetsCout": 1374,
   "FollowersCountHistory": {
     "20201213": 7525,
@@ -477,7 +477,8 @@
     "20220524": 11268,
     "20220525": 11271,
     "20220526": 11268,
-    "20220527": 11265
+    "20220527": 11265,
+    "20220528": 11262
   },
   "TweetsCountHistory": {
     "20201213": 822,
@@ -952,20 +953,21 @@
     "20220524": 1373,
     "20220525": 1373,
     "20220526": 1374,
-    "20220527": 1374
+    "20220527": 1374,
+    "20220528": 1374
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0223432167361941036324296984,
+    "WeeklyGrowth": -0.0171069014127985470508103535,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220520.0,
-        "Y": 11265.7157534246575338067650
+        "X": 20220521.0,
+        "Y": 11267.5942028985507253747846
       },
       "End": {
-        "X": 20220527.0,
-        "Y": 11268.2328767123287675455058
+        "X": 20220528.0,
+        "Y": 11265.6666666666666660146134
       }
     }
   }
