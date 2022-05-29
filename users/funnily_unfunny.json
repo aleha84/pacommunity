@@ -2,7 +2,7 @@
   "PublicName": "ren",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1511654262232653830/7x_BpLpG_normal.jpg",
   "Login": "funnily_unfunny",
-  "CurrentFollowersCount": 3838,
+  "CurrentFollowersCount": 3839,
   "CurrentTweetsCout": 2947,
   "FollowersCountHistory": {
     "20210522": 1377,
@@ -347,7 +347,8 @@
     "20220526": 3842,
     "20220527": 3840,
     "20220528": 3837,
-    "20220529": 3838
+    "20220529": 3838,
+    "20220530": 3839
   },
   "TweetsCountHistory": {
     "20210522": 2022,
@@ -692,20 +693,21 @@
     "20220526": 2946,
     "20220527": 2947,
     "20220528": 2947,
-    "20220529": 2947
+    "20220529": 2947,
+    "20220530": 2947
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0167474576428883781948086604,
+    "WeeklyGrowth": -0.0669518318765110656499795475,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220523.0,
-        "Y": 3838.5357142857142857142857
+        "X": 20220524.0,
+        "Y": 3840.714285714285714285714
       },
       "End": {
-        "X": 20220529.0,
-        "Y": 3839.1785714285714285714285
+        "X": 20220530.0,
+        "Y": 3838.142857142857142857143
       }
     }
   }
