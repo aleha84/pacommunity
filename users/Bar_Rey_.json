@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1262096752456486915/RDASXG3Q_normal.jpg",
   "Login": "Bar_Rey_",
   "CurrentFollowersCount": 244,
-  "CurrentTweetsCout": 1502,
+  "CurrentTweetsCout": 1504,
   "FollowersCountHistory": {
     "20211009": 191,
     "20211010": 191,
@@ -223,7 +223,8 @@
     "20220526": 244,
     "20220527": 244,
     "20220528": 244,
-    "20220529": 244
+    "20220529": 244,
+    "20220530": 244
   },
   "TweetsCountHistory": {
     "20211009": 1384,
@@ -444,20 +445,21 @@
     "20220526": 1500,
     "20220527": 1502,
     "20220528": 1502,
-    "20220529": 1502
+    "20220529": 1502,
+    "20220530": 1504
   },
   "LangId": "il",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.263968323801143862736448175,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220523.0,
-        "Y": 243.5357142857142857142857
+        "X": 20220524.0,
+        "Y": 244.0
       },
       "End": {
-        "X": 20220529.0,
-        "Y": 244.1785714285714285714285
+        "X": 20220530.0,
+        "Y": 244.0
       }
     }
   }
