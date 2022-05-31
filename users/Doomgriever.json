@@ -2,7 +2,7 @@
   "PublicName": "Doomgriever",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1462577728406925315/sCMYTGh0_normal.jpg",
   "Login": "Doomgriever",
-  "CurrentFollowersCount": 1059,
+  "CurrentFollowersCount": 1058,
   "CurrentTweetsCout": 1452,
   "FollowersCountHistory": {
     "20210213": 1063,
@@ -422,7 +422,8 @@
     "20220527": 1059,
     "20220528": 1059,
     "20220529": 1059,
-    "20220530": 1059
+    "20220530": 1059,
+    "20220531": 1058
   },
   "TweetsCountHistory": {
     "20210213": 1127,
@@ -842,20 +843,21 @@
     "20220527": 1452,
     "20220528": 1452,
     "20220529": 1452,
-    "20220530": 1452
+    "20220530": 1452,
+    "20220531": 1452
   },
   "LangId": "se",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0606939339784873722898418627,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220524.0,
-        "Y": 1059.0
+        "X": 20220525.0,
+        "Y": 1059.1785714285714285714285
       },
       "End": {
-        "X": 20220530.0,
-        "Y": 1059.0
+        "X": 20220531.0,
+        "Y": 1058.5357142857142857142857
       }
     }
   }

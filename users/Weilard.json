@@ -2,7 +2,7 @@
   "PublicName": "Weilard",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1547649931/rick2_normal.jpg",
   "Login": "Weilard",
-  "CurrentFollowersCount": 5132,
+  "CurrentFollowersCount": 5129,
   "CurrentTweetsCout": 8274,
   "FollowersCountHistory": {
     "20201215": 3674,
@@ -477,7 +477,8 @@
     "20220527": 5133,
     "20220528": 5134,
     "20220529": 5133,
-    "20220530": 5132
+    "20220530": 5132,
+    "20220531": 5129
   },
   "TweetsCountHistory": {
     "20201215": 7460,
@@ -952,20 +953,21 @@
     "20220527": 8274,
     "20220528": 8274,
     "20220529": 8274,
-    "20220530": 8274
+    "20220530": 8274,
+    "20220531": 8274
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0208778437362989,
+    "WeeklyGrowth": -0.0292241001412498173493741172,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220524.0,
-        "Y": 5131.89285714286
+        "X": 20220525.0,
+        "Y": 5132.75
       },
       "End": {
-        "X": 20220530.0,
-        "Y": 5132.96428571429
+        "X": 20220531.0,
+        "Y": 5131.25
       }
     }
   }

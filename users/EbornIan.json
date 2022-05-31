@@ -2,8 +2,8 @@
   "PublicName": "Ian Eborn",
   "AvatarImage": "https://pbs.twimg.com/profile_images/735486514587521024/oeObacaq_normal.jpg",
   "Login": "EbornIan",
-  "CurrentFollowersCount": 405,
-  "CurrentTweetsCout": 30700,
+  "CurrentFollowersCount": 404,
+  "CurrentTweetsCout": 30708,
   "FollowersCountHistory": {
     "20210225": 356,
     "20210226": 355,
@@ -427,7 +427,8 @@
     "20220527": 405,
     "20220528": 405,
     "20220529": 405,
-    "20220530": 405
+    "20220530": 405,
+    "20220531": 404
   },
   "TweetsCountHistory": {
     "20210225": 24546,
@@ -852,20 +853,21 @@
     "20220527": 30684,
     "20220528": 30692,
     "20220529": 30697,
-    "20220530": 30700
+    "20220530": 30700,
+    "20220531": 30708
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1586602027324812692816077847,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220524.0,
-        "Y": 405.0
+        "X": 20220525.0,
+        "Y": 405.1785714285714285714285
       },
       "End": {
-        "X": 20220530.0,
-        "Y": 405.0
+        "X": 20220531.0,
+        "Y": 404.5357142857142857142857
       }
     }
   }

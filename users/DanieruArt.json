@@ -2,7 +2,7 @@
   "PublicName": "Dan",
   "AvatarImage": "https://pbs.twimg.com/profile_images/985643692160704512/4WXe8Tve_normal.jpg",
   "Login": "DanieruArt",
-  "CurrentFollowersCount": 9581,
+  "CurrentFollowersCount": 9579,
   "CurrentTweetsCout": 934,
   "FollowersCountHistory": {
     "20210315": 7718,
@@ -409,7 +409,8 @@
     "20220527": 9582,
     "20220528": 9583,
     "20220529": 9582,
-    "20220530": 9581
+    "20220530": 9581,
+    "20220531": 9579
   },
   "TweetsCountHistory": {
     "20210315": 822,
@@ -816,20 +817,21 @@
     "20220527": 934,
     "20220528": 934,
     "20220529": 934,
-    "20220530": 934
+    "20220530": 934,
+    "20220531": 934
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.029069009082201940170019417,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220524.0,
-        "Y": 9582.0
+        "X": 20220525.0,
+        "Y": 9583.107142857142857142857
       },
       "End": {
-        "X": 20220530.0,
-        "Y": 9582.0
+        "X": 20220531.0,
+        "Y": 9580.321428571428571428571
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Toby Dixon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1363977785128148995/2Qm2HlYw_normal.jpg",
   "Login": "TbDxn",
-  "CurrentFollowersCount": 12600,
+  "CurrentFollowersCount": 12602,
   "CurrentTweetsCout": 1335,
   "FollowersCountHistory": {
     "20210315": 12977,
@@ -409,7 +409,8 @@
     "20220527": 12603,
     "20220528": 12601,
     "20220529": 12601,
-    "20220530": 12600
+    "20220530": 12600,
+    "20220531": 12602
   },
   "TweetsCountHistory": {
     "20210315": 1333,
@@ -816,20 +817,21 @@
     "20220527": 1335,
     "20220528": 1335,
     "20220529": 1335,
-    "20220530": 1335
+    "20220530": 1335,
+    "20220531": 1335
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0119046606746541,
+    "WeeklyGrowth": -0.0085019795442372165652567173,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220524.0,
-        "Y": 12600.1071428571
+        "X": 20220525.0,
+        "Y": 12602.1071428571428571428571
       },
       "End": {
-        "X": 20220530.0,
-        "Y": 12601.6071428571
+        "X": 20220531.0,
+        "Y": 12601.0357142857142857142857
       }
     }
   }

@@ -2,15 +2,16 @@
   "PublicName": "Sir_Lazz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1524320389278617611/zJN5kFXs_normal.jpg",
   "Login": "SirLazz",
-  "CurrentFollowersCount": 827,
-  "CurrentTweetsCout": 1179,
+  "CurrentFollowersCount": 828,
+  "CurrentTweetsCout": 1187,
   "FollowersCountHistory": {
     "20220525": 827,
     "20220526": 826,
     "20220527": 828,
     "20220528": 827,
     "20220529": 827,
-    "20220530": 827
+    "20220530": 827,
+    "20220531": 828
   },
   "TweetsCountHistory": {
     "20220525": 1171,
@@ -18,12 +19,22 @@
     "20220527": 1176,
     "20220528": 1176,
     "20220529": 1178,
-    "20220530": 1179
+    "20220530": 1179,
+    "20220531": 1187
   },
   "LangId": "fr",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.1036806635562467599792707775,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220525.0,
+        "Y": 826.7142857142857142857143
+      },
+      "End": {
+        "X": 20220531.0,
+        "Y": 827.5714285714285714285715
+      }
+    }
   }
 }
