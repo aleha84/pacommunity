@@ -2,7 +2,7 @@
   "PublicName": "Toa@Fanime",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1343587011731496960/1QmRAQBH_normal.jpg",
   "Login": "toaomr",
-  "CurrentFollowersCount": 431,
+  "CurrentFollowersCount": 430,
   "CurrentTweetsCout": 472,
   "FollowersCountHistory": {
     "20210213": 407,
@@ -440,7 +440,8 @@
     "20220528": 431,
     "20220529": 431,
     "20220530": 431,
-    "20220531": 431
+    "20220531": 431,
+    "20220601": 430
   },
   "TweetsCountHistory": {
     "20210213": 260,
@@ -878,20 +879,21 @@
     "20220528": 470,
     "20220529": 471,
     "20220530": 472,
-    "20220531": 472
+    "20220531": 472,
+    "20220601": 472
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1493156366652841144753081758,
+    "WeeklyGrowth": -0.2390717640308561934125933701,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220525.0,
-        "Y": 430.5357142857142857142857
+        "X": 20220526.0,
+        "Y": 431.03379658875552747779504
       },
       "End": {
-        "X": 20220531.0,
-        "Y": 431.1785714285714285714285
+        "X": 20220601.0,
+        "Y": 430.00331648768161719065730
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "Woostar",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1347616458361229314/Bz_b20W-_normal.jpg",
   "Login": "WoostarsPixels",
-  "CurrentFollowersCount": 32329,
-  "CurrentTweetsCout": 3573,
+  "CurrentFollowersCount": 32253,
+  "CurrentTweetsCout": 3575,
   "FollowersCountHistory": {
     "20210108": 17935,
     "20210109": 18167,
@@ -476,7 +476,8 @@
     "20220528": 32278,
     "20220529": 32286,
     "20220530": 32299,
-    "20220531": 32329
+    "20220531": 32329,
+    "20220601": 32253
   },
   "TweetsCountHistory": {
     "20210108": 3116,
@@ -950,20 +951,21 @@
     "20220528": 3568,
     "20220529": 3569,
     "20220530": 3570,
-    "20220531": 3573
+    "20220531": 3573,
+    "20220601": 3575
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2379375203542920694139692449,
+    "WeeklyGrowth": -0.0930067421523616933854456781,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220525.0,
-        "Y": 32241.35714285714285714285
+        "X": 20220526.0,
+        "Y": 32286.290587492103600709154
       },
       "End": {
-        "X": 20220531.0,
-        "Y": 32318.07142857142857142857
+        "X": 20220601.0,
+        "Y": 32256.262160454832596572421
       }
     }
   }

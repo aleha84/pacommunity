@@ -2,7 +2,7 @@
   "PublicName": "Bergo Pixel Art",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1455275010864603151/AYQFg_dd_normal.jpg",
   "Login": "BergoPixel",
-  "CurrentFollowersCount": 702,
+  "CurrentFollowersCount": 701,
   "CurrentTweetsCout": 333,
   "FollowersCountHistory": {
     "20210708": 123,
@@ -308,7 +308,8 @@
     "20220528": 702,
     "20220529": 702,
     "20220530": 702,
-    "20220531": 702
+    "20220531": 702,
+    "20220601": 701
   },
   "TweetsCountHistory": {
     "20210708": 202,
@@ -614,20 +615,21 @@
     "20220528": 331,
     "20220529": 332,
     "20220530": 333,
-    "20220531": 333
+    "20220531": 333,
+    "20220601": 333
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0916356971949294914218724246,
+    "WeeklyGrowth": -0.1467849704787867021699580847,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220525.0,
-        "Y": 701.5357142857142857142857
+        "X": 20220526.0,
+        "Y": 702.03379658875552747780356
       },
       "End": {
-        "X": 20220531.0,
-        "Y": 702.1785714285714285714285
+        "X": 20220601.0,
+        "Y": 701.00331648768161719061607
       }
     }
   }

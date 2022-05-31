@@ -2,8 +2,8 @@
   "PublicName": "hut",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1516979705005674497/kTyiyprw_normal.jpg",
   "Login": "huttaburger",
-  "CurrentFollowersCount": 50188,
-  "CurrentTweetsCout": 66714,
+  "CurrentFollowersCount": 50180,
+  "CurrentTweetsCout": 66717,
   "FollowersCountHistory": {
     "20210120": 9470,
     "20210121": 9948,
@@ -464,7 +464,8 @@
     "20220528": 50114,
     "20220529": 50150,
     "20220530": 50172,
-    "20220531": 50188
+    "20220531": 50188,
+    "20220601": 50180
   },
   "TweetsCountHistory": {
     "20210120": 55082,
@@ -926,20 +927,21 @@
     "20220528": 66696,
     "20220529": 66696,
     "20220530": 66700,
-    "20220531": 66714
+    "20220531": 66714,
+    "20220601": 66717
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.9610554386609523864198946036,
+    "WeeklyGrowth": 0.3381090446745230711850078188,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220525.0,
-        "Y": 49766.7142857142857142858
+        "X": 20220526.0,
+        "Y": 50031.144030322173089346045
       },
       "End": {
-        "X": 20220531.0,
-        "Y": 50245.0000000000000000000
+        "X": 20220601.0,
+        "Y": 50200.303853442830068160782
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Angus McPherson",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1509577807386529807/RgBs-R5l_normal.jpg",
   "Login": "BrawlersinZone",
-  "CurrentFollowersCount": 474,
+  "CurrentFollowersCount": 473,
   "CurrentTweetsCout": 3774,
   "FollowersCountHistory": {
     "20210301": 307,
@@ -424,7 +424,8 @@
     "20220528": 474,
     "20220529": 474,
     "20220530": 474,
-    "20220531": 474
+    "20220531": 474,
+    "20220601": 473
   },
   "TweetsCountHistory": {
     "20210301": 3174,
@@ -846,20 +847,21 @@
     "20220528": 3774,
     "20220529": 3774,
     "20220530": 3774,
-    "20220531": 3774
+    "20220531": 3774,
+    "20220601": 3774
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2173853654506190381665140735,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220525.0,
-        "Y": 474.0
+        "X": 20220526.0,
+        "Y": 474.03379658875552747779504
       },
       "End": {
-        "X": 20220531.0,
-        "Y": 474.0
+        "X": 20220601.0,
+        "Y": 473.00331648768161719065730
       }
     }
   }

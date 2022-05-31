@@ -1,8 +1,8 @@
 {
-  "PublicName": "Barker (Commissions Open)",
+  "PublicName": "Barker (Commissions Paused)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1480712347954159617/p9LZdQcF_normal.jpg",
   "Login": "BarkerMugen",
-  "CurrentFollowersCount": 8795,
+  "CurrentFollowersCount": 8793,
   "CurrentTweetsCout": 1740,
   "FollowersCountHistory": {
     "20210222": 5872,
@@ -430,7 +430,8 @@
     "20220528": 8791,
     "20220529": 8793,
     "20220530": 8791,
-    "20220531": 8795
+    "20220531": 8795,
+    "20220601": 8793
   },
   "TweetsCountHistory": {
     "20210222": 1158,
@@ -858,20 +859,21 @@
     "20220528": 1738,
     "20220529": 1738,
     "20220530": 1740,
-    "20220531": 1740
+    "20220531": 1740,
+    "20220601": 1740
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.4745635564543089881685107552,
+    "WeeklyGrowth": 0.1108600412877922346627810939,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220525.0,
-        "Y": 8759.92857142857142857143
+        "X": 20220526.0,
+        "Y": 8784.6162349968414403190818
       },
       "End": {
-        "X": 20220531.0,
-        "Y": 8801.50000000000000000000
+        "X": 20220601.0,
+        "Y": 8794.3548641819330384577714
       }
     }
   }
