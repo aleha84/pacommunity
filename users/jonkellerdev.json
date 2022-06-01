@@ -2,7 +2,7 @@
   "PublicName": "Jon Keller",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1484892379882663940/b6OjbouV_normal.jpg",
   "Login": "jonkellerdev",
-  "CurrentFollowersCount": 9134,
+  "CurrentFollowersCount": 9130,
   "CurrentTweetsCout": 1160,
   "FollowersCountHistory": {
     "20201217": 8033,
@@ -477,7 +477,8 @@
     "20220528": 9132,
     "20220529": 9132,
     "20220530": 9132,
-    "20220531": 9134
+    "20220531": 9134,
+    "20220601": 9130
   },
   "TweetsCountHistory": {
     "20201217": 812,
@@ -952,20 +953,21 @@
     "20220528": 1160,
     "20220529": 1160,
     "20220530": 1160,
-    "20220531": 1160
+    "20220531": 1160,
+    "20220601": 1160
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0234677513982868541479244337,
+    "WeeklyGrowth": -0.0252393693488325712785357655,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220525.0,
-        "Y": 9131.0714285714285714285715
+        "X": 20220526.0,
+        "Y": 9132.39513581806696146182751
       },
       "End": {
-        "X": 20220531.0,
-        "Y": 9133.2142857142857142857143
+        "X": 20220601.0,
+        "Y": 9130.09017687934301960116698
       }
     }
   }

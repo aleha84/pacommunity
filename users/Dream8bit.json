@@ -2,7 +2,7 @@
   "PublicName": "Dream8bit",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1287134484064854022/YVoF3_xi_normal.png",
   "Login": "Dream8bit",
-  "CurrentFollowersCount": 2104,
+  "CurrentFollowersCount": 2103,
   "CurrentTweetsCout": 798,
   "FollowersCountHistory": {
     "20210125": 1785,
@@ -441,7 +441,8 @@
     "20220528": 2104,
     "20220529": 2104,
     "20220530": 2104,
-    "20220531": 2104
+    "20220531": 2104,
+    "20220601": 2103
   },
   "TweetsCountHistory": {
     "20210125": 585,
@@ -880,20 +881,21 @@
     "20220528": 798,
     "20220529": 798,
     "20220530": 798,
-    "20220531": 798
+    "20220531": 798,
+    "20220601": 798
   },
   "LangId": "fi",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0917290934107934566580047217,
+    "WeeklyGrowth": -0.0295034235982945967340873536,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220525.0,
-        "Y": 2102.4642857142857142857143
+        "X": 20220526.0,
+        "Y": 2103.67782691092861654984056
       },
       "End": {
-        "X": 20220531.0,
-        "Y": 2104.3928571428571428571429
+        "X": 20220601.0,
+        "Y": 2103.05716993051168667577066
       }
     }
   }

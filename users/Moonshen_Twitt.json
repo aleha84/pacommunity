@@ -2,7 +2,7 @@
   "PublicName": "Moonshen",
   "AvatarImage": "https://pbs.twimg.com/profile_images/855065139065884672/WLgyua7U_normal.jpg",
   "Login": "Moonshen_Twitt",
-  "CurrentFollowersCount": 22500,
+  "CurrentFollowersCount": 22501,
   "CurrentTweetsCout": 1184,
   "FollowersCountHistory": {
     "20210119": 19078,
@@ -444,7 +444,8 @@
     "20220528": 22513,
     "20220529": 22507,
     "20220530": 22501,
-    "20220531": 22500
+    "20220531": 22500,
+    "20220601": 22501
   },
   "TweetsCountHistory": {
     "20210119": 1140,
@@ -886,20 +887,21 @@
     "20220528": 1184,
     "20220529": 1184,
     "20220530": 1184,
-    "20220531": 1184
+    "20220531": 1184,
+    "20220601": 1184
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1179619223988127703293992001,
+    "WeeklyGrowth": -0.0490602654532890704486480729,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220525.0,
-        "Y": 22525.42857142857142857142
+        "X": 20220526.0,
+        "Y": 22510.8932406822488944861664
       },
       "End": {
-        "X": 20220531.0,
-        "Y": 22498.85714285714285714285
+        "X": 20220601.0,
+        "Y": 22499.8493367024636766501958
       }
     }
   }

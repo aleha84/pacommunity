@@ -2,7 +2,7 @@
   "PublicName": "adroitcell",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1522041914870370304/HP9CO18w_normal.jpg",
   "Login": "AdroitCell",
-  "CurrentFollowersCount": 5893,
+  "CurrentFollowersCount": 5889,
   "CurrentTweetsCout": 3732,
   "FollowersCountHistory": {
     "20210116": 4266,
@@ -450,7 +450,8 @@
     "20220528": 5890,
     "20220529": 5891,
     "20220530": 5892,
-    "20220531": 5893
+    "20220531": 5893,
+    "20220601": 5889
   },
   "TweetsCountHistory": {
     "20210116": 2855,
@@ -898,20 +899,21 @@
     "20220528": 3731,
     "20220529": 3731,
     "20220530": 3731,
-    "20220531": 3732
+    "20220531": 3732,
+    "20220601": 3732
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0327445380291426388459374337,
+    "WeeklyGrowth": -0.0224404459519848451710883635,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220525.0,
-        "Y": 5889.7500000000000000000000
+        "X": 20220526.0,
+        "Y": 5890.51231838281743524741959
       },
       "End": {
-        "X": 20220531.0,
-        "Y": 5891.6785714285714285714286
+        "X": 20220601.0,
+        "Y": 5889.19046114971572963747193
       }
     }
   }
