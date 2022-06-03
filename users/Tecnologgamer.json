@@ -2,7 +2,7 @@
   "PublicName": "Tecnologgamer",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1503085881682534400/ekH9O_ig_normal.png",
   "Login": "Tecnologgamer",
-  "CurrentFollowersCount": 31,
+  "CurrentFollowersCount": 30,
   "CurrentTweetsCout": 331,
   "FollowersCountHistory": {
     "20210914": 21,
@@ -248,7 +248,9 @@
     "20220529": 31,
     "20220530": 31,
     "20220531": 31,
-    "20220601": 31
+    "20220601": 31,
+    "20220602": 30,
+    "20220603": 30
   },
   "TweetsCountHistory": {
     "20210914": 282,
@@ -494,20 +496,22 @@
     "20220529": 331,
     "20220530": 331,
     "20220531": 331,
-    "20220601": 331
+    "20220601": 331,
+    "20220602": 331,
+    "20220603": 331
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -2.2485505084967373707860772058,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 31.0
+        "X": 20220528.0,
+        "Y": 31.01717254926810721802006
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 31.0
+        "X": 20220603.0,
+        "Y": 30.31973575819022875547387
       }
     }
   }

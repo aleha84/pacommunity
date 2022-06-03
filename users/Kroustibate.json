@@ -2,7 +2,7 @@
   "PublicName": "Tiot Moucron",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1348661837722771456/kdhksdoh_normal.jpg",
   "Login": "Kroustibate",
-  "CurrentFollowersCount": 686,
+  "CurrentFollowersCount": 684,
   "CurrentTweetsCout": 508,
   "FollowersCountHistory": {
     "20201229": 586,
@@ -466,7 +466,9 @@
     "20220529": 685,
     "20220530": 685,
     "20220531": 683,
-    "20220601": 686
+    "20220601": 686,
+    "20220602": 684,
+    "20220603": 684
   },
   "TweetsCountHistory": {
     "20201229": 399,
@@ -930,20 +932,22 @@
     "20220529": 508,
     "20220530": 508,
     "20220531": 508,
-    "20220601": 508
+    "20220601": 508,
+    "20220602": 508,
+    "20220603": 508
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.102340273110232,
+    "WeeklyGrowth": -0.0204739082826282150456226196,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 685.165508528111
+        "X": 20220528.0,
+        "Y": 684.775172676002788163066936
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 685.866708780796
+        "X": 20220603.0,
+        "Y": 684.634972435206894366531228
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Alexandre Magnat",
   "AvatarImage": "https://pbs.twimg.com/profile_images/803585719432347648/6_eempsN_normal.jpg",
   "Login": "Skreed3",
-  "CurrentFollowersCount": 16161,
+  "CurrentFollowersCount": 16160,
   "CurrentTweetsCout": 887,
   "FollowersCountHistory": {
     "20210111": 1686,
@@ -453,7 +453,9 @@
     "20220529": 16165,
     "20220530": 16160,
     "20220531": 16161,
-    "20220601": 16161
+    "20220601": 16161,
+    "20220602": 16160,
+    "20220603": 16160
   },
   "TweetsCountHistory": {
     "20210111": 290,
@@ -904,20 +906,22 @@
     "20220529": 887,
     "20220530": 887,
     "20220531": 887,
-    "20220601": 887
+    "20220601": 887,
+    "20220602": 887,
+    "20220603": 887
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0240196358984689,
+    "WeeklyGrowth": -0.0192958787939010474591861036,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 16164.5227416298
+        "X": 20220528.0,
+        "Y": 16163.3544769026043976955746
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 16160.6400821226
+        "X": 20220603.0,
+        "Y": 16160.2356156137126924755016
       }
     }
   }

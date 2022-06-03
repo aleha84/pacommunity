@@ -2,7 +2,7 @@
   "PublicName": "Igor Diemorth 🐙 👑",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1323629726536212481/NHQwRik0_normal.jpg",
   "Login": "diemorth",
-  "CurrentFollowersCount": 3708,
+  "CurrentFollowersCount": 3707,
   "CurrentTweetsCout": 467,
   "FollowersCountHistory": {
     "20210111": 3926,
@@ -453,7 +453,9 @@
     "20220529": 3708,
     "20220530": 3707,
     "20220531": 3708,
-    "20220601": 3708
+    "20220601": 3708,
+    "20220602": 3707,
+    "20220603": 3707
   },
   "TweetsCountHistory": {
     "20210111": 445,
@@ -904,20 +906,22 @@
     "20220529": 467,
     "20220530": 467,
     "20220531": 467,
-    "20220601": 467
+    "20220601": 467,
+    "20220602": 467,
+    "20220603": 467
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.00396115647368821,
+    "WeeklyGrowth": -0.0119526310246772033550809939,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 3707.83196462413
+        "X": 20220528.0,
+        "Y": 3707.76389328939864393920330
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 3707.97883765003
+        "X": 20220603.0,
+        "Y": 3707.32071795196755592130095
       }
     }
   }

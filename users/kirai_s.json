@@ -2,8 +2,8 @@
   "PublicName": "鬼雷 昇炎",
   "AvatarImage": "https://pbs.twimg.com/profile_images/934246371565092864/oGPAl2vv_normal.png",
   "Login": "kirai_s",
-  "CurrentFollowersCount": 7857,
-  "CurrentTweetsCout": 173383,
+  "CurrentFollowersCount": 7854,
+  "CurrentTweetsCout": 173430,
   "FollowersCountHistory": {
     "20201225": 7070,
     "20201226": 7071,
@@ -470,7 +470,9 @@
     "20220529": 7855,
     "20220530": 7855,
     "20220531": 7858,
-    "20220601": 7857
+    "20220601": 7857,
+    "20220602": 7857,
+    "20220603": 7854
   },
   "TweetsCountHistory": {
     "20201225": 153381,
@@ -938,20 +940,22 @@
     "20220529": 173359,
     "20220530": 173364,
     "20220531": 173377,
-    "20220601": 173383
+    "20220601": 173383,
+    "20220602": 173423,
+    "20220603": 173430
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0046128963879956,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 7857.20499052432
+        "X": 20220528.0,
+        "Y": 7856.0
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 7856.84254579912
+        "X": 20220603.0,
+        "Y": 7856.0
       }
     }
   }

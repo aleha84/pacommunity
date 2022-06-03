@@ -2,7 +2,7 @@
   "PublicName": "LiarLikePixels",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1154663277785432065/0UoLds8A_normal.jpg",
   "Login": "LiarLikePixels",
-  "CurrentFollowersCount": 142,
+  "CurrentFollowersCount": 141,
   "CurrentTweetsCout": 141,
   "FollowersCountHistory": {
     "20201215": 38,
@@ -479,7 +479,9 @@
     "20220529": 142,
     "20220530": 142,
     "20220531": 142,
-    "20220601": 142
+    "20220601": 142,
+    "20220602": 142,
+    "20220603": 141
   },
   "TweetsCountHistory": {
     "20201215": 93,
@@ -956,20 +958,22 @@
     "20220529": 141,
     "20220530": 141,
     "20220531": 141,
-    "20220601": 141
+    "20220601": 141,
+    "20220602": 141,
+    "20220603": 141
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2484866576887963142877635372,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 142.0
+        "X": 20220528.0,
+        "Y": 142.01039224383752613926916
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 142.0
+        "X": 20220603.0,
+        "Y": 141.65751536658006463437304
       }
     }
   }

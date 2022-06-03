@@ -2,7 +2,7 @@
   "PublicName": "Pixel Hoo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1420544927822278657/o9TX2rBn_normal.jpg",
   "Login": "PixelHoo",
-  "CurrentFollowersCount": 1836,
+  "CurrentFollowersCount": 1838,
   "CurrentTweetsCout": 162,
   "FollowersCountHistory": {
     "20210914": 729,
@@ -249,7 +249,9 @@
     "20220529": 1831,
     "20220530": 1834,
     "20220531": 1837,
-    "20220601": 1836
+    "20220601": 1836,
+    "20220602": 1838,
+    "20220603": 1838
   },
   "TweetsCountHistory": {
     "20210914": 65,
@@ -496,20 +498,22 @@
     "20220529": 161,
     "20220530": 161,
     "20220531": 161,
-    "20220601": 162
+    "20220601": 162,
+    "20220602": 162,
+    "20220603": 162
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.44827586206897,
+    "WeeklyGrowth": 0.6224496349249620320801479033,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 1812.5
+        "X": 20220528.0,
+        "Y": 1826.3487104746213801328647
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 1838.75
+        "X": 20220603.0,
+        "Y": 1837.7168113554274127216631
       }
     }
   }

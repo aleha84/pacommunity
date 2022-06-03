@@ -2,7 +2,7 @@
   "PublicName": "Nehuen Defosse",
   "AvatarImage": "https://pbs.twimg.com/profile_images/924875759608614913/3secGR5d_normal.jpg",
   "Login": "PipinMcfly",
-  "CurrentFollowersCount": 3983,
+  "CurrentFollowersCount": 3981,
   "CurrentTweetsCout": 42,
   "FollowersCountHistory": {
     "20201228": 4157,
@@ -468,7 +468,9 @@
     "20220529": 3981,
     "20220530": 3982,
     "20220531": 3984,
-    "20220601": 3983
+    "20220601": 3983,
+    "20220602": 3983,
+    "20220603": 3981
   },
   "TweetsCountHistory": {
     "20201228": 40,
@@ -934,20 +936,22 @@
     "20220529": 42,
     "20220530": 42,
     "20220531": 42,
-    "20220601": 42
+    "20220601": 42,
+    "20220602": 42,
+    "20220603": 42
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.00410400394555371,
+    "WeeklyGrowth": -0.0111273314036465699101278789,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 3982.8291219204
+        "X": 20220528.0,
+        "Y": 3982.76389328939864393920330
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 3982.99257738471
+        "X": 20220603.0,
+        "Y": 3982.32071795196755592130095
       }
     }
   }

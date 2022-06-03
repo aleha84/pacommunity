@@ -2,7 +2,7 @@
   "PublicName": "Songoanda (commissions CLOSED)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1513589179229392899/TAyMSJnR_normal.jpg",
   "Login": "Songoandaa",
-  "CurrentFollowersCount": 3115,
+  "CurrentFollowersCount": 3110,
   "CurrentTweetsCout": 2946,
   "FollowersCountHistory": {
     "20201228": 2879,
@@ -467,7 +467,9 @@
     "20220529": 3114,
     "20220530": 3114,
     "20220531": 3115,
-    "20220601": 3115
+    "20220601": 3115,
+    "20220602": 3112,
+    "20220603": 3110
   },
   "TweetsCountHistory": {
     "20201228": 2391,
@@ -932,20 +934,22 @@
     "20220529": 2946,
     "20220530": 2946,
     "20220531": 2946,
-    "20220601": 2946
+    "20220601": 2946,
+    "20220602": 2946,
+    "20220603": 2946
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0278415694003606,
+    "WeeklyGrowth": -0.0645515147946374692331028464,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 3114.13708149084
+        "X": 20220528.0,
+        "Y": 3114.30162854065014891464866
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 3115.00410612761
+        "X": 20220603.0,
+        "Y": 3112.29129966415309549276027
       }
     }
   }

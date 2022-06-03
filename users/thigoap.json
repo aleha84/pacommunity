@@ -2,7 +2,7 @@
   "PublicName": "Thiago Pereira",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1409248514337652743/At5eTCy9_normal.png",
   "Login": "thigoap",
-  "CurrentFollowersCount": 133,
+  "CurrentFollowersCount": 132,
   "CurrentTweetsCout": 119,
   "FollowersCountHistory": {
     "20201221": 94,
@@ -474,7 +474,9 @@
     "20220529": 133,
     "20220530": 133,
     "20220531": 133,
-    "20220601": 133
+    "20220601": 133,
+    "20220602": 132,
+    "20220603": 132
   },
   "TweetsCountHistory": {
     "20201221": 29,
@@ -946,20 +948,22 @@
     "20220529": 119,
     "20220530": 119,
     "20220531": 119,
-    "20220601": 119
+    "20220601": 119,
+    "20220602": 119,
+    "20220603": 119
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.135543887684054,
+    "WeeklyGrowth": -0.3212956550087755186009538256,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 132.826279216677
+        "X": 20220528.0,
+        "Y": 132.75666941258475381817468
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 133.006317119394
+        "X": 20220603.0,
+        "Y": 132.33012800202775489474613
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "belyash",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1408827309600149508/04ez0OLg_normal.jpg",
   "Login": "clovtheflow",
-  "CurrentFollowersCount": 332,
-  "CurrentTweetsCout": 300,
+  "CurrentFollowersCount": 333,
+  "CurrentTweetsCout": 302,
   "FollowersCountHistory": {
     "20201215": 76,
     "20201216": 78,
@@ -479,7 +479,9 @@
     "20220529": 332,
     "20220530": 332,
     "20220531": 332,
-    "20220601": 332
+    "20220601": 332,
+    "20220602": 333,
+    "20220603": 333
   },
   "TweetsCountHistory": {
     "20201215": 110,
@@ -956,20 +958,22 @@
     "20220529": 300,
     "20220530": 300,
     "20220531": 300,
-    "20220601": 300
+    "20220601": 300,
+    "20220602": 301,
+    "20220603": 302
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.2100821890196660791676652027,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 332.0
+        "X": 20220528.0,
+        "Y": 331.98282745073189278197958
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 332.0
+        "X": 20220603.0,
+        "Y": 332.68026424180977124452661
       }
     }
   }

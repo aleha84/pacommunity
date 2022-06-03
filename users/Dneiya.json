@@ -2,7 +2,7 @@
   "PublicName": "Eva",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1508561761678639104/qT5bWZf7_normal.jpg",
   "Login": "Dneiya",
-  "CurrentFollowersCount": 384,
+  "CurrentFollowersCount": 383,
   "CurrentTweetsCout": 135,
   "FollowersCountHistory": {
     "20210111": 173,
@@ -453,7 +453,9 @@
     "20220529": 383,
     "20220530": 383,
     "20220531": 382,
-    "20220601": 384
+    "20220601": 384,
+    "20220602": 383,
+    "20220603": 383
   },
   "TweetsCountHistory": {
     "20210111": 101,
@@ -904,20 +906,22 @@
     "20220529": 135,
     "20220530": 135,
     "20220531": 135,
-    "20220601": 135
+    "20220601": 135,
+    "20220602": 135,
+    "20220603": 135
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.303230831685848,
+    "WeeklyGrowth": 0.1521075777636022255563642447,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 382.801010739103
+        "X": 20220528.0,
+        "Y": 382.74716431151384576349275
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 383.961781427669
+        "X": 20220603.0,
+        "Y": 383.32935175210696407123971
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "Di.H WORLD",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1492057645800374277/vK8wP6NL_normal.png",
   "Login": "DiH_pixels",
-  "CurrentFollowersCount": 3104,
-  "CurrentTweetsCout": 388,
+  "CurrentFollowersCount": 3102,
+  "CurrentTweetsCout": 387,
   "FollowersCountHistory": {
     "20201215": 690,
     "20201216": 722,
@@ -479,7 +479,9 @@
     "20220529": 3103,
     "20220530": 3104,
     "20220531": 3103,
-    "20220601": 3104
+    "20220601": 3104,
+    "20220602": 3102,
+    "20220603": 3102
   },
   "TweetsCountHistory": {
     "20201215": 232,
@@ -956,20 +958,22 @@
     "20220529": 388,
     "20220530": 388,
     "20220531": 388,
-    "20220601": 388
+    "20220601": 388,
+    "20220602": 387,
+    "20220603": 387
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0216028533476178,
+    "WeeklyGrowth": -0.0198324938887841933183600549,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220526.0,
-        "Y": 3103.31364497789
+        "X": 20220528.0,
+        "Y": 3103.26728344211393447859337
       },
       "End": {
-        "X": 20220601.0,
-        "Y": 3103.98404927353
+        "X": 20220603.0,
+        "Y": 3102.65182814777263798183230
       }
     }
   }
