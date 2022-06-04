@@ -2,7 +2,7 @@
   "PublicName": "Brunin",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1249762352049713152/gJgw3eDH_normal.png",
   "Login": "Bruninpixels",
-  "CurrentFollowersCount": 51,
+  "CurrentFollowersCount": 50,
   "CurrentTweetsCout": 114,
   "FollowersCountHistory": {
     "20210112": 54,
@@ -475,7 +475,8 @@
     "20220531": 51,
     "20220601": 51,
     "20220602": 51,
-    "20220603": 51
+    "20220603": 51,
+    "20220605": 50
   },
   "TweetsCountHistory": {
     "20210112": 151,
@@ -948,20 +949,21 @@
     "20220531": 114,
     "20220601": 114,
     "20220602": 114,
-    "20220603": 114
+    "20220603": 114,
+    "20220605": 114
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.5482519690088428143313562671,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 51.0
+        "X": 20220529.0,
+        "Y": 51.013808070959016135873587
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 51.0
+        "X": 20220605.0,
+        "Y": 50.734123863743591356394563
       }
     }
   }
