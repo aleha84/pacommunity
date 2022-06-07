@@ -2,7 +2,7 @@
   "PublicName": "Moon fan account",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1436409542888370183/ep5SU3uK_normal.jpg",
   "Login": "ubhoodie",
-  "CurrentFollowersCount": 261,
+  "CurrentFollowersCount": 260,
   "CurrentTweetsCout": 1302,
   "FollowersCountHistory": {
     "20210913": 249,
@@ -253,7 +253,8 @@
     "20220531": 261,
     "20220601": 261,
     "20220602": 261,
-    "20220603": 261
+    "20220603": 261,
+    "20220606": 260
   },
   "TweetsCountHistory": {
     "20210913": 941,
@@ -504,20 +505,21 @@
     "20220531": 1302,
     "20220601": 1302,
     "20220602": 1302,
-    "20220603": 1302
+    "20220603": 1302,
+    "20220606": 1302
   },
   "LangId": "dk",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.110521292094378,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 261.0
+        "X": 20220529.0,
+        "Y": 261.017171401811
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 261.0
+        "X": 20220606.0,
+        "Y": 260.728691851389
       }
     }
   }
