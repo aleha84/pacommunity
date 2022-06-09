@@ -2,8 +2,8 @@
   "PublicName": "yoshi is now vivian",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1532436748311089154/_8tAMrAf_normal.jpg",
   "Login": "YoshiMakes",
-  "CurrentFollowersCount": 966,
-  "CurrentTweetsCout": 5950,
+  "CurrentFollowersCount": 963,
+  "CurrentTweetsCout": 5996,
   "FollowersCountHistory": {
     "20210204": 507,
     "20210205": 509,
@@ -452,7 +452,8 @@
     "20220531": 966,
     "20220601": 967,
     "20220602": 968,
-    "20220603": 966
+    "20220603": 966,
+    "20220609": 963
   },
   "TweetsCountHistory": {
     "20210204": 2233,
@@ -902,20 +903,21 @@
     "20220531": 5905,
     "20220601": 5915,
     "20220602": 5926,
-    "20220603": 5950
+    "20220603": 5950,
+    "20220609": 5996
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0508938067039781,
+    "WeeklyGrowth": -0.0575810267486282911979624975,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 966.500665357075
+        "X": 20220529.0,
+        "Y": 966.44296305336058821598730
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 966.992554337494
+        "X": 20220609.0,
+        "Y": 965.88647527229459682210357
       }
     }
   }

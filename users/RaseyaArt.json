@@ -2,7 +2,7 @@
   "PublicName": "Raseya",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1318728129112952835/W9wZFaut_normal.jpg",
   "Login": "RaseyaArt",
-  "CurrentFollowersCount": 194,
+  "CurrentFollowersCount": 193,
   "CurrentTweetsCout": 398,
   "FollowersCountHistory": {
     "20210112": 210,
@@ -476,7 +476,8 @@
     "20220601": 194,
     "20220602": 194,
     "20220603": 194,
-    "20220605": 194
+    "20220605": 194,
+    "20220609": 193
   },
   "TweetsCountHistory": {
     "20210112": 395,
@@ -950,20 +951,21 @@
     "20220601": 398,
     "20220602": 398,
     "20220603": 398,
-    "20220605": 398
+    "20220605": 398,
+    "20220609": 398
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1364492374292652391724142429,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220529.0,
-        "Y": 194.0
+        "X": 20220530.0,
+        "Y": 194.034765955879644974772585
       },
       "End": {
-        "X": 20220605.0,
-        "Y": 194.0
+        "X": 20220609.0,
+        "Y": 193.770006997385187640408058
       }
     }
   }
