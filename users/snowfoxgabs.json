@@ -2,8 +2,8 @@
   "PublicName": "Gabriel - Commissions Open",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1323077979128422401/hlmQda76_normal.jpg",
   "Login": "snowfoxgabs",
-  "CurrentFollowersCount": 1424,
-  "CurrentTweetsCout": 3599,
+  "CurrentFollowersCount": 1423,
+  "CurrentTweetsCout": 3601,
   "FollowersCountHistory": {
     "20210113": 1104,
     "20210114": 1106,
@@ -452,7 +452,9 @@
     "20220531": 1424,
     "20220601": 1426,
     "20220602": 1424,
-    "20220603": 1424
+    "20220603": 1424,
+    "20220609": 1423,
+    "20220610": 1423
   },
   "TweetsCountHistory": {
     "20210113": 2761,
@@ -902,20 +904,22 @@
     "20220531": 3599,
     "20220601": 3599,
     "20220602": 3599,
-    "20220603": 3599
+    "20220603": 3599,
+    "20220609": 3601,
+    "20220610": 3601
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0281965487424339,
+    "WeeklyGrowth": -0.0119380980523143508303043638,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 1424.25416640264
+        "X": 20220530.0,
+        "Y": 1424.114151010786484749318347
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 1424.65575692288
+        "X": 20220610.0,
+        "Y": 1423.944138867061932995014425
       }
     }
   }

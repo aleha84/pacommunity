@@ -2,8 +2,8 @@
   "PublicName": "Nazaire",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1456996696202924039/sWYHg-Ss_normal.jpg",
   "Login": "ElenaNazaire",
-  "CurrentFollowersCount": 10870,
-  "CurrentTweetsCout": 4475,
+  "CurrentFollowersCount": 10897,
+  "CurrentTweetsCout": 4485,
   "FollowersCountHistory": {
     "20201212": 3289,
     "20201213": 3282,
@@ -485,7 +485,9 @@
     "20220531": 10846,
     "20220601": 10856,
     "20220602": 10865,
-    "20220603": 10870
+    "20220603": 10870,
+    "20220609": 10895,
+    "20220610": 10897
   },
   "TweetsCountHistory": {
     "20201213": 2156,
@@ -967,20 +969,22 @@
     "20220531": 4473,
     "20220601": 4473,
     "20220602": 4475,
-    "20220603": 4475
+    "20220603": 4475,
+    "20220609": 4485,
+    "20220610": 4485
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.30551388153748,
+    "WeeklyGrowth": 0.4230623758351222699427512491,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 10831.2005576326
+        "X": 20220530.0,
+        "Y": 10834.367169083505964601940
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 10864.2913788733
+        "X": 20220610.0,
+        "Y": 10880.203300235731123705434
       }
     }
   }

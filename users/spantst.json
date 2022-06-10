@@ -2,8 +2,8 @@
   "PublicName": "spantst",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1454821333955608588/yXQpRYOI_normal.png",
   "Login": "spantst",
-  "CurrentFollowersCount": 2329,
-  "CurrentTweetsCout": 12530,
+  "CurrentFollowersCount": 2325,
+  "CurrentTweetsCout": 12529,
   "FollowersCountHistory": {
     "20210915": 159,
     "20210916": 190,
@@ -252,7 +252,9 @@
     "20220531": 2336,
     "20220601": 2334,
     "20220603": 2333,
-    "20220606": 2329
+    "20220606": 2329,
+    "20220609": 2325,
+    "20220610": 2325
   },
   "TweetsCountHistory": {
     "20210915": 364,
@@ -502,20 +504,22 @@
     "20220531": 12533,
     "20220601": 12532,
     "20220603": 12531,
-    "20220606": 12530
+    "20220606": 12530,
+    "20220609": 12530,
+    "20220610": 12529
   },
   "LangId": "th",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.220920544315252,
+    "WeeklyGrowth": -0.3114390688559462102724664573,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 2336.90796460177
+        "X": 20220530.0,
+        "Y": 2335.9366202114994047375049
       },
       "End": {
-        "X": 20220606.0,
-        "Y": 2331.74525480622
+        "X": 20220610.0,
+        "Y": 2328.6616009524476503874978
       }
     }
   }

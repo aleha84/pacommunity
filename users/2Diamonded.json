@@ -2,8 +2,8 @@
   "PublicName": "2Diamond",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1438823046198956032/aa7XKKpZ_normal.jpg",
   "Login": "2Diamonded",
-  "CurrentFollowersCount": 3410,
-  "CurrentTweetsCout": 9474,
+  "CurrentFollowersCount": 3406,
+  "CurrentTweetsCout": 9525,
   "FollowersCountHistory": {
     "20210915": 2141,
     "20210916": 2139,
@@ -250,7 +250,9 @@
     "20220530": 3410,
     "20220531": 3414,
     "20220601": 3411,
-    "20220603": 3410
+    "20220603": 3410,
+    "20220609": 3407,
+    "20220610": 3406
   },
   "TweetsCountHistory": {
     "20210915": 7946,
@@ -498,20 +500,22 @@
     "20220530": 9462,
     "20220531": 9468,
     "20220601": 9471,
-    "20220603": 9474
+    "20220603": 9474,
+    "20220609": 9524,
+    "20220610": 9525
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0140679830502226,
+    "WeeklyGrowth": -0.0842454792875859906290587063,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220527.0,
-        "Y": 3411.00146138569
+        "X": 20220529.0,
+        "Y": 3411.14260558297970613312436
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 3410.52160227826
+        "X": 20220610.0,
+        "Y": 3408.26887214572327588318402
       }
     }
   }

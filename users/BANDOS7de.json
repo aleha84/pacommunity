@@ -2,8 +2,8 @@
   "PublicName": "BANDOS7",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1426307532524597250/1G-bpxn5_normal.jpg",
   "Login": "BANDOS7de",
-  "CurrentFollowersCount": 1350,
-  "CurrentTweetsCout": 3962,
+  "CurrentFollowersCount": 1354,
+  "CurrentTweetsCout": 3972,
   "FollowersCountHistory": {
     "20201217": 1387,
     "20201218": 1384,
@@ -480,7 +480,9 @@
     "20220531": 1351,
     "20220601": 1349,
     "20220602": 1350,
-    "20220603": 1350
+    "20220603": 1350,
+    "20220609": 1352,
+    "20220610": 1354
   },
   "TweetsCountHistory": {
     "20201217": 2286,
@@ -958,20 +960,22 @@
     "20220531": 3961,
     "20220601": 3961,
     "20220602": 3962,
-    "20220603": 3962
+    "20220603": 3962,
+    "20220609": 3972,
+    "20220610": 3972
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.120811425100715,
+    "WeeklyGrowth": 0.0236916184712338008743986965,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 1351.28040048159
+        "X": 20220530.0,
+        "Y": 1350.78512750910779341304782
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 1349.64789937266
+        "X": 20220610.0,
+        "Y": 1351.10515036788342024467873
       }
     }
   }

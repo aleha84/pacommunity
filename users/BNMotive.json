@@ -2,8 +2,8 @@
   "PublicName": "BNMotive",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1489390123003179008/z5ro9P8t_normal.jpg",
   "Login": "BNMotive",
-  "CurrentFollowersCount": 2033,
-  "CurrentTweetsCout": 6678,
+  "CurrentFollowersCount": 2037,
+  "CurrentTweetsCout": 6708,
   "FollowersCountHistory": {
     "20201228": 1466,
     "20201229": 1465,
@@ -469,7 +469,9 @@
     "20220531": 2028,
     "20220601": 2030,
     "20220602": 2033,
-    "20220603": 2033
+    "20220603": 2033,
+    "20220609": 2038,
+    "20220610": 2037
   },
   "TweetsCountHistory": {
     "20201228": 5907,
@@ -936,20 +938,22 @@
     "20220531": 6662,
     "20220601": 6662,
     "20220602": 6665,
-    "20220603": 6678
+    "20220603": 6678,
+    "20220609": 6704,
+    "20220610": 6708
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.23189756540492,
+    "WeeklyGrowth": 0.3511002780230848973802955974,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 2027.38679424625
+        "X": 20220530.0,
+        "Y": 2027.6486177584113150768820
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 2032.08825486344
+        "X": 20220610.0,
+        "Y": 2034.7676976926923351751429
       }
     }
   }

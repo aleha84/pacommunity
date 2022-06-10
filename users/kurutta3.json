@@ -2,7 +2,7 @@
   "PublicName": "kurutta",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1010112023076712449/VhH0nlqs_normal.jpg",
   "Login": "kurutta3",
-  "CurrentFollowersCount": 1107,
+  "CurrentFollowersCount": 1106,
   "CurrentTweetsCout": 25,
   "FollowersCountHistory": {
     "20201214": 1053,
@@ -483,7 +483,9 @@
     "20220531": 1107,
     "20220601": 1108,
     "20220602": 1108,
-    "20220603": 1107
+    "20220603": 1107,
+    "20220609": 1106,
+    "20220610": 1106
   },
   "TweetsCountHistory": {
     "20201214": 23,
@@ -964,20 +966,22 @@
     "20220531": 25,
     "20220601": 25,
     "20220602": 25,
-    "20220603": 25
+    "20220603": 25,
+    "20220609": 25,
+    "20220610": 25
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0148047819989414,
+    "WeeklyGrowth": -0.0629456256853237245510041747,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 1107.50022178569
+        "X": 20220530.0,
+        "Y": 1107.61097221230087863588889
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 1107.66418477916
+        "X": 20220610.0,
+        "Y": 1106.91377955568254875265011
       }
     }
   }

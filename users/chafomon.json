@@ -2,8 +2,8 @@
   "PublicName": "CHAFOMON",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1531044677813776389/IhgRDfUA_normal.jpg",
   "Login": "chafomon",
-  "CurrentFollowersCount": 1878,
-  "CurrentTweetsCout": 14879,
+  "CurrentFollowersCount": 1882,
+  "CurrentTweetsCout": 14895,
   "FollowersCountHistory": {
     "20210213": 1633,
     "20210214": 1635,
@@ -422,7 +422,9 @@
     "20220531": 1878,
     "20220601": 1877,
     "20220602": 1877,
-    "20220603": 1878
+    "20220603": 1878,
+    "20220609": 1880,
+    "20220610": 1882
   },
   "TweetsCountHistory": {
     "20210213": 14499,
@@ -842,20 +844,22 @@
     "20220531": 14868,
     "20220601": 14869,
     "20220602": 14877,
-    "20220603": 14879
+    "20220603": 14879,
+    "20220609": 14896,
+    "20220610": 14895
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0621233337521328,
+    "WeeklyGrowth": 0.121266423397949128674814708,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 1876.20809834611
+        "X": 20220530.0,
+        "Y": 1876.75762554468176297760278
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 1877.37366136493
+        "X": 20220610.0,
+        "Y": 1879.03350239302807343649226
       }
     }
   }

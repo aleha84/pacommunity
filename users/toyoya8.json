@@ -2,7 +2,7 @@
   "PublicName": "toyoya",
   "AvatarImage": "https://pbs.twimg.com/profile_images/871672916332752896/pNbWWd_t_normal.jpg",
   "Login": "toyoya8",
-  "CurrentFollowersCount": 525,
+  "CurrentFollowersCount": 527,
   "CurrentTweetsCout": 593,
   "FollowersCountHistory": {
     "20210204": 389,
@@ -433,7 +433,9 @@
     "20220530": 523,
     "20220531": 523,
     "20220601": 524,
-    "20220603": 525
+    "20220603": 525,
+    "20220609": 526,
+    "20220610": 527
   },
   "TweetsCountHistory": {
     "20210204": 519,
@@ -864,20 +866,22 @@
     "20220530": 591,
     "20220531": 591,
     "20220601": 593,
-    "20220603": 593
+    "20220603": 593,
+    "20220609": 593,
+    "20220610": 593
   },
   "LangId": "cn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.133205631436186,
+    "WeeklyGrowth": 0.4643084563072054855452123807,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220527.0,
-        "Y": 523.790160002998
+        "X": 20220529.0,
+        "Y": 523.24315117923847463604255
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 524.48787799303
+        "X": 20220610.0,
+        "Y": 525.67261337721197425334536
       }
     }
   }

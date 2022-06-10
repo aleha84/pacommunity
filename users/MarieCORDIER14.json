@@ -2,7 +2,7 @@
   "PublicName": "Aschdox",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1278491608057610242/QKSERnXd_normal.jpg",
   "Login": "MarieCORDIER14",
-  "CurrentFollowersCount": 112,
+  "CurrentFollowersCount": 111,
   "CurrentTweetsCout": 34,
   "FollowersCountHistory": {
     "20210113": 98,
@@ -453,7 +453,9 @@
     "20220531": 112,
     "20220601": 112,
     "20220602": 112,
-    "20220603": 112
+    "20220603": 112,
+    "20220609": 111,
+    "20220610": 111
   },
   "TweetsCountHistory": {
     "20210113": 34,
@@ -904,20 +906,22 @@
     "20220531": 34,
     "20220601": 34,
     "20220602": 34,
-    "20220603": 34
+    "20220603": 34,
+    "20220609": 34,
+    "20220610": 34
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.4602431511739387650801534508,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 112.0
+        "X": 20220530.0,
+        "Y": 112.06057575541110079415350
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 112.0
+        "X": 20220610.0,
+        "Y": 111.54482463033073790924403
       }
     }
   }

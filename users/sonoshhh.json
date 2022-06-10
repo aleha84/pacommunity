@@ -2,7 +2,7 @@
   "PublicName": "Sonoshee",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1249448830946496513/aUwOYH7W_normal.jpg",
   "Login": "sonoshhh",
-  "CurrentFollowersCount": 7926,
+  "CurrentFollowersCount": 7919,
   "CurrentTweetsCout": 57,
   "FollowersCountHistory": {
     "20210204": 5973,
@@ -433,7 +433,9 @@
     "20220530": 7921,
     "20220531": 7921,
     "20220601": 7920,
-    "20220603": 7926
+    "20220603": 7926,
+    "20220609": 7920,
+    "20220610": 7919
   },
   "TweetsCountHistory": {
     "20210204": 412,
@@ -864,20 +866,22 @@
     "20220530": 57,
     "20220531": 57,
     "20220601": 57,
-    "20220603": 57
+    "20220603": 57,
+    "20220609": 57,
+    "20220610": 57
   },
   "LangId": "arabic",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.018496456529822,
+    "WeeklyGrowth": 0.0057860794792656756808318393,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220527.0,
-        "Y": 7921.5593360063
+        "X": 20220529.0,
+        "Y": 7920.74942986634335036445088
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 7923.02454378536
+        "X": 20220610.0,
+        "Y": 7921.20773072370889985914878
       }
     }
   }

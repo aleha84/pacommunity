@@ -2,8 +2,8 @@
   "PublicName": "Denis Darftey",
   "AvatarImage": "https://pbs.twimg.com/profile_images/810256965796564993/UZL0U5mK_normal.jpg",
   "Login": "darftey",
-  "CurrentFollowersCount": 17366,
-  "CurrentTweetsCout": 2364,
+  "CurrentFollowersCount": 17364,
+  "CurrentTweetsCout": 2368,
   "FollowersCountHistory": {
     "20210113": 14953,
     "20210114": 14966,
@@ -454,7 +454,9 @@
     "20220531": 17374,
     "20220601": 17371,
     "20220603": 17368,
-    "20220606": 17366
+    "20220606": 17366,
+    "20220609": 17365,
+    "20220610": 17364
   },
   "TweetsCountHistory": {
     "20210113": 1813,
@@ -906,20 +908,22 @@
     "20220531": 2360,
     "20220601": 2361,
     "20220603": 2361,
-    "20220606": 2364
+    "20220606": 2364,
+    "20220609": 2368,
+    "20220610": 2368
   },
   "LangId": "ua",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0112114092124616,
+    "WeeklyGrowth": -0.0123382998767093369173628339,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 17366.4584070796
+        "X": 20220530.0,
+        "Y": 17368.73989775194341340920197
       },
       "End": {
-        "X": 20220606.0,
-        "Y": 17368.4054317974
+        "X": 20220610.0,
+        "Y": 17366.59689053855311996406223
       }
     }
   }

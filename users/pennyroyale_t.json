@@ -2,8 +2,8 @@
   "PublicName": "Pennyroyal",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1455116851663761408/3liCCmdF_normal.jpg",
   "Login": "pennyroyale_t",
-  "CurrentFollowersCount": 583,
-  "CurrentTweetsCout": 2109,
+  "CurrentFollowersCount": 584,
+  "CurrentTweetsCout": 2110,
   "FollowersCountHistory": {
     "20210919": 390,
     "20210920": 390,
@@ -246,7 +246,9 @@
     "20220530": 575,
     "20220531": 581,
     "20220601": 582,
-    "20220603": 583
+    "20220603": 583,
+    "20220609": 583,
+    "20220610": 584
   },
   "TweetsCountHistory": {
     "20210919": 2004,
@@ -490,20 +492,22 @@
     "20220530": 2103,
     "20220531": 2107,
     "20220601": 2108,
-    "20220603": 2109
+    "20220603": 2109,
+    "20220609": 2110,
+    "20220610": 2110
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.19767602666289,
+    "WeeklyGrowth": 1.1266250504039976145097125592,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220527.0,
-        "Y": 575.783152845955
+        "X": 20220529.0,
+        "Y": 576.8752056811292976427996
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 582.679169633155
+        "X": 20220610.0,
+        "Y": 583.3744262579024855025822
       }
     }
   }

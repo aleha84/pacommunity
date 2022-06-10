@@ -2,8 +2,8 @@
   "PublicName": "Hendry",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1309870761918693377/dRXQvZZR_normal.jpg",
   "Login": "Iceztiq",
-  "CurrentFollowersCount": 9576,
-  "CurrentTweetsCout": 18216,
+  "CurrentFollowersCount": 9568,
+  "CurrentTweetsCout": 18213,
   "FollowersCountHistory": {
     "20210308": 9556,
     "20210309": 9560,
@@ -402,7 +402,9 @@
     "20220530": 9577,
     "20220531": 9576,
     "20220601": 9575,
-    "20220603": 9576
+    "20220603": 9576,
+    "20220609": 9569,
+    "20220610": 9568
   },
   "TweetsCountHistory": {
     "20210308": 16959,
@@ -802,20 +804,22 @@
     "20220530": 18214,
     "20220531": 18216,
     "20220601": 18216,
-    "20220603": 18216
+    "20220603": 18216,
+    "20220609": 18213,
+    "20220610": 18213
   },
   "LangId": "id",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.011835438541226,
+    "WeeklyGrowth": -0.0563145862191909352921027128,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220527.0,
-        "Y": 9576.62659721962
+        "X": 20220529.0,
+        "Y": 9576.9486735371380733897655
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 9575.49316146438
+        "X": 20220610.0,
+        "Y": 9571.5554545192113391575170
       }
     }
   }

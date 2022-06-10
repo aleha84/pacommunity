@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1491847170441584649/LmKNABRl_normal.jpg",
   "Login": "ArtOfTic",
   "CurrentFollowersCount": 458,
-  "CurrentTweetsCout": 390,
+  "CurrentTweetsCout": 392,
   "FollowersCountHistory": {
     "20201219": 173,
     "20201220": 174,
@@ -478,7 +478,9 @@
     "20220531": 458,
     "20220601": 458,
     "20220602": 458,
-    "20220603": 458
+    "20220603": 458,
+    "20220609": 458,
+    "20220610": 458
   },
   "TweetsCountHistory": {
     "20201219": 131,
@@ -954,20 +956,22 @@
     "20220531": 390,
     "20220601": 390,
     "20220602": 390,
-    "20220603": 390
+    "20220603": 390,
+    "20220609": 392,
+    "20220610": 392
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.175925261197474,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 457.222102528357
+        "X": 20220530.0,
+        "Y": 458.0
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 458.026471706482
+        "X": 20220610.0,
+        "Y": 458.0
       }
     }
   }

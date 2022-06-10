@@ -2,8 +2,8 @@
   "PublicName": "Mima 🎪",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1459849750929412096/9EPODF7d_normal.jpg",
   "Login": "PixelMima",
-  "CurrentFollowersCount": 31423,
-  "CurrentTweetsCout": 5119,
+  "CurrentFollowersCount": 31575,
+  "CurrentTweetsCout": 5133,
   "FollowersCountHistory": {
     "20210212": 3660,
     "20210213": 3898,
@@ -425,7 +425,9 @@
     "20220530": 31180,
     "20220531": 31244,
     "20220601": 31378,
-    "20220603": 31423
+    "20220603": 31423,
+    "20220609": 31567,
+    "20220610": 31575
   },
   "TweetsCountHistory": {
     "20210212": 1476,
@@ -848,20 +850,22 @@
     "20220530": 5108,
     "20220531": 5109,
     "20220601": 5119,
-    "20220603": 5119
+    "20220603": 5119,
+    "20220609": 5133,
+    "20220610": 5133
   },
   "LangId": "arabic",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.839146217788525,
+    "WeeklyGrowth": 1.0254839813980329365574260269,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220527.0,
-        "Y": 31145.5393637352
+        "X": 20220529.0,
+        "Y": 31186.57472359342975036829
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 31406.8959793158
+        "X": 20220610.0,
+        "Y": 31506.38805173060823921080
       }
     }
   }

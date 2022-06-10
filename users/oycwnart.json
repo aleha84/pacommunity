@@ -2,8 +2,8 @@
   "PublicName": "O. W. NOX 🐲",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1389080848968863745/9IxPSwaQ_normal.jpg",
   "Login": "oycwnart",
-  "CurrentFollowersCount": 127,
-  "CurrentTweetsCout": 731,
+  "CurrentFollowersCount": 126,
+  "CurrentTweetsCout": 732,
   "FollowersCountHistory": {
     "20210915": 131,
     "20210916": 130,
@@ -250,7 +250,9 @@
     "20220530": 127,
     "20220531": 127,
     "20220601": 127,
-    "20220603": 127
+    "20220603": 127,
+    "20220609": 127,
+    "20220610": 126
   },
   "TweetsCountHistory": {
     "20210915": 689,
@@ -498,20 +500,22 @@
     "20220530": 730,
     "20220531": 730,
     "20220601": 730,
-    "20220603": 731
+    "20220603": 731,
+    "20220609": 732,
+    "20220610": 732
   },
   "LangId": "cz",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2365488077790093024142773257,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220527.0,
-        "Y": 127.0
+        "X": 20220529.0,
+        "Y": 127.021419704973874888613840
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 127.0
+        "X": 20220610.0,
+        "Y": 126.720952051037787592342723
       }
     }
   }

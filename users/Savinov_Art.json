@@ -2,8 +2,8 @@
   "PublicName": "Anton Savinov",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1334785401433841664/jk40pnqJ_normal.jpg",
   "Login": "Savinov_Art",
-  "CurrentFollowersCount": 52,
-  "CurrentTweetsCout": 139,
+  "CurrentFollowersCount": 53,
+  "CurrentTweetsCout": 140,
   "FollowersCountHistory": {
     "20210215": 40,
     "20210216": 40,
@@ -420,7 +420,9 @@
     "20220531": 52,
     "20220601": 52,
     "20220602": 52,
-    "20220603": 52
+    "20220603": 52,
+    "20220609": 53,
+    "20220610": 53
   },
   "TweetsCountHistory": {
     "20210215": 93,
@@ -838,20 +840,22 @@
     "20220531": 139,
     "20220601": 139,
     "20220602": 139,
-    "20220603": 139
+    "20220603": 139,
+    "20220609": 140,
+    "20220610": 140
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.9929858341356072102824221944,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 52.0
+        "X": 20220530.0,
+        "Y": 51.93942424458889920584919
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 52.0
+        "X": 20220610.0,
+        "Y": 52.45517536966926209075465
       }
     }
   }

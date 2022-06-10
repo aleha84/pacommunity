@@ -2,8 +2,8 @@
   "PublicName": "cocopon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1186257669922811904/OHBAH6JE_normal.jpg",
   "Login": "cocopon",
-  "CurrentFollowersCount": 3733,
-  "CurrentTweetsCout": 19136,
+  "CurrentFollowersCount": 3730,
+  "CurrentTweetsCout": 19137,
   "FollowersCountHistory": {
     "20201225": 3243,
     "20201226": 3240,
@@ -472,7 +472,9 @@
     "20220531": 3728,
     "20220601": 3728,
     "20220602": 3732,
-    "20220603": 3733
+    "20220603": 3733,
+    "20220609": 3732,
+    "20220610": 3730
   },
   "TweetsCountHistory": {
     "20201225": 18827,
@@ -942,20 +944,22 @@
     "20220531": 19135,
     "20220601": 19135,
     "20220602": 19135,
-    "20220603": 19136
+    "20220603": 19136,
+    "20220609": 19137,
+    "20220610": 19137
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.937503486875371,
+    "WeeklyGrowth": 0.6521299012558903896557155502,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 3697.09036182751
+        "X": 20220530.0,
+        "Y": 3708.3341667261947281368575
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 3731.75071288258
+        "X": 20220610.0,
+        "Y": 3732.5173226659047075074953
       }
     }
   }

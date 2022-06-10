@@ -2,7 +2,7 @@
   "PublicName": "Trix",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1400015094839402499/-TEVqu35_normal.png",
   "Login": "Trixelized",
-  "CurrentFollowersCount": 18739,
+  "CurrentFollowersCount": 18742,
   "CurrentTweetsCout": 3,
   "FollowersCountHistory": {
     "20210125": 14450,
@@ -444,7 +444,9 @@
     "20220530": 18685,
     "20220531": 18687,
     "20220601": 18681,
-    "20220603": 18739
+    "20220603": 18739,
+    "20220609": 18744,
+    "20220610": 18742
   },
   "TweetsCountHistory": {
     "20210125": 1437,
@@ -886,20 +888,22 @@
     "20220530": 1655,
     "20220531": 1655,
     "20220601": 1,
-    "20220603": 3
+    "20220603": 3,
+    "20220609": 3,
+    "20220610": 3
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.139047774350002,
+    "WeeklyGrowth": 0.2437417863559661064125949644,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220527.0,
-        "Y": 18684.7576722749
+        "X": 20220529.0,
+        "Y": 18684.243728529776853944975
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 18710.7384119609
+        "X": 20220610.0,
+        "Y": 18729.785037960797898503682
       }
     }
   }

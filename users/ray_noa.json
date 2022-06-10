@@ -2,7 +2,7 @@
   "PublicName": "Sergey Kostik",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1158879136/gop_normal.png",
   "Login": "ray_noa",
-  "CurrentFollowersCount": 286,
+  "CurrentFollowersCount": 285,
   "CurrentTweetsCout": 919,
   "FollowersCountHistory": {
     "20201216": 247,
@@ -480,7 +480,9 @@
     "20220531": 286,
     "20220601": 286,
     "20220602": 286,
-    "20220603": 286
+    "20220603": 286,
+    "20220609": 285,
+    "20220610": 285
   },
   "TweetsCountHistory": {
     "20201216": 872,
@@ -958,20 +960,22 @@
     "20220531": 919,
     "20220601": 919,
     "20220602": 919,
-    "20220603": 919
+    "20220603": 919,
+    "20220609": 919,
+    "20220610": 919
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1802943742661494571894849104,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 286.0
+        "X": 20220530.0,
+        "Y": 286.06057575541110079415350
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 286.0
+        "X": 20220610.0,
+        "Y": 285.54482463033073790924403
       }
     }
   }

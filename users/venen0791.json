@@ -2,8 +2,8 @@
   "PublicName": "venen",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1446457636157857794/Kf1wCPK__normal.jpg",
   "Login": "venen0791",
-  "CurrentFollowersCount": 541,
-  "CurrentTweetsCout": 1169,
+  "CurrentFollowersCount": 542,
+  "CurrentTweetsCout": 1172,
   "FollowersCountHistory": {
     "20210204": 299,
     "20210205": 300,
@@ -424,7 +424,9 @@
     "20220531": 542,
     "20220601": 542,
     "20220602": 542,
-    "20220603": 541
+    "20220603": 541,
+    "20220609": 542,
+    "20220610": 542
   },
   "TweetsCountHistory": {
     "20210204": 505,
@@ -846,20 +848,22 @@
     "20220531": 1168,
     "20220601": 1168,
     "20220602": 1169,
-    "20220603": 1169
+    "20220603": 1169,
+    "20220609": 1172,
+    "20220610": 1172
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0651051865992102,
+    "WeeklyGrowth": -0.0355859175189603746801881557,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 542.010392243838
+        "X": 20220530.0,
+        "Y": 541.986641902993070934098728
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 541.65751536658
+        "X": 20220610.0,
+        "Y": 541.793770983641688691824026
       }
     }
   }

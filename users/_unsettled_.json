@@ -2,8 +2,8 @@
   "PublicName": "Nicola",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1314510430786777089/1F3KM1HM_normal.jpg",
   "Login": "_unsettled_",
-  "CurrentFollowersCount": 2003,
-  "CurrentTweetsCout": 4868,
+  "CurrentFollowersCount": 2000,
+  "CurrentTweetsCout": 4873,
   "FollowersCountHistory": {
     "20210206": 1085,
     "20210207": 1095,
@@ -432,7 +432,9 @@
     "20220530": 2003,
     "20220531": 2003,
     "20220601": 2003,
-    "20220603": 2003
+    "20220603": 2003,
+    "20220609": 2000,
+    "20220610": 2000
   },
   "TweetsCountHistory": {
     "20210206": 3167,
@@ -862,20 +864,22 @@
     "20220530": 4875,
     "20220531": 4875,
     "20220601": 4867,
-    "20220603": 4868
+    "20220603": 4868,
+    "20220609": 4873,
+    "20220610": 4873
   },
   "LangId": "it",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0887744342080858732581217607,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220527.0,
-        "Y": 2003.0
+        "X": 20220529.0,
+        "Y": 2003.11509482982592881546606
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 2003.0
+        "X": 20220610.0,
+        "Y": 2001.33684073785398804653299
       }
     }
   }

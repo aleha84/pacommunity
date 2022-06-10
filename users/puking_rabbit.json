@@ -2,8 +2,8 @@
   "PublicName": "puking rabbit",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1141547685360484353/osZe6BF5_normal.jpg",
   "Login": "puking_rabbit",
-  "CurrentFollowersCount": 7958,
-  "CurrentTweetsCout": 11209,
+  "CurrentFollowersCount": 8085,
+  "CurrentTweetsCout": 11212,
   "FollowersCountHistory": {
     "20201225": 6232,
     "20201226": 6244,
@@ -472,7 +472,9 @@
     "20220531": 7954,
     "20220601": 7955,
     "20220602": 7955,
-    "20220603": 7958
+    "20220603": 7958,
+    "20220609": 8080,
+    "20220610": 8085
   },
   "TweetsCountHistory": {
     "20201225": 10843,
@@ -942,20 +944,22 @@
     "20220531": 11209,
     "20220601": 11209,
     "20220602": 11209,
-    "20220603": 11209
+    "20220603": 11209,
+    "20220609": 11212,
+    "20220610": 11212
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0594414291591571,
+    "WeeklyGrowth": 0.8689694485929125514142999161,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220528.0,
-        "Y": 7951.37595843102
+        "X": 20220530.0,
+        "Y": 7944.788913493820987047907
       },
       "End": {
-        "X": 20220603.0,
-        "Y": 7956.10236993853
+        "X": 20220610.0,
+        "Y": 8013.826701907279091444642
       }
     }
   }
