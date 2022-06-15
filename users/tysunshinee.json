@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1446559143691751461/5kibOru9_normal.png",
   "Login": "tysunshinee",
   "CurrentFollowersCount": 196,
-  "CurrentTweetsCout": 1449,
+  "CurrentTweetsCout": 1450,
   "FollowersCountHistory": {
     "20210914": 210,
     "20210915": 210,
@@ -252,7 +252,8 @@
     "20220602": 196,
     "20220603": 196,
     "20220609": 196,
-    "20220610": 196
+    "20220610": 196,
+    "20220615": 196
   },
   "TweetsCountHistory": {
     "20210914": 1201,
@@ -502,20 +503,21 @@
     "20220602": 1448,
     "20220603": 1448,
     "20220609": 1449,
-    "20220610": 1449
+    "20220610": 1449,
+    "20220615": 1450
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.273369751128105,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220530.0,
-        "Y": 196.503535966855
+        "X": 20220531.0,
+        "Y": 196.0
       },
       "End": {
-        "X": 20220610.0,
-        "Y": 195.966354739624
+        "X": 20220615.0,
+        "Y": 196.0
       }
     }
   }

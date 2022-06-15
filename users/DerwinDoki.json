@@ -2,8 +2,8 @@
   "PublicName": "doki (ドキ)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1301322458134347776/56s98KBJ_normal.jpg",
   "Login": "DerwinDoki",
-  "CurrentFollowersCount": 273,
-  "CurrentTweetsCout": 1402,
+  "CurrentFollowersCount": 271,
+  "CurrentTweetsCout": 1403,
   "FollowersCountHistory": {
     "20210112": 214,
     "20210113": 216,
@@ -456,7 +456,8 @@
     "20220602": 273,
     "20220603": 273,
     "20220609": 273,
-    "20220610": 273
+    "20220610": 273,
+    "20220615": 271
   },
   "TweetsCountHistory": {
     "20210112": 941,
@@ -910,20 +911,21 @@
     "20220602": 1402,
     "20220603": 1402,
     "20220609": 1402,
-    "20220610": 1402
+    "20220610": 1402,
+    "20220615": 1403
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2325966326801988458356601335,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220530.0,
-        "Y": 273.0
+        "X": 20220531.0,
+        "Y": 273.20493422909727318502444
       },
       "End": {
-        "X": 20220610.0,
-        "Y": 273.0
+        "X": 20220615.0,
+        "Y": 272.56946875176424095419984
       }
     }
   }

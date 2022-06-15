@@ -2,8 +2,8 @@
   "PublicName": "Hunter",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1477788970587152388/fGLzP_Jz_normal.jpg",
   "Login": "_bigjerk",
-  "CurrentFollowersCount": 22472,
-  "CurrentTweetsCout": 2913,
+  "CurrentFollowersCount": 22518,
+  "CurrentTweetsCout": 2918,
   "FollowersCountHistory": {
     "20210108": 20268,
     "20210109": 20268,
@@ -482,7 +482,8 @@
     "20220603": 22486,
     "20220605": 22484,
     "20220609": 22480,
-    "20220610": 22472
+    "20220610": 22472,
+    "20220616": 22518
   },
   "TweetsCountHistory": {
     "20210108": 2817,
@@ -962,20 +963,21 @@
     "20220603": 2909,
     "20220605": 2909,
     "20220609": 2909,
-    "20220610": 2913
+    "20220610": 2913,
+    "20220616": 2918
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0135390365306052,
+    "WeeklyGrowth": 0.0899365812663619444832863696,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220531.0,
-        "Y": 22485.3013854735
+        "X": 20220601.0,
+        "Y": 22480.204769736842104644225
       },
       "End": {
-        "X": 20220610.0,
-        "Y": 22482.2570923049
+        "X": 20220616.0,
+        "Y": 22500.422697368421053679006
       }
     }
   }

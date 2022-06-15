@@ -2,8 +2,8 @@
   "PublicName": "Marco Vale",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1510336586747101199/rDh5akeC_normal.jpg",
   "Login": "MarcoValeKaz",
-  "CurrentFollowersCount": 5409,
-  "CurrentTweetsCout": 10500,
+  "CurrentFollowersCount": 5403,
+  "CurrentTweetsCout": 10520,
   "FollowersCountHistory": {
     "20210124": 5035,
     "20210125": 5037,
@@ -448,7 +448,8 @@
     "20220603": 5408,
     "20220606": 5410,
     "20220609": 5410,
-    "20220610": 5409
+    "20220610": 5409,
+    "20220615": 5403
   },
   "TweetsCountHistory": {
     "20210124": 8332,
@@ -894,20 +895,21 @@
     "20220603": 10465,
     "20220606": 10482,
     "20220609": 10497,
-    "20220610": 10500
+    "20220610": 10500,
+    "20220615": 10520
   },
   "LangId": "pt",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0506433787946381,
+    "WeeklyGrowth": -0.046099470516714155193871682,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220530.0,
-        "Y": 5406.99901953918
+        "X": 20220531.0,
+        "Y": 5410.65711258573579435107321
       },
       "End": {
-        "X": 20220610.0,
-        "Y": 5409.73730653407
+        "X": 20220615.0,
+        "Y": 5408.16282830535883566454256
       }
     }
   }

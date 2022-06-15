@@ -2,8 +2,8 @@
   "PublicName": "ONIONLABS",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1478434776520531968/OuA00xhi_normal.jpg",
   "Login": "instant_onion",
-  "CurrentFollowersCount": 49637,
-  "CurrentTweetsCout": 21932,
+  "CurrentFollowersCount": 49623,
+  "CurrentTweetsCout": 21935,
   "FollowersCountHistory": {
     "20210111": 26882,
     "20210112": 26880,
@@ -479,7 +479,8 @@
     "20220603": 49594,
     "20220605": 49588,
     "20220609": 49640,
-    "20220610": 49637
+    "20220610": 49637,
+    "20220616": 49623
   },
   "TweetsCountHistory": {
     "20210111": 17327,
@@ -956,20 +957,21 @@
     "20220603": 21904,
     "20220605": 21908,
     "20220609": 21930,
-    "20220610": 21932
+    "20220610": 21932,
+    "20220616": 21935
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.034098934768899,
+    "WeeklyGrowth": 0.0938483458157409563712990505,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220531.0,
-        "Y": 49592.8511365681
+        "X": 20220601.0,
+        "Y": 49592.712993421052630157320
       },
       "End": {
-        "X": 20220610.0,
-        "Y": 49609.7617705272
+        "X": 20220616.0,
+        "Y": 49639.254934210526318195308
       }
     }
   }

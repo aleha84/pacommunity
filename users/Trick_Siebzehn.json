@@ -2,8 +2,8 @@
   "PublicName": "Fabian",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1011242423274569728/6CASLid3_normal.jpg",
   "Login": "Trick_Siebzehn",
-  "CurrentFollowersCount": 8373,
-  "CurrentTweetsCout": 711,
+  "CurrentFollowersCount": 8360,
+  "CurrentTweetsCout": 712,
   "FollowersCountHistory": {
     "20201217": 2537,
     "20201218": 2563,
@@ -482,7 +482,8 @@
     "20220602": 8378,
     "20220603": 8378,
     "20220609": 8375,
-    "20220610": 8373
+    "20220610": 8373,
+    "20220615": 8360
   },
   "TweetsCountHistory": {
     "20201217": 345,
@@ -962,20 +963,21 @@
     "20220602": 710,
     "20220603": 710,
     "20220609": 711,
-    "20220610": 711
+    "20220610": 711,
+    "20220615": 712
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.047507624427656,
+    "WeeklyGrowth": -0.0278871392845382858092565538,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220530.0,
-        "Y": 8372.18658475606
+        "X": 20220531.0,
+        "Y": 8375.08903065545079883321545
       },
       "End": {
-        "X": 20220610.0,
-        "Y": 8376.16401171512
+        "X": 20220615.0,
+        "Y": 8372.75345791226782589504212
       }
     }
   }

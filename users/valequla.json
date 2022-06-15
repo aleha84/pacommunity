@@ -2,7 +2,7 @@
   "PublicName": "ValenTiny",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1500537756883337222/_eAIiQLT_normal.jpg",
   "Login": "valequla",
-  "CurrentFollowersCount": 12,
+  "CurrentFollowersCount": 11,
   "CurrentTweetsCout": 44,
   "FollowersCountHistory": {
     "20210214": 7,
@@ -423,7 +423,8 @@
     "20220602": 12,
     "20220603": 12,
     "20220609": 12,
-    "20220610": 12
+    "20220610": 12,
+    "20220615": 11
   },
   "TweetsCountHistory": {
     "20210214": 17,
@@ -844,20 +845,21 @@
     "20220602": 44,
     "20220603": 44,
     "20220609": 44,
-    "20220610": 44
+    "20220610": 44,
+    "20220615": 44
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -2.6253551086667506114604315571,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220530.0,
-        "Y": 12.0
+        "X": 20220531.0,
+        "Y": 12.102467114548636592513500
       },
       "End": {
-        "X": 20220610.0,
-        "Y": 12.0
+        "X": 20220615.0,
+        "Y": 11.784734375882120477099539
       }
     }
   }

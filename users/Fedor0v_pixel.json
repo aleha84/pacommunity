@@ -2,7 +2,7 @@
   "PublicName": "Fedorov 🐀",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1205618439727058947/GehbCQet_normal.jpg",
   "Login": "Fedor0v_pixel",
-  "CurrentFollowersCount": 284,
+  "CurrentFollowersCount": 283,
   "CurrentTweetsCout": 123,
   "FollowersCountHistory": {
     "20210202": 199,
@@ -435,7 +435,8 @@
     "20220602": 284,
     "20220603": 284,
     "20220609": 284,
-    "20220610": 284
+    "20220610": 284,
+    "20220615": 283
   },
   "TweetsCountHistory": {
     "20210202": 70,
@@ -868,20 +869,21 @@
     "20220602": 122,
     "20220603": 122,
     "20220609": 123,
-    "20220610": 123
+    "20220610": 123,
+    "20220615": 123
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1118373739916900926819305446,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220530.0,
-        "Y": 284.0
+        "X": 20220531.0,
+        "Y": 284.102467114548636592512218
       },
       "End": {
-        "X": 20220610.0,
-        "Y": 284.0
+        "X": 20220615.0,
+        "Y": 283.784734375882120477099917
       }
     }
   }

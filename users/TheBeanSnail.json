@@ -2,8 +2,8 @@
   "PublicName": "beansnail",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1471848346528661509/4duu4Dvd_normal.jpg",
   "Login": "TheBeanSnail",
-  "CurrentFollowersCount": 407,
-  "CurrentTweetsCout": 1009,
+  "CurrentFollowersCount": 409,
+  "CurrentTweetsCout": 1010,
   "FollowersCountHistory": {
     "20210913": 317,
     "20210914": 316,
@@ -256,7 +256,8 @@
     "20220603": 407,
     "20220606": 407,
     "20220609": 407,
-    "20220610": 407
+    "20220610": 407,
+    "20220615": 409
   },
   "TweetsCountHistory": {
     "20210913": 739,
@@ -510,20 +511,21 @@
     "20220603": 1002,
     "20220606": 1006,
     "20220609": 1009,
-    "20220610": 1009
+    "20220610": 1009,
+    "20220615": 1010
   },
   "LangId": "rs",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.130612244897959,
+    "WeeklyGrowth": 0.1496844085183587519999392984,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220530.0,
-        "Y": 407.50402689264
+        "X": 20220531.0,
+        "Y": 406.81140913399877321007736
       },
       "End": {
-        "X": 20220610.0,
-        "Y": 406.971776735066
+        "X": 20220615.0,
+        "Y": 407.42034238554619974386449
       }
     }
   }

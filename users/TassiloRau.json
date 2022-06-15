@@ -2,8 +2,8 @@
   "PublicName": "Tassilo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1098511260461789185/5oyO0ff1_normal.png",
   "Login": "TassiloRau",
-  "CurrentFollowersCount": 768,
-  "CurrentTweetsCout": 4206,
+  "CurrentFollowersCount": 767,
+  "CurrentTweetsCout": 4205,
   "FollowersCountHistory": {
     "20201217": 805,
     "20201218": 805,
@@ -482,7 +482,8 @@
     "20220602": 768,
     "20220603": 768,
     "20220609": 768,
-    "20220610": 768
+    "20220610": 768,
+    "20220615": 767
   },
   "TweetsCountHistory": {
     "20201217": 4223,
@@ -962,20 +963,21 @@
     "20220602": 4206,
     "20220603": 4206,
     "20220609": 4206,
-    "20220610": 4206
+    "20220610": 4206,
+    "20220615": 4205
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0413659312747829001795172825,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220530.0,
-        "Y": 768.0
+        "X": 20220531.0,
+        "Y": 768.102467114548636592550664
       },
       "End": {
-        "X": 20220610.0,
-        "Y": 768.0
+        "X": 20220615.0,
+        "Y": 767.784734375882120477088569
       }
     }
   }
