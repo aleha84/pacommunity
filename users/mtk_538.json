@@ -2,7 +2,7 @@
   "PublicName": "mtk",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1346165522463936516/XkeltP59_normal.png",
   "Login": "mtk_538",
-  "CurrentFollowersCount": 92,
+  "CurrentFollowersCount": 90,
   "CurrentTweetsCout": 76,
   "FollowersCountHistory": {
     "20210120": 87,
@@ -471,7 +471,8 @@
     "20220605": 91,
     "20220609": 90,
     "20220610": 90,
-    "20220616": 92
+    "20220616": 92,
+    "20220617": 90
   },
   "TweetsCountHistory": {
     "20210120": 76,
@@ -940,20 +941,21 @@
     "20220605": 76,
     "20220609": 76,
     "20220610": 76,
-    "20220616": 76
+    "20220616": 76,
+    "20220617": 76
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3398493787553356632707129572,
+    "WeeklyGrowth": -0.1757675181626435084193703024,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220601.0,
-        "Y": 90.74259868421052630635598
+        "X": 20220602.0,
+        "Y": 90.78723404255319147480172
       },
       "End": {
-        "X": 20220616.0,
-        "Y": 91.05098684210526317385912
+        "X": 20220617.0,
+        "Y": 90.62765957446808512367296
       }
     }
   }
