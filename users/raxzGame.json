@@ -2,8 +2,8 @@
   "PublicName": "raxz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1387946691572211718/690gsQaH_normal.png",
   "Login": "raxzGame",
-  "CurrentFollowersCount": 230,
-  "CurrentTweetsCout": 468,
+  "CurrentFollowersCount": 229,
+  "CurrentTweetsCout": 470,
   "FollowersCountHistory": {
     "20210106": 178,
     "20210107": 178,
@@ -463,7 +463,8 @@
     "20220603": 230,
     "20220609": 230,
     "20220610": 230,
-    "20220615": 230
+    "20220615": 230,
+    "20220616": 229
   },
   "TweetsCountHistory": {
     "20210106": 427,
@@ -924,20 +925,21 @@
     "20220603": 468,
     "20220609": 468,
     "20220610": 468,
-    "20220615": 468
+    "20220615": 468,
+    "20220616": 470
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2287307621091154654670983829,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220531.0,
-        "Y": 230.0
+        "X": 20220601.0,
+        "Y": 230.10275689223057644110275
       },
       "End": {
-        "X": 20220615.0,
-        "Y": 230.0
+        "X": 20220616.0,
+        "Y": 229.57644110275689223057644
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "PixelNovak",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1486944440392601605/v9L9FSkP_normal.png",
   "Login": "pixelnovak",
-  "CurrentFollowersCount": 1367,
+  "CurrentFollowersCount": 1365,
   "CurrentTweetsCout": 2983,
   "FollowersCountHistory": {
     "20201221": 633,
@@ -479,7 +479,8 @@
     "20220603": 1367,
     "20220609": 1366,
     "20220610": 1367,
-    "20220615": 1367
+    "20220615": 1367,
+    "20220616": 1365
   },
   "TweetsCountHistory": {
     "20201221": 822,
@@ -956,20 +957,21 @@
     "20220603": 2968,
     "20220609": 2974,
     "20220610": 2975,
-    "20220615": 2983
+    "20220615": 2983,
+    "20220616": 2983
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0690794212503276059630097166,
+    "WeeklyGrowth": -0.1154664569942431723584264145,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220531.0,
-        "Y": 1366.12849319708688534465907
+        "X": 20220601.0,
+        "Y": 1367.4511278195488721804511
       },
       "End": {
-        "X": 20220615.0,
-        "Y": 1367.07220685372325410532090
+        "X": 20220616.0,
+        "Y": 1365.8721804511278195488722
       }
     }
   }
