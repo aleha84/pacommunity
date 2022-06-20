@@ -2,8 +2,8 @@
   "PublicName": "Dr. Funk",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1497662049983164416/zr-TogPj_normal.jpg",
   "Login": "crrackerjack",
-  "CurrentFollowersCount": 14231,
-  "CurrentTweetsCout": 6264,
+  "CurrentFollowersCount": 14227,
+  "CurrentTweetsCout": 6265,
   "FollowersCountHistory": {
     "20210204": 10371,
     "20210205": 10373,
@@ -459,7 +459,8 @@
     "20220616": 14236,
     "20220617": 14236,
     "20220618": 14235,
-    "20220620": 14231
+    "20220620": 14231,
+    "20220621": 14227
   },
   "TweetsCountHistory": {
     "20210204": 5914,
@@ -916,20 +917,21 @@
     "20220616": 6261,
     "20220617": 6261,
     "20220618": 6263,
-    "20220620": 6264
+    "20220620": 6264,
+    "20220621": 6265
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0466243938828795261779849693,
+    "WeeklyGrowth": -0.0582372066749222853415646291,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220605.0,
-        "Y": 14229.923076923076922783314
+        "X": 20220609.0,
+        "Y": 14239.310043668122269191906
       },
       "End": {
-        "X": 20220620.0,
-        "Y": 14236.557692307692307912515
+        "X": 20220621.0,
+        "Y": 14231.017467248908298106069
       }
     }
   }
