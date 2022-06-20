@@ -2,7 +2,7 @@
   "PublicName": "Karv (moving to Mastodon, link in bio)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1479106465369522184/qTIeNB-O_normal.jpg",
   "Login": "karvisprites",
-  "CurrentFollowersCount": 2026,
+  "CurrentFollowersCount": 2027,
   "CurrentTweetsCout": 3043,
   "FollowersCountHistory": {
     "20201228": 475,
@@ -475,7 +475,8 @@
     "20220615": 2027,
     "20220616": 2026,
     "20220617": 2026,
-    "20220619": 2026
+    "20220619": 2026,
+    "20220620": 2027
   },
   "TweetsCountHistory": {
     "20201228": 484,
@@ -948,20 +949,21 @@
     "20220615": 3034,
     "20220616": 3037,
     "20220617": 3037,
-    "20220619": 3043
+    "20220619": 3043,
+    "20220620": 3043
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1311494955215428147655962264,
+    "WeeklyGrowth": 0.0239531389499814811698849551,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220603.0,
-        "Y": 2024.1025641025641023210806
+        "X": 20220609.0,
+        "Y": 2026.0147058823529412849174
       },
       "End": {
-        "X": 20220619.0,
-        "Y": 2026.7571644042232279098891
+        "X": 20220620.0,
+        "Y": 2026.4999999999999999142513
       }
     }
   }

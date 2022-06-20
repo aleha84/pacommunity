@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1339843434555842563/5Mf39grL_normal.jpg",
   "Login": "Kultuk",
   "CurrentFollowersCount": 178,
-  "CurrentTweetsCout": 5249,
+  "CurrentTweetsCout": 5256,
   "FollowersCountHistory": {
     "20210914": 122,
     "20210915": 122,
@@ -258,7 +258,8 @@
     "20220615": 178,
     "20220616": 178,
     "20220617": 178,
-    "20220619": 178
+    "20220619": 178,
+    "20220620": 178
   },
   "TweetsCountHistory": {
     "20210914": 3788,
@@ -514,20 +515,21 @@
     "20220615": 5247,
     "20220616": 5247,
     "20220617": 5249,
-    "20220619": 5249
+    "20220619": 5249,
+    "20220620": 5256
   },
   "LangId": "il",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.4593081670733458420270359977,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220603.0,
-        "Y": 178.6410256410256411007942
+        "X": 20220609.0,
+        "Y": 178.0
       },
       "End": {
-        "X": 20220619.0,
-        "Y": 177.8205128205128204641920
+        "X": 20220620.0,
+        "Y": 178.0
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "JustFredrik",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1413798145771905026/5KFD1tuB_normal.png",
   "Login": "JstFredrik",
-  "CurrentFollowersCount": 3206,
+  "CurrentFollowersCount": 3205,
   "CurrentTweetsCout": 2536,
   "FollowersCountHistory": {
     "20210125": 2590,
@@ -449,7 +449,8 @@
     "20220615": 3204,
     "20220616": 3205,
     "20220617": 3205,
-    "20220619": 3206
+    "20220619": 3206,
+    "20220620": 3205
   },
   "TweetsCountHistory": {
     "20210125": 1690,
@@ -896,20 +897,21 @@
     "20220615": 2535,
     "20220616": 2535,
     "20220617": 2535,
-    "20220619": 2536
+    "20220619": 2536,
+    "20220620": 2536
   },
   "LangId": "se",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0534759358288770134046634964,
+    "WeeklyGrowth": -0.0596189556593397649583758192,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220603.0,
-        "Y": 3204.1025641025641024074155
+        "X": 20220609.0,
+        "Y": 3206.6390374331550797858005
       },
       "End": {
-        "X": 20220619.0,
-        "Y": 3205.8159879336349925599078
+        "X": 20220620.0,
+        "Y": 3204.7272727272727276112275
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Elias Daler",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1537199137942388740/-uoD7ptE_normal.jpg",
   "Login": "EliasDaler",
-  "CurrentFollowersCount": 2049,
+  "CurrentFollowersCount": 2048,
   "CurrentTweetsCout": 9221,
   "FollowersCountHistory": {
     "20201215": 1969,
@@ -487,7 +487,8 @@
     "20220615": 2043,
     "20220616": 2045,
     "20220617": 2047,
-    "20220619": 2049
+    "20220619": 2049,
+    "20220620": 2048
   },
   "TweetsCountHistory": {
     "20201215": 8429,
@@ -972,20 +973,21 @@
     "20220615": 9222,
     "20220616": 9224,
     "20220617": 9224,
-    "20220619": 9221
+    "20220619": 9221,
+    "20220620": 9221
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0530459422064459740636556702,
+    "WeeklyGrowth": 0.0575034109977887093905321414,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220603.0,
-        "Y": 2047.2307692307692308685322
+        "X": 20220609.0,
+        "Y": 2045.9144385026737970550246
       },
       "End": {
-        "X": 20220619.0,
-        "Y": 2046.1447963800904976733025
+        "X": 20220620.0,
+        "Y": 2047.0909090909090907006781
       }
     }
   }
