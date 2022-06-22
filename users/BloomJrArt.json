@@ -2,7 +2,7 @@
   "PublicName": "Bloom Jr.",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1491424431872397320/QhCcb1rr_normal.png",
   "Login": "BloomJrArt",
-  "CurrentFollowersCount": 1762,
+  "CurrentFollowersCount": 1761,
   "CurrentTweetsCout": 9894,
   "FollowersCountHistory": {
     "20210225": 254,
@@ -418,7 +418,8 @@
     "20220617": 1763,
     "20220619": 1762,
     "20220620": 1761,
-    "20220621": 1762
+    "20220621": 1762,
+    "20220622": 1761
   },
   "TweetsCountHistory": {
     "20210225": 300,
@@ -834,20 +835,21 @@
     "20220617": 9872,
     "20220619": 9876,
     "20220620": 9878,
-    "20220621": 9894
+    "20220621": 9894,
+    "20220622": 9894
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1767753972546897479831748558,
+    "WeeklyGrowth": -0.0707279538636116577821258337,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220610.0,
-        "Y": 1759.4896551724137941064542
+        "X": 20220615.0,
+        "Y": 1762.4931506849315070670035
       },
       "End": {
-        "X": 20220621.0,
-        "Y": 1762.5999999999999993940173
+        "X": 20220622.0,
+        "Y": 1761.2465753424657532156764
       }
     }
   }
