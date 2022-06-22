@@ -2,8 +2,8 @@
   "PublicName": "SaKo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1483842493729079297/sCRa5xnb_normal.jpg",
   "Login": "_IAmSaKo_",
-  "CurrentFollowersCount": 8346,
-  "CurrentTweetsCout": 8377,
+  "CurrentFollowersCount": 8343,
+  "CurrentTweetsCout": 8382,
   "FollowersCountHistory": {
     "20210318": 6387,
     "20210319": 6387,
@@ -418,7 +418,8 @@
     "20220618": 8355,
     "20220620": 8351,
     "20220621": 8348,
-    "20220622": 8346
+    "20220622": 8346,
+    "20220623": 8343
   },
   "TweetsCountHistory": {
     "20210318": 6648,
@@ -834,20 +835,21 @@
     "20220618": 8337,
     "20220620": 8371,
     "20220621": 8376,
-    "20220622": 8377
+    "20220622": 8377,
+    "20220623": 8382
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1447072683760828420339141392,
+    "WeeklyGrowth": -0.1520355968196284623038439875,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220610.0,
-        "Y": 8341.240469208211141419493
+        "X": 20220616.0,
+        "Y": 8356.910958904109591262314
       },
       "End": {
-        "X": 20220622.0,
-        "Y": 8353.310850439882699211394
+        "X": 20220623.0,
+        "Y": 8344.205479452054792388178
       }
     }
   }

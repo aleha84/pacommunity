@@ -2,8 +2,8 @@
   "PublicName": "Echo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1528065814804545537/SH7zaBPM_normal.jpg",
   "Login": "EchoTheThird",
-  "CurrentFollowersCount": 2046,
-  "CurrentTweetsCout": 26904,
+  "CurrentFollowersCount": 2047,
+  "CurrentTweetsCout": 26905,
   "FollowersCountHistory": {
     "20210914": 2013,
     "20210915": 2012,
@@ -265,7 +265,8 @@
     "20220618": 2045,
     "20220620": 2045,
     "20220621": 2046,
-    "20220622": 2046
+    "20220622": 2046,
+    "20220623": 2047
   },
   "TweetsCountHistory": {
     "20210914": 23798,
@@ -528,20 +529,21 @@
     "20220618": 26856,
     "20220620": 26890,
     "20220621": 26899,
-    "20220622": 26904
+    "20220622": 26904,
+    "20220623": 26905
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0008602212202238011569287866,
+    "WeeklyGrowth": 0.087933954063302427493892572,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220610.0,
-        "Y": 2045.439882697947214079789646
+        "X": 20220616.0,
+        "Y": 2044.6541095890410955758938
       },
       "End": {
-        "X": 20220622.0,
-        "Y": 2045.422287390029325511227972
+        "X": 20220623.0,
+        "Y": 2046.4520547945205482471421
       }
     }
   }

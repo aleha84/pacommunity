@@ -2,8 +2,8 @@
   "PublicName": "Adam",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1491587220272209925/jzZk0YXM_normal.jpg",
   "Login": "Captain_Supreme",
-  "CurrentFollowersCount": 1496,
-  "CurrentTweetsCout": 25099,
+  "CurrentFollowersCount": 1495,
+  "CurrentTweetsCout": 25130,
   "FollowersCountHistory": {
     "20210209": 967,
     "20210210": 968,
@@ -455,7 +455,8 @@
     "20220618": 1496,
     "20220620": 1495,
     "20220621": 1495,
-    "20220622": 1496
+    "20220622": 1496,
+    "20220623": 1495
   },
   "TweetsCountHistory": {
     "20210209": 12516,
@@ -908,20 +909,21 @@
     "20220618": 25052,
     "20220620": 25073,
     "20220621": 25083,
-    "20220622": 25099
+    "20220622": 25099,
+    "20220623": 25130
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0176494120784732133923678831,
+    "WeeklyGrowth": -0.0592895780825430166404252347,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220610.0,
-        "Y": 1495.40175953079178880632245
+        "X": 20220616.0,
+        "Y": 1496.0239726027397261820111
       },
       "End": {
-        "X": 20220622.0,
-        "Y": 1495.66568914956011732982087
+        "X": 20220623.0,
+        "Y": 1495.1369863013698628652692
       }
     }
   }
