@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1516672178581823490/YOMrgnJl_normal.jpg",
   "Login": "MomilloM",
   "CurrentFollowersCount": 49,
-  "CurrentTweetsCout": 1400,
+  "CurrentTweetsCout": 1404,
   "FollowersCountHistory": {
     "20210914": 41,
     "20210915": 39,
@@ -259,7 +259,8 @@
     "20220619": 49,
     "20220620": 49,
     "20220621": 49,
-    "20220622": 49
+    "20220622": 49,
+    "20220623": 49
   },
   "TweetsCountHistory": {
     "20210914": 200,
@@ -516,20 +517,21 @@
     "20220619": 1394,
     "20220620": 1396,
     "20220621": 1398,
-    "20220622": 1400
+    "20220622": 1400,
+    "20220623": 1404
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -1.2119952905325857716068016973,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220615.0,
-        "Y": 49.4486301369863014745823
+        "X": 20220616.0,
+        "Y": 49.0
       },
       "End": {
-        "X": 20220622.0,
-        "Y": 48.8493150684931505844011
+        "X": 20220623.0,
+        "Y": 49.0
       }
     }
   }
