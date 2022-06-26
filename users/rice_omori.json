@@ -2,8 +2,8 @@
   "PublicName": "らいす",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1211007255442640896/MYwHr5xu_normal.jpg",
   "Login": "rice_omori",
-  "CurrentFollowersCount": 4839,
-  "CurrentTweetsCout": 50395,
+  "CurrentFollowersCount": 4842,
+  "CurrentTweetsCout": 50400,
   "FollowersCountHistory": {
     "20201225": 4284,
     "20201226": 4282,
@@ -484,7 +484,8 @@
     "20220622": 4840,
     "20220623": 4839,
     "20220624": 4839,
-    "20220625": 4839
+    "20220625": 4839,
+    "20220626": 4842
   },
   "TweetsCountHistory": {
     "20201225": 50086,
@@ -966,20 +967,21 @@
     "20220622": 50394,
     "20220623": 50395,
     "20220624": 50395,
-    "20220625": 50395
+    "20220625": 50395,
+    "20220626": 50400
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0486908793130159573290809937,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220619.0,
-        "Y": 4841.035714285714285714286
+        "X": 20220620.0,
+        "Y": 4840.0
       },
       "End": {
-        "X": 20220625.0,
-        "Y": 4838.678571428571428571429
+        "X": 20220626.0,
+        "Y": 4840.0
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Yury Kirkevich",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1348961130148978690/1zFF3tAH_normal.png",
   "Login": "YuryKirkevich",
-  "CurrentFollowersCount": 144,
+  "CurrentFollowersCount": 143,
   "CurrentTweetsCout": 140,
   "FollowersCountHistory": {
     "20210101": 63,
@@ -477,7 +477,8 @@
     "20220622": 144,
     "20220623": 144,
     "20220624": 144,
-    "20220625": 144
+    "20220625": 144,
+    "20220626": 143
   },
   "TweetsCountHistory": {
     "20210101": 65,
@@ -952,20 +953,21 @@
     "20220622": 140,
     "20220623": 140,
     "20220624": 140,
-    "20220625": 140
+    "20220625": 140,
+    "20220626": 140
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.445875650235323259846450246,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220619.0,
-        "Y": 144.0
+        "X": 20220620.0,
+        "Y": 144.1785714285714285714286
       },
       "End": {
-        "X": 20220625.0,
-        "Y": 144.0
+        "X": 20220626.0,
+        "Y": 143.5357142857142857142857
       }
     }
   }
