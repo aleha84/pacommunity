@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1394196181358632962/-XwqC_iR_normal.png",
   "Login": "JoshR691",
   "CurrentFollowersCount": 311,
-  "CurrentTweetsCout": 7028,
+  "CurrentTweetsCout": 7029,
   "FollowersCountHistory": {
     "20210120": 199,
     "20210121": 197,
@@ -482,7 +482,8 @@
     "20220627": 311,
     "20220628": 311,
     "20220629": 311,
-    "20220630": 311
+    "20220630": 311,
+    "20220701": 311
   },
   "TweetsCountHistory": {
     "20210120": 6156,
@@ -962,20 +963,21 @@
     "20220627": 7018,
     "20220628": 7027,
     "20220629": 7028,
-    "20220630": 7028
+    "20220630": 7028,
+    "20220701": 7029
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1929841973511541116788893385,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220623.0,
-        "Y": 310.5513698630136985253835
+        "X": 20220624.0,
+        "Y": 311.0
       },
       "End": {
-        "X": 20220630.0,
-        "Y": 311.1506849315068494156318
+        "X": 20220701.0,
+        "Y": 311.0
       }
     }
   }
