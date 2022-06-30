@@ -2,7 +2,7 @@
   "PublicName": "Arkhon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1410730536293867520/XLGXE6af_normal.jpg",
   "Login": "shurita",
-  "CurrentFollowersCount": 907,
+  "CurrentFollowersCount": 905,
   "CurrentTweetsCout": 688,
   "FollowersCountHistory": {
     "20210708": 799,
@@ -318,7 +318,8 @@
     "20220626": 906,
     "20220627": 907,
     "20220628": 907,
-    "20220629": 907
+    "20220629": 906,
+    "20220630": 905
   },
   "TweetsCountHistory": {
     "20210708": 591,
@@ -634,20 +635,21 @@
     "20220626": 688,
     "20220627": 688,
     "20220628": 688,
-    "20220629": 688
+    "20220629": 688,
+    "20220630": 688
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1419446415897799858055453062,
+    "WeeklyGrowth": -0.0472850500433446292064023928,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220623.0,
-        "Y": 905.7857142857142857142857
+        "X": 20220624.0,
+        "Y": 906.3571428571428571428572
       },
       "End": {
-        "X": 20220629.0,
-        "Y": 907.0714285714285714285715
+        "X": 20220630.0,
+        "Y": 905.9285714285714285714286
       }
     }
   }
