@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/898852525532631040/xWC1GZNT_normal.jpg",
   "Login": "neet_dot",
   "CurrentFollowersCount": 1810,
-  "CurrentTweetsCout": 5079,
+  "CurrentTweetsCout": 5081,
   "FollowersCountHistory": {
     "20201231": 1239,
     "20210101": 1242,
@@ -483,7 +483,8 @@
     "20220627": 1810,
     "20220628": 1810,
     "20220629": 1810,
-    "20220630": 1810
+    "20220630": 1810,
+    "20220701": 1810
   },
   "TweetsCountHistory": {
     "20201231": 4189,
@@ -964,20 +965,21 @@
     "20220627": 5074,
     "20220628": 5075,
     "20220629": 5077,
-    "20220630": 5079
+    "20220630": 5079,
+    "20220701": 5081
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0355260820652495707265107469,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220624.0,
-        "Y": 1809.5357142857142857142857
+        "X": 20220625.0,
+        "Y": 1810.0
       },
       "End": {
-        "X": 20220630.0,
-        "Y": 1810.1785714285714285714286
+        "X": 20220701.0,
+        "Y": 1810.0
       }
     }
   }
