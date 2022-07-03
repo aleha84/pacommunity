@@ -2,7 +2,7 @@
   "PublicName": "TNR",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1536664192861601792/gqvufb2J_normal.jpg",
   "Login": "timesnewredux",
-  "CurrentFollowersCount": 625,
+  "CurrentFollowersCount": 623,
   "CurrentTweetsCout": 131,
   "FollowersCountHistory": {
     "20210828": 301,
@@ -286,7 +286,8 @@
     "20220628": 625,
     "20220629": 624,
     "20220630": 624,
-    "20220701": 625
+    "20220701": 625,
+    "20220703": 623
   },
   "TweetsCountHistory": {
     "20210828": 90,
@@ -570,20 +571,21 @@
     "20220628": 131,
     "20220629": 131,
     "20220630": 131,
-    "20220701": 131
+    "20220701": 131,
+    "20220703": 131
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1100007650429147721516104034,
+    "WeeklyGrowth": -0.0712761809072343231799711301,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220625.0,
-        "Y": 624.31110154905335628227195
+        "X": 20220626.0,
+        "Y": 624.41948070891984537887783
       },
       "End": {
-        "X": 20220701.0,
-        "Y": 624.99784853700516351118761
+        "X": 20220703.0,
+        "Y": 623.97441835022974254421640
       }
     }
   }

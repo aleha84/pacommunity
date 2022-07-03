@@ -2,7 +2,7 @@
   "PublicName": "Ii_Ethanol",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1361188561266032640/1ZEAJ5qc_normal.jpg",
   "Login": "Ii_Ethanol",
-  "CurrentFollowersCount": 1911,
+  "CurrentFollowersCount": 1910,
   "CurrentTweetsCout": 29,
   "FollowersCountHistory": {
     "20211101": 1169,
@@ -222,7 +222,8 @@
     "20220628": 1911,
     "20220629": 1910,
     "20220630": 1912,
-    "20220701": 1911
+    "20220701": 1911,
+    "20220703": 1910
   },
   "TweetsCountHistory": {
     "20211101": 17,
@@ -442,20 +443,21 @@
     "20220628": 29,
     "20220629": 29,
     "20220630": 29,
-    "20220701": 29
+    "20220701": 29,
+    "20220703": 29
   },
   "LangId": "cn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0025669058955411155840572003,
+    "WeeklyGrowth": -0.0385664687579547811697046621,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220625.0,
-        "Y": 1910.991609294320137693631669
+        "X": 20220626.0,
+        "Y": 1911.22153745168113193664829
       },
       "End": {
-        "X": 20220701.0,
-        "Y": 1911.040662650602409638554216
+        "X": 20220703.0,
+        "Y": 1910.48444679454452629557775
       }
     }
   }

@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1469685474591662082/JymSnonP_normal.jpg",
   "Login": "TJG_art",
   "CurrentFollowersCount": 270,
-  "CurrentTweetsCout": 9750,
+  "CurrentTweetsCout": 9772,
   "FollowersCountHistory": {
     "20210215": 167,
     "20210216": 167,
@@ -458,7 +458,8 @@
     "20220629": 270,
     "20220630": 270,
     "20220701": 270,
-    "20220702": 270
+    "20220702": 270,
+    "20220703": 270
   },
   "TweetsCountHistory": {
     "20210215": 1567,
@@ -914,20 +915,21 @@
     "20220629": 9709,
     "20220630": 9733,
     "20220701": 9739,
-    "20220702": 9750
+    "20220702": 9750,
+    "20220703": 9772
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1752986613965737206483993485,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220625.0,
-        "Y": 269.56787446714684698008003
+        "X": 20220627.0,
+        "Y": 270.0
       },
       "End": {
-        "X": 20220702.0,
-        "Y": 270.04042334264295163718700
+        "X": 20220703.0,
+        "Y": 270.0
       }
     }
   }

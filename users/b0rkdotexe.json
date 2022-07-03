@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1348440676241973254/cdRBV2cX_normal.jpg",
   "Login": "b0rkdotexe",
   "CurrentFollowersCount": 482,
-  "CurrentTweetsCout": 204,
+  "CurrentTweetsCout": 207,
   "FollowersCountHistory": {
     "20210207": 71,
     "20210208": 73,
@@ -466,7 +466,8 @@
     "20220629": 482,
     "20220630": 482,
     "20220701": 482,
-    "20220702": 482
+    "20220702": 482,
+    "20220703": 482
   },
   "TweetsCountHistory": {
     "20210207": 21,
@@ -930,20 +931,21 @@
     "20220629": 204,
     "20220630": 204,
     "20220701": 204,
-    "20220702": 204
+    "20220702": 204,
+    "20220703": 207
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0489976290695438256689028116,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220625.0,
-        "Y": 482.216062766426576509959984
+        "X": 20220627.0,
+        "Y": 482.0
       },
       "End": {
-        "X": 20220702.0,
-        "Y": 481.979788328678524181406502
+        "X": 20220703.0,
+        "Y": 482.0
       }
     }
   }

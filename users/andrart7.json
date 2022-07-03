@@ -2,7 +2,7 @@
   "PublicName": "andr.art",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1418166830942859270/0zWGmZpD_normal.jpg",
   "Login": "andrart7",
-  "CurrentFollowersCount": 823,
+  "CurrentFollowersCount": 822,
   "CurrentTweetsCout": 464,
   "FollowersCountHistory": {
     "20201221": 259,
@@ -493,7 +493,8 @@
     "20220628": 823,
     "20220629": 823,
     "20220630": 823,
-    "20220701": 823
+    "20220701": 823,
+    "20220703": 822
   },
   "TweetsCountHistory": {
     "20201221": 183,
@@ -984,20 +985,21 @@
     "20220628": 462,
     "20220629": 462,
     "20220630": 462,
-    "20220701": 464
+    "20220701": 464,
+    "20220703": 464
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0643123759928052727412797541,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220625.0,
-        "Y": 823.0
+        "X": 20220626.0,
+        "Y": 823.01622784625483188592756
       },
       "End": {
-        "X": 20220701.0,
-        "Y": 823.0
+        "X": 20220703.0,
+        "Y": 822.48692655532054554941546
       }
     }
   }

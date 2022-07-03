@@ -2,8 +2,8 @@
   "PublicName": "n8-bit",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1424697529497800716/u2xxwnxT_normal.jpg",
   "Login": "moist_pixels",
-  "CurrentFollowersCount": 1807,
-  "CurrentTweetsCout": 5112,
+  "CurrentFollowersCount": 1805,
+  "CurrentTweetsCout": 5122,
   "FollowersCountHistory": {
     "20210208": 911,
     "20210209": 911,
@@ -464,7 +464,8 @@
     "20220629": 1806,
     "20220630": 1806,
     "20220701": 1807,
-    "20220702": 1807
+    "20220702": 1807,
+    "20220703": 1805
   },
   "TweetsCountHistory": {
     "20210208": 4375,
@@ -926,20 +927,21 @@
     "20220629": 5107,
     "20220630": 5113,
     "20220701": 5113,
-    "20220702": 5112
+    "20220702": 5112,
+    "20220703": 5122
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0680862714813824750219190904,
+    "WeeklyGrowth": 0.0476895688749427112619517057,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220625.0,
-        "Y": 1805.76192488607967073559097
+        "X": 20220627.0,
+        "Y": 1805.48327578765645230902028
       },
       "End": {
-        "X": 20220702.0,
-        "Y": 1806.99140085256504482850397
+        "X": 20220703.0,
+        "Y": 1806.34430297798877859300820
       }
     }
   }
