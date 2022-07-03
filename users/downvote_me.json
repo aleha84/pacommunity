@@ -2,7 +2,7 @@
   "PublicName": "Downvote",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1515279006941474816/4lMNge10_normal.jpg",
   "Login": "downvote_me",
-  "CurrentFollowersCount": 6476,
+  "CurrentFollowersCount": 6481,
   "CurrentTweetsCout": 655,
   "FollowersCountHistory": {
     "20210916": 1656,
@@ -273,7 +273,8 @@
     "20220630": 6426,
     "20220701": 6450,
     "20220702": 6458,
-    "20220703": 6476
+    "20220703": 6476,
+    "20220704": 6481
   },
   "TweetsCountHistory": {
     "20210916": 266,
@@ -544,20 +545,21 @@
     "20220630": 655,
     "20220701": 655,
     "20220702": 655,
-    "20220703": 655
+    "20220703": 655,
+    "20220704": 655
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.9464532819267491568635362109,
+    "WeeklyGrowth": 0.884632132146283809893634108,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220627.0,
-        "Y": 6401.976154510142425550281
+        "X": 20220628.0,
+        "Y": 6410.912386706948640483383
       },
       "End": {
-        "X": 20220703.0,
-        "Y": 6462.567867932671558049202
+        "X": 20220704.0,
+        "Y": 6467.625377643504531722054
       }
     }
   }

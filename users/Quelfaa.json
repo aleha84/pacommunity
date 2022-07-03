@@ -2,7 +2,7 @@
   "PublicName": "Quelfa",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1306802404655013890/qTN-8NNZ_normal.jpg",
   "Login": "Quelfaa",
-  "CurrentFollowersCount": 11,
+  "CurrentFollowersCount": 10,
   "CurrentTweetsCout": 109,
   "FollowersCountHistory": {
     "20210219": 15,
@@ -455,7 +455,8 @@
     "20220630": 11,
     "20220701": 11,
     "20220702": 11,
-    "20220703": 11
+    "20220703": 11,
+    "20220704": 10
   },
   "TweetsCountHistory": {
     "20210219": 101,
@@ -908,20 +909,21 @@
     "20220630": 109,
     "20220701": 109,
     "20220702": 109,
-    "20220703": 109
+    "20220703": 109,
+    "20220704": 109
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -2.4577874033495683192379710129,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220627.0,
-        "Y": 11.0
+        "X": 20220628.0,
+        "Y": 11.010250323694432455761761
       },
       "End": {
-        "X": 20220703.0,
-        "Y": 11.0
+        "X": 20220704.0,
+        "Y": 10.739641778161415623651273
       }
     }
   }
