@@ -2,7 +2,7 @@
   "PublicName": "Arthur Camilo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1528791526461128705/3JpwkRY3_normal.jpg",
   "Login": "opacamilos",
-  "CurrentFollowersCount": 265,
+  "CurrentFollowersCount": 264,
   "CurrentTweetsCout": 732,
   "FollowersCountHistory": {
     "20210214": 263,
@@ -443,7 +443,8 @@
     "20220703": 265,
     "20220704": 265,
     "20220705": 265,
-    "20220706": 265
+    "20220706": 264,
+    "20220707": 264
   },
   "TweetsCountHistory": {
     "20210214": 394,
@@ -884,20 +885,21 @@
     "20220703": 728,
     "20220704": 730,
     "20220705": 730,
-    "20220706": 732
+    "20220706": 732,
+    "20220707": 732
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1560817998633392477822621968,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220629.0,
-        "Y": 265.0
+        "X": 20220630.0,
+        "Y": 265.05660943690719174176539
       },
       "End": {
-        "X": 20220706.0,
-        "Y": 265.0
+        "X": 20220707.0,
+        "Y": 264.64290431024132548882470
       }
     }
   }
