@@ -2,7 +2,7 @@
   "PublicName": "Patpixels",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1536056380724916225/mWPqeMNE_normal.jpg",
   "Login": "patpixels",
-  "CurrentFollowersCount": 3303,
+  "CurrentFollowersCount": 3302,
   "CurrentTweetsCout": 1561,
   "FollowersCountHistory": {
     "20210914": 2622,
@@ -275,7 +275,8 @@
     "20220704": 3307,
     "20220705": 3306,
     "20220706": 3304,
-    "20220707": 3303
+    "20220707": 3303,
+    "20220708": 3302
   },
   "TweetsCountHistory": {
     "20210914": 495,
@@ -548,20 +549,21 @@
     "20220704": 1561,
     "20220705": 1561,
     "20220706": 1561,
-    "20220707": 1561
+    "20220707": 1561,
+    "20220708": 1561
   },
   "LangId": "th",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.005664143378730817437342162,
+    "WeeklyGrowth": -0.1223155940609395358740412091,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220630.0,
-        "Y": 3305.130808020170488653151087
+        "X": 20220701.0,
+        "Y": 3307.086065573770489063115
       },
       "End": {
-        "X": 20220707.0,
-        "Y": 3305.318015367991355505060424
+        "X": 20220708.0,
+        "Y": 3303.040983606557379281905
       }
     }
   }
