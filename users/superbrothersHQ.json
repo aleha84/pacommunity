@@ -2,7 +2,7 @@
   "PublicName": "superbrothers",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1542679100564840450/jGkN0axM_normal.jpg",
   "Login": "superbrothersHQ",
-  "CurrentFollowersCount": 3935,
+  "CurrentFollowersCount": 3936,
   "CurrentTweetsCout": 98,
   "FollowersCountHistory": {
     "20210718": 3795,
@@ -327,7 +327,8 @@
     "20220707": 3937,
     "20220708": 3937,
     "20220709": 3937,
-    "20220710": 3935
+    "20220710": 3935,
+    "20220711": 3936
   },
   "TweetsCountHistory": {
     "20210718": 89,
@@ -652,20 +653,21 @@
     "20220707": 98,
     "20220708": 98,
     "20220709": 98,
-    "20220710": 98
+    "20220710": 98,
+    "20220711": 98
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0108886993448632560840614848,
+    "WeeklyGrowth": -0.0163302336130641868904498981,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220704.0,
-        "Y": 3935.9285714285714285714286
+        "X": 20220705.0,
+        "Y": 3936.6071428571428571428571
       },
       "End": {
-        "X": 20220710.0,
-        "Y": 3936.3571428571428571428572
+        "X": 20220711.0,
+        "Y": 3935.9642857142857142857143
       }
     }
   }

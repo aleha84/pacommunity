@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1482428516943683586/kF14AImR_normal.jpg",
   "Login": "Angus_Beer",
   "CurrentFollowersCount": 646,
-  "CurrentTweetsCout": 9723,
+  "CurrentTweetsCout": 9724,
   "FollowersCountHistory": {
     "20210127": 572,
     "20210128": 573,
@@ -484,7 +484,8 @@
     "20220707": 646,
     "20220708": 646,
     "20220709": 646,
-    "20220710": 646
+    "20220710": 646,
+    "20220711": 646
   },
   "TweetsCountHistory": {
     "20210127": 8506,
@@ -966,20 +967,21 @@
     "20220707": 9716,
     "20220708": 9718,
     "20220709": 9720,
-    "20220710": 9723
+    "20220710": 9723,
+    "20220711": 9724
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0994420197779128224960013083,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220704.0,
-        "Y": 646.4642857142857142857144
+        "X": 20220705.0,
+        "Y": 646.0
       },
       "End": {
-        "X": 20220710.0,
-        "Y": 645.8214285714285714285715
+        "X": 20220711.0,
+        "Y": 646.0
       }
     }
   }

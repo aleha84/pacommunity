@@ -2,8 +2,8 @@
   "PublicName": "Markus Rosse",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1318215857529626627/Mdv93LPV_normal.png",
   "Login": "ssero",
-  "CurrentFollowersCount": 1025,
-  "CurrentTweetsCout": 3161,
+  "CurrentFollowersCount": 1024,
+  "CurrentTweetsCout": 3162,
   "FollowersCountHistory": {
     "20210214": 809,
     "20210215": 809,
@@ -446,7 +446,8 @@
     "20220706": 1025,
     "20220707": 1025,
     "20220708": 1025,
-    "20220709": 1025
+    "20220709": 1025,
+    "20220710": 1024
   },
   "TweetsCountHistory": {
     "20210214": 2843,
@@ -890,20 +891,21 @@
     "20220706": 3159,
     "20220707": 3160,
     "20220708": 3160,
-    "20220709": 3161
+    "20220709": 3161,
+    "20220710": 3162
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0627068454973001219299815346,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220703.0,
-        "Y": 1025.0
+        "X": 20220704.0,
+        "Y": 1025.1785714285714285714286
       },
       "End": {
-        "X": 20220709.0,
-        "Y": 1025.0
+        "X": 20220710.0,
+        "Y": 1024.5357142857142857142857
       }
     }
   }
