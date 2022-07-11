@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1309870761918693377/dRXQvZZR_normal.jpg",
   "Login": "Iceztiq",
   "CurrentFollowersCount": 9557,
-  "CurrentTweetsCout": 18218,
+  "CurrentTweetsCout": 18219,
   "FollowersCountHistory": {
     "20210308": 9556,
     "20210309": 9560,
@@ -428,7 +428,8 @@
     "20220707": 9555,
     "20220708": 9554,
     "20220709": 9555,
-    "20220710": 9557
+    "20220710": 9557,
+    "20220711": 9557
   },
   "TweetsCountHistory": {
     "20210308": 16959,
@@ -854,20 +855,21 @@
     "20220707": 18214,
     "20220708": 18216,
     "20220709": 18216,
-    "20220710": 18218
+    "20220710": 18218,
+    "20220711": 18219
   },
   "LangId": "id",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.00896941429724638981074491,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220704.0,
-        "Y": 9556.2857142857142857142856
+        "X": 20220705.0,
+        "Y": 9556.0
       },
       "End": {
-        "X": 20220710.0,
-        "Y": 9555.4285714285714285714285
+        "X": 20220711.0,
+        "Y": 9556.0
       }
     }
   }
