@@ -2,7 +2,7 @@
   "PublicName": "Swifty",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1150695272135217152/mXTvZMlL_normal.png",
   "Login": "Swifty8Bit",
-  "CurrentFollowersCount": 36,
+  "CurrentFollowersCount": 35,
   "CurrentTweetsCout": 41,
   "FollowersCountHistory": {
     "20210119": 17,
@@ -474,7 +474,8 @@
     "20220708": 36,
     "20220709": 36,
     "20220710": 36,
-    "20220711": 36
+    "20220711": 36,
+    "20220712": 35
   },
   "TweetsCountHistory": {
     "20210119": 34,
@@ -946,20 +947,21 @@
     "20220708": 41,
     "20220709": 41,
     "20220710": 41,
-    "20220711": 41
+    "20220711": 41,
+    "20220712": 41
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.7769002961500493583416816918,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220705.0,
-        "Y": 36.0
+        "X": 20220706.0,
+        "Y": 36.1785714285714285714285
       },
       "End": {
-        "X": 20220711.0,
-        "Y": 36.0
+        "X": 20220712.0,
+        "Y": 35.5357142857142857142856
       }
     }
   }
