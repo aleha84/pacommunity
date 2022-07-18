@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1508381777366241282/PqHOnmVA_normal.jpg",
   "Login": "yoj_victor",
   "CurrentFollowersCount": 403,
-  "CurrentTweetsCout": 90,
+  "CurrentTweetsCout": 91,
   "FollowersCountHistory": {
     "20210320": 9,
     "20210323": 34,
@@ -419,7 +419,8 @@
     "20220713": 403,
     "20220714": 403,
     "20220715": 403,
-    "20220716": 403
+    "20220716": 403,
+    "20220718": 403
   },
   "TweetsCountHistory": {
     "20210320": 1,
@@ -836,20 +837,21 @@
     "20220713": 90,
     "20220714": 90,
     "20220715": 90,
-    "20220716": 90
+    "20220716": 90,
+    "20220718": 91
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1597018898056960340697223018,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220710.0,
-        "Y": 402.5357142857142857142857
+        "X": 20220711.0,
+        "Y": 403.0
       },
       "End": {
-        "X": 20220716.0,
-        "Y": 403.1785714285714285714285
+        "X": 20220718.0,
+        "Y": 403.0
       }
     }
   }
