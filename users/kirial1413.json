@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1541732335086800897/HkN7ET7A_normal.jpg",
   "Login": "kirial1413",
   "CurrentFollowersCount": 281,
-  "CurrentTweetsCout": 24313,
+  "CurrentTweetsCout": 24331,
   "FollowersCountHistory": {
     "20210919": 163,
     "20210920": 163,
@@ -282,7 +282,8 @@
     "20220715": 281,
     "20220716": 281,
     "20220718": 281,
-    "20220719": 281
+    "20220719": 281,
+    "20220720": 281
   },
   "TweetsCountHistory": {
     "20210919": 7215,
@@ -562,20 +563,21 @@
     "20220715": 24217,
     "20220716": 24238,
     "20220718": 24280,
-    "20220719": 24313
+    "20220719": 24313,
+    "20220720": 24331
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.413956238911886757129675525,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220712.0,
-        "Y": 281.8333333333333337301944
+        "X": 20220713.0,
+        "Y": 281.0
       },
       "End": {
-        "X": 20220719.0,
-        "Y": 280.6666666666666662180411
+        "X": 20220720.0,
+        "Y": 281.0
       }
     }
   }
