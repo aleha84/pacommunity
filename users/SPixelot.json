@@ -2,7 +2,7 @@
   "PublicName": "PIX",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1309343031108071424/MX1KtzVE_normal.png",
   "Login": "SPixelot",
-  "CurrentFollowersCount": 365,
+  "CurrentFollowersCount": 364,
   "CurrentTweetsCout": 1715,
   "FollowersCountHistory": {
     "20210117": 405,
@@ -486,7 +486,8 @@
     "20220716": 365,
     "20220718": 365,
     "20220719": 365,
-    "20220720": 365
+    "20220720": 365,
+    "20220721": 364
   },
   "TweetsCountHistory": {
     "20210117": 1236,
@@ -970,20 +971,21 @@
     "20220716": 1715,
     "20220718": 1715,
     "20220719": 1715,
-    "20220720": 1715
+    "20220720": 1715,
+    "20220721": 1715
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1575630252100840875103225861,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220713.0,
-        "Y": 365.0
+        "X": 20220714.0,
+        "Y": 365.1506849315068494155598
       },
       "End": {
-        "X": 20220720.0,
-        "Y": 365.0
+        "X": 20220721.0,
+        "Y": 364.5753424657534245610624
       }
     }
   }
