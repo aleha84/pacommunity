@@ -2,7 +2,7 @@
   "PublicName": "THX",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1361881336617840641/nasjhzDe_normal.png",
   "Login": "thxsprites",
-  "CurrentFollowersCount": 8185,
+  "CurrentFollowersCount": 8186,
   "CurrentTweetsCout": 1192,
   "FollowersCountHistory": {
     "20210125": 6773,
@@ -497,7 +497,8 @@
     "20220718": 8181,
     "20220719": 8186,
     "20220720": 8187,
-    "20220721": 8185
+    "20220721": 8185,
+    "20220722": 8186
   },
   "TweetsCountHistory": {
     "20210125": 962,
@@ -992,20 +993,21 @@
     "20220718": 1192,
     "20220719": 1192,
     "20220720": 1192,
-    "20220721": 1192
+    "20220721": 1192,
+    "20220722": 1192
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0314086792650369051981311836,
+    "WeeklyGrowth": 0.0052360132994737806634020124,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220715.0,
-        "Y": 8187.000000000000000000000
+        "X": 20220716.0,
+        "Y": 8185.0714285714285714285714
       },
       "End": {
-        "X": 20220721.0,
-        "Y": 8184.428571428571428571429
+        "X": 20220722.0,
+        "Y": 8185.4999999999999999999999
       }
     }
   }
