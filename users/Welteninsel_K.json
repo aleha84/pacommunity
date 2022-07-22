@@ -2,7 +2,7 @@
   "PublicName": "Welteninsel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1498030161777856512/FZf6WsfP_normal.png",
   "Login": "Welteninsel_K",
-  "CurrentFollowersCount": 123,
+  "CurrentFollowersCount": 122,
   "CurrentTweetsCout": 623,
   "FollowersCountHistory": {
     "20201221": 104,
@@ -512,7 +512,8 @@
     "20220718": 123,
     "20220719": 123,
     "20220720": 123,
-    "20220721": 123
+    "20220721": 123,
+    "20220722": 122
   },
   "TweetsCountHistory": {
     "20201221": 575,
@@ -1022,20 +1023,21 @@
     "20220718": 623,
     "20220719": 623,
     "20220720": 623,
-    "20220721": 623
+    "20220721": 623,
+    "20220722": 623
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.473612990527740531739444244,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220714.0,
-        "Y": 123.0
+        "X": 20220715.0,
+        "Y": 123.1666666666666668909323
       },
       "End": {
-        "X": 20220721.0,
-        "Y": 123.0
+        "X": 20220722.0,
+        "Y": 122.5833333333333331349444
       }
     }
   }
