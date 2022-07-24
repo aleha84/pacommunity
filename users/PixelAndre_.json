@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1049176082455437312/UlOMBIGd_normal.jpg",
   "Login": "PixelAndre_",
   "CurrentFollowersCount": 224,
-  "CurrentTweetsCout": 5341,
+  "CurrentTweetsCout": 5343,
   "FollowersCountHistory": {
     "20210914": 220,
     "20210915": 221,
@@ -288,7 +288,8 @@
     "20220720": 224,
     "20220721": 224,
     "20220722": 224,
-    "20220723": 224
+    "20220723": 224,
+    "20220724": 224
   },
   "TweetsCountHistory": {
     "20210914": 3748,
@@ -574,20 +575,21 @@
     "20220720": 5318,
     "20220721": 5322,
     "20220722": 5334,
-    "20220723": 5341
+    "20220723": 5341,
+    "20220724": 5343
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.3449219819326576659760632528,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220716.0,
-        "Y": 224.5696721311475404588499
+        "X": 20220718.0,
+        "Y": 224.0
       },
       "End": {
-        "X": 20220723.0,
-        "Y": 223.7950819672131151816780
+        "X": 20220724.0,
+        "Y": 224.0
       }
     }
   }
