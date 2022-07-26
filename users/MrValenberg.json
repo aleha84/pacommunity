@@ -2,7 +2,7 @@
   "PublicName": "Valenberg",
   "AvatarImage": "https://pbs.twimg.com/profile_images/883324208805273600/gupxxJdf_normal.jpg",
   "Login": "MrValenberg",
-  "CurrentFollowersCount": 14594,
+  "CurrentFollowersCount": 14593,
   "CurrentTweetsCout": 5830,
   "FollowersCountHistory": {
     "20201217": 10819,
@@ -520,7 +520,8 @@
     "20220722": 14587,
     "20220723": 14590,
     "20220724": 14592,
-    "20220725": 14594
+    "20220725": 14594,
+    "20220726": 14593
   },
   "TweetsCountHistory": {
     "20201217": 4181,
@@ -1038,20 +1039,21 @@
     "20220722": 5829,
     "20220723": 5830,
     "20220724": 5830,
-    "20220725": 5830
+    "20220725": 5830,
+    "20220726": 5830
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0102790769388908875982936732,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220719.0,
-        "Y": 14592.75
+        "X": 20220720.0,
+        "Y": 14592.0
       },
       "End": {
-        "X": 20220725.0,
-        "Y": 14591.25
+        "X": 20220726.0,
+        "Y": 14592.0
       }
     }
   }
