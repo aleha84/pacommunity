@@ -2,8 +2,8 @@
   "PublicName": "Foo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1515865843523067910/rbS7-muV_normal.jpg",
   "Login": "BaronVonFoo",
-  "CurrentFollowersCount": 1907,
-  "CurrentTweetsCout": 587,
+  "CurrentFollowersCount": 1908,
+  "CurrentTweetsCout": 589,
   "FollowersCountHistory": {
     "20210311": 41,
     "20210312": 41,
@@ -437,7 +437,8 @@
     "20220723": 1906,
     "20220724": 1905,
     "20220725": 1906,
-    "20220726": 1907
+    "20220726": 1907,
+    "20220727": 1908
   },
   "TweetsCountHistory": {
     "20210311": 53,
@@ -872,20 +873,21 @@
     "20220723": 585,
     "20220724": 585,
     "20220725": 587,
-    "20220726": 587
+    "20220726": 587,
+    "20220727": 589
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3833865814696485623003345524,
+    "WeeklyGrowth": 0.2928477567110944246292772668,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220720.0,
-        "Y": 1900.357142857142857142857
+        "X": 20220721.0,
+        "Y": 1902.500000000000000000000
       },
       "End": {
-        "X": 20220726.0,
-        "Y": 1907.642857142857142857143
+        "X": 20220727.0,
+        "Y": 1908.071428571428571428572
       }
     }
   }
