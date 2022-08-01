@@ -2,8 +2,8 @@
   "PublicName": "delicious",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1427797953213784065/GBjoKyuy_normal.jpg",
   "Login": "zjdelicious",
-  "CurrentFollowersCount": 20049,
-  "CurrentTweetsCout": 3285,
+  "CurrentFollowersCount": 20056,
+  "CurrentTweetsCout": 3286,
   "FollowersCountHistory": {
     "20210109": 4113,
     "20210110": 4175,
@@ -526,7 +526,8 @@
     "20220729": 20006,
     "20220730": 20036,
     "20220731": 20041,
-    "20220801": 20049
+    "20220801": 20049,
+    "20220802": 20056
   },
   "TweetsCountHistory": {
     "20210109": 810,
@@ -1050,20 +1051,21 @@
     "20220729": 3269,
     "20220730": 3276,
     "20220731": 3277,
-    "20220801": 3285
+    "20220801": 3285,
+    "20220802": 3286
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3760025945451572354043996931,
+    "WeeklyGrowth": 0.2899372828913190577696912302,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220726.0,
-        "Y": 19980.692356285533796710875
+        "X": 20220727.0,
+        "Y": 19996.869404969982521401608
       },
       "End": {
-        "X": 20220801.0,
-        "Y": 20055.820277953253315897439
+        "X": 20220802.0,
+        "Y": 20054.847784786077969603849
       }
     }
   }
