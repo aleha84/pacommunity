@@ -2,7 +2,7 @@
   "PublicName": "troopsushi",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1485182644832768002/88xb70DR_normal.png",
   "Login": "troopsushi",
-  "CurrentFollowersCount": 2822,
+  "CurrentFollowersCount": 2820,
   "CurrentTweetsCout": 943,
   "FollowersCountHistory": {
     "20210728": 2710,
@@ -338,7 +338,8 @@
     "20220728": 2821,
     "20220729": 2823,
     "20220730": 2822,
-    "20220731": 2822
+    "20220731": 2822,
+    "20220801": 2820
   },
   "TweetsCountHistory": {
     "20210728": 819,
@@ -674,20 +675,21 @@
     "20220728": 943,
     "20220729": 943,
     "20220730": 943,
-    "20220731": 943
+    "20220731": 943,
+    "20220801": 943
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1444372648143220951005207051,
+    "WeeklyGrowth": -0.0352671447025501836931598832,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220725.0,
-        "Y": 2818.821428571428571428572
+        "X": 20220726.0,
+        "Y": 2821.17056222362602653028526
       },
       "End": {
-        "X": 20220731.0,
-        "Y": 2822.892857142857142857143
+        "X": 20220801.0,
+        "Y": 2820.17561591914087177028791
       }
     }
   }

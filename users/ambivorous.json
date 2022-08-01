@@ -2,7 +2,7 @@
   "PublicName": "Geoffrey Muller",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1112016887767027714/fVbeP4hQ_normal.png",
   "Login": "ambivorous",
-  "CurrentFollowersCount": 474,
+  "CurrentFollowersCount": 472,
   "CurrentTweetsCout": 128,
   "FollowersCountHistory": {
     "20210113": 415,
@@ -520,7 +520,8 @@
     "20220728": 474,
     "20220729": 474,
     "20220730": 474,
-    "20220731": 474
+    "20220731": 474,
+    "20220801": 472
   },
   "TweetsCountHistory": {
     "20210113": 101,
@@ -1038,20 +1039,21 @@
     "20220728": 128,
     "20220729": 128,
     "20220730": 128,
-    "20220731": 128
+    "20220731": 128,
+    "20220801": 128
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.434739735811494181363576446,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220725.0,
-        "Y": 474.0
+        "X": 20220726.0,
+        "Y": 474.06759317751105495559008
       },
       "End": {
-        "X": 20220731.0,
-        "Y": 474.0
+        "X": 20220801.0,
+        "Y": 472.00663297536323438131459
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "ENDESGA",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1309125258063077376/UU0pPf2w_normal.jpg",
   "Login": "ENDESGA",
-  "CurrentFollowersCount": 20255,
-  "CurrentTweetsCout": 48831,
+  "CurrentFollowersCount": 20254,
+  "CurrentTweetsCout": 48843,
   "FollowersCountHistory": {
     "20210208": 16228,
     "20210209": 16248,
@@ -494,7 +494,8 @@
     "20220728": 20256,
     "20220729": 20259,
     "20220730": 20257,
-    "20220731": 20255
+    "20220731": 20255,
+    "20220801": 20254
   },
   "TweetsCountHistory": {
     "20210208": 44892,
@@ -986,20 +987,21 @@
     "20220728": 48828,
     "20220729": 48830,
     "20220730": 48831,
-    "20220731": 48831
+    "20220731": 48831,
+    "20220801": 48843
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0076602776858067988491719015,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220725.0,
-        "Y": 20256.142857142857142857142857
+        "X": 20220726.0,
+        "Y": 20255.69456727732154137453031
       },
       "End": {
-        "X": 20220731.0,
-        "Y": 20256.142857142857142857142857
+        "X": 20220801.0,
+        "Y": 20254.14292482627921668977013
       }
     }
   }

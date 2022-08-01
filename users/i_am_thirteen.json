@@ -2,7 +2,7 @@
   "PublicName": "thirteen",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1227010702432444418/xsE0YxMx_normal.jpg",
   "Login": "i_am_thirteen",
-  "CurrentFollowersCount": 2184,
+  "CurrentFollowersCount": 2183,
   "CurrentTweetsCout": 3521,
   "FollowersCountHistory": {
     "20201219": 2295,
@@ -523,7 +523,8 @@
     "20220727": 2184,
     "20220728": 2184,
     "20220729": 2184,
-    "20220730": 2184
+    "20220730": 2184,
+    "20220801": 2183
   },
   "TweetsCountHistory": {
     "20201219": 3519,
@@ -1044,20 +1045,21 @@
     "20220727": 3521,
     "20220728": 3521,
     "20220729": 3521,
-    "20220730": 3521
+    "20220730": 3521,
+    "20220801": 3521
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0196264433613555330214922644,
+    "WeeklyGrowth": -0.0374363803197342726318192704,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220724.0,
-        "Y": 2183.6428571428571428571428
+        "X": 20220725.0,
+        "Y": 2183.85413080895008605851980
       },
       "End": {
-        "X": 20220730.0,
-        "Y": 2184.0714285714285714285714
+        "X": 20220801.0,
+        "Y": 2183.03657487091222030981067
       }
     }
   }

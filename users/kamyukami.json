@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1358465738709827587/7rKLRwHw_normal.jpg",
   "Login": "kamyukami",
   "CurrentFollowersCount": 204,
-  "CurrentTweetsCout": 104,
+  "CurrentTweetsCout": 105,
   "FollowersCountHistory": {
     "20210213": 190,
     "20210214": 191,
@@ -466,7 +466,8 @@
     "20220726": 204,
     "20220727": 204,
     "20220728": 204,
-    "20220730": 204
+    "20220730": 204,
+    "20220801": 204
   },
   "TweetsCountHistory": {
     "20210213": 50,
@@ -930,20 +931,21 @@
     "20220726": 104,
     "20220727": 104,
     "20220728": 104,
-    "20220730": 104
+    "20220730": 104,
+    "20220801": 105
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3100338218714765066539829609,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220723.0,
-        "Y": 203.5737704918032790369461
+        "X": 20220724.0,
+        "Y": 204.0
       },
       "End": {
-        "X": 20220730.0,
-        "Y": 204.2049180327868848182934
+        "X": 20220801.0,
+        "Y": 204.0
       }
     }
   }

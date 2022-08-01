@@ -2,8 +2,8 @@
   "PublicName": "YUdelet",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1510954551444406277/zwBsMNDD_normal.jpg",
   "Login": "UdeletY",
-  "CurrentFollowersCount": 1884,
-  "CurrentTweetsCout": 11501,
+  "CurrentFollowersCount": 1883,
+  "CurrentTweetsCout": 11502,
   "FollowersCountHistory": {
     "20210212": 534,
     "20210213": 537,
@@ -470,7 +470,8 @@
     "20220727": 1884,
     "20220728": 1884,
     "20220729": 1884,
-    "20220730": 1884
+    "20220730": 1884,
+    "20220801": 1883
   },
   "TweetsCountHistory": {
     "20210212": 8060,
@@ -938,20 +939,21 @@
     "20220727": 11493,
     "20220728": 11499,
     "20220729": 11499,
-    "20220730": 11501
+    "20220730": 11501,
+    "20220801": 11502
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0910539494650580468927847326,
+    "WeeklyGrowth": -0.0433980489607651943992766256,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220724.0,
-        "Y": 1882.7142857142857142857143
+        "X": 20220725.0,
+        "Y": 1883.85413080895008605851980
       },
       "End": {
-        "X": 20220730.0,
-        "Y": 1884.4285714285714285714286
+        "X": 20220801.0,
+        "Y": 1883.03657487091222030981067
       }
     }
   }

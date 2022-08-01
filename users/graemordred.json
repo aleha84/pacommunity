@@ -2,8 +2,8 @@
   "PublicName": "Blavi Ris",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1493303239093395456/mtxKdU2D_normal.png",
   "Login": "graemordred",
-  "CurrentFollowersCount": 89,
-  "CurrentTweetsCout": 93,
+  "CurrentFollowersCount": 88,
+  "CurrentTweetsCout": 92,
   "FollowersCountHistory": {
     "20210914": 66,
     "20210915": 66,
@@ -298,7 +298,8 @@
     "20220727": 89,
     "20220728": 89,
     "20220729": 89,
-    "20220730": 89
+    "20220730": 89,
+    "20220801": 88
   },
   "TweetsCountHistory": {
     "20210914": 61,
@@ -594,20 +595,21 @@
     "20220727": 93,
     "20220728": 93,
     "20220729": 93,
-    "20220730": 93
+    "20220730": 93,
+    "20220801": 92
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.1570052219888987427113330306,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220724.0,
-        "Y": 89.0
+        "X": 20220725.0,
+        "Y": 89.03334767641996557659208
       },
       "End": {
-        "X": 20220730.0,
-        "Y": 89.0
+        "X": 20220801.0,
+        "Y": 88.00322719449225473321858
       }
     }
   }
