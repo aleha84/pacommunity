@@ -2,7 +2,7 @@
   "PublicName": "NokPed",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1531632991461834754/axhgoI1c_normal.jpg",
   "Login": "DB_DuckBird",
-  "CurrentFollowersCount": 7390,
+  "CurrentFollowersCount": 7388,
   "CurrentTweetsCout": 1275,
   "FollowersCountHistory": {
     "20210128": 2642,
@@ -486,7 +486,8 @@
     "20220728": 7382,
     "20220729": 7384,
     "20220730": 7385,
-    "20220801": 7390
+    "20220801": 7390,
+    "20220802": 7388
   },
   "TweetsCountHistory": {
     "20210128": 764,
@@ -970,20 +971,21 @@
     "20220728": 1273,
     "20220729": 1274,
     "20220730": 1274,
-    "20220801": 1275
+    "20220801": 1275,
+    "20220802": 1275
   },
   "LangId": "th",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1131886225324109395189024963,
+    "WeeklyGrowth": 0.0908517612028975107227404296,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220725.0,
-        "Y": 7381.8564974182444061962134
+        "X": 20220726.0,
+        "Y": 7382.3988095238095238095239
       },
       "End": {
-        "X": 20220801.0,
-        "Y": 7390.2119191049913941480206
+        "X": 20220802.0,
+        "Y": 7389.1058488612836438923396
       }
     }
   }
