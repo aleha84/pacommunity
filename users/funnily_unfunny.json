@@ -2,7 +2,7 @@
   "PublicName": "ren (slacky)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1511654262232653830/7x_BpLpG_normal.jpg",
   "Login": "funnily_unfunny",
-  "CurrentFollowersCount": 3824,
+  "CurrentFollowersCount": 3823,
   "CurrentTweetsCout": 3007,
   "FollowersCountHistory": {
     "20210522": 1377,
@@ -400,7 +400,8 @@
     "20220730": 3825,
     "20220731": 3826,
     "20220801": 3825,
-    "20220802": 3824
+    "20220802": 3824,
+    "20220803": 3823
   },
   "TweetsCountHistory": {
     "20210522": 2022,
@@ -798,20 +799,21 @@
     "20220730": 3002,
     "20220731": 3002,
     "20220801": 3002,
-    "20220802": 3007
+    "20220802": 3007,
+    "20220803": 3007
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0043964245156116339229385435,
+    "WeeklyGrowth": -0.0199433269876414330129624463,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220727.0,
-        "Y": 3824.377650277376700356985145
+        "X": 20220728.0,
+        "Y": 3824.75983777960838983641885
       },
       "End": {
-        "X": 20220802.0,
-        "Y": 3824.545786153963067102788914
+        "X": 20220803.0,
+        "Y": 3823.99705341866801850255964
       }
     }
   }
