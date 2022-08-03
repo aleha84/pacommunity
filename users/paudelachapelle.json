@@ -2,7 +2,7 @@
   "PublicName": "paul",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1549409873863000065/TEsY5e5k_normal.jpg",
   "Login": "paudelachapelle",
-  "CurrentFollowersCount": 546,
+  "CurrentFollowersCount": 545,
   "CurrentTweetsCout": 423,
   "FollowersCountHistory": {
     "20210125": 526,
@@ -490,7 +490,8 @@
     "20220729": 546,
     "20220730": 546,
     "20220801": 546,
-    "20220802": 546
+    "20220802": 546,
+    "20220803": 545
   },
   "TweetsCountHistory": {
     "20210125": 382,
@@ -978,20 +979,21 @@
     "20220729": 423,
     "20220730": 423,
     "20220801": 423,
-    "20220802": 423
+    "20220802": 423,
+    "20220803": 423
   },
   "LangId": "se",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.06457958158833757573230632,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220726.0,
-        "Y": 546.0
+        "X": 20220727.0,
+        "Y": 546.01025032369443245576176
       },
       "End": {
-        "X": 20220802.0,
-        "Y": 546.0
+        "X": 20220803.0,
+        "Y": 545.65763918860595597755718
       }
     }
   }

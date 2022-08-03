@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1535716927502487552/7zS1MiaR_normal.jpg",
   "Login": "_Elliotta_",
   "CurrentFollowersCount": 263,
-  "CurrentTweetsCout": 1936,
+  "CurrentTweetsCout": 1939,
   "FollowersCountHistory": {
     "20210914": 186,
     "20210915": 187,
@@ -298,7 +298,8 @@
     "20220729": 263,
     "20220730": 263,
     "20220801": 263,
-    "20220802": 263
+    "20220802": 263,
+    "20220803": 263
   },
   "TweetsCountHistory": {
     "20210914": 1357,
@@ -594,20 +595,21 @@
     "20220729": 1929,
     "20220730": 1934,
     "20220801": 1936,
-    "20220802": 1936
+    "20220802": 1936,
+    "20220803": 1939
   },
   "LangId": "it",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0859349382059950926627394881,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220726.0,
-        "Y": 263.211309523809523809523810
+        "X": 20220727.0,
+        "Y": 263.0
       },
       "End": {
-        "X": 20220802.0,
-        "Y": 262.985119047619047619047619
+        "X": 20220803.0,
+        "Y": 263.0
       }
     }
   }
