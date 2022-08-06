@@ -2,7 +2,7 @@
   "PublicName": "Bamboo.",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1424634997055524864/gaSS858T_normal.jpg",
   "Login": "Bamboobeboo",
-  "CurrentFollowersCount": 7232,
+  "CurrentFollowersCount": 7230,
   "CurrentTweetsCout": 589,
   "FollowersCountHistory": {
     "20220406": 4803,
@@ -114,7 +114,8 @@
     "20220803": 7237,
     "20220804": 7237,
     "20220805": 7231,
-    "20220806": 7232
+    "20220806": 7232,
+    "20220807": 7230
   },
   "TweetsCountHistory": {
     "20220406": 303,
@@ -226,20 +227,21 @@
     "20220803": 589,
     "20220804": 589,
     "20220805": 589,
-    "20220806": 589
+    "20220806": 589,
+    "20220807": 589
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0230601319144364284941932485,
+    "WeeklyGrowth": -0.0414671471590067630942390277,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220731.0,
-        "Y": 7232.04674668351231839630372
+        "X": 20220801.0,
+        "Y": 7234.642857142857142857143
       },
       "End": {
-        "X": 20220806.0,
-        "Y": 7233.71446620341124446973025
+        "X": 20220807.0,
+        "Y": 7231.642857142857142857143
       }
     }
   }
