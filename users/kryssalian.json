@@ -2,7 +2,7 @@
   "PublicName": "Kryssalian",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1208491000336994304/2CZawNLf_normal.jpg",
   "Login": "kryssalian",
-  "CurrentFollowersCount": 40627,
+  "CurrentFollowersCount": 40629,
   "CurrentTweetsCout": 333,
   "FollowersCountHistory": {
     "20210115": 17167,
@@ -501,7 +501,8 @@
     "20220803": 40602,
     "20220804": 40607,
     "20220805": 40622,
-    "20220806": 40627
+    "20220806": 40627,
+    "20220808": 40629
   },
   "TweetsCountHistory": {
     "20210115": 117,
@@ -1000,20 +1001,21 @@
     "20220803": 333,
     "20220804": 333,
     "20220805": 333,
-    "20220806": 333
+    "20220806": 333,
+    "20220808": 333
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.7261164348660345832970908716,
+    "WeeklyGrowth": 0.2148048528376083177096493458,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220730.0,
-        "Y": 40312.780981067125645438899
+        "X": 20220801.0,
+        "Y": 40561.02459016393447432960
       },
       "End": {
-        "X": 20220806.0,
-        "Y": 40605.498709122203098106713
+        "X": 20220808.0,
+        "Y": 40648.15163934426223605003
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "Fulcrum Frequency",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1432207818698887172/jI5ByrEL_normal.jpg",
   "Login": "rodriesk",
-  "CurrentFollowersCount": 107,
-  "CurrentTweetsCout": 850,
+  "CurrentFollowersCount": 108,
+  "CurrentTweetsCout": 854,
   "FollowersCountHistory": {
     "20210914": 64,
     "20210915": 68,
@@ -300,7 +300,8 @@
     "20220803": 107,
     "20220804": 107,
     "20220805": 107,
-    "20220806": 107
+    "20220806": 107,
+    "20220808": 108
   },
   "TweetsCountHistory": {
     "20210914": 523,
@@ -598,20 +599,21 @@
     "20220803": 846,
     "20220804": 846,
     "20220805": 849,
-    "20220806": 850
+    "20220806": 850,
+    "20220808": 854
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.7253050886483988290476517681,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220730.0,
-        "Y": 107.0
+        "X": 20220801.0,
+        "Y": 106.7950819672131151816779
       },
       "End": {
-        "X": 20220806.0,
-        "Y": 107.0
+        "X": 20220808.0,
+        "Y": 107.5696721311475404588498
       }
     }
   }

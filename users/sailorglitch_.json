@@ -2,8 +2,8 @@
   "PublicName": "セーラー",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1480701901809360900/fL45aRVl_normal.jpg",
   "Login": "sailorglitch_",
-  "CurrentFollowersCount": 6560,
-  "CurrentTweetsCout": 3373,
+  "CurrentFollowersCount": 6558,
+  "CurrentTweetsCout": 3380,
   "FollowersCountHistory": {
     "20210914": 5656,
     "20210915": 5658,
@@ -300,7 +300,8 @@
     "20220803": 6560,
     "20220804": 6560,
     "20220805": 6561,
-    "20220806": 6560
+    "20220806": 6560,
+    "20220808": 6558
   },
   "TweetsCountHistory": {
     "20210914": 1506,
@@ -598,20 +599,21 @@
     "20220803": 3361,
     "20220804": 3368,
     "20220805": 3370,
-    "20220806": 3373
+    "20220806": 3373,
+    "20220808": 3380
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0740999840947003837133001642,
+    "WeeklyGrowth": 0.0695745885847665176718293842,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220730.0,
-        "Y": 6553.6886833046471600688469
+        "X": 20220801.0,
+        "Y": 6556.237704918032789402002
       },
       "End": {
-        "X": 20220806.0,
-        "Y": 6558.5449655765920826161790
+        "X": 20220808.0,
+        "Y": 6560.799180327868849370270
       }
     }
   }

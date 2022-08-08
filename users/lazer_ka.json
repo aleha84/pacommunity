@@ -2,7 +2,7 @@
   "PublicName": "lazerka",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1469280313230737412/ymX3rQUC_normal.jpg",
   "Login": "lazer_ka",
-  "CurrentFollowersCount": 9166,
+  "CurrentFollowersCount": 9168,
   "CurrentTweetsCout": 83,
   "FollowersCountHistory": {
     "20201215": 6618,
@@ -532,7 +532,8 @@
     "20220803": 9163,
     "20220804": 9165,
     "20220805": 9166,
-    "20220806": 9166
+    "20220806": 9166,
+    "20220808": 9168
   },
   "TweetsCountHistory": {
     "20201215": 42,
@@ -1062,20 +1063,21 @@
     "20220803": 83,
     "20220804": 83,
     "20220805": 83,
-    "20220806": 83
+    "20220806": 83,
+    "20220808": 83
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0682863698758859803423559513,
+    "WeeklyGrowth": 0.0388203619059544949015279295,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220730.0,
-        "Y": 9170.9055507745266781411360
+        "X": 20220801.0,
+        "Y": 9163.688524590163936388699
       },
       "End": {
-        "X": 20220806.0,
-        "Y": 9164.6430722891566265060241
+        "X": 20220808.0,
+        "Y": 9167.245901639344259886597
       }
     }
   }

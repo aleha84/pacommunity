@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1094968745116790785/6yNSVtOZ_normal.jpg",
   "Login": "azunapixels",
   "CurrentFollowersCount": 292,
-  "CurrentTweetsCout": 431,
+  "CurrentTweetsCout": 432,
   "FollowersCountHistory": {
     "20210214": 236,
     "20210215": 236,
@@ -471,7 +471,8 @@
     "20220803": 292,
     "20220804": 292,
     "20220805": 292,
-    "20220806": 292
+    "20220806": 292,
+    "20220808": 292
   },
   "TweetsCountHistory": {
     "20210214": 336,
@@ -940,20 +941,21 @@
     "20220803": 431,
     "20220804": 431,
     "20220805": 431,
-    "20220806": 431
+    "20220806": 431,
+    "20220808": 432
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.7104121072740086798471760399,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220730.0,
-        "Y": 290.00645438898450946643718
+        "X": 20220801.0,
+        "Y": 292.0
       },
       "End": {
-        "X": 20220806.0,
-        "Y": 292.06669535283993115318417
+        "X": 20220808.0,
+        "Y": 292.0
       }
     }
   }
