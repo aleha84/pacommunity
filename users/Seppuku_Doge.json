@@ -2,7 +2,7 @@
   "PublicName": "Kenze Wee",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1534196700100775937/nhocT20i_normal.jpg",
   "Login": "Seppuku_Doge",
-  "CurrentFollowersCount": 28195,
+  "CurrentFollowersCount": 28191,
   "CurrentTweetsCout": 632,
   "FollowersCountHistory": {
     "20210119": 21526,
@@ -499,7 +499,8 @@
     "20220803": 28203,
     "20220804": 28201,
     "20220805": 28197,
-    "20220806": 28195
+    "20220806": 28195,
+    "20220808": 28191
   },
   "TweetsCountHistory": {
     "20210119": 354,
@@ -996,20 +997,21 @@
     "20220803": 631,
     "20220804": 631,
     "20220805": 632,
-    "20220806": 632
+    "20220806": 632,
+    "20220808": 632
   },
   "LangId": "cn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.001507522974505177326738523,
+    "WeeklyGrowth": -0.0538042339558621543202422022,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220730.0,
-        "Y": 28200.50473321858864027538726
+        "X": 20220801.0,
+        "Y": 28206.385245901639335882075
       },
       "End": {
-        "X": 20220806.0,
-        "Y": 28200.92986230636833046471601
+        "X": 20220808.0,
+        "Y": 28191.209016393442633235635
       }
     }
   }

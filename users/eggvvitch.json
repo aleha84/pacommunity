@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1544795770414682112/BNEts41A_normal.jpg",
   "Login": "eggvvitch",
   "CurrentFollowersCount": 436,
-  "CurrentTweetsCout": 13109,
+  "CurrentTweetsCout": 13111,
   "FollowersCountHistory": {
     "20210914": 407,
     "20210915": 407,
@@ -310,7 +310,8 @@
     "20220804": 436,
     "20220805": 436,
     "20220806": 436,
-    "20220807": 436
+    "20220807": 436,
+    "20220808": 436
   },
   "TweetsCountHistory": {
     "20210914": 12336,
@@ -618,20 +619,21 @@
     "20220804": 13103,
     "20220805": 13107,
     "20220806": 13107,
-    "20220807": 13109
+    "20220807": 13109,
+    "20220808": 13111
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.4437505136001314816336659161,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220801.0,
-        "Y": 434.6071428571428571428571
+        "X": 20220802.0,
+        "Y": 436.0
       },
       "End": {
-        "X": 20220807.0,
-        "Y": 436.5357142857142857142857
+        "X": 20220808.0,
+        "Y": 436.0
       }
     }
   }
