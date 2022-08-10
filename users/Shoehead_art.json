@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1457710431053750278/WkERk8lf_normal.jpg",
   "Login": "Shoehead_art",
   "CurrentFollowersCount": 1711,
-  "CurrentTweetsCout": 19399,
+  "CurrentTweetsCout": 19401,
   "FollowersCountHistory": {
     "20210213": 1475,
     "20210214": 1475,
@@ -499,7 +499,8 @@
     "20220807": 1714,
     "20220808": 1712,
     "20220809": 1711,
-    "20220810": 1711
+    "20220810": 1711,
+    "20220811": 1711
   },
   "TweetsCountHistory": {
     "20210213": 11303,
@@ -996,20 +997,21 @@
     "20220807": 19376,
     "20220808": 19391,
     "20220809": 19397,
-    "20220810": 19399
+    "20220810": 19399,
+    "20220811": 19401
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1875429785992623309508262154,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220804.0,
-        "Y": 1712.0
+        "X": 20220805.0,
+        "Y": 1713.892857142857142857143
       },
       "End": {
-        "X": 20220810.0,
-        "Y": 1712.0
+        "X": 20220811.0,
+        "Y": 1710.678571428571428571429
       }
     }
   }

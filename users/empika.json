@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1044748392717402117/dcqYDFmn_normal.jpg",
   "Login": "empika",
   "CurrentFollowersCount": 5195,
-  "CurrentTweetsCout": 50184,
+  "CurrentTweetsCout": 50190,
   "FollowersCountHistory": {
     "20210108": 3875,
     "20210109": 3881,
@@ -535,7 +535,8 @@
     "20220807": 5193,
     "20220808": 5192,
     "20220809": 5196,
-    "20220810": 5195
+    "20220810": 5195,
+    "20220811": 5195
   },
   "TweetsCountHistory": {
     "20210108": 46365,
@@ -1068,20 +1069,21 @@
     "20220807": 50156,
     "20220808": 50168,
     "20220809": 50177,
-    "20220810": 50184
+    "20220810": 50184,
+    "20220811": 50190
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1445574133860164795451260059,
+    "WeeklyGrowth": 0.115606936416184971098265896,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220804.0,
-        "Y": 5188.25
+        "X": 20220805.0,
+        "Y": 5190.0
       },
       "End": {
-        "X": 20220810.0,
-        "Y": 5195.75
+        "X": 20220811.0,
+        "Y": 5196.0
       }
     }
   }
