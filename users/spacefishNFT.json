@@ -2,7 +2,7 @@
   "PublicName": "spacefish",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1466922242659348481/TrfMfE2j_normal.jpg",
   "Login": "spacefishNFT",
-  "CurrentFollowersCount": 3702,
+  "CurrentFollowersCount": 3701,
   "CurrentTweetsCout": 17050,
   "FollowersCountHistory": {
     "20210915": 3167,
@@ -313,7 +313,8 @@
     "20220808": 3703,
     "20220809": 3700,
     "20220810": 3702,
-    "20220811": 3702
+    "20220811": 3702,
+    "20220812": 3701
   },
   "TweetsCountHistory": {
     "20210915": 12933,
@@ -624,20 +625,21 @@
     "20220808": 17049,
     "20220809": 17047,
     "20220810": 17047,
-    "20220811": 17050
+    "20220811": 17050,
+    "20220812": 17050
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0463248919085855466337222042,
+    "WeeklyGrowth": -0.0173649632923970402384799869,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220805.0,
-        "Y": 3700.5714285714285714285715
+        "X": 20220806.0,
+        "Y": 3702.0357142857142857142857
       },
       "End": {
-        "X": 20220811.0,
-        "Y": 3702.2857142857142857142857
+        "X": 20220812.0,
+        "Y": 3701.3928571428571428571428
       }
     }
   }
