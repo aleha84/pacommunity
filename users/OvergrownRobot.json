@@ -2,7 +2,7 @@
   "PublicName": "THX",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1496332604781514761/qEwbAaYo_normal.jpg",
   "Login": "OvergrownRobot",
-  "CurrentFollowersCount": 2801,
+  "CurrentFollowersCount": 2800,
   "CurrentTweetsCout": 547,
   "FollowersCountHistory": {
     "20210707": 2125,
@@ -371,7 +371,8 @@
     "20220809": 2801,
     "20220810": 2800,
     "20220811": 2800,
-    "20220812": 2801
+    "20220812": 2801,
+    "20220813": 2800
   },
   "TweetsCountHistory": {
     "20210707": 275,
@@ -740,20 +741,21 @@
     "20220809": 547,
     "20220810": 547,
     "20220811": 547,
-    "20220812": 547
+    "20220812": 547,
+    "20220813": 547
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0765599081281102462677060092,
+    "WeeklyGrowth": 0.0153057319966327389607382466,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220806.0,
-        "Y": 2798.9285714285714285714286
+        "X": 20220807.0,
+        "Y": 2800.0714285714285714285714
       },
       "End": {
-        "X": 20220812.0,
-        "Y": 2801.0714285714285714285715
+        "X": 20220813.0,
+        "Y": 2800.4999999999999999999999
       }
     }
   }
