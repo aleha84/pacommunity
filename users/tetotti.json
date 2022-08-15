@@ -2,7 +2,7 @@
   "PublicName": "てとっち",
   "AvatarImage": "https://pbs.twimg.com/profile_images/998570235320913920/Uyz-ueua_normal.jpg",
   "Login": "tetotti",
-  "CurrentFollowersCount": 2172,
+  "CurrentFollowersCount": 2171,
   "CurrentTweetsCout": 254,
   "FollowersCountHistory": {
     "20210209": 2154,
@@ -483,7 +483,8 @@
     "20220810": 2172,
     "20220811": 2172,
     "20220812": 2172,
-    "20220813": 2172
+    "20220813": 2172,
+    "20220815": 2171
   },
   "TweetsCountHistory": {
     "20210209": 240,
@@ -964,20 +965,21 @@
     "20220810": 254,
     "20220811": 254,
     "20220812": 254,
-    "20220813": 254
+    "20220813": 254,
+    "20220815": 254
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0356591662924654950435993745,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220806.0,
-        "Y": 2172.0
+        "X": 20220808.0,
+        "Y": 2172.2049180327868848180516
       },
       "End": {
-        "X": 20220813.0,
-        "Y": 2172.0
+        "X": 20220815.0,
+        "Y": 2171.4303278688524595414821
       }
     }
   }

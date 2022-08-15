@@ -2,7 +2,7 @@
   "PublicName": "Skaz 🦖",
   "AvatarImage": "https://pbs.twimg.com/profile_images/555656328702472192/uSACMTYP_normal.png",
   "Login": "Skaz_",
-  "CurrentFollowersCount": 6286,
+  "CurrentFollowersCount": 6284,
   "CurrentTweetsCout": 4616,
   "FollowersCountHistory": {
     "20210113": 5353,
@@ -509,7 +509,8 @@
     "20220810": 6285,
     "20220811": 6286,
     "20220812": 6285,
-    "20220813": 6286
+    "20220813": 6286,
+    "20220815": 6284
   },
   "TweetsCountHistory": {
     "20210113": 3792,
@@ -1016,20 +1017,21 @@
     "20220810": 4616,
     "20220811": 4616,
     "20220812": 4616,
-    "20220813": 4616
+    "20220813": 4616,
+    "20220815": 4616
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0164336822664917017884051757,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220806.0,
-        "Y": 6284.5737704918032793834790
+        "X": 20220808.0,
+        "Y": 6285.0
       },
       "End": {
-        "X": 20220813.0,
-        "Y": 6285.6065573770491797616098
+        "X": 20220815.0,
+        "Y": 6285.0
       }
     }
   }

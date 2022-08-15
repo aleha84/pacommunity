@@ -2,7 +2,7 @@
   "PublicName": "Simon Bachmann",
   "AvatarImage": "https://pbs.twimg.com/profile_images/458847597193469952/eweROjtc_normal.png",
   "Login": "sibachmann",
-  "CurrentFollowersCount": 5229,
+  "CurrentFollowersCount": 5226,
   "CurrentTweetsCout": 7552,
   "FollowersCountHistory": {
     "20210125": 5268,
@@ -497,7 +497,8 @@
     "20220810": 5230,
     "20220811": 5228,
     "20220812": 5229,
-    "20220813": 5229
+    "20220813": 5229,
+    "20220815": 5226
   },
   "TweetsCountHistory": {
     "20210125": 7173,
@@ -992,20 +993,21 @@
     "20220810": 7552,
     "20220811": 7552,
     "20220812": 7552,
-    "20220813": 7552
+    "20220813": 7552,
+    "20220815": 7552
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0466542621216789628792495507,
+    "WeeklyGrowth": -0.0076822014367284388443727989,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220806.0,
-        "Y": 5226.7991803278688541107620
+        "X": 20220808.0,
+        "Y": 5228.1803278688524587946788
       },
       "End": {
-        "X": 20220813.0,
-        "Y": 5229.2377049180327855393793
+        "X": 20220815.0,
+        "Y": 5227.7786885245901642065305
       }
     }
   }

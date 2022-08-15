@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1548260928256258057/6WMY7_T1_normal.jpg",
   "Login": "Okosano_pixel",
   "CurrentFollowersCount": 182,
-  "CurrentTweetsCout": 641,
+  "CurrentTweetsCout": 643,
   "FollowersCountHistory": {
     "20210221": 71,
     "20210222": 71,
@@ -470,7 +470,8 @@
     "20220810": 182,
     "20220811": 182,
     "20220812": 182,
-    "20220813": 182
+    "20220813": 182,
+    "20220815": 182
   },
   "TweetsCountHistory": {
     "20210221": 264,
@@ -938,20 +939,21 @@
     "20220810": 636,
     "20220811": 637,
     "20220812": 640,
-    "20220813": 641
+    "20220813": 641,
+    "20220815": 643
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.4242709946797758955107704992,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220806.0,
-        "Y": 182.5696721311475404588498
+        "X": 20220808.0,
+        "Y": 182.0
       },
       "End": {
-        "X": 20220813.0,
-        "Y": 181.7950819672131151816779
+        "X": 20220815.0,
+        "Y": 182.0
       }
     }
   }

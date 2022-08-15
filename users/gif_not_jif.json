@@ -2,8 +2,8 @@
   "PublicName": "Gif",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1539243462201163779/zPx3rjN-_normal.jpg",
   "Login": "gif_not_jif",
-  "CurrentFollowersCount": 7422,
-  "CurrentTweetsCout": 9120,
+  "CurrentFollowersCount": 7420,
+  "CurrentTweetsCout": 9131,
   "FollowersCountHistory": {
     "20210914": 2185,
     "20210915": 2191,
@@ -306,7 +306,8 @@
     "20220810": 7396,
     "20220811": 7403,
     "20220812": 7417,
-    "20220813": 7422
+    "20220813": 7422,
+    "20220815": 7420
   },
   "TweetsCountHistory": {
     "20210914": 2544,
@@ -610,20 +611,21 @@
     "20220810": 9064,
     "20220811": 9085,
     "20220812": 9109,
-    "20220813": 9120
+    "20220813": 9120,
+    "20220815": 9131
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.6514741283934410900717828613,
+    "WeeklyGrowth": 0.5838765495953757727102292406,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220806.0,
-        "Y": 7371.68032786885249154754
+        "X": 20220808.0,
+        "Y": 7384.92622950819674511284
       },
       "End": {
-        "X": 20220813.0,
-        "Y": 7419.70491803278685873903
+        "X": 20220815.0,
+        "Y": 7428.04508196721308554335
       }
     }
   }

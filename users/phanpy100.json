@@ -2,8 +2,8 @@
   "PublicName": "Phanp’s Priv",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1466011255697809412/Uigy3aD5_normal.jpg",
   "Login": "phanpy100",
-  "CurrentFollowersCount": 22,
-  "CurrentTweetsCout": 35,
+  "CurrentFollowersCount": 21,
+  "CurrentTweetsCout": 36,
   "FollowersCountHistory": {
     "20210125": 44,
     "20210126": 48,
@@ -495,7 +495,8 @@
     "20220810": 22,
     "20220811": 22,
     "20220812": 22,
-    "20220813": 22
+    "20220813": 22,
+    "20220815": 21
   },
   "TweetsCountHistory": {
     "20210125": 1384,
@@ -988,20 +989,21 @@
     "20220810": 34,
     "20220811": 34,
     "20220812": 34,
-    "20220813": 35
+    "20220813": 35,
+    "20220815": 36
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -3.4883720930232515921837319186,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220806.0,
-        "Y": 22.0
+        "X": 20220808.0,
+        "Y": 22.2049180327868848183130
       },
       "End": {
-        "X": 20220813.0,
-        "Y": 22.0
+        "X": 20220815.0,
+        "Y": 21.4303278688524595411612
       }
     }
   }

@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1436409542888370183/ep5SU3uK_normal.jpg",
   "Login": "ubhoodie",
   "CurrentFollowersCount": 254,
-  "CurrentTweetsCout": 1300,
+  "CurrentTweetsCout": 1299,
   "FollowersCountHistory": {
     "20210913": 249,
     "20210914": 249,
@@ -311,7 +311,8 @@
     "20220810": 254,
     "20220811": 254,
     "20220812": 254,
-    "20220813": 254
+    "20220813": 254,
+    "20220815": 254
   },
   "TweetsCountHistory": {
     "20210913": 941,
@@ -620,20 +621,21 @@
     "20220810": 1300,
     "20220811": 1300,
     "20220812": 1300,
-    "20220813": 1300
+    "20220813": 1300,
+    "20220815": 1299
   },
   "LangId": "dk",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.3042743298720112179337332788,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220806.0,
-        "Y": 254.5696721311475404588498
+        "X": 20220808.0,
+        "Y": 254.0
       },
       "End": {
-        "X": 20220813.0,
-        "Y": 253.7950819672131151816779
+        "X": 20220815.0,
+        "Y": 254.0
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Grigoreen",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1548218372340322304/nK5b9mKz_normal.jpg",
   "Login": "Grigoreen",
-  "CurrentFollowersCount": 2345,
+  "CurrentFollowersCount": 2344,
   "CurrentTweetsCout": 550,
   "FollowersCountHistory": {
     "20210114": 1813,
@@ -508,7 +508,8 @@
     "20220810": 2343,
     "20220811": 2344,
     "20220812": 2346,
-    "20220813": 2345
+    "20220813": 2345,
+    "20220815": 2344
   },
   "TweetsCountHistory": {
     "20210114": 423,
@@ -1014,20 +1015,21 @@
     "20220810": 550,
     "20220811": 550,
     "20220812": 550,
-    "20220813": 550
+    "20220813": 550,
+    "20220815": 550
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0525937820520660323085265352,
+    "WeeklyGrowth": 0.0134613972580707029982436453,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220806.0,
-        "Y": 2345.5368852459016385088296
+        "X": 20220808.0,
+        "Y": 2344.2868852459016395183379
       },
       "End": {
-        "X": 20220813.0,
-        "Y": 2344.3032786885245908446573
+        "X": 20220815.0,
+        "Y": 2344.6024590163934424093127
       }
     }
   }
