@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1348339644165984256/GStultu3_normal.png",
   "Login": "shinyseaking",
   "CurrentFollowersCount": 148,
-  "CurrentTweetsCout": 1226,
+  "CurrentTweetsCout": 1227,
   "FollowersCountHistory": {
     "20210915": 146,
     "20210916": 146,
@@ -317,7 +317,8 @@
     "20220812": 148,
     "20220813": 148,
     "20220814": 148,
-    "20220815": 148
+    "20220815": 148,
+    "20220816": 148
   },
   "TweetsCountHistory": {
     "20210915": 1146,
@@ -632,20 +633,21 @@
     "20220812": 1225,
     "20220813": 1225,
     "20220814": 1225,
-    "20220815": 1226
+    "20220815": 1226,
+    "20220816": 1227
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.4330045706038008178975507853,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220809.0,
-        "Y": 148.4642857142857142857144
+        "X": 20220810.0,
+        "Y": 148.0
       },
       "End": {
-        "X": 20220815.0,
-        "Y": 147.8214285714285714285715
+        "X": 20220816.0,
+        "Y": 148.0
       }
     }
   }
