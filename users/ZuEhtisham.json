@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1377698397444927490/zRmEr9p6_normal.jpg",
   "Login": "ZuEhtisham",
   "CurrentFollowersCount": 1367,
-  "CurrentTweetsCout": 14814,
+  "CurrentTweetsCout": 14815,
   "FollowersCountHistory": {
     "20210108": 1123,
     "20210109": 1122,
@@ -542,7 +542,8 @@
     "20220813": 1367,
     "20220814": 1367,
     "20220815": 1367,
-    "20220816": 1367
+    "20220816": 1367,
+    "20220817": 1367
   },
   "TweetsCountHistory": {
     "20210108": 14490,
@@ -1082,20 +1083,21 @@
     "20220813": 14813,
     "20220814": 14813,
     "20220815": 14813,
-    "20220816": 14814
+    "20220816": 14814,
+    "20220817": 14815
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0470428351148629224054527878,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220810.0,
-        "Y": 1366.5357142857142857142857
+        "X": 20220811.0,
+        "Y": 1367.0
       },
       "End": {
-        "X": 20220816.0,
-        "Y": 1367.1785714285714285714285
+        "X": 20220817.0,
+        "Y": 1367.0
       }
     }
   }
