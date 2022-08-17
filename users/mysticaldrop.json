@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1313163513838346240/4WMt05I0_normal.jpg",
   "Login": "mysticaldrop",
   "CurrentFollowersCount": 495,
-  "CurrentTweetsCout": 1787,
+  "CurrentTweetsCout": 1788,
   "FollowersCountHistory": {
     "20210112": 382,
     "20210113": 388,
@@ -538,7 +538,8 @@
     "20220814": 495,
     "20220815": 495,
     "20220816": 495,
-    "20220817": 495
+    "20220817": 495,
+    "20220818": 495
   },
   "TweetsCountHistory": {
     "20210112": 1113,
@@ -1074,20 +1075,21 @@
     "20220814": 1781,
     "20220815": 1782,
     "20220816": 1785,
-    "20220817": 1787
+    "20220817": 1787,
+    "20220818": 1788
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1299920560410197154618415579,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220811.0,
-        "Y": 494.5357142857142857142857
+        "X": 20220812.0,
+        "Y": 495.0
       },
       "End": {
-        "X": 20220817.0,
-        "Y": 495.1785714285714285714286
+        "X": 20220818.0,
+        "Y": 495.0
       }
     }
   }
