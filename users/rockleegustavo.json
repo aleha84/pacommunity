@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1534642025919926274/ldqRCFnw_normal.jpg",
   "Login": "rockleegustavo",
   "CurrentFollowersCount": 2652,
-  "CurrentTweetsCout": 61471,
+  "CurrentTweetsCout": 61475,
   "FollowersCountHistory": {
     "20201219": 1767,
     "20201220": 1770,
@@ -537,7 +537,8 @@
     "20220813": 2652,
     "20220815": 2652,
     "20220816": 2652,
-    "20220817": 2652
+    "20220817": 2652,
+    "20220818": 2652
   },
   "TweetsCountHistory": {
     "20201219": 40991,
@@ -1072,20 +1073,21 @@
     "20220813": 61442,
     "20220815": 61449,
     "20220816": 61456,
-    "20220817": 61471
+    "20220817": 61471,
+    "20220818": 61475
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0216981375765246890541097705,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220810.0,
-        "Y": 2651.5753424657534245611446
+        "X": 20220811.0,
+        "Y": 2652.0
       },
       "End": {
-        "X": 20220817.0,
-        "Y": 2652.1506849315068494154742
+        "X": 20220818.0,
+        "Y": 2652.0
       }
     }
   }
