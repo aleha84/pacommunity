@@ -2,15 +2,16 @@
   "PublicName": "rgb",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1558911126364196874/9acRkflS_normal.jpg",
   "Login": "rgb0x00",
-  "CurrentFollowersCount": 1182,
-  "CurrentTweetsCout": 684,
+  "CurrentFollowersCount": 1188,
+  "CurrentTweetsCout": 686,
   "FollowersCountHistory": {
     "20220814": 1148,
     "20220815": 1161,
     "20220816": 1169,
     "20220817": 1175,
     "20220818": 1180,
-    "20220819": 1182
+    "20220819": 1182,
+    "20220820": 1188
   },
   "TweetsCountHistory": {
     "20220814": 680,
@@ -18,12 +19,22 @@
     "20220816": 681,
     "20220817": 683,
     "20220818": 683,
-    "20220819": 684
+    "20220819": 684,
+    "20220820": 686
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 3.2143188926392716687825884425,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220814.0,
+        "Y": 1153.32142857142857142857
+      },
+      "End": {
+        "X": 20220820.0,
+        "Y": 1190.39285714285714285714
+      }
+    }
   }
 }

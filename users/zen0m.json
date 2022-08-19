@@ -2,15 +2,16 @@
   "PublicName": "Zen0",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1439729383002963970/XN7RdGre_normal.png",
   "Login": "zen0m",
-  "CurrentFollowersCount": 7338,
-  "CurrentTweetsCout": 9405,
+  "CurrentFollowersCount": 7339,
+  "CurrentTweetsCout": 9447,
   "FollowersCountHistory": {
     "20220814": 7216,
     "20220815": 7259,
     "20220816": 7279,
     "20220817": 7297,
     "20220818": 7319,
-    "20220819": 7338
+    "20220819": 7338,
+    "20220820": 7339
   },
   "TweetsCountHistory": {
     "20220814": 9223,
@@ -18,12 +19,22 @@
     "20220816": 9328,
     "20220817": 9347,
     "20220818": 9373,
-    "20220819": 9405
+    "20220819": 9405,
+    "20220820": 9447
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.6801078587761189607234041336,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220814.0,
+        "Y": 7231.67857142857142857143
+      },
+      "End": {
+        "X": 20220820.0,
+        "Y": 7353.17857142857142857143
+      }
+    }
   }
 }
