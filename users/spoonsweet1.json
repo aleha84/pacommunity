@@ -2,7 +2,7 @@
   "PublicName": "spoonsweet",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1278080688458272768/ogidfrmR_normal.png",
   "Login": "spoonsweet1",
-  "CurrentFollowersCount": 1402,
+  "CurrentFollowersCount": 1400,
   "CurrentTweetsCout": 3633,
   "FollowersCountHistory": {
     "20210707": 486,
@@ -369,7 +369,8 @@
     "20220816": 1402,
     "20220817": 1401,
     "20220818": 1402,
-    "20220819": 1402
+    "20220819": 1402,
+    "20220820": 1400
   },
   "TweetsCountHistory": {
     "20210707": 1072,
@@ -736,20 +737,21 @@
     "20220816": 3633,
     "20220817": 3633,
     "20220818": 3633,
-    "20220819": 3633
+    "20220819": 3633,
+    "20220820": 3633
   },
   "LangId": "gr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0742288732212227869483548772,
+    "WeeklyGrowth": -0.0102359234118964701212314143,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220812.0,
-        "Y": 1400.8768115942028981511679
+        "X": 20220813.0,
+        "Y": 1401.36475409836065564099906
       },
       "End": {
-        "X": 20220819.0,
-        "Y": 1401.9166666666666670201208
+        "X": 20220820.0,
+        "Y": 1401.22131147540983614437113
       }
     }
   }
