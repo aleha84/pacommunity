@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1262142352648478720/-YK9DkrG_normal.jpg",
   "Login": "xXarabongXx",
   "CurrentFollowersCount": 1479,
-  "CurrentTweetsCout": 1572,
+  "CurrentTweetsCout": 1573,
   "FollowersCountHistory": {
     "20210125": 1303,
     "20210126": 1303,
@@ -506,7 +506,8 @@
     "20220817": 1479,
     "20220818": 1479,
     "20220819": 1479,
-    "20220820": 1479
+    "20220820": 1479,
+    "20220822": 1479
   },
   "TweetsCountHistory": {
     "20210125": 1163,
@@ -1010,20 +1011,21 @@
     "20220817": 1570,
     "20220818": 1570,
     "20220819": 1570,
-    "20220820": 1572
+    "20220820": 1572,
+    "20220822": 1573
   },
   "LangId": "it",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0523523953298338760300909224,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220813.0,
-        "Y": 1479.5696721311475404585179
+        "X": 20220815.0,
+        "Y": 1479.0
       },
       "End": {
-        "X": 20220820.0,
-        "Y": 1478.7950819672131151819484
+        "X": 20220822.0,
+        "Y": 1479.0
       }
     }
   }
