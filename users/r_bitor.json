@@ -2,7 +2,7 @@
   "PublicName": "г_ьiтог",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1120980452687396864/HrsovEwB_normal.png",
   "Login": "r_bitor",
-  "CurrentFollowersCount": 285,
+  "CurrentFollowersCount": 284,
   "CurrentTweetsCout": 1810,
   "FollowersCountHistory": {
     "20201213": 241,
@@ -548,7 +548,9 @@
     "20220819": 285,
     "20220820": 285,
     "20220822": 285,
-    "20220823": 285
+    "20220823": 285,
+    "20220824": 284,
+    "20220825": 284
   },
   "TweetsCountHistory": {
     "20201213": 1573,
@@ -1094,20 +1096,22 @@
     "20220819": 1810,
     "20220820": 1810,
     "20220822": 1810,
-    "20220823": 1810
+    "20220823": 1810,
+    "20220824": 1810,
+    "20220825": 1810
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3446081433185645307227553368,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220816.0,
-        "Y": 285.0
+        "X": 20220818.0,
+        "Y": 285.2157534246575344183230
       },
       "End": {
-        "X": 20220823.0,
-        "Y": 285.0
+        "X": 20220825.0,
+        "Y": 284.2328767123287669584098
       }
     }
   }
