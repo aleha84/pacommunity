@@ -2,7 +2,7 @@
   "PublicName": "Without_memories",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1431266721772544002/e-uM44K6_normal.jpg",
   "Login": "WithoutMem0ries",
-  "CurrentFollowersCount": 31,
+  "CurrentFollowersCount": 30,
   "CurrentTweetsCout": 35,
   "FollowersCountHistory": {
     "20210225": 7,
@@ -477,7 +477,8 @@
     "20220822": 31,
     "20220823": 31,
     "20220824": 31,
-    "20220825": 31
+    "20220825": 31,
+    "20220827": 30
   },
   "TweetsCountHistory": {
     "20210225": 24,
@@ -952,20 +953,21 @@
     "20220822": 35,
     "20220823": 35,
     "20220824": 35,
-    "20220825": 35
+    "20220825": 35,
+    "20220827": 35
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -2.2671748265415791080036289863,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220818.0,
-        "Y": 31.0
+        "X": 20220819.0,
+        "Y": 31.1981707317073167612514
       },
       "End": {
-        "X": 20220825.0,
-        "Y": 31.0
+        "X": 20220827.0,
+        "Y": 30.4908536585365857008780
       }
     }
   }
