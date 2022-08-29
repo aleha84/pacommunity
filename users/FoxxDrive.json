@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1309174527054827520/kYzXZFNJ_normal.jpg",
   "Login": "FoxxDrive",
   "CurrentFollowersCount": 1076,
-  "CurrentTweetsCout": 10086,
+  "CurrentTweetsCout": 10090,
   "FollowersCountHistory": {
     "20201219": 235,
     "20201220": 233,
@@ -546,7 +546,8 @@
     "20220824": 1073,
     "20220825": 1073,
     "20220827": 1074,
-    "20220828": 1076
+    "20220828": 1076,
+    "20220829": 1076
   },
   "TweetsCountHistory": {
     "20201219": 3533,
@@ -1090,20 +1091,21 @@
     "20220824": 10051,
     "20220825": 10058,
     "20220827": 10079,
-    "20220828": 10086
+    "20220828": 10086,
+    "20220829": 10090
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1428324467708246418179827414,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220820.0,
-        "Y": 1075.7957317073170724429284
+        "X": 20220822.0,
+        "Y": 1075.0
       },
       "End": {
-        "X": 20220828.0,
-        "Y": 1074.2591463414634153117565
+        "X": 20220829.0,
+        "Y": 1075.0
       }
     }
   }
