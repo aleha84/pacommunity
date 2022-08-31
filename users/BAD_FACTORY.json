@@ -2,8 +2,8 @@
   "PublicName": "BAD FACTORY",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1557527730945605633/4ctdwhW5_normal.jpg",
   "Login": "BAD_FACTORY",
-  "CurrentFollowersCount": 1751,
-  "CurrentTweetsCout": 9433,
+  "CurrentFollowersCount": 1749,
+  "CurrentTweetsCout": 9446,
   "FollowersCountHistory": {
     "20201225": 1228,
     "20201226": 1229,
@@ -542,7 +542,9 @@
     "20220825": 1746,
     "20220827": 1751,
     "20220828": 1751,
-    "20220829": 1751
+    "20220829": 1751,
+    "20220830": 1750,
+    "20220831": 1749
   },
   "TweetsCountHistory": {
     "20201225": 7307,
@@ -1082,20 +1084,22 @@
     "20220825": 9403,
     "20220827": 9422,
     "20220828": 9426,
-    "20220829": 9433
+    "20220829": 9433,
+    "20220830": 9442,
+    "20220831": 9446
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.728850923119317,
+    "WeeklyGrowth": 0.3501816294758694809890976182,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220822.0,
-        "Y": 1739.93150684932
+        "X": 20220824.0,
+        "Y": 1745.471014492753620838344
       },
       "End": {
-        "X": 20220829.0,
-        "Y": 1752.61301369863
+        "X": 20220831.0,
+        "Y": 1751.583333333333335412234
       }
     }
   }

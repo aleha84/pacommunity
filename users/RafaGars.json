@@ -3,14 +3,16 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1529185947392278535/1IK4Lr3l_normal.jpg",
   "Login": "RafaGars",
   "CurrentFollowersCount": 300,
-  "CurrentTweetsCout": 5638,
+  "CurrentTweetsCout": 5640,
   "FollowersCountHistory": {
     "20220823": 296,
     "20220824": 298,
     "20220825": 299,
     "20220827": 301,
     "20220828": 301,
-    "20220829": 300
+    "20220829": 300,
+    "20220830": 300,
+    "20220831": 300
   },
   "TweetsCountHistory": {
     "20220823": 5602,
@@ -18,12 +20,23 @@
     "20220825": 5626,
     "20220827": 5631,
     "20220828": 5634,
-    "20220829": 5638
+    "20220829": 5638,
+    "20220830": 5640,
+    "20220831": 5640
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.576913753817812025497466416,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220824.0,
+        "Y": 298.9420289855072457136587
+      },
+      "End": {
+        "X": 20220831.0,
+        "Y": 300.6666666666666672533019
+      }
+    }
   }
 }

@@ -2,8 +2,8 @@
   "PublicName": "Dmitry Petyakin",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1547392040362774528/fJil67eA_normal.jpg",
   "Login": "ElMetallico1",
-  "CurrentFollowersCount": 9841,
-  "CurrentTweetsCout": 15589,
+  "CurrentFollowersCount": 9834,
+  "CurrentTweetsCout": 15625,
   "FollowersCountHistory": {
     "20201212": 3618,
     "20201213": 3625,
@@ -554,7 +554,9 @@
     "20220825": 9848,
     "20220827": 9848,
     "20220828": 9843,
-    "20220829": 9841
+    "20220829": 9841,
+    "20220830": 9832,
+    "20220831": 9834
   },
   "TweetsCountHistory": {
     "20201213": 5490,
@@ -1105,20 +1107,22 @@
     "20220825": 15509,
     "20220827": 15538,
     "20220828": 15563,
-    "20220829": 15589
+    "20220829": 15589,
+    "20220830": 15622,
+    "20220831": 15625
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.171927017938938,
+    "WeeklyGrowth": -0.0605528753597282957603565972,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220822.0,
-        "Y": 9830.15068493151
+        "X": 20220824.0,
+        "Y": 9842.876811594202900839718
       },
       "End": {
-        "X": 20220829.0,
-        "Y": 9847.05136986301
+        "X": 20220831.0,
+        "Y": 9836.916666666666664641787
       }
     }
   }

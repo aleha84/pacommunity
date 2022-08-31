@@ -2,8 +2,8 @@
   "PublicName": "Henk Nieborg",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1483752598238908416/-I4MOW2s_normal.jpg",
   "Login": "pixelhenk",
-  "CurrentFollowersCount": 11209,
-  "CurrentTweetsCout": 1652,
+  "CurrentFollowersCount": 11206,
+  "CurrentTweetsCout": 1653,
   "FollowersCountHistory": {
     "20210126": 8374,
     "20210127": 8373,
@@ -514,7 +514,8 @@
     "20220827": 11208,
     "20220828": 11210,
     "20220829": 11208,
-    "20220830": 11209
+    "20220830": 11208,
+    "20220831": 11206
   },
   "TweetsCountHistory": {
     "20210126": 831,
@@ -1026,20 +1027,21 @@
     "20220827": 1652,
     "20220828": 1652,
     "20220829": 1652,
-    "20220830": 1652
+    "20220830": 1653,
+    "20220831": 1653
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0017110124427269145092104078,
+    "WeeklyGrowth": -0.0138023592660377373342366558,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220823.0,
-        "Y": 11208.61643835616438352446520
+        "X": 20220824.0,
+        "Y": 11208.9637681159420295817160
       },
       "End": {
-        "X": 20220830.0,
-        "Y": 11208.80821917808219181651343
+        "X": 20220831.0,
+        "Y": 11207.4166666666666661392512
       }
     }
   }

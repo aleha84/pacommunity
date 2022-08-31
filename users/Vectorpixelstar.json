@@ -2,7 +2,7 @@
   "PublicName": "VPS",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1473542294137556996/bCIfOmxG_normal.jpg",
   "Login": "Vectorpixelstar",
-  "CurrentFollowersCount": 2583,
+  "CurrentFollowersCount": 2584,
   "CurrentTweetsCout": 668,
   "FollowersCountHistory": {
     "20201217": 2243,
@@ -548,7 +548,9 @@
     "20220825": 2581,
     "20220827": 2582,
     "20220828": 2582,
-    "20220829": 2583
+    "20220829": 2583,
+    "20220830": 2584,
+    "20220831": 2584
   },
   "TweetsCountHistory": {
     "20201217": 551,
@@ -1094,20 +1096,22 @@
     "20220825": 668,
     "20220827": 668,
     "20220828": 668,
-    "20220829": 668
+    "20220829": 668,
+    "20220830": 668,
+    "20220831": 668
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0881355033663786,
+    "WeeklyGrowth": 0.1041555539334865072401291659,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220822.0,
-        "Y": 2583.97260273973
+        "X": 20220824.0,
+        "Y": 2581.1449275362318830240055
       },
       "End": {
-        "X": 20220829.0,
-        "Y": 2581.69520547945
+        "X": 20220831.0,
+        "Y": 2583.8333333333333342479952
       }
     }
   }
