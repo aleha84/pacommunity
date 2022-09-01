@@ -2,7 +2,7 @@
   "PublicName": "Andrés Guerrero",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1498462060501426180/Nndt1ruw_normal.jpg",
   "Login": "AndyL4nd",
-  "CurrentFollowersCount": 52588,
+  "CurrentFollowersCount": 52583,
   "CurrentTweetsCout": 595,
   "FollowersCountHistory": {
     "20210204": 42936,
@@ -502,7 +502,8 @@
     "20220828": 52601,
     "20220829": 52600,
     "20220830": 52592,
-    "20220831": 52588
+    "20220831": 52588,
+    "20220901": 52583
   },
   "TweetsCountHistory": {
     "20210204": 360,
@@ -1002,20 +1003,21 @@
     "20220828": 595,
     "20220829": 595,
     "20220830": 595,
-    "20220831": 595
+    "20220831": 595,
+    "20220901": 595
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0685832710798371463327093604,
+    "WeeklyGrowth": -0.0368990226773515320033438583,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220824.0,
-        "Y": 52623.00724637681160807844
+        "X": 20220825.0,
+        "Y": 52601.0738554292532814386851
       },
       "End": {
-        "X": 20220831.0,
-        "Y": 52586.91666666666665439215
+        "X": 20220901.0,
+        "Y": 52581.6645732588080134659709
       }
     }
   }

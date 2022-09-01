@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1513715119800430599/66_L4o78_normal.jpg",
   "Login": "Mooptychunk",
   "CurrentFollowersCount": 351,
-  "CurrentTweetsCout": 2097,
+  "CurrentTweetsCout": 2098,
   "FollowersCountHistory": {
     "20210914": 47,
     "20210915": 50,
@@ -334,7 +334,8 @@
     "20220828": 351,
     "20220829": 351,
     "20220830": 351,
-    "20220831": 351
+    "20220831": 351,
+    "20220901": 351
   },
   "TweetsCountHistory": {
     "20210914": 1577,
@@ -666,20 +667,21 @@
     "20220828": 2097,
     "20220829": 2097,
     "20220830": 2097,
-    "20220831": 2097
+    "20220831": 2097,
+    "20220901": 2098
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1833927661742231278655242051,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220825.0,
-        "Y": 350.5357142857142857142857
+        "X": 20220826.0,
+        "Y": 351.0
       },
       "End": {
-        "X": 20220831.0,
-        "Y": 351.1785714285714285714286
+        "X": 20220901.0,
+        "Y": 351.0
       }
     }
   }

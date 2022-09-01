@@ -2,7 +2,7 @@
   "PublicName": "jmk ⚙️ Puddlehead Creations",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1278817089696837632/AGB1N0uc_normal.jpg",
   "Login": "PuddleheadC",
-  "CurrentFollowersCount": 6379,
+  "CurrentFollowersCount": 6378,
   "CurrentTweetsCout": 4700,
   "FollowersCountHistory": {
     "20210706": 5167,
@@ -379,7 +379,8 @@
     "20220828": 6379,
     "20220829": 6378,
     "20220830": 6379,
-    "20220831": 6379
+    "20220831": 6379,
+    "20220901": 6378
   },
   "TweetsCountHistory": {
     "20210706": 3963,
@@ -756,20 +757,21 @@
     "20220828": 4698,
     "20220829": 4700,
     "20220830": 4700,
-    "20220831": 4700
+    "20220831": 4700,
+    "20220901": 4700
   },
   "LangId": "fi",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0067595892441870422443102271,
+    "WeeklyGrowth": -0.006061153315189454067864901,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220824.0,
-        "Y": 6378.4855072463768114257299
+        "X": 20220825.0,
+        "Y": 6378.49833574075237078496725
       },
       "End": {
-        "X": 20220831.0,
-        "Y": 6378.9166666666666668157005
+        "X": 20220901.0,
+        "Y": 6378.11172517741631601827372
       }
     }
   }

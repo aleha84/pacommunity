@@ -2,8 +2,8 @@
   "PublicName": "Haykira",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1346787021549924352/8kJ_Squb_normal.jpg",
   "Login": "Haykira_",
-  "CurrentFollowersCount": 4101,
-  "CurrentTweetsCout": 12981,
+  "CurrentFollowersCount": 4102,
+  "CurrentTweetsCout": 12983,
   "FollowersCountHistory": {
     "20201229": 3489,
     "20201230": 3487,
@@ -539,7 +539,8 @@
     "20220828": 4104,
     "20220829": 4102,
     "20220830": 4102,
-    "20220831": 4101
+    "20220831": 4100,
+    "20220901": 4102
   },
   "TweetsCountHistory": {
     "20201229": 12714,
@@ -1076,20 +1077,21 @@
     "20220828": 12981,
     "20220829": 12981,
     "20220830": 12981,
-    "20220831": 12981
+    "20220831": 12983,
+    "20220901": 12983
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.0031417700300585632578891983,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220824.0,
-        "Y": 4102.0
+        "X": 20220825.0,
+        "Y": 4101.833888086415876405041062
       },
       "End": {
-        "X": 20220831.0,
-        "Y": 4102.0
+        "X": 20220901.0,
+        "Y": 4101.962758274194561327105184
       }
     }
   }

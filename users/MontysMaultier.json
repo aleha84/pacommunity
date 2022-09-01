@@ -2,7 +2,7 @@
   "PublicName": "Jasper",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1235194337580978176/yJwZ4lfG_normal.jpg",
   "Login": "MontysMaultier",
-  "CurrentFollowersCount": 31,
+  "CurrentFollowersCount": 30,
   "CurrentTweetsCout": 81,
   "FollowersCountHistory": {
     "20210210": 12,
@@ -496,7 +496,8 @@
     "20220828": 31,
     "20220829": 31,
     "20220830": 31,
-    "20220831": 31
+    "20220831": 30,
+    "20220901": 30
   },
   "TweetsCountHistory": {
     "20210210": 43,
@@ -990,20 +991,21 @@
     "20220828": 81,
     "20220829": 81,
     "20220830": 81,
-    "20220831": 81
+    "20220831": 81,
+    "20220901": 81
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -3.5787321063394708466826453553,
+    "WeeklyGrowth": -3.6723437980170475911255898759,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220824.0,
-        "Y": 31.8913043478260873953524
+        "X": 20220825.0,
+        "Y": 31.06299064246687182192962
       },
       "End": {
-        "X": 20220831.0,
-        "Y": 30.7499999999999996118036
+        "X": 20220901.0,
+        "Y": 29.92225083212962380873627
       }
     }
   }
