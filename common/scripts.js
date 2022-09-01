@@ -323,20 +323,6 @@ function parseParams(str) {
         this.sort();
         this.createContributorsLink();
 
-//         let koFiScript = document.createElement('script');
-//         koFiScript.src = 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js';
-//         document.body.appendChild(koFiScript);
-//         setTimeout(() => {
-//   kofiWidgetOverlay.draw('aleha_84', {
-//     'type': 'floating-chat',
-//     'floating-chat.donateButton.text': 'Support',
-//     'floating-chat.donateButton.background-color': '#323842',
-//     'floating-chat.donateButton.text-color': '#fff'
-//   });
-
-
-
-//         },10)
     }
     createOtherListsLinks() {
         createListLinks(this.languages, this.currentLanguage.Id, this.params)
