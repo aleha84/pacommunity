@@ -2,7 +2,7 @@
   "PublicName": "Bizarre Pixels (Caesar)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1325516049698131968/M6r5GVgq_normal.jpg",
   "Login": "BizarrePixels",
-  "CurrentFollowersCount": 154,
+  "CurrentFollowersCount": 153,
   "CurrentTweetsCout": 700,
   "FollowersCountHistory": {
     "20210101": 103,
@@ -538,7 +538,8 @@
     "20220830": 154,
     "20220831": 154,
     "20220901": 154,
-    "20220902": 154
+    "20220902": 154,
+    "20220903": 153
   },
   "TweetsCountHistory": {
     "20210101": 452,
@@ -1074,20 +1075,21 @@
     "20220830": 700,
     "20220831": 700,
     "20220901": 700,
-    "20220902": 700
+    "20220902": 700,
+    "20220903": 700
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2291253675263471032281814143,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220827.0,
-        "Y": 154.0
+        "X": 20220828.0,
+        "Y": 154.01039224383752613926916
       },
       "End": {
-        "X": 20220902.0,
-        "Y": 154.0
+        "X": 20220903.0,
+        "Y": 153.65751536658006463437304
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "andylittle",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1283808147199741954/TtHAnMbs_normal.png",
   "Login": "andylittle79",
-  "CurrentFollowersCount": 10768,
+  "CurrentFollowersCount": 10766,
   "CurrentTweetsCout": 303,
   "FollowersCountHistory": {
     "20201215": 2777,
@@ -554,7 +554,8 @@
     "20220830": 10769,
     "20220831": 10767,
     "20220901": 10768,
-    "20220902": 10768
+    "20220902": 10768,
+    "20220903": 10766
   },
   "TweetsCountHistory": {
     "20201215": 111,
@@ -1106,20 +1107,21 @@
     "20220830": 303,
     "20220831": 303,
     "20220901": 303,
-    "20220902": 303
+    "20220902": 303,
+    "20220903": 303
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0127179767024065251548039792,
+    "WeeklyGrowth": -0.0116623130797118473956550755,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220827.0,
-        "Y": 10766.72815183524583934796206
+        "X": 20220828.0,
+        "Y": 10768.54540269944870413875134
       },
       "End": {
-        "X": 20220902.0,
-        "Y": 10768.09746181320769055752133
+        "X": 20220903.0,
+        "Y": 10767.28954122045497750346862
       }
     }
   }

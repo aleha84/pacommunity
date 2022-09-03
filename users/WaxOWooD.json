@@ -2,7 +2,7 @@
   "PublicName": "Waxo Wood",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1442176138969767942/doJJQkvy_normal.jpg",
   "Login": "WaxOWooD",
-  "CurrentFollowersCount": 338,
+  "CurrentFollowersCount": 337,
   "CurrentTweetsCout": 745,
   "FollowersCountHistory": {
     "20210112": 349,
@@ -527,7 +527,8 @@
     "20220830": 338,
     "20220831": 338,
     "20220901": 338,
-    "20220902": 338
+    "20220902": 338,
+    "20220903": 337
   },
   "TweetsCountHistory": {
     "20210112": 661,
@@ -1052,20 +1053,21 @@
     "20220830": 745,
     "20220831": 745,
     "20220901": 745,
-    "20220902": 745
+    "20220902": 745,
+    "20220903": 745
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1043982331179034980463905101,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220827.0,
-        "Y": 338.0
+        "X": 20220828.0,
+        "Y": 338.01039224383752613926916
       },
       "End": {
-        "X": 20220902.0,
-        "Y": 338.0
+        "X": 20220903.0,
+        "Y": 337.65751536658006463437304
       }
     }
   }
