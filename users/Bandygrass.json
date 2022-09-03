@@ -2,15 +2,16 @@
   "PublicName": "Sandy Gordon⚡️",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1199802038445494273/p-8dxgHz_normal.png",
   "Login": "Bandygrass",
-  "CurrentFollowersCount": 31384,
-  "CurrentTweetsCout": 59955,
+  "CurrentFollowersCount": 31381,
+  "CurrentTweetsCout": 59954,
   "FollowersCountHistory": {
     "20220829": 31287,
     "20220830": 31361,
     "20220831": 31374,
     "20220901": 31374,
     "20220902": 31377,
-    "20220903": 31384
+    "20220903": 31384,
+    "20220904": 31381
   },
   "TweetsCountHistory": {
     "20220829": 59888,
@@ -18,12 +19,22 @@
     "20220831": 59923,
     "20220901": 59938,
     "20220902": 59941,
-    "20220903": 59955
+    "20220903": 59955,
+    "20220904": 59954
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.1291155596322181671421366556,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220829.0,
+        "Y": 31339.680137507128825766984
+      },
+      "End": {
+        "X": 20220904.0,
+        "Y": 31380.144540903618275168779
+      }
+    }
   }
 }
