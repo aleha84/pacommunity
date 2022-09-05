@@ -2,8 +2,8 @@
   "PublicName": "Ellie",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1560528401185792000/O4BjtxzP_normal.jpg",
   "Login": "_Elliotta_",
-  "CurrentFollowersCount": 266,
-  "CurrentTweetsCout": 2007,
+  "CurrentFollowersCount": 265,
+  "CurrentTweetsCout": 2016,
   "FollowersCountHistory": {
     "20210914": 186,
     "20210915": 187,
@@ -326,7 +326,9 @@
     "20220831": 266,
     "20220901": 266,
     "20220902": 266,
-    "20220903": 266
+    "20220903": 266,
+    "20220904": 265,
+    "20220905": 265
   },
   "TweetsCountHistory": {
     "20210914": 1357,
@@ -650,20 +652,22 @@
     "20220831": 2002,
     "20220901": 2004,
     "20220902": 2004,
-    "20220903": 2007
+    "20220903": 2007,
+    "20220904": 2008,
+    "20220905": 2016
   },
   "LangId": "it",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1665786103208893225881737324,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220828.0,
-        "Y": 266.0
+        "X": 20220830.0,
+        "Y": 266.02321604985181244892526
       },
       "End": {
-        "X": 20220903.0,
-        "Y": 266.0
+        "X": 20220905.0,
+        "Y": 265.58007827342503229677839
       }
     }
   }

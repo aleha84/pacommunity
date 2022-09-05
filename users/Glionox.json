@@ -2,7 +2,7 @@
   "PublicName": "Glionox",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1493556963266994181/Wg0JUDJV_normal.jpg",
   "Login": "Glionox",
-  "CurrentFollowersCount": 246,
+  "CurrentFollowersCount": 245,
   "CurrentTweetsCout": 183,
   "FollowersCountHistory": {
     "20210913": 40,
@@ -329,7 +329,9 @@
     "20220831": 246,
     "20220901": 246,
     "20220902": 246,
-    "20220903": 246
+    "20220903": 246,
+    "20220904": 245,
+    "20220905": 245
   },
   "TweetsCountHistory": {
     "20210913": 67,
@@ -656,20 +658,22 @@
     "20220831": 183,
     "20220901": 182,
     "20220902": 182,
-    "20220903": 183
+    "20220903": 183,
+    "20220904": 183,
+    "20220905": 183
   },
   "LangId": "ua",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1801203087829674227289021488,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220828.0,
-        "Y": 246.0
+        "X": 20220830.0,
+        "Y": 246.02321604985181244892526
       },
       "End": {
-        "X": 20220903.0,
-        "Y": 246.0
+        "X": 20220905.0,
+        "Y": 245.58007827342503229677839
       }
     }
   }
