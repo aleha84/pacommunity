@@ -2,7 +2,7 @@
   "PublicName": "Apples and Oranges | Commissions!",
   "AvatarImage": "https://pbs.twimg.com/profile_images/658107535547854848/vb1BGU1W_normal.png",
   "Login": "orangemagik",
-  "CurrentFollowersCount": 6382,
+  "CurrentFollowersCount": 6381,
   "CurrentTweetsCout": 25077,
   "FollowersCountHistory": {
     "20201213": 4781,
@@ -560,7 +560,8 @@
     "20220902": 6381,
     "20220903": 6383,
     "20220904": 6382,
-    "20220905": 6382
+    "20220905": 6382,
+    "20220906": 6381
   },
   "TweetsCountHistory": {
     "20201213": 23908,
@@ -1118,20 +1119,21 @@
     "20220902": 25077,
     "20220903": 25077,
     "20220904": 25077,
-    "20220905": 25077
+    "20220905": 25077,
+    "20220906": 25077
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0032373500954341039542802897,
+    "WeeklyGrowth": -0.0171831580902749434909149235,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220830.0,
-        "Y": 6381.998822098943688729500045
+        "X": 20220831.0,
+        "Y": 6383.05164245104232469191433
       },
       "End": {
-        "X": 20220905.0,
-        "Y": 6382.205429743901512273249979
+        "X": 20220906.0,
+        "Y": 6381.95483259633607075339705
       }
     }
   }

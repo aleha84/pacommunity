@@ -2,7 +2,7 @@
   "PublicName": "Netroco🐣",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1251647327015596032/PyW0K3fh_normal.png",
   "Login": "netroco",
-  "CurrentFollowersCount": 2049,
+  "CurrentFollowersCount": 2048,
   "CurrentTweetsCout": 1812,
   "FollowersCountHistory": {
     "20201225": 889,
@@ -549,7 +549,8 @@
     "20220902": 2050,
     "20220903": 2052,
     "20220904": 2050,
-    "20220905": 2049
+    "20220905": 2049,
+    "20220906": 2048
   },
   "TweetsCountHistory": {
     "20201225": 1431,
@@ -1096,20 +1097,21 @@
     "20220902": 1811,
     "20220903": 1812,
     "20220904": 1812,
-    "20220905": 1812
+    "20220905": 1812,
+    "20220906": 1812
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0207995853641175411906515622,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220830.0,
-        "Y": 2050.0
+        "X": 20220831.0,
+        "Y": 2050.06759317751105495564978
       },
       "End": {
-        "X": 20220905.0,
-        "Y": 2050.0
+        "X": 20220906.0,
+        "Y": 2049.64118761844598862986556
       }
     }
   }
