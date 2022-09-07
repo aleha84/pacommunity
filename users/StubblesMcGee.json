@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1544491735602143233/QQ4Dhinf_normal.jpg",
   "Login": "StubblesMcGee",
   "CurrentFollowersCount": 1041,
-  "CurrentTweetsCout": 24534,
+  "CurrentTweetsCout": 24539,
   "FollowersCountHistory": {
     "20210914": 377,
     "20210915": 378,
@@ -341,7 +341,8 @@
     "20220904": 1042,
     "20220905": 1043,
     "20220906": 1042,
-    "20220907": 1041
+    "20220907": 1041,
+    "20220908": 1041
   },
   "TweetsCountHistory": {
     "20210914": 22319,
@@ -680,20 +681,21 @@
     "20220904": 24500,
     "20220905": 24512,
     "20220906": 24518,
-    "20220907": 24534
+    "20220907": 24534,
+    "20220908": 24539
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1438503955885878686166386958,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220901.0,
-        "Y": 1042.0
+        "X": 20220902.0,
+        "Y": 1042.75
       },
       "End": {
-        "X": 20220907.0,
-        "Y": 1042.0
+        "X": 20220908.0,
+        "Y": 1041.25
       }
     }
   }
