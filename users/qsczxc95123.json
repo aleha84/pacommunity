@@ -2,15 +2,16 @@
   "PublicName": "흐미후마",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1566078746913714176/Sp24vFzu_normal.jpg",
   "Login": "qsczxc95123",
-  "CurrentFollowersCount": 540,
-  "CurrentTweetsCout": 268,
+  "CurrentFollowersCount": 556,
+  "CurrentTweetsCout": 272,
   "FollowersCountHistory": {
     "20220901": 470,
     "20220902": 509,
     "20220903": 516,
     "20220904": 527,
     "20220905": 536,
-    "20220906": 540
+    "20220906": 540,
+    "20220907": 556
   },
   "TweetsCountHistory": {
     "20220901": 234,
@@ -18,12 +19,22 @@
     "20220903": 254,
     "20220904": 260,
     "20220905": 266,
-    "20220906": 268
+    "20220906": 268,
+    "20220907": 272
   },
   "LangId": "kr",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 15.004413062665489849954133491,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220901.0,
+        "Y": 485.57142857142857142858
+      },
+      "End": {
+        "X": 20220907.0,
+        "Y": 558.42857142857142857143
+      }
+    }
   }
 }

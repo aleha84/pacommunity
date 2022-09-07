@@ -2,8 +2,8 @@
   "PublicName": "Kercy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1562614903663362048/uePtw7BA_normal.jpg",
   "Login": "KdeKercy",
-  "CurrentFollowersCount": 30873,
-  "CurrentTweetsCout": 4814,
+  "CurrentFollowersCount": 30886,
+  "CurrentTweetsCout": 4824,
   "FollowersCountHistory": {
     "20210221": 1678,
     "20210222": 1683,
@@ -491,7 +491,8 @@
     "20220903": 30868,
     "20220904": 30864,
     "20220905": 30872,
-    "20220906": 30873
+    "20220906": 30890,
+    "20220907": 30886
   },
   "TweetsCountHistory": {
     "20210221": 1747,
@@ -980,20 +981,21 @@
     "20220903": 4808,
     "20220904": 4811,
     "20220905": 4813,
-    "20220906": 4814
+    "20220906": 4816,
+    "20220907": 4824
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.057023256380241917022219033,
+    "WeeklyGrowth": 0.1403255274364193371355669768,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220831.0,
-        "Y": 30845.7117814276689830816792
+        "X": 20220901.0,
+        "Y": 30846.64285714285714285714
       },
       "End": {
-        "X": 20220906.0,
-        "Y": 30863.3010107391029690175835
+        "X": 20220907.0,
+        "Y": 30889.92857142857142857143
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "RunninBlood",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1071143108321132544/6Yw6XQ1a_normal.jpg",
   "Login": "RunninBlood",
-  "CurrentFollowersCount": 2433,
+  "CurrentFollowersCount": 2432,
   "CurrentTweetsCout": 678,
   "FollowersCountHistory": {
     "20210125": 1639,
@@ -521,7 +521,8 @@
     "20220903": 2431,
     "20220904": 2431,
     "20220905": 2432,
-    "20220906": 2433
+    "20220906": 2433,
+    "20220907": 2432
   },
   "TweetsCountHistory": {
     "20210125": 514,
@@ -1040,20 +1041,21 @@
     "20220903": 678,
     "20220904": 678,
     "20220905": 678,
-    "20220906": 678
+    "20220906": 678,
+    "20220907": 678
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0167545000768888684121443722,
+    "WeeklyGrowth": 0.0705260064648839259476938021,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220831.0,
-        "Y": 2431.90903348073278584647315
+        "X": 20220901.0,
+        "Y": 2430.7142857142857142857142
       },
       "End": {
-        "X": 20220906.0,
-        "Y": 2431.50157927984838913521245
+        "X": 20220907.0,
+        "Y": 2432.4285714285714285714285
       }
     }
   }

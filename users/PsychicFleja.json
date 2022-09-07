@@ -2,7 +2,7 @@
   "PublicName": "Fleja",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1443027835728322563/tR57ibBc_normal.png",
   "Login": "PsychicFleja",
-  "CurrentFollowersCount": 7245,
+  "CurrentFollowersCount": 7246,
   "CurrentTweetsCout": 989,
   "FollowersCountHistory": {
     "20210915": 6637,
@@ -339,7 +339,8 @@
     "20220903": 7249,
     "20220904": 7247,
     "20220905": 7247,
-    "20220906": 7245
+    "20220906": 7245,
+    "20220907": 7246
   },
   "TweetsCountHistory": {
     "20210915": 911,
@@ -676,20 +677,21 @@
     "20220903": 989,
     "20220904": 989,
     "20220905": 989,
-    "20220906": 989
+    "20220906": 989,
+    "20220907": 989
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0024515742713360127278755784,
+    "WeeklyGrowth": -0.0413870576758210896621042354,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220831.0,
-        "Y": 7247.138502842703727101640844
+        "X": 20220901.0,
+        "Y": 7248.642857142857142857143
       },
       "End": {
-        "X": 20220906.0,
-        "Y": 7247.316171825647504737591549
+        "X": 20220907.0,
+        "Y": 7245.642857142857142857143
       }
     }
   }

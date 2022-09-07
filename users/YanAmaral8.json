@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1492544790671540227/Wy2kK2KN_normal.jpg",
   "Login": "YanAmaral8",
   "CurrentFollowersCount": 208,
-  "CurrentTweetsCout": 554,
+  "CurrentTweetsCout": 556,
   "FollowersCountHistory": {
     "20210113": 143,
     "20210114": 143,
@@ -531,7 +531,8 @@
     "20220903": 208,
     "20220904": 208,
     "20220905": 208,
-    "20220906": 208
+    "20220906": 208,
+    "20220907": 208
   },
   "TweetsCountHistory": {
     "20210113": 353,
@@ -1060,20 +1061,21 @@
     "20220903": 554,
     "20220904": 554,
     "20220905": 554,
-    "20220906": 554
+    "20220906": 555,
+    "20220907": 556
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.4978084982204776625431401632,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220831.0,
-        "Y": 207.00331648768161719065730
+        "X": 20220901.0,
+        "Y": 208.0
       },
       "End": {
-        "X": 20220906.0,
-        "Y": 208.03379658875552747779504
+        "X": 20220907.0,
+        "Y": 208.0
       }
     }
   }

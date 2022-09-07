@@ -2,7 +2,7 @@
   "PublicName": "garvash",
   "AvatarImage": "https://pbs.twimg.com/profile_images/871426309833895936/o0njsKBR_normal.jpg",
   "Login": "garvash",
-  "CurrentFollowersCount": 2087,
+  "CurrentFollowersCount": 2086,
   "CurrentTweetsCout": 9860,
   "FollowersCountHistory": {
     "20201231": 2183,
@@ -544,7 +544,8 @@
     "20220903": 2086,
     "20220904": 2086,
     "20220905": 2087,
-    "20220906": 2087
+    "20220906": 2086,
+    "20220907": 2086
   },
   "TweetsCountHistory": {
     "20201231": 10014,
@@ -1086,20 +1087,21 @@
     "20220903": 9860,
     "20220904": 9860,
     "20220905": 9860,
-    "20220906": 9860
+    "20220906": 9860,
+    "20220907": 9860
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0305343881154561588740564011,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220831.0,
-        "Y": 2086.95656980416929879472455
+        "X": 20220901.0,
+        "Y": 2086.1428571428571428571428571
       },
       "End": {
-        "X": 20220906.0,
-        "Y": 2086.31933038534428300798803
+        "X": 20220907.0,
+        "Y": 2086.1428571428571428571428571
       }
     }
   }
