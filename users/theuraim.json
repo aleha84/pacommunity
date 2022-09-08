@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1481415838636904448/z09EtrRY_normal.png",
   "Login": "theuraim",
   "CurrentFollowersCount": 9,
-  "CurrentTweetsCout": 671,
+  "CurrentTweetsCout": 674,
   "FollowersCountHistory": {
     "20210914": 7,
     "20210915": 8,
@@ -329,7 +329,8 @@
     "20220904": 9,
     "20220905": 9,
     "20220906": 9,
-    "20220907": 9
+    "20220907": 9,
+    "20220908": 9
   },
   "TweetsCountHistory": {
     "20210914": 290,
@@ -656,20 +657,21 @@
     "20220904": 658,
     "20220905": 663,
     "20220906": 667,
-    "20220907": 671
+    "20220907": 671,
+    "20220908": 674
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -6.7924528301886792452824048416,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220901.0,
-        "Y": 9.4642857142857142857143
+        "X": 20220902.0,
+        "Y": 9.0
       },
       "End": {
-        "X": 20220907.0,
-        "Y": 8.8214285714285714285715
+        "X": 20220908.0,
+        "Y": 9.0
       }
     }
   }

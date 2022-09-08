@@ -2,8 +2,8 @@
   "PublicName": "Caseter",
   "AvatarImage": "https://pbs.twimg.com/profile_images/631433993078964224/vsfbaody_normal.png",
   "Login": "CaseterMK",
-  "CurrentFollowersCount": 10758,
-  "CurrentTweetsCout": 16296,
+  "CurrentFollowersCount": 10749,
+  "CurrentTweetsCout": 16297,
   "FollowersCountHistory": {
     "20210108": 8155,
     "20210109": 8162,
@@ -566,7 +566,8 @@
     "20220905": 10757,
     "20220906": 10756,
     "20220907": 10756,
-    "20220908": 10758
+    "20220908": 10758,
+    "20220909": 10749
   },
   "TweetsCountHistory": {
     "20210108": 13386,
@@ -1130,20 +1131,21 @@
     "20220905": 16278,
     "20220906": 16283,
     "20220907": 16286,
-    "20220908": 16296
+    "20220908": 16296,
+    "20220909": 16297
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0139463067191313443243512477,
+    "WeeklyGrowth": -0.031872933239485252128177001,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220902.0,
-        "Y": 10755.5357142857142857142857
+        "X": 20220903.0,
+        "Y": 10757.000000000000000000000
       },
       "End": {
-        "X": 20220908.0,
-        "Y": 10757.0357142857142857142857
+        "X": 20220909.0,
+        "Y": 10753.571428571428571428572
       }
     }
   }
