@@ -2,7 +2,7 @@
   "PublicName": "IWannaBeCat",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1440463388853690377/lZITaytM_normal.jpg",
   "Login": "wannabethecat",
-  "CurrentFollowersCount": 302,
+  "CurrentFollowersCount": 301,
   "CurrentTweetsCout": 126,
   "FollowersCountHistory": {
     "20210311": 58,
@@ -424,7 +424,8 @@
     "20220904": 302,
     "20220905": 302,
     "20220906": 302,
-    "20220907": 302
+    "20220907": 302,
+    "20220909": 301
   },
   "TweetsCountHistory": {
     "20210311": 141,
@@ -846,20 +847,21 @@
     "20220904": 126,
     "20220905": 126,
     "20220906": 126,
-    "20220907": 126
+    "20220907": 126,
+    "20220909": 126
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2563128915891396130859982423,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220901.0,
-        "Y": 302.0
+        "X": 20220902.0,
+        "Y": 302.2049180327868848183220
       },
       "End": {
-        "X": 20220907.0,
-        "Y": 302.0
+        "X": 20220909.0,
+        "Y": 301.4303278688524595411501
       }
     }
   }
