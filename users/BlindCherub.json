@@ -2,7 +2,7 @@
   "PublicName": "Blind Cherub",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1324792736516435968/fRY_YXJw_normal.jpg",
   "Login": "BlindCherub",
-  "CurrentFollowersCount": 3282,
+  "CurrentFollowersCount": 3278,
   "CurrentTweetsCout": 338,
   "FollowersCountHistory": {
     "20210225": 643,
@@ -489,7 +489,8 @@
     "20220905": 3279,
     "20220906": 3280,
     "20220907": 3281,
-    "20220909": 3282
+    "20220909": 3282,
+    "20220912": 3278
   },
   "TweetsCountHistory": {
     "20210225": 155,
@@ -976,20 +977,21 @@
     "20220905": 338,
     "20220906": 338,
     "20220907": 338,
-    "20220909": 338
+    "20220909": 338,
+    "20220912": 338
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0594869128791665102187329057,
+    "WeeklyGrowth": -0.0190157105989948885748437798,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220902.0,
-        "Y": 3279.4098360655737715683163
+        "X": 20220903.0,
+        "Y": 3280.2475247524752475860210
       },
       "End": {
-        "X": 20220909.0,
-        "Y": 3281.3606557377049167116118
+        "X": 20220912.0,
+        "Y": 3279.6237623762376236692481
       }
     }
   }

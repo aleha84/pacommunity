@@ -2,7 +2,7 @@
   "PublicName": "neimadpo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1546980836658085888/3xYsoKUO_normal.jpg",
   "Login": "neimadpo",
-  "CurrentFollowersCount": 133,
+  "CurrentFollowersCount": 132,
   "CurrentTweetsCout": 93,
   "FollowersCountHistory": {
     "20201229": 99,
@@ -547,7 +547,8 @@
     "20220905": 133,
     "20220906": 133,
     "20220907": 133,
-    "20220909": 133
+    "20220909": 133,
+    "20220912": 132
   },
   "TweetsCountHistory": {
     "20201229": 60,
@@ -1092,20 +1093,21 @@
     "20220905": 93,
     "20220906": 93,
     "20220907": 93,
-    "20220909": 93
+    "20220909": 93,
+    "20220912": 93
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.6355695967292326415407238687,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220902.0,
-        "Y": 133.0
+        "X": 20220903.0,
+        "Y": 133.1930693069306931524305
       },
       "End": {
-        "X": 20220909.0,
-        "Y": 133.0
+        "X": 20220912.0,
+        "Y": 132.3465346534653464083055
       }
     }
   }

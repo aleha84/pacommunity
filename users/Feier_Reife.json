@@ -2,8 +2,8 @@
   "PublicName": "Feier",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1566973103766650880/cVmw4jLE_normal.jpg",
   "Login": "Feier_Reife",
-  "CurrentFollowersCount": 157,
-  "CurrentTweetsCout": 404,
+  "CurrentFollowersCount": 155,
+  "CurrentTweetsCout": 408,
   "FollowersCountHistory": {
     "20210213": 110,
     "20210214": 109,
@@ -529,7 +529,8 @@
     "20220906": 157,
     "20220907": 157,
     "20220908": 157,
-    "20220909": 157
+    "20220909": 157,
+    "20220912": 155
   },
   "TweetsCountHistory": {
     "20210213": 284,
@@ -1056,20 +1057,21 @@
     "20220906": 399,
     "20220907": 400,
     "20220908": 400,
-    "20220909": 404
+    "20220909": 404,
+    "20220912": 408
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.6860278984678710267550696207,
+    "WeeklyGrowth": -0.7205848467709843642263609971,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220903.0,
-        "Y": 156.1785714285714285714286
+        "X": 20220904.0,
+        "Y": 157.0361842105263160952231
       },
       "End": {
-        "X": 20220909.0,
-        "Y": 157.2500000000000000000000
+        "X": 20220912.0,
+        "Y": 155.9046052631578942981580
       }
     }
   }

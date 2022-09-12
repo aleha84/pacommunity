@@ -2,8 +2,8 @@
   "PublicName": "(metroid drea)D",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1430139801424994309/cQZwOZw__normal.jpg",
   "Login": "pixelat_D",
-  "CurrentFollowersCount": 81,
-  "CurrentTweetsCout": 1731,
+  "CurrentFollowersCount": 80,
+  "CurrentTweetsCout": 1730,
   "FollowersCountHistory": {
     "20210213": 67,
     "20210214": 67,
@@ -505,7 +505,8 @@
     "20220906": 81,
     "20220907": 81,
     "20220908": 81,
-    "20220909": 81
+    "20220909": 81,
+    "20220912": 80
   },
   "TweetsCountHistory": {
     "20210213": 834,
@@ -1008,20 +1009,21 @@
     "20220906": 1731,
     "20220907": 1731,
     "20220908": 1731,
-    "20220909": 1731
+    "20220909": 1731,
+    "20220912": 1730
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.0693021183523033453657926145,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220903.0,
-        "Y": 81.0
+        "X": 20220904.0,
+        "Y": 81.2138157894736844452011
       },
       "End": {
-        "X": 20220909.0,
-        "Y": 81.0
+        "X": 20220912.0,
+        "Y": 80.3453947368421049264504
       }
     }
   }

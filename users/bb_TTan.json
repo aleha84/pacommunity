@@ -2,7 +2,7 @@
   "PublicName": "bb_TTan",
   "AvatarImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
   "Login": "bb_TTan",
-  "CurrentFollowersCount": 1,
+  "CurrentFollowersCount": 0,
   "CurrentTweetsCout": 0,
   "FollowersCountHistory": {
     "20210914": 642,
@@ -282,7 +282,8 @@
     "20220906": 1,
     "20220907": 1,
     "20220908": 1,
-    "20220909": 1
+    "20220909": 1,
+    "20220912": 0
   },
   "TweetsCountHistory": {
     "20210914": 136,
@@ -562,20 +563,21 @@
     "20220906": 0,
     "20220907": 0,
     "20220908": 0,
-    "20220909": 0
+    "20220909": 0,
+    "20220912": 0
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -71.544715447154504782631167515,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220903.0,
-        "Y": 1.0
+        "X": 20220904.0,
+        "Y": 1.2138157894736844451793
       },
       "End": {
-        "X": 20220909.0,
-        "Y": 1.0
+        "X": 20220912.0,
+        "Y": 0.3453947368421049264820
       }
     }
   }

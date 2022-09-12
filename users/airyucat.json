@@ -2,8 +2,8 @@
   "PublicName": "Airyu (愛竜)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1536594349261090816/ixM55aqc_normal.jpg",
   "Login": "airyucat",
-  "CurrentFollowersCount": 356,
-  "CurrentTweetsCout": 490,
+  "CurrentFollowersCount": 355,
+  "CurrentTweetsCout": 497,
   "FollowersCountHistory": {
     "20210311": 312,
     "20210312": 314,
@@ -503,7 +503,8 @@
     "20220906": 357,
     "20220907": 357,
     "20220908": 357,
-    "20220909": 356
+    "20220909": 356,
+    "20220912": 355
   },
   "TweetsCountHistory": {
     "20210311": 4451,
@@ -1004,20 +1005,21 @@
     "20220906": 476,
     "20220907": 480,
     "20220908": 482,
-    "20220909": 490
+    "20220909": 490,
+    "20220912": 497
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.120264582080577269993994803,
+    "WeeklyGrowth": -0.405399179988022563228149816,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220903.0,
-        "Y": 356.3571428571428571428571
+        "X": 20220904.0,
+        "Y": 357.0230263157894740753101
       },
       "End": {
-        "X": 20220909.0,
-        "Y": 356.7857142857142857142857
+        "X": 20220912.0,
+        "Y": 355.5756578947368415441204
       }
     }
   }

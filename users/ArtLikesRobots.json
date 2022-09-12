@@ -2,8 +2,8 @@
   "PublicName": "Art",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1524231031414755328/V8vyUIlW_normal.jpg",
   "Login": "ArtLikesRobots",
-  "CurrentFollowersCount": 2883,
-  "CurrentTweetsCout": 20509,
+  "CurrentFollowersCount": 2880,
+  "CurrentTweetsCout": 20588,
   "FollowersCountHistory": {
     "20210913": 2206,
     "20210914": 2205,
@@ -333,7 +333,8 @@
     "20220906": 2874,
     "20220907": 2880,
     "20220908": 2881,
-    "20220909": 2883
+    "20220909": 2883,
+    "20220912": 2880
   },
   "TweetsCountHistory": {
     "20210913": 13564,
@@ -664,20 +665,21 @@
     "20220906": 20330,
     "20220907": 20430,
     "20220908": 20478,
-    "20220909": 20509
+    "20220909": 20509,
+    "20220912": 20588
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.8463891142874976593219877751,
+    "WeeklyGrowth": 0.6073101983620059002870748567,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220903.0,
-        "Y": 2860.89285714285714285715
+        "X": 20220904.0,
+        "Y": 2868.559210526315784766289
       },
       "End": {
-        "X": 20220909.0,
-        "Y": 2885.10714285714285714286
+        "X": 20220912.0,
+        "Y": 2885.980263157894743596192
       }
     }
   }
