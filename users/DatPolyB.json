@@ -2,7 +2,7 @@
   "PublicName": "PolyB_Pixels",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1424559440540352512/cQNzzVYY_normal.jpg",
   "Login": "DatPolyB",
-  "CurrentFollowersCount": 1272,
+  "CurrentFollowersCount": 1271,
   "CurrentTweetsCout": 1237,
   "FollowersCountHistory": {
     "20210708": 176,
@@ -399,7 +399,8 @@
     "20220907": 1272,
     "20220908": 1273,
     "20220909": 1273,
-    "20220912": 1272
+    "20220912": 1272,
+    "20220913": 1271
   },
   "TweetsCountHistory": {
     "20210708": 419,
@@ -796,20 +797,21 @@
     "20220907": 1235,
     "20220908": 1235,
     "20220909": 1235,
-    "20220912": 1237
+    "20220912": 1237,
+    "20220913": 1237
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1159108314532321256383282822,
+    "WeeklyGrowth": -0.0117082064073159595173789025,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220904.0,
-        "Y": 1271.3947368421052627596952
+        "X": 20220905.0,
+        "Y": 1272.06648936170212767725780
       },
       "End": {
-        "X": 20220912.0,
-        "Y": 1272.8684210526315795186980
+        "X": 20220913.0,
+        "Y": 1271.91755319148936168020031
       }
     }
   }
