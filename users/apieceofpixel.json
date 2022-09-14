@@ -2,7 +2,7 @@
   "PublicName": "도한",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1502959126556835846/RlOwgxLy_normal.png",
   "Login": "apieceofpixel",
-  "CurrentFollowersCount": 703,
+  "CurrentFollowersCount": 702,
   "CurrentTweetsCout": 195,
   "FollowersCountHistory": {
     "20210914": 375,
@@ -334,7 +334,8 @@
     "20220908": 703,
     "20220909": 703,
     "20220912": 703,
-    "20220913": 703
+    "20220913": 703,
+    "20220914": 702
   },
   "TweetsCountHistory": {
     "20210914": 182,
@@ -666,20 +667,21 @@
     "20220908": 195,
     "20220909": 195,
     "20220912": 195,
-    "20220913": 195
+    "20220913": 195,
+    "20220914": 195
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0800858852079298251894773005,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220905.0,
-        "Y": 703.0
+        "X": 20220906.0,
+        "Y": 703.1286407766990289287081
       },
       "End": {
-        "X": 20220913.0,
-        "Y": 703.0
+        "X": 20220914.0,
+        "Y": 702.5655339805825244839800
       }
     }
   }
