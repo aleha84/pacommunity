@@ -2,7 +2,7 @@
   "PublicName": "点",
   "AvatarImage": "https://pbs.twimg.com/profile_images/958706689225601024/6EKRRyuj_normal.jpg",
   "Login": "ten_do_ten",
-  "CurrentFollowersCount": 1513,
+  "CurrentFollowersCount": 1512,
   "CurrentTweetsCout": 5877,
   "FollowersCountHistory": {
     "20210717": 1530,
@@ -378,7 +378,8 @@
     "20220909": 1515,
     "20220912": 1514,
     "20220913": 1515,
-    "20220914": 1513
+    "20220914": 1513,
+    "20220916": 1512
   },
   "TweetsCountHistory": {
     "20210717": 5798,
@@ -754,20 +755,21 @@
     "20220909": 5876,
     "20220912": 5876,
     "20220913": 5877,
-    "20220914": 5877
+    "20220914": 5877,
+    "20220916": 5877
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0831052834813559104792869717,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220906.0,
-        "Y": 1514.0
+        "X": 20220907.0,
+        "Y": 1514.3135593220338985589235
       },
       "End": {
-        "X": 20220914.0,
-        "Y": 1514.0
+        "X": 20220916.0,
+        "Y": 1513.0550847457627115851843
       }
     }
   }
