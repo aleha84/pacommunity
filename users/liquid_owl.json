@@ -2,7 +2,7 @@
   "PublicName": "Liquid Owl",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1489248492946034700/DrYbKj-U_normal.jpg",
   "Login": "liquid_owl",
-  "CurrentFollowersCount": 51,
+  "CurrentFollowersCount": 50,
   "CurrentTweetsCout": 54,
   "FollowersCountHistory": {
     "20211115": 24,
@@ -276,7 +276,8 @@
     "20220914": 51,
     "20220916": 51,
     "20220917": 51,
-    "20220919": 51
+    "20220919": 51,
+    "20220920": 50
   },
   "TweetsCountHistory": {
     "20211115": 19,
@@ -550,20 +551,21 @@
     "20220914": 54,
     "20220916": 54,
     "20220917": 54,
-    "20220919": 54
+    "20220919": 54,
+    "20220920": 54
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.554034188752153211258325679,
+    "WeeklyGrowth": -1.1812025864263521194432291507,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220909.0,
-        "Y": 50.4427966101694913498521
+        "X": 20220912.0,
+        "Y": 51.1484374999999997724230
       },
       "End": {
-        "X": 20220919.0,
-        "Y": 51.2266949152542374447264
+        "X": 20220920.0,
+        "Y": 50.5442708333333335777678
       }
     }
   }

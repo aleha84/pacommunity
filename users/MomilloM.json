@@ -2,7 +2,7 @@
   "PublicName": "Momillo (DM for comissions)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1516672178581823490/YOMrgnJl_normal.jpg",
   "Login": "MomilloM",
-  "CurrentFollowersCount": 55,
+  "CurrentFollowersCount": 54,
   "CurrentTweetsCout": 1603,
   "FollowersCountHistory": {
     "20210914": 41,
@@ -335,7 +335,8 @@
     "20220914": 55,
     "20220916": 55,
     "20220917": 55,
-    "20220919": 55
+    "20220919": 55,
+    "20220920": 54
   },
   "TweetsCountHistory": {
     "20210914": 200,
@@ -668,20 +669,21 @@
     "20220914": 1596,
     "20220916": 1601,
     "20220917": 1602,
-    "20220919": 1603
+    "20220919": 1603,
+    "20220920": 1603
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.0955281673513709198893806147,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220909.0,
-        "Y": 55.0
+        "X": 20220912.0,
+        "Y": 55.1484374999999997724230
       },
       "End": {
-        "X": 20220919.0,
-        "Y": 55.0
+        "X": 20220920.0,
+        "Y": 54.5442708333333335777678
       }
     }
   }
