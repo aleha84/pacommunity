@@ -2,8 +2,8 @@
   "PublicName": "Hyperlink Your Heart",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1102905758407114752/gHKZSXCV_normal.png",
   "Login": "http_your_heart",
-  "CurrentFollowersCount": 1967,
-  "CurrentTweetsCout": 12463,
+  "CurrentFollowersCount": 1966,
+  "CurrentTweetsCout": 12465,
   "FollowersCountHistory": {
     "20210111": 1588,
     "20210112": 1592,
@@ -573,7 +573,8 @@
     "20220918": 1967,
     "20220919": 1967,
     "20220920": 1967,
-    "20220921": 1967
+    "20220921": 1967,
+    "20220922": 1966
   },
   "TweetsCountHistory": {
     "20210111": 11487,
@@ -1144,20 +1145,21 @@
     "20220918": 12463,
     "20220919": 12463,
     "20220920": 12463,
-    "20220921": 12463
+    "20220921": 12463,
+    "20220922": 12465
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.032679145258800675369004195,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220915.0,
-        "Y": 1967.0
+        "X": 20220916.0,
+        "Y": 1967.1785714285714285714285
       },
       "End": {
-        "X": 20220921.0,
-        "Y": 1967.0
+        "X": 20220922.0,
+        "Y": 1966.5357142857142857142856
       }
     }
   }
