@@ -2,7 +2,7 @@
   "PublicName": "Terderrer",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1455648575073832962/mZh1IHgd_normal.png",
   "Login": "terderrer",
-  "CurrentFollowersCount": 856,
+  "CurrentFollowersCount": 855,
   "CurrentTweetsCout": 6015,
   "FollowersCountHistory": {
     "20210226": 226,
@@ -527,7 +527,8 @@
     "20220919": 856,
     "20220920": 856,
     "20220921": 856,
-    "20220922": 856
+    "20220922": 856,
+    "20220923": 855
   },
   "TweetsCountHistory": {
     "20210226": 1392,
@@ -1052,20 +1053,21 @@
     "20220919": 5981,
     "20220920": 5993,
     "20220921": 6009,
-    "20220922": 6015
+    "20220922": 6015,
+    "20220923": 6015
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0751408891671884783969993751,
+    "WeeklyGrowth": -0.0750844700287823801776932445,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220916.0,
-        "Y": 855.5357142857142857142857
+        "X": 20220917.0,
+        "Y": 856.1785714285714285714285
       },
       "End": {
-        "X": 20220922.0,
-        "Y": 856.1785714285714285714286
+        "X": 20220923.0,
+        "Y": 855.5357142857142857142857
       }
     }
   }
