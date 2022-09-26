@@ -2,7 +2,7 @@
   "PublicName": "Sijbren (Elephant's Graveyard - Released on Steam)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1414510763520241665/dEbtREs2_normal.jpg",
   "Login": "Broelbrak",
-  "CurrentFollowersCount": 512,
+  "CurrentFollowersCount": 511,
   "CurrentTweetsCout": 2734,
   "FollowersCountHistory": {
     "20210214": 172,
@@ -518,7 +518,8 @@
     "20220921": 512,
     "20220922": 513,
     "20220923": 513,
-    "20220924": 512
+    "20220924": 512,
+    "20220926": 511
   },
   "TweetsCountHistory": {
     "20210214": 1131,
@@ -1034,20 +1035,21 @@
     "20220921": 2726,
     "20220922": 2729,
     "20220923": 2732,
-    "20220924": 2734
+    "20220924": 2734,
+    "20220926": 2734
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1255667945587722357865448169,
+    "WeeklyGrowth": -0.1231684688719686246348556266,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220918.0,
-        "Y": 511.9642857142857142857143
+        "X": 20220919.0,
+        "Y": 512.4262295081967209630539
       },
       "End": {
-        "X": 20220924.0,
-        "Y": 512.6071428571428571428572
+        "X": 20220926.0,
+        "Y": 511.7950819672131151817066
       }
     }
   }

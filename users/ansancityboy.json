@@ -2,15 +2,16 @@
   "PublicName": "sana",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1566958653407895552/7yFAcElz_normal.jpg",
   "Login": "ansancityboy",
-  "CurrentFollowersCount": 3077,
-  "CurrentTweetsCout": 197,
+  "CurrentFollowersCount": 3126,
+  "CurrentTweetsCout": 201,
   "FollowersCountHistory": {
     "20220919": 2753,
     "20220920": 2918,
     "20220921": 2955,
     "20220922": 2971,
     "20220923": 3021,
-    "20220924": 3077
+    "20220924": 3077,
+    "20220926": 3126
   },
   "TweetsCountHistory": {
     "20220919": 175,
@@ -18,12 +19,22 @@
     "20220921": 178,
     "20220922": 182,
     "20220923": 189,
-    "20220924": 197
+    "20220924": 197,
+    "20220926": 201
   },
   "LangId": "kr",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 11.760763606823705328917089873,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20220919.0,
+        "Y": 2825.2459016393444457163
+      },
+      "End": {
+        "X": 20220926.0,
+        "Y": 3157.5163934426227257119
+      }
+    }
   }
 }

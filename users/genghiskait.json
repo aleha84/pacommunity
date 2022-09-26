@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1363931147604926466/4PdQazye_normal.jpg",
   "Login": "genghiskait",
   "CurrentFollowersCount": 390,
-  "CurrentTweetsCout": 11068,
+  "CurrentTweetsCout": 11070,
   "FollowersCountHistory": {
     "20210201": 252,
     "20210202": 253,
@@ -556,7 +556,8 @@
     "20220922": 390,
     "20220923": 390,
     "20220924": 390,
-    "20220925": 390
+    "20220925": 390,
+    "20220926": 390
   },
   "TweetsCountHistory": {
     "20210201": 9485,
@@ -1110,20 +1111,21 @@
     "20220922": 11062,
     "20220923": 11063,
     "20220924": 11064,
-    "20220925": 11068
+    "20220925": 11068,
+    "20220926": 11070
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1646391658282264703192279771,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220919.0,
-        "Y": 390.4642857142857142857144
+        "X": 20220920.0,
+        "Y": 390.0
       },
       "End": {
-        "X": 20220925.0,
-        "Y": 389.8214285714285714285715
+        "X": 20220926.0,
+        "Y": 390.0
       }
     }
   }
