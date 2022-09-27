@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1444202876151152641/zif9NSz4_normal.png",
   "Login": "EleventhMouse",
   "CurrentFollowersCount": 171,
-  "CurrentTweetsCout": 578,
+  "CurrentTweetsCout": 580,
   "FollowersCountHistory": {
     "20210214": 44,
     "20210215": 44,
@@ -514,7 +514,8 @@
     "20220923": 171,
     "20220924": 171,
     "20220925": 171,
-    "20220926": 171
+    "20220926": 171,
+    "20220927": 171
   },
   "TweetsCountHistory": {
     "20210214": 168,
@@ -1026,20 +1027,21 @@
     "20220923": 575,
     "20220924": 578,
     "20220925": 578,
-    "20220926": 578
+    "20220926": 578,
+    "20220927": 580
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.3749218912726515309310226724,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220920.0,
-        "Y": 171.4642857142857142857143
+        "X": 20220921.0,
+        "Y": 171.0
       },
       "End": {
-        "X": 20220926.0,
-        "Y": 170.8214285714285714285715
+        "X": 20220927.0,
+        "Y": 171.0
       }
     }
   }
