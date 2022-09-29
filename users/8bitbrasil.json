@@ -2,7 +2,7 @@
   "PublicName": "8 bit brasil",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1268087886043320321/3ZOz-TZJ_normal.jpg",
   "Login": "8bitbrasil",
-  "CurrentFollowersCount": 9851,
+  "CurrentFollowersCount": 9846,
   "CurrentTweetsCout": 18,
   "FollowersCountHistory": {
     "20210225": 11549,
@@ -505,7 +505,9 @@
     "20220924": 9844,
     "20220925": 9847,
     "20220926": 9852,
-    "20220927": 9851
+    "20220927": 9851,
+    "20220928": 9849,
+    "20220929": 9846
   },
   "TweetsCountHistory": {
     "20210225": 18,
@@ -1008,20 +1010,22 @@
     "20220924": 18,
     "20220925": 18,
     "20220926": 18,
-    "20220927": 18
+    "20220927": 18,
+    "20220928": 18,
+    "20220929": 18
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1677553821518440383295630735,
+    "WeeklyGrowth": 0.0827303932596500649506172195,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220921.0,
-        "Y": 9835.75
+        "X": 20220923.0,
+        "Y": 9842.642857142857142857142
       },
       "End": {
-        "X": 20220927.0,
-        "Y": 9852.25
+        "X": 20220929.0,
+        "Y": 9850.785714285714285714285
       }
     }
   }
