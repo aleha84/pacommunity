@@ -2,7 +2,7 @@
   "PublicName": "Gas 13",
   "AvatarImage": "https://pbs.twimg.com/profile_images/538601321813647361/fw27kDJm_normal.png",
   "Login": "_Gas13",
-  "CurrentFollowersCount": 4461,
+  "CurrentFollowersCount": 4459,
   "CurrentTweetsCout": 734,
   "FollowersCountHistory": {
     "20201215": 2091,
@@ -576,7 +576,8 @@
     "20220926": 4462,
     "20220927": 4463,
     "20220928": 4464,
-    "20220929": 4461
+    "20220929": 4458,
+    "20220930": 4459
   },
   "TweetsCountHistory": {
     "20201215": 651,
@@ -1150,20 +1151,21 @@
     "20220926": 734,
     "20220927": 734,
     "20220928": 734,
-    "20220929": 734
+    "20220929": 734,
+    "20220930": 734
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0864152090767975163628990702,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220923.0,
-        "Y": 4462.4285714285714285714285714
+        "X": 20220924.0,
+        "Y": 4463.500000000000000000000
       },
       "End": {
-        "X": 20220929.0,
-        "Y": 4462.4285714285714285714285714
+        "X": 20220930.0,
+        "Y": 4459.642857142857142857142
       }
     }
   }

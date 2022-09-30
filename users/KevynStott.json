@@ -2,7 +2,7 @@
   "PublicName": "Kevyn Stott",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1197367278599163905/vGDdVrpR_normal.jpg",
   "Login": "KevynStott",
-  "CurrentFollowersCount": 3026,
+  "CurrentFollowersCount": 3024,
   "CurrentTweetsCout": 416,
   "FollowersCountHistory": {
     "20210113": 758,
@@ -579,7 +579,8 @@
     "20220926": 3023,
     "20220927": 3023,
     "20220928": 3024,
-    "20220929": 3026
+    "20220929": 3026,
+    "20220930": 3024
   },
   "TweetsCountHistory": {
     "20210113": 193,
@@ -1156,20 +1157,21 @@
     "20220926": 416,
     "20220927": 416,
     "20220928": 416,
-    "20220929": 416
+    "20220929": 416,
+    "20220930": 416
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.0141726703673083736860762961,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220923.0,
-        "Y": 3024.2857142857142857142857143
+        "X": 20220924.0,
+        "Y": 3023.9285714285714285714286
       },
       "End": {
-        "X": 20220929.0,
-        "Y": 3024.2857142857142857142857143
+        "X": 20220930.0,
+        "Y": 3024.3571428571428571428572
       }
     }
   }
