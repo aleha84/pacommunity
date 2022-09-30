@@ -2,8 +2,8 @@
   "PublicName": "rinski",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1131387240691752960/G6KT5Wjq_normal.png",
   "Login": "capsuledev",
-  "CurrentFollowersCount": 672,
-  "CurrentTweetsCout": 4386,
+  "CurrentFollowersCount": 671,
+  "CurrentTweetsCout": 4388,
   "FollowersCountHistory": {
     "20210116": 384,
     "20210117": 388,
@@ -576,7 +576,8 @@
     "20220927": 672,
     "20220928": 672,
     "20220929": 672,
-    "20220930": 672
+    "20220930": 672,
+    "20221001": 671
   },
   "TweetsCountHistory": {
     "20210116": 3813,
@@ -1150,20 +1151,21 @@
     "20220927": 4382,
     "20220928": 4383,
     "20220929": 4386,
-    "20220930": 4386
+    "20220930": 4386,
+    "20221001": 4388
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1532841317308717378700493761,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220924.0,
-        "Y": 672.0
+        "X": 20220925.0,
+        "Y": 672.03334767641996557659208
       },
       "End": {
-        "X": 20220930.0,
-        "Y": 672.0
+        "X": 20221001.0,
+        "Y": 671.00322719449225473321858
       }
     }
   }

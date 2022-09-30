@@ -2,7 +2,7 @@
   "PublicName": "Adam Kling",
   "AvatarImage": "https://pbs.twimg.com/profile_images/562787084151177216/gipWqzUL_normal.png",
   "Login": "AdamKlingPixel",
-  "CurrentFollowersCount": 6025,
+  "CurrentFollowersCount": 6023,
   "CurrentTweetsCout": 1393,
   "FollowersCountHistory": {
     "20210209": 6044,
@@ -552,7 +552,8 @@
     "20220927": 6025,
     "20220928": 6026,
     "20220929": 6026,
-    "20220930": 6025
+    "20220930": 6025,
+    "20221001": 6023
   },
   "TweetsCountHistory": {
     "20210209": 1339,
@@ -1102,20 +1103,21 @@
     "20220927": 1393,
     "20220928": 1393,
     "20220929": 1393,
-    "20220930": 1393
+    "20220930": 1393,
+    "20221001": 1393
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0320146081471249103294545067,
+    "WeeklyGrowth": -0.0393485915650116751413131328,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220924.0,
-        "Y": 6024.0357142857142857142857
+        "X": 20220925.0,
+        "Y": 6025.40555077452667814113597
       },
       "End": {
-        "X": 20220930.0,
-        "Y": 6025.9642857142857142857143
+        "X": 20221001.0,
+        "Y": 6023.03463855421686746987951
       }
     }
   }
