@@ -2,8 +2,8 @@
   "PublicName": "vancespng",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1427141788217786369/kaYJhHAz_normal.jpg",
   "Login": "vancespng",
-  "CurrentFollowersCount": 367,
-  "CurrentTweetsCout": 175,
+  "CurrentFollowersCount": 366,
+  "CurrentTweetsCout": 176,
   "FollowersCountHistory": {
     "20201228": 44,
     "20201229": 44,
@@ -565,7 +565,8 @@
     "20220927": 367,
     "20220928": 367,
     "20220929": 367,
-    "20220930": 367
+    "20220930": 367,
+    "20221001": 366
   },
   "TweetsCountHistory": {
     "20201228": 6,
@@ -1128,20 +1129,21 @@
     "20220927": 175,
     "20220928": 175,
     "20220929": 175,
-    "20220930": 175
+    "20220930": 175,
+    "20221001": 176
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2806612773605178517102593206,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220924.0,
-        "Y": 367.0
+        "X": 20220925.0,
+        "Y": 367.03334767641996557659208
       },
       "End": {
-        "X": 20220930.0,
-        "Y": 367.0
+        "X": 20221001.0,
+        "Y": 366.00322719449225473321858
       }
     }
   }

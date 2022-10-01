@@ -2,8 +2,8 @@
   "PublicName": "rkwa",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1564271181213368320/n3P0sg7z_normal.jpg",
   "Login": "tokw_art",
-  "CurrentFollowersCount": 611,
-  "CurrentTweetsCout": 1690,
+  "CurrentFollowersCount": 610,
+  "CurrentTweetsCout": 1689,
   "FollowersCountHistory": {
     "20210206": 275,
     "20210207": 278,
@@ -529,7 +529,8 @@
     "20220927": 611,
     "20220928": 611,
     "20220929": 611,
-    "20220930": 611
+    "20220930": 611,
+    "20221001": 610
   },
   "TweetsCountHistory": {
     "20210206": 687,
@@ -1056,20 +1057,21 @@
     "20220927": 1694,
     "20220928": 1694,
     "20220929": 1689,
-    "20220930": 1690
+    "20220930": 1690,
+    "20221001": 1689
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1702056240371109657732639464,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220923.0,
-        "Y": 611.0
+        "X": 20220924.0,
+        "Y": 611.04430998655421097494582
       },
       "End": {
-        "X": 20220930.0,
-        "Y": 611.0
+        "X": 20221001.0,
+        "Y": 610.00427820559833761931905
       }
     }
   }

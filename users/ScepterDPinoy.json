@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1311292024839008256/o13nesPT_normal.jpg",
   "Login": "ScepterDPinoy",
   "CurrentFollowersCount": 1761,
-  "CurrentTweetsCout": 32248,
+  "CurrentTweetsCout": 32247,
   "FollowersCountHistory": {
     "20210127": 1610,
     "20210128": 1610,
@@ -565,7 +565,8 @@
     "20220928": 1761,
     "20220929": 1761,
     "20220930": 1761,
-    "20221001": 1761
+    "20221001": 1761,
+    "20221002": 1761
   },
   "TweetsCountHistory": {
     "20210127": 20966,
@@ -1128,20 +1129,21 @@
     "20220928": 32197,
     "20220929": 32232,
     "20220930": 32247,
-    "20221001": 32248
+    "20221001": 32248,
+    "20221002": 32247
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0120694442595072221819771809,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220925.0,
-        "Y": 1761.179216867469879518072289
+        "X": 20220926.0,
+        "Y": 1761.0
       },
       "End": {
-        "X": 20221001.0,
-        "Y": 1760.966652323580034423407917
+        "X": 20221002.0,
+        "Y": 1761.0
       }
     }
   }

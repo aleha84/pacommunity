@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1135218344574029826/0Gy8gkMo_normal.jpg",
   "Login": "PureAsbestos",
   "CurrentFollowersCount": 307,
-  "CurrentTweetsCout": 2244,
+  "CurrentTweetsCout": 2245,
   "FollowersCountHistory": {
     "20210915": 169,
     "20210916": 169,
@@ -362,7 +362,8 @@
     "20220928": 307,
     "20220929": 307,
     "20220930": 307,
-    "20221001": 307
+    "20221001": 307,
+    "20221002": 307
   },
   "TweetsCountHistory": {
     "20210915": 1945,
@@ -722,20 +723,21 @@
     "20220928": 2242,
     "20220929": 2242,
     "20220930": 2244,
-    "20221001": 2244
+    "20221001": 2244,
+    "20221002": 2245
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1383170400153436716454288871,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220925.0,
-        "Y": 307.35843373493975903614458
+        "X": 20220926.0,
+        "Y": 307.0
       },
       "End": {
-        "X": 20221001.0,
-        "Y": 306.93330464716006884681583
+        "X": 20221002.0,
+        "Y": 307.0
       }
     }
   }

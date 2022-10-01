@@ -2,7 +2,7 @@
   "PublicName": "Molten Art",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1497559628753915907/s2ed5KGU_normal.jpg",
   "Login": "Molten_art",
-  "CurrentFollowersCount": 43,
+  "CurrentFollowersCount": 42,
   "CurrentTweetsCout": 27,
   "FollowersCountHistory": {
     "20220329": 42,
@@ -165,7 +165,8 @@
     "20220927": 43,
     "20220928": 43,
     "20220929": 43,
-    "20220930": 43
+    "20220930": 43,
+    "20221001": 42
   },
   "TweetsCountHistory": {
     "20220329": 22,
@@ -328,20 +329,21 @@
     "20220927": 27,
     "20220928": 27,
     "20220929": 27,
-    "20220930": 27
+    "20220930": 27,
+    "20221001": 27
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -2.3937725916037976392242878382,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220924.0,
-        "Y": 43.0
+        "X": 20220925.0,
+        "Y": 43.03334767641996557659208
       },
       "End": {
-        "X": 20220930.0,
-        "Y": 43.0
+        "X": 20221001.0,
+        "Y": 42.00322719449225473321858
       }
     }
   }
