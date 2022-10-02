@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1497331104377982977/0rRm40AK_normal.jpg",
   "Login": "DraxyDow",
   "CurrentFollowersCount": 15,
-  "CurrentTweetsCout": 574,
+  "CurrentTweetsCout": 575,
   "FollowersCountHistory": {
     "20210119": 9,
     "20210120": 8,
@@ -544,7 +544,8 @@
     "20220928": 15,
     "20220929": 15,
     "20220930": 15,
-    "20221001": 15
+    "20221001": 15,
+    "20221002": 15
   },
   "TweetsCountHistory": {
     "20210119": 244,
@@ -1086,20 +1087,21 @@
     "20220928": 574,
     "20220929": 574,
     "20220930": 574,
-    "20221001": 574
+    "20221001": 574,
+    "20221002": 575
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.4342328741271938101528605478,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220925.0,
-        "Y": 14.820783132530120481927711
+        "X": 20220926.0,
+        "Y": 15.0
       },
       "End": {
-        "X": 20221001.0,
-        "Y": 15.033347676419965576592083
+        "X": 20221002.0,
+        "Y": 15.0
       }
     }
   }

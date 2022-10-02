@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1516087717808979985/KvLqXWvv_normal.png",
   "Login": "fhuma_82",
   "CurrentFollowersCount": 334,
-  "CurrentTweetsCout": 353,
+  "CurrentTweetsCout": 354,
   "FollowersCountHistory": {
     "20210930": 140,
     "20211001": 140,
@@ -334,7 +334,8 @@
     "20220928": 334,
     "20220929": 334,
     "20220930": 334,
-    "20221001": 334
+    "20221001": 334,
+    "20221002": 334
   },
   "TweetsCountHistory": {
     "20210930": 88,
@@ -666,20 +667,21 @@
     "20220928": 351,
     "20220929": 351,
     "20220930": 353,
-    "20221001": 353
+    "20221001": 353,
+    "20221002": 354
   },
   "LangId": "hu",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0682983969674012083358311324,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220924.0,
-        "Y": 334.183932282117100598572647
+        "X": 20220926.0,
+        "Y": 334.0
       },
       "End": {
-        "X": 20221001.0,
-        "Y": 333.955690013445789025060719
+        "X": 20221002.0,
+        "Y": 334.0
       }
     }
   }

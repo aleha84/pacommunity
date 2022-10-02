@@ -2,7 +2,7 @@
   "PublicName": "Sam C",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1303007570941161473/pjT9QiYb_normal.jpg",
   "Login": "SweatersJPG",
-  "CurrentFollowersCount": 488,
+  "CurrentFollowersCount": 487,
   "CurrentTweetsCout": 1293,
   "FollowersCountHistory": {
     "20210214": 315,
@@ -549,7 +549,8 @@
     "20220929": 488,
     "20220930": 488,
     "20221001": 488,
-    "20221002": 488
+    "20221002": 488,
+    "20221003": 487
   },
   "TweetsCountHistory": {
     "20210214": 1069,
@@ -1096,20 +1097,21 @@
     "20220929": 1291,
     "20220930": 1293,
     "20221001": 1293,
-    "20221002": 1293
+    "20221002": 1293,
+    "20221003": 1293
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0722548624449161695459895087,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220926.0,
-        "Y": 488.0
+        "X": 20220927.0,
+        "Y": 488.01025032369443245576175
       },
       "End": {
-        "X": 20221002.0,
-        "Y": 488.0
+        "X": 20221003.0,
+        "Y": 487.65763918860595597755718
       }
     }
   }

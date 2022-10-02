@@ -2,7 +2,7 @@
   "PublicName": "Vierbit",
   "AvatarImage": "https://pbs.twimg.com/profile_images/778601526298304512/oHq9LXgO_normal.jpg",
   "Login": "vierbit",
-  "CurrentFollowersCount": 6483,
+  "CurrentFollowersCount": 6481,
   "CurrentTweetsCout": 44,
   "FollowersCountHistory": {
     "20201217": 5739,
@@ -577,7 +577,8 @@
     "20220928": 6483,
     "20220929": 6483,
     "20220930": 6483,
-    "20221001": 6483
+    "20221001": 6483,
+    "20221002": 6481
   },
   "TweetsCountHistory": {
     "20201217": 36,
@@ -1152,20 +1153,21 @@
     "20220928": 44,
     "20220929": 44,
     "20220930": 44,
-    "20221001": 44
+    "20221001": 44,
+    "20221002": 44
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0131166466841369425707272259,
+    "WeeklyGrowth": -0.0124393208849371201511050479,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220925.0,
-        "Y": 6482.28313253012048192771085
+        "X": 20220926.0,
+        "Y": 6482.81547619047619047619047
       },
       "End": {
-        "X": 20221001.0,
-        "Y": 6483.13339070567986230636833
+        "X": 20221002.0,
+        "Y": 6482.00905797101449275362318
       }
     }
   }

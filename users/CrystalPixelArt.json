@@ -2,7 +2,7 @@
   "PublicName": "Crystal",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1544207845457100800/qUkJhz8k_normal.jpg",
   "Login": "CrystalPixelArt",
-  "CurrentFollowersCount": 411,
+  "CurrentFollowersCount": 410,
   "CurrentTweetsCout": 185,
   "FollowersCountHistory": {
     "20210412": 113,
@@ -465,7 +465,8 @@
     "20220928": 411,
     "20220929": 411,
     "20220930": 411,
-    "20221001": 411
+    "20221001": 411,
+    "20221002": 410
   },
   "TweetsCountHistory": {
     "20210412": 88,
@@ -928,20 +929,21 @@
     "20220928": 185,
     "20220929": 185,
     "20220930": 185,
-    "20221001": 185
+    "20221001": 185,
+    "20221002": 185
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1268132995290466366298382781,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220925.0,
-        "Y": 411.0
+        "X": 20220926.0,
+        "Y": 411.01488095238095238095238
       },
       "End": {
-        "X": 20221001.0,
-        "Y": 411.0
+        "X": 20221002.0,
+        "Y": 410.49365942028985507246377
       }
     }
   }
