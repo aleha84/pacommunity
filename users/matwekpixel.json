@@ -2,7 +2,7 @@
   "PublicName": "Matthew Weekes",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1176923022277730306/fBLHa4pT_normal.jpg",
   "Login": "matwekpixel",
-  "CurrentFollowersCount": 2330,
+  "CurrentFollowersCount": 2329,
   "CurrentTweetsCout": 988,
   "FollowersCountHistory": {
     "20210111": 2323,
@@ -585,7 +585,8 @@
     "20220930": 2330,
     "20221001": 2330,
     "20221002": 2330,
-    "20221003": 2330
+    "20221003": 2330,
+    "20221004": 2329
   },
   "TweetsCountHistory": {
     "20210111": 913,
@@ -1168,20 +1169,21 @@
     "20220930": 988,
     "20221001": 988,
     "20221002": 988,
-    "20221003": 988
+    "20221003": 988,
+    "20221004": 988
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0116140495731906243871424079,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220927.0,
-        "Y": 2330.0
+        "X": 20220928.0,
+        "Y": 2330.010250323694432455761761
       },
       "End": {
-        "X": 20221003.0,
-        "Y": 2330.0
+        "X": 20221004.0,
+        "Y": 2329.739641778161415623651273
       }
     }
   }

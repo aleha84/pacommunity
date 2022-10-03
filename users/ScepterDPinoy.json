@@ -2,8 +2,8 @@
   "PublicName": "Mark Apilado",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1311292024839008256/o13nesPT_normal.jpg",
   "Login": "ScepterDPinoy",
-  "CurrentFollowersCount": 1761,
-  "CurrentTweetsCout": 32249,
+  "CurrentFollowersCount": 1760,
+  "CurrentTweetsCout": 32256,
   "FollowersCountHistory": {
     "20210127": 1610,
     "20210128": 1610,
@@ -567,7 +567,8 @@
     "20220930": 1761,
     "20221001": 1761,
     "20221002": 1761,
-    "20221003": 1761
+    "20221003": 1761,
+    "20221004": 1760
   },
   "TweetsCountHistory": {
     "20210127": 20966,
@@ -1132,20 +1133,21 @@
     "20220930": 32247,
     "20221001": 32248,
     "20221002": 32247,
-    "20221003": 32249
+    "20221003": 32249,
+    "20221004": 32256
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0153666649858100367727724434,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220927.0,
-        "Y": 1761.0
+        "X": 20220928.0,
+        "Y": 1761.010250323694432455761761
       },
       "End": {
-        "X": 20221003.0,
-        "Y": 1761.0
+        "X": 20221004.0,
+        "Y": 1760.739641778161415623651273
       }
     }
   }
