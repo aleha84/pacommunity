@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1483183041811988482/iFcDeJft_normal.jpg",
   "Login": "RyrG_Anim",
   "CurrentFollowersCount": 160,
-  "CurrentTweetsCout": 399,
+  "CurrentTweetsCout": 400,
   "FollowersCountHistory": {
     "20210110": 96,
     "20210111": 97,
@@ -555,7 +555,8 @@
     "20220930": 160,
     "20221001": 160,
     "20221002": 160,
-    "20221003": 160
+    "20221003": 160,
+    "20221004": 160
   },
   "TweetsCountHistory": {
     "20210110": 82,
@@ -1108,20 +1109,21 @@
     "20220930": 399,
     "20221001": 399,
     "20221002": 399,
-    "20221003": 399
+    "20221003": 399,
+    "20221004": 400
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1694060049970718698897039101,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220927.0,
-        "Y": 159.739641778161415623651273
+        "X": 20220928.0,
+        "Y": 160.0
       },
       "End": {
-        "X": 20221003.0,
-        "Y": 160.010250323694432455761761
+        "X": 20221004.0,
+        "Y": 160.0
       }
     }
   }
