@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1489353332972044293/C_w_w4ki_normal.jpg",
   "Login": "alexandragolici",
   "CurrentFollowersCount": 360,
-  "CurrentTweetsCout": 437,
+  "CurrentTweetsCout": 438,
   "FollowersCountHistory": {
     "20220713": 318,
     "20220714": 331,
@@ -86,7 +86,8 @@
     "20221001": 360,
     "20221002": 360,
     "20221003": 360,
-    "20221004": 360
+    "20221004": 360,
+    "20221005": 360
   },
   "TweetsCountHistory": {
     "20220713": 406,
@@ -170,20 +171,21 @@
     "20221001": 436,
     "20221002": 436,
     "20221003": 437,
-    "20221004": 437
+    "20221004": 437,
+    "20221005": 438
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0978544776957366528798065962,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220928.0,
-        "Y": 360.34236081139404402244282
+        "X": 20220929.0,
+        "Y": 360.0
       },
       "End": {
-        "X": 20221004.0,
-        "Y": 359.98974967630556754423824
+        "X": 20221005.0,
+        "Y": 360.0
       }
     }
   }
