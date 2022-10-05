@@ -2,7 +2,7 @@
   "PublicName": "Newscium",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1434840554597138432/3O53JeET_normal.jpg",
   "Login": "Newscium",
-  "CurrentFollowersCount": 9243,
+  "CurrentFollowersCount": 9238,
   "CurrentTweetsCout": 344,
   "FollowersCountHistory": {
     "20211109": 7557,
@@ -297,7 +297,8 @@
     "20221001": 9243,
     "20221002": 9242,
     "20221003": 9244,
-    "20221004": 9243
+    "20221004": 9243,
+    "20221005": 9238
   },
   "TweetsCountHistory": {
     "20211109": 289,
@@ -592,20 +593,21 @@
     "20221001": 344,
     "20221002": 344,
     "20221003": 344,
-    "20221004": 344
+    "20221004": 344,
+    "20221005": 344
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0261786918035975524254283357,
+    "WeeklyGrowth": 0.0158575082732040304117433998,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220928.0,
-        "Y": 9240.63131204143288735433751
+        "X": 20220929.0,
+        "Y": 9240.54956004140786749482402
       },
       "End": {
-        "X": 20221004.0,
-        "Y": 9243.05038843331894691411308
+        "X": 20221005.0,
+        "Y": 9242.01488095238095238095239
       }
     }
   }
