@@ -2,8 +2,8 @@
   "PublicName": "finch /commissions open",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1172358379978682368/rslT4zwe_normal.jpg",
   "Login": "illufinch",
-  "CurrentFollowersCount": 61641,
-  "CurrentTweetsCout": 7879,
+  "CurrentFollowersCount": 61670,
+  "CurrentTweetsCout": 7883,
   "FollowersCountHistory": {
     "20210113": 25742,
     "20210114": 25741,
@@ -586,7 +586,8 @@
     "20221003": 61587,
     "20221004": 61590,
     "20221005": 61596,
-    "20221006": 61641
+    "20221006": 61641,
+    "20221007": 61670
   },
   "TweetsCountHistory": {
     "20210113": 4603,
@@ -1170,20 +1171,21 @@
     "20221003": 7873,
     "20221004": 7874,
     "20221005": 7876,
-    "20221006": 7879
+    "20221006": 7879,
+    "20221007": 7883
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0797860728667282319107635483,
+    "WeeklyGrowth": 0.1754756527531804962061513965,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20220930.0,
-        "Y": 61542.582401032702237521515
+        "X": 20221001.0,
+        "Y": 61547.0
       },
       "End": {
-        "X": 20221006.0,
-        "Y": 61591.684810671256454388985
+        "X": 20221007.0,
+        "Y": 61655.0
       }
     }
   }
