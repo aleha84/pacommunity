@@ -2,8 +2,8 @@
   "PublicName": "ZapWo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1497138407264473089/9fSWmd_-_normal.jpg",
   "Login": "wo_zap",
-  "CurrentFollowersCount": 177,
-  "CurrentTweetsCout": 1068,
+  "CurrentFollowersCount": 176,
+  "CurrentTweetsCout": 1070,
   "FollowersCountHistory": {
     "20220501": 60,
     "20220502": 60,
@@ -144,7 +144,8 @@
     "20221005": 177,
     "20221006": 176,
     "20221007": 177,
-    "20221008": 177
+    "20221008": 177,
+    "20221009": 176
   },
   "TweetsCountHistory": {
     "20220501": 125,
@@ -286,20 +287,21 @@
     "20221005": 1053,
     "20221006": 1061,
     "20221007": 1061,
-    "20221008": 1068
+    "20221008": 1068,
+    "20221009": 1070
   },
   "LangId": "lv",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2428166734115742614326345609,
+    "WeeklyGrowth": -0.3631228565664716562437198161,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221002.0,
-        "Y": 176.5000000000000000000000
+        "X": 20221003.0,
+        "Y": 177.0357142857142857142858
       },
       "End": {
-        "X": 20221008.0,
-        "Y": 176.9285714285714285714286
+        "X": 20221009.0,
+        "Y": 176.3928571428571428571429
       }
     }
   }

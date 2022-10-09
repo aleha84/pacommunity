@@ -2,8 +2,8 @@
   "PublicName": "Falgaia",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1467069250384936960/-BWhUQDV_normal.jpg",
   "Login": "falgaiaRT",
-  "CurrentFollowersCount": 1235,
-  "CurrentTweetsCout": 2558,
+  "CurrentFollowersCount": 1233,
+  "CurrentTweetsCout": 2562,
   "FollowersCountHistory": {
     "20210914": 388,
     "20210915": 390,
@@ -371,7 +371,8 @@
     "20221006": 1233,
     "20221007": 1234,
     "20221008": 1235,
-    "20221009": 1235
+    "20221009": 1235,
+    "20221010": 1233
   },
   "TweetsCountHistory": {
     "20210914": 1792,
@@ -740,20 +741,21 @@
     "20221006": 2553,
     "20221007": 2557,
     "20221008": 2558,
-    "20221009": 2558
+    "20221009": 2558,
+    "20221010": 2562
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0520969002344360510549657065,
+    "WeeklyGrowth": -0.0347202129506394305885099226,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221003.0,
-        "Y": 1233.9642857142857142857142
+        "X": 20221004.0,
+        "Y": 1234.3571428571428571428572
       },
       "End": {
-        "X": 20221009.0,
-        "Y": 1234.6071428571428571428571
+        "X": 20221010.0,
+        "Y": 1233.9285714285714285714286
       }
     }
   }
