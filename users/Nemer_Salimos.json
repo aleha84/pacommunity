@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1450465330174779417/jVF5cD5P_normal.png",
   "Login": "Nemer_Salimos",
   "CurrentFollowersCount": 364,
-  "CurrentTweetsCout": 766,
+  "CurrentTweetsCout": 767,
   "FollowersCountHistory": {
     "20210113": 342,
     "20210114": 343,
@@ -560,7 +560,8 @@
     "20221006": 364,
     "20221007": 364,
     "20221008": 364,
-    "20221009": 364
+    "20221009": 364,
+    "20221010": 364
   },
   "TweetsCountHistory": {
     "20210113": 500,
@@ -1118,20 +1119,21 @@
     "20221006": 766,
     "20221007": 766,
     "20221008": 766,
-    "20221009": 766
+    "20221009": 766,
+    "20221010": 767
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.176384125428711415972574173,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221003.0,
-        "Y": 364.4642857142857142857144
+        "X": 20221004.0,
+        "Y": 364.0
       },
       "End": {
-        "X": 20221009.0,
-        "Y": 363.8214285714285714285715
+        "X": 20221010.0,
+        "Y": 364.0
       }
     }
   }

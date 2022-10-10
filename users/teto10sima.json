@@ -2,7 +2,7 @@
   "PublicName": "もてと。",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1358375629188567042/g1AzLHgL_normal.jpg",
   "Login": "teto10sima",
-  "CurrentFollowersCount": 1623,
+  "CurrentFollowersCount": 1622,
   "CurrentTweetsCout": 5682,
   "FollowersCountHistory": {
     "20201225": 1271,
@@ -579,7 +579,8 @@
     "20221006": 1624,
     "20221007": 1624,
     "20221008": 1625,
-    "20221009": 1623
+    "20221009": 1623,
+    "20221010": 1622
   },
   "TweetsCountHistory": {
     "20201225": 4930,
@@ -1156,20 +1157,21 @@
     "20221006": 5681,
     "20221007": 5682,
     "20221008": 5682,
-    "20221009": 5682
+    "20221009": 5682,
+    "20221010": 5682
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.079152192075986104392945778,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221003.0,
-        "Y": 1624.0
+        "X": 20221004.0,
+        "Y": 1624.3571428571428571428572
       },
       "End": {
-        "X": 20221009.0,
-        "Y": 1624.0
+        "X": 20221010.0,
+        "Y": 1623.0714285714285714285715
       }
     }
   }

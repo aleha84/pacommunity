@@ -2,7 +2,7 @@
   "PublicName": "IMPULSE_101",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1076971042046951424/U7dSy5UA_normal.jpg",
   "Login": "1MPULS3_101",
-  "CurrentFollowersCount": 1903,
+  "CurrentFollowersCount": 1901,
   "CurrentTweetsCout": 51,
   "FollowersCountHistory": {
     "20201215": 861,
@@ -586,7 +586,8 @@
     "20221006": 1905,
     "20221007": 1905,
     "20221008": 1904,
-    "20221009": 1903
+    "20221009": 1903,
+    "20221010": 1901
   },
   "TweetsCountHistory": {
     "20201215": 23,
@@ -1170,20 +1171,21 @@
     "20221006": 51,
     "20221007": 51,
     "20221008": 51,
-    "20221009": 51
+    "20221009": 51,
+    "20221010": 51
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1574507966260543580131209115,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221003.0,
-        "Y": 1904.1428571428571428571428571
+        "X": 20221004.0,
+        "Y": 1905.357142857142857142857
       },
       "End": {
-        "X": 20221009.0,
-        "Y": 1904.1428571428571428571428571
+        "X": 20221010.0,
+        "Y": 1902.357142857142857142857
       }
     }
   }
