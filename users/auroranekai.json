@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1574515606270926856/Bcr5xLY3_normal.jpg",
   "Login": "auroranekai",
   "CurrentFollowersCount": 282,
-  "CurrentTweetsCout": 588,
+  "CurrentTweetsCout": 590,
   "FollowersCountHistory": {
     "20210125": 141,
     "20210126": 143,
@@ -551,7 +551,9 @@
     "20221007": 282,
     "20221008": 282,
     "20221009": 282,
-    "20221010": 282
+    "20221010": 282,
+    "20221011": 282,
+    "20221012": 282
   },
   "TweetsCountHistory": {
     "20210125": 317,
@@ -1100,20 +1102,22 @@
     "20221007": 588,
     "20221008": 588,
     "20221009": 588,
-    "20221010": 588
+    "20221010": 588,
+    "20221011": 590,
+    "20221012": 590
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3810491553410389940302196996,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221004.0,
-        "Y": 281.1785714285714285714286
+        "X": 20221006.0,
+        "Y": 282.0
       },
       "End": {
-        "X": 20221010.0,
-        "Y": 282.2500000000000000000000
+        "X": 20221012.0,
+        "Y": 282.0
       }
     }
   }

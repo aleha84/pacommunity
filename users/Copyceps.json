@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1573724789226713088/qnN3gDcU_normal.jpg",
   "Login": "Copyceps",
   "CurrentFollowersCount": 218,
-  "CurrentTweetsCout": 6235,
+  "CurrentTweetsCout": 6237,
   "FollowersCountHistory": {
     "20210914": 185,
     "20210915": 185,
@@ -373,7 +373,8 @@
     "20221008": 218,
     "20221009": 218,
     "20221010": 218,
-    "20221011": 218
+    "20221011": 218,
+    "20221012": 218
   },
   "TweetsCountHistory": {
     "20210914": 5734,
@@ -744,20 +745,21 @@
     "20221008": 6229,
     "20221009": 6231,
     "20221010": 6235,
-    "20221011": 6235
+    "20221011": 6235,
+    "20221012": 6237
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2942618930848455125061499196,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221005.0,
-        "Y": 218.4642857142857142857144
+        "X": 20221006.0,
+        "Y": 218.0
       },
       "End": {
-        "X": 20221011.0,
-        "Y": 217.8214285714285714285715
+        "X": 20221012.0,
+        "Y": 218.0
       }
     }
   }

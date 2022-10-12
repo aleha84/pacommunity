@@ -2,7 +2,7 @@
   "PublicName": "HorseTail",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1295927113007034368/DBPbk3Te_normal.jpg",
   "Login": "HorseTail_iii",
-  "CurrentFollowersCount": 1439,
+  "CurrentFollowersCount": 1438,
   "CurrentTweetsCout": 453,
   "FollowersCountHistory": {
     "20210411": 790,
@@ -478,7 +478,9 @@
     "20221007": 1438,
     "20221008": 1439,
     "20221009": 1438,
-    "20221010": 1439
+    "20221010": 1439,
+    "20221011": 1438,
+    "20221012": 1438
   },
   "TweetsCountHistory": {
     "20210411": 451,
@@ -954,20 +956,22 @@
     "20221007": 453,
     "20221008": 453,
     "20221009": 453,
-    "20221010": 453
+    "20221010": 453,
+    "20221011": 453,
+    "20221012": 453
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1491276035194114430581060765,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221004.0,
-        "Y": 1436.9285714285714285714286
+        "X": 20221006.0,
+        "Y": 1438.2857142857142857142857143
       },
       "End": {
-        "X": 20221010.0,
-        "Y": 1439.0714285714285714285714
+        "X": 20221012.0,
+        "Y": 1438.2857142857142857142857143
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Brain in a Bowl",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1054329777593688064/6aq7vfzm_normal.jpg",
   "Login": "BraininaBowl",
-  "CurrentFollowersCount": 217,
+  "CurrentFollowersCount": 218,
   "CurrentTweetsCout": 387,
   "FollowersCountHistory": {
     "20210125": 190,
@@ -552,7 +552,9 @@
     "20221007": 217,
     "20221008": 217,
     "20221009": 217,
-    "20221010": 217
+    "20221010": 217,
+    "20221011": 218,
+    "20221012": 218
   },
   "TweetsCountHistory": {
     "20210125": 308,
@@ -1102,20 +1104,22 @@
     "20221007": 386,
     "20221008": 386,
     "20221009": 386,
-    "20221010": 387
+    "20221010": 387,
+    "20221011": 387,
+    "20221012": 387
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.4943153732081067721206461335,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221004.0,
-        "Y": 217.0
+        "X": 20221006.0,
+        "Y": 216.7499999999999999999999
       },
       "End": {
-        "X": 20221010.0,
-        "Y": 217.0
+        "X": 20221012.0,
+        "Y": 217.8214285714285714285714
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Reborilux",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1492581900258471936/hnCW20uw_normal.jpg",
   "Login": "ReboriLux",
-  "CurrentFollowersCount": 81,
+  "CurrentFollowersCount": 80,
   "CurrentTweetsCout": 199,
   "FollowersCountHistory": {
     "20201228": 58,
@@ -575,7 +575,9 @@
     "20221007": 81,
     "20221008": 81,
     "20221009": 81,
-    "20221010": 81
+    "20221010": 81,
+    "20221011": 80,
+    "20221012": 80
   },
   "TweetsCountHistory": {
     "20201228": 129,
@@ -1148,20 +1150,22 @@
     "20221007": 199,
     "20221008": 199,
     "20221009": 199,
-    "20221010": 199
+    "20221010": 199,
+    "20221011": 199,
+    "20221012": 199
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.3186813186813186813187676078,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221004.0,
-        "Y": 81.0
+        "X": 20221006.0,
+        "Y": 81.2500000000000000000001
       },
       "End": {
-        "X": 20221010.0,
-        "Y": 81.0
+        "X": 20221012.0,
+        "Y": 80.1785714285714285714286
       }
     }
   }

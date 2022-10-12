@@ -2,7 +2,7 @@
   "PublicName": "ruben moskoviç",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1535669139704102915/jjOZksmb_normal.jpg",
   "Login": "Ruben_Moskovic",
-  "CurrentFollowersCount": 314,
+  "CurrentFollowersCount": 312,
   "CurrentTweetsCout": 179,
   "FollowersCountHistory": {
     "20210127": 273,
@@ -551,7 +551,9 @@
     "20221007": 313,
     "20221008": 314,
     "20221009": 314,
-    "20221010": 314
+    "20221010": 314,
+    "20221011": 312,
+    "20221012": 312
   },
   "TweetsCountHistory": {
     "20210127": 156,
@@ -1100,20 +1102,22 @@
     "20221007": 179,
     "20221008": 179,
     "20221009": 179,
-    "20221010": 179
+    "20221010": 179,
+    "20221011": 179,
+    "20221012": 179
   },
   "LangId": "tr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.5457025920873124147339744594,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221004.0,
-        "Y": 313.85714285714285714285714286
+        "X": 20221006.0,
+        "Y": 314.1428571428571428571429
       },
       "End": {
-        "X": 20221010.0,
-        "Y": 313.85714285714285714285714286
+        "X": 20221012.0,
+        "Y": 312.4285714285714285714286
       }
     }
   }
