@@ -2,8 +2,8 @@
   "PublicName": "Camila Gormaz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1482079540654575621/OwEBakk0_normal.jpg",
   "Login": "Burasto",
-  "CurrentFollowersCount": 10147,
-  "CurrentTweetsCout": 8284,
+  "CurrentFollowersCount": 10143,
+  "CurrentTweetsCout": 8283,
   "FollowersCountHistory": {
     "20201228": 8684,
     "20201229": 8689,
@@ -577,7 +577,8 @@
     "20221009": 10147,
     "20221010": 10145,
     "20221011": 10148,
-    "20221012": 10147
+    "20221012": 10147,
+    "20221013": 10143
   },
   "TweetsCountHistory": {
     "20201228": 14461,
@@ -1152,20 +1153,21 @@
     "20221009": 8268,
     "20221010": 8275,
     "20221011": 8282,
-    "20221012": 8284
+    "20221012": 8284,
+    "20221013": 8283
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.01056007096367687590860681,
+    "WeeklyGrowth": -0.0168945078770642976812289345,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221006.0,
-        "Y": 10146.0357142857142857142856
+        "X": 20221007.0,
+        "Y": 10147.0000000000000000000001
       },
       "End": {
-        "X": 20221012.0,
-        "Y": 10147.1071428571428571428571
+        "X": 20221013.0,
+        "Y": 10145.2857142857142857142858
       }
     }
   }
