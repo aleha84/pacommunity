@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1195325698434641925/VgaOOH05_normal.jpg",
   "Login": "BBits21",
   "CurrentFollowersCount": 352,
-  "CurrentTweetsCout": 847,
+  "CurrentTweetsCout": 848,
   "FollowersCountHistory": {
     "20210914": 72,
     "20210915": 72,
@@ -359,7 +359,8 @@
     "20221010": 352,
     "20221011": 352,
     "20221012": 352,
-    "20221013": 352
+    "20221013": 352,
+    "20221014": 352
   },
   "TweetsCountHistory": {
     "20210914": 770,
@@ -716,20 +717,21 @@
     "20221010": 846,
     "20221011": 846,
     "20221012": 847,
-    "20221013": 847
+    "20221013": 847,
+    "20221014": 848
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1823892998277434390515877928,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221007.0,
-        "Y": 352.4642857142857142857143
+        "X": 20221008.0,
+        "Y": 352.0
       },
       "End": {
-        "X": 20221013.0,
-        "Y": 351.8214285714285714285714
+        "X": 20221014.0,
+        "Y": 352.0
       }
     }
   }

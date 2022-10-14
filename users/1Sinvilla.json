@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1576050381905330177/Kq8-v1bZ_normal.jpg",
   "Login": "1Sinvilla",
   "CurrentFollowersCount": 128,
-  "CurrentTweetsCout": 2056,
+  "CurrentTweetsCout": 2057,
   "FollowersCountHistory": {
     "20210914": 88,
     "20210915": 88,
@@ -359,7 +359,8 @@
     "20221010": 128,
     "20221011": 128,
     "20221012": 128,
-    "20221013": 128
+    "20221013": 128,
+    "20221014": 128
   },
   "TweetsCountHistory": {
     "20210914": 1325,
@@ -716,20 +717,21 @@
     "20221010": 2053,
     "20221011": 2054,
     "20221012": 2055,
-    "20221013": 2056
+    "20221013": 2056,
+    "20221014": 2057
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.0118043844856661045531079192,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221007.0,
-        "Y": 127.0714285714285714285715
+        "X": 20221008.0,
+        "Y": 128.0
       },
       "End": {
-        "X": 20221013.0,
-        "Y": 128.3571428571428571428572
+        "X": 20221014.0,
+        "Y": 128.0
       }
     }
   }

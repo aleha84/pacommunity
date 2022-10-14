@@ -2,8 +2,8 @@
   "PublicName": "Ticklish",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1487026264468766731/_LsrsJ3W_normal.jpg",
   "Login": "ticklishart",
-  "CurrentFollowersCount": 2030,
-  "CurrentTweetsCout": 7353,
+  "CurrentFollowersCount": 2028,
+  "CurrentTweetsCout": 7370,
   "FollowersCountHistory": {
     "20210915": 1610,
     "20210916": 1613,
@@ -374,7 +374,8 @@
     "20221010": 2032,
     "20221011": 2032,
     "20221012": 2032,
-    "20221013": 2030
+    "20221013": 2030,
+    "20221014": 2028
   },
   "TweetsCountHistory": {
     "20210915": 3894,
@@ -746,20 +747,21 @@
     "20221010": 7333,
     "20221011": 7335,
     "20221012": 7348,
-    "20221013": 7353
+    "20221013": 7353,
+    "20221014": 7370
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0633245382585751978891813527,
+    "WeeklyGrowth": -0.1159990860678067384924055587,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221007.0,
-        "Y": 2030.3571428571428571428572
+        "X": 20221008.0,
+        "Y": 2032.035714285714285714286
       },
       "End": {
-        "X": 20221013.0,
-        "Y": 2031.6428571428571428571429
+        "X": 20221014.0,
+        "Y": 2029.678571428571428571428
       }
     }
   }
