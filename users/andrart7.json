@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1563357390271299584/5zKps5pR_normal.png",
   "Login": "andrart7",
   "CurrentFollowersCount": 1020,
-  "CurrentTweetsCout": 651,
+  "CurrentTweetsCout": 653,
   "FollowersCountHistory": {
     "20201221": 259,
     "20201222": 261,
@@ -589,7 +589,8 @@
     "20221013": 1020,
     "20221014": 1020,
     "20221015": 1020,
-    "20221016": 1020
+    "20221016": 1020,
+    "20221017": 1020
   },
   "TweetsCountHistory": {
     "20201221": 183,
@@ -1176,20 +1177,21 @@
     "20221013": 648,
     "20221014": 648,
     "20221015": 650,
-    "20221016": 651
+    "20221016": 651,
+    "20221017": 653
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0629965351905645189514618625,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221010.0,
-        "Y": 1020.4642857142857142857144
+        "X": 20221011.0,
+        "Y": 1020.0
       },
       "End": {
-        "X": 20221016.0,
-        "Y": 1019.8214285714285714285715
+        "X": 20221017.0,
+        "Y": 1020.0
       }
     }
   }
