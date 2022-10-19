@@ -2,7 +2,7 @@
   "PublicName": "RyanKamos",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1493710536432881675/4dOTZfIO_normal.jpg",
   "Login": "RyanKamos",
-  "CurrentFollowersCount": 7683,
+  "CurrentFollowersCount": 7680,
   "CurrentTweetsCout": 7288,
   "FollowersCountHistory": {
     "20201219": 4772,
@@ -594,7 +594,8 @@
     "20221015": 7682,
     "20221016": 7681,
     "20221017": 7682,
-    "20221018": 7683
+    "20221018": 7683,
+    "20221019": 7680
   },
   "TweetsCountHistory": {
     "20201219": 4931,
@@ -1186,20 +1187,21 @@
     "20221015": 7284,
     "20221016": 7285,
     "20221017": 7287,
-    "20221018": 7288
+    "20221018": 7288,
+    "20221019": 7288
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0111584311245838835059785013,
+    "WeeklyGrowth": -0.0167356236344195992747894568,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221012.0,
-        "Y": 7681.5714285714285714285715
+        "X": 20221013.0,
+        "Y": 7682.4999999999999999999999
       },
       "End": {
-        "X": 20221018.0,
-        "Y": 7682.4285714285714285714286
+        "X": 20221019.0,
+        "Y": 7681.2142857142857142857142
       }
     }
   }

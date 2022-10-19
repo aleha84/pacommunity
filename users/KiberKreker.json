@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1544747814315610113/XmvYqbAl_normal.jpg",
   "Login": "KiberKreker",
   "CurrentFollowersCount": 210,
-  "CurrentTweetsCout": 252,
+  "CurrentTweetsCout": 253,
   "FollowersCountHistory": {
     "20201215": 105,
     "20201216": 107,
@@ -596,7 +596,8 @@
     "20221015": 210,
     "20221016": 210,
     "20221017": 210,
-    "20221018": 210
+    "20221018": 210,
+    "20221019": 210
   },
   "TweetsCountHistory": {
     "20201215": 132,
@@ -1190,20 +1191,21 @@
     "20221015": 252,
     "20221016": 252,
     "20221017": 252,
-    "20221018": 252
+    "20221018": 252,
+    "20221019": 253
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.3054471406753775666044661501,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221012.0,
-        "Y": 210.4642857142857142857144
+        "X": 20221013.0,
+        "Y": 210.0
       },
       "End": {
-        "X": 20221018.0,
-        "Y": 209.8214285714285714285715
+        "X": 20221019.0,
+        "Y": 210.0
       }
     }
   }
