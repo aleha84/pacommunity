@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/886930614980665349/Bc19WHvF_normal.jpg",
   "Login": "FogRyu",
   "CurrentFollowersCount": 607,
-  "CurrentTweetsCout": 4169,
+  "CurrentTweetsCout": 4171,
   "FollowersCountHistory": {
     "20220525": 583,
     "20220526": 583,
@@ -130,7 +130,8 @@
     "20221016": 607,
     "20221017": 607,
     "20221018": 607,
-    "20221019": 607
+    "20221019": 607,
+    "20221020": 607
   },
   "TweetsCountHistory": {
     "20220525": 3684,
@@ -258,20 +259,21 @@
     "20221016": 4159,
     "20221017": 4165,
     "20221018": 4169,
-    "20221019": 4169
+    "20221019": 4169,
+    "20221020": 4171
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1058263272385207831148121558,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221013.0,
-        "Y": 607.4642857142857142857143
+        "X": 20221014.0,
+        "Y": 607.0
       },
       "End": {
-        "X": 20221019.0,
-        "Y": 606.8214285714285714285715
+        "X": 20221020.0,
+        "Y": 607.0
       }
     }
   }
