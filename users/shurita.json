@@ -2,7 +2,7 @@
   "PublicName": "Shurita Twiggs",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1571927331274366976/LsLqMTyL_normal.jpg",
   "Login": "shurita",
-  "CurrentFollowersCount": 0,
+  "CurrentFollowersCount": 1,
   "CurrentTweetsCout": 0,
   "FollowersCountHistory": {
     "20210708": 799,
@@ -412,7 +412,8 @@
     "20221018": 0,
     "20221019": 0,
     "20221020": 0,
-    "20221021": 0
+    "20221021": 0,
+    "20221022": 1
   },
   "TweetsCountHistory": {
     "20210708": 591,
@@ -822,12 +823,22 @@
     "20221018": 0,
     "20221019": 0,
     "20221020": 0,
-    "20221021": 0
+    "20221021": 0,
+    "20221022": 0
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at System.Decimal.op_Division(Decimal d1, Decimal d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 83",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -360.000000000000000000168,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20221016.0,
+        "Y": -0.1785714285714285714285
+      },
+      "End": {
+        "X": 20221022.0,
+        "Y": 0.4642857142857142857144
+      }
+    }
   }
 }
