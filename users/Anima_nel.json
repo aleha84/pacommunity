@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1570111249194557440/pi_GXMgJ_normal.jpg",
   "Login": "Anima_nel",
   "CurrentFollowersCount": 3001,
-  "CurrentTweetsCout": 528,
+  "CurrentTweetsCout": 529,
   "FollowersCountHistory": {
     "20201221": 405,
     "20201222": 410,
@@ -597,7 +597,8 @@
     "20221020": 3004,
     "20221021": 3003,
     "20221022": 3003,
-    "20221023": 3001
+    "20221023": 3001,
+    "20221024": 3001
   },
   "TweetsCountHistory": {
     "20201221": 152,
@@ -1192,20 +1193,21 @@
     "20221020": 530,
     "20221021": 530,
     "20221022": 528,
-    "20221023": 528
+    "20221023": 528,
+    "20221024": 529
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0928471949433989215440964791,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221017.0,
-        "Y": 3000.321428571428571428571
+        "X": 20221018.0,
+        "Y": 3002.0
       },
       "End": {
-        "X": 20221023.0,
-        "Y": 3003.107142857142857142856
+        "X": 20221024.0,
+        "Y": 3002.0
       }
     }
   }
