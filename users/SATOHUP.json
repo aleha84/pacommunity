@@ -379,7 +379,8 @@
     "20221027": 0,
     "20221028": 0,
     "20221029": 0,
-    "20221030": 0
+    "20221030": 0,
+    "20221031": 0
   },
   "TweetsCountHistory": {
     "20210915": 495,
@@ -756,11 +757,12 @@
     "20221027": 1,
     "20221028": 1,
     "20221029": 1,
-    "20221030": 1
+    "20221030": 1,
+    "20221031": 1
   },
   "LangId": "th",
   "FollowersTrend": {
-    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 90",
+    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at System.Decimal.op_Division(Decimal d1, Decimal d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 83",
     "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": null
   }
