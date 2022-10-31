@@ -2,7 +2,7 @@
   "PublicName": "pixel turkey",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1350316516344950785/iTOy8d5p_normal.png",
   "Login": "pixel_turkey",
-  "CurrentFollowersCount": 18226,
+  "CurrentFollowersCount": 18218,
   "CurrentTweetsCout": 308,
   "FollowersCountHistory": {
     "20210822": 147,
@@ -416,7 +416,8 @@
     "20221028": 18222,
     "20221029": 18246,
     "20221030": 18243,
-    "20221031": 18226
+    "20221031": 18226,
+    "20221101": 18218
   },
   "TweetsCountHistory": {
     "20210822": 101,
@@ -830,20 +831,21 @@
     "20221028": 305,
     "20221029": 305,
     "20221030": 305,
-    "20221031": 308
+    "20221031": 308,
+    "20221101": 308
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3062979572282391008976650912,
+    "WeeklyGrowth": -0.0140009074633356055239721731,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221025.0,
-        "Y": 18189.57142857142857142857
+        "X": 20221026.0,
+        "Y": 18222.58022741629816803110966
       },
       "End": {
-        "X": 20221031.0,
-        "Y": 18245.28571428571428571428
+        "X": 20221101.0,
+        "Y": 18220.02890082122552118296999
       }
     }
   }
