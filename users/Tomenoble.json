@@ -2,7 +2,7 @@
   "PublicName": "Tomenoble",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1549595817618673664/ZII96Gan_normal.jpg",
   "Login": "Tomenoble",
-  "CurrentFollowersCount": 464,
+  "CurrentFollowersCount": 463,
   "CurrentTweetsCout": 457,
   "FollowersCountHistory": {
     "20201219": 341,
@@ -608,7 +608,8 @@
     "20221029": 464,
     "20221030": 464,
     "20221031": 464,
-    "20221101": 464
+    "20221101": 464,
+    "20221103": 463
   },
   "TweetsCountHistory": {
     "20201219": 270,
@@ -1214,20 +1215,21 @@
     "20221029": 457,
     "20221030": 457,
     "20221031": 457,
-    "20221101": 457
+    "20221101": 457,
+    "20221103": 457
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1141545966242831919109065926,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221026.0,
-        "Y": 464.0
+        "X": 20221027.0,
+        "Y": 464.01644995690785775756332
       },
       "End": {
-        "X": 20221101.0,
-        "Y": 464.0
+        "X": 20221103.0,
+        "Y": 463.48675385018923071366526
       }
     }
   }

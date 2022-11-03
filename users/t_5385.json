@@ -2,7 +2,7 @@
   "PublicName": "たかはし",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1089522297159835648/r364Uepp_normal.jpg",
   "Login": "t_5385",
-  "CurrentFollowersCount": 1178,
+  "CurrentFollowersCount": 1177,
   "CurrentTweetsCout": 168,
   "FollowersCountHistory": {
     "20220515": 1075,
@@ -153,7 +153,8 @@
     "20221029": 1178,
     "20221030": 1178,
     "20221031": 1178,
-    "20221101": 1178
+    "20221101": 1178,
+    "20221103": 1177
   },
   "TweetsCountHistory": {
     "20220515": 149,
@@ -304,20 +305,21 @@
     "20221029": 168,
     "20221030": 168,
     "20221031": 168,
-    "20221101": 168
+    "20221101": 168,
+    "20221103": 168
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0449650857369609280611633873,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221026.0,
-        "Y": 1178.0
+        "X": 20221027.0,
+        "Y": 1178.01644995690785775757232
       },
       "End": {
-        "X": 20221101.0,
-        "Y": 1178.0
+        "X": 20221103.0,
+        "Y": 1177.48675385018923071364435
       }
     }
   }

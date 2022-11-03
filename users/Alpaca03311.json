@@ -2,7 +2,7 @@
   "PublicName": "E·bou&Alpaca",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1370808349210517505/MjeqHzBD_normal.jpg",
   "Login": "Alpaca03311",
-  "CurrentFollowersCount": 3546,
+  "CurrentFollowersCount": 3545,
   "CurrentTweetsCout": 298,
   "FollowersCountHistory": {
     "20211101": 1966,
@@ -334,7 +334,8 @@
     "20221029": 3546,
     "20221030": 3547,
     "20221031": 3547,
-    "20221101": 3546
+    "20221101": 3546,
+    "20221103": 3545
   },
   "TweetsCountHistory": {
     "20211101": 183,
@@ -666,20 +667,21 @@
     "20221029": 298,
     "20221030": 298,
     "20221031": 298,
-    "20221101": 298
+    "20221101": 298,
+    "20221103": 298
   },
   "LangId": "cn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0689819037472503040156786557,
+    "WeeklyGrowth": -0.0132513229316647768352831591,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221026.0,
-        "Y": 3544.00947567909033481130314
+        "X": 20221027.0,
+        "Y": 3545.99846367145051897849254
       },
       "End": {
-        "X": 20221101.0,
-        "Y": 3546.45420088439671507870151
+        "X": 20221103.0,
+        "Y": 3545.52857196387754337500484
       }
     }
   }

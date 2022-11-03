@@ -2,7 +2,7 @@
   "PublicName": "A",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1425417201104801797/dQsEV0XA_normal.jpg",
   "Login": "partxione",
-  "CurrentFollowersCount": 145,
+  "CurrentFollowersCount": 144,
   "CurrentTweetsCout": 803,
   "FollowersCountHistory": {
     "20210914": 108,
@@ -383,7 +383,8 @@
     "20221029": 145,
     "20221030": 145,
     "20221031": 145,
-    "20221101": 145
+    "20221101": 145,
+    "20221103": 144
   },
   "TweetsCountHistory": {
     "20210914": 577,
@@ -764,20 +765,21 @@
     "20221029": 803,
     "20221030": 803,
     "20221031": 803,
-    "20221101": 803
+    "20221101": 803,
+    "20221103": 803
   },
   "LangId": "th",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3652662210914886438430795512,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221026.0,
-        "Y": 145.0
+        "X": 20221027.0,
+        "Y": 145.01644995690785775756332
       },
       "End": {
-        "X": 20221101.0,
-        "Y": 145.0
+        "X": 20221103.0,
+        "Y": 144.48675385018923071366526
       }
     }
   }
