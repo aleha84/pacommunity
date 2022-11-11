@@ -2,8 +2,8 @@
   "PublicName": "Rita Malaquias",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1198672945197043712/4EJtH17Y_normal.jpg",
   "Login": "RitaMal_",
-  "CurrentFollowersCount": 310,
-  "CurrentTweetsCout": 6110,
+  "CurrentFollowersCount": 309,
+  "CurrentTweetsCout": 6109,
   "FollowersCountHistory": {
     "20210320": 244,
     "20210325": 243,
@@ -523,7 +523,10 @@
     "20221030": 310,
     "20221031": 310,
     "20221101": 310,
-    "20221103": 310
+    "20221103": 310,
+    "20221105": 310,
+    "20221107": 310,
+    "20221111": 309
   },
   "TweetsCountHistory": {
     "20210320": 6073,
@@ -1044,20 +1047,23 @@
     "20221030": 6109,
     "20221031": 6109,
     "20221101": 6110,
-    "20221103": 6110
+    "20221103": 6110,
+    "20221105": 6110,
+    "20221107": 6110,
+    "20221111": 6109
   },
   "LangId": "pt",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0873666131133125968172051625,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221027.0,
-        "Y": 310.0
+        "X": 20221030.0,
+        "Y": 310.037722495488163063094944
       },
       "End": {
-        "X": 20221103.0,
-        "Y": 310.0
+        "X": 20221111.0,
+        "Y": 309.766853037970204182738243
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "wren",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1511654262232653830/7x_BpLpG_normal.jpg",
   "Login": "funnily_unfunny",
-  "CurrentFollowersCount": 3803,
-  "CurrentTweetsCout": 3081,
+  "CurrentFollowersCount": 3789,
+  "CurrentTweetsCout": 3091,
   "FollowersCountHistory": {
     "20210522": 1377,
     "20210523": 1392,
@@ -491,7 +491,8 @@
     "20221031": 3805,
     "20221101": 3805,
     "20221102": 3808,
-    "20221104": 3803
+    "20221104": 3803,
+    "20221111": 3789
   },
   "TweetsCountHistory": {
     "20210522": 2022,
@@ -980,20 +981,21 @@
     "20221031": 3073,
     "20221101": 3075,
     "20221102": 3075,
-    "20221104": 3081
+    "20221104": 3081,
+    "20221111": 3091
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0014417296149762913469196446,
+    "WeeklyGrowth": -0.1521849325317332265361004224,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221028.0,
-        "Y": 3805.262099052162450567995571
+        "X": 20221029.0,
+        "Y": 3806.2207505518763796955466
       },
       "End": {
-        "X": 20221104.0,
-        "Y": 3805.316960642771954051953457
+        "X": 20221111.0,
+        "Y": 3800.4282560706401765963868
       }
     }
   }

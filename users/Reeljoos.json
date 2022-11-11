@@ -2,7 +2,7 @@
   "PublicName": "RJ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1482341530660659201/2Kmf7UjA_normal.png",
   "Login": "Reeljoos",
-  "CurrentFollowersCount": 597,
+  "CurrentFollowersCount": 593,
   "CurrentTweetsCout": 9,
   "FollowersCountHistory": {
     "20210306": 570,
@@ -561,7 +561,8 @@
     "20221031": 597,
     "20221101": 597,
     "20221102": 597,
-    "20221104": 597
+    "20221104": 597,
+    "20221111": 593
   },
   "TweetsCountHistory": {
     "20210306": 1043,
@@ -1120,20 +1121,21 @@
     "20221031": 9,
     "20221101": 9,
     "20221102": 9,
-    "20221104": 9
+    "20221104": 9,
+    "20221111": 9
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2203935470591879273482280579,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221028.0,
-        "Y": 597.0
+        "X": 20221029.0,
+        "Y": 597.12785633315434640044202
       },
       "End": {
-        "X": 20221104.0,
-        "Y": 597.0
+        "X": 20221111.0,
+        "Y": 595.81182507010321579764292
       }
     }
   }

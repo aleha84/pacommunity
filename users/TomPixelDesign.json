@@ -1,8 +1,8 @@
 {
-  "PublicName": "TombDoy",
+  "PublicName": "TomDoy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1587538308485234689/ROPb8-6O_normal.jpg",
   "Login": "TomPixelDesign",
-  "CurrentFollowersCount": 474,
+  "CurrentFollowersCount": 472,
   "CurrentTweetsCout": 604,
   "FollowersCountHistory": {
     "20210214": 45,
@@ -581,7 +581,8 @@
     "20221031": 474,
     "20221101": 474,
     "20221102": 474,
-    "20221104": 474
+    "20221104": 474,
+    "20221111": 472
   },
   "TweetsCountHistory": {
     "20210214": 45,
@@ -1160,20 +1161,21 @@
     "20221031": 603,
     "20221101": 604,
     "20221102": 604,
-    "20221104": 604
+    "20221104": 604,
+    "20221111": 604
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1388031428736655427768439154,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221028.0,
-        "Y": 474.0
+        "X": 20221029.0,
+        "Y": 474.06392816657717320021192
       },
       "End": {
-        "X": 20221104.0,
-        "Y": 474.0
+        "X": 20221111.0,
+        "Y": 473.40591253505160789882949
       }
     }
   }

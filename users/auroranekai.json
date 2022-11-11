@@ -2,8 +2,8 @@
   "PublicName": "Dani",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1574515606270926856/Bcr5xLY3_normal.jpg",
   "Login": "auroranekai",
-  "CurrentFollowersCount": 282,
-  "CurrentTweetsCout": 593,
+  "CurrentFollowersCount": 280,
+  "CurrentTweetsCout": 594,
   "FollowersCountHistory": {
     "20210125": 141,
     "20210126": 143,
@@ -574,7 +574,10 @@
     "20221030": 282,
     "20221031": 282,
     "20221101": 282,
-    "20221103": 282
+    "20221103": 282,
+    "20221105": 282,
+    "20221107": 282,
+    "20221111": 280
   },
   "TweetsCountHistory": {
     "20210125": 317,
@@ -1146,20 +1149,23 @@
     "20221030": 592,
     "20221031": 593,
     "20221101": 593,
-    "20221103": 593
+    "20221103": 593,
+    "20221105": 593,
+    "20221107": 593,
+    "20221111": 594
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1920546168253844793173394923,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221027.0,
-        "Y": 282.0
+        "X": 20221030.0,
+        "Y": 282.07544499097632612618989
       },
       "End": {
-        "X": 20221103.0,
-        "Y": 282.0
+        "X": 20221111.0,
+        "Y": 281.53370607594040836547649
       }
     }
   }
