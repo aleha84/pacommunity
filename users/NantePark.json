@@ -2,8 +2,8 @@
   "PublicName": "NantePark",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1322841650247487493/pVyCBj43_normal.jpg",
   "Login": "NantePark",
-  "CurrentFollowersCount": 775,
-  "CurrentTweetsCout": 304,
+  "CurrentFollowersCount": 776,
+  "CurrentTweetsCout": 305,
   "FollowersCountHistory": {
     "20201216": 77,
     "20201217": 78,
@@ -608,7 +608,9 @@
     "20221030": 773,
     "20221031": 772,
     "20221101": 773,
-    "20221105": 775
+    "20221105": 775,
+    "20221111": 776,
+    "20221112": 776
   },
   "TweetsCountHistory": {
     "20201216": 124,
@@ -1214,20 +1216,22 @@
     "20221030": 302,
     "20221031": 302,
     "20221101": 302,
-    "20221105": 304
+    "20221105": 304,
+    "20221111": 305,
+    "20221112": 305
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1049212377468915505153842387,
+    "WeeklyGrowth": 0.342738467969143011290581762,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221026.0,
-        "Y": 773.18212112431179368299044
+        "X": 20221029.0,
+        "Y": 772.55985593572516969707775
       },
       "End": {
-        "X": 20221105.0,
-        "Y": 773.99335337583309185743263
+        "X": 20221112.0,
+        "Y": 775.20771575010389250086833
       }
     }
   }
