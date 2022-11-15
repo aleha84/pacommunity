@@ -2,8 +2,8 @@
   "PublicName": "julia",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1512903323246108676/S33Y-AZL_normal.jpg",
   "Login": "JuliaGoodish",
-  "CurrentFollowersCount": 16839,
-  "CurrentTweetsCout": 6346,
+  "CurrentFollowersCount": 16829,
+  "CurrentTweetsCout": 6350,
   "FollowersCountHistory": {
     "20210116": 632,
     "20210117": 636,
@@ -614,7 +614,8 @@
     "20221104": 16850,
     "20221111": 16841,
     "20221112": 16840,
-    "20221114": 16839
+    "20221114": 16839,
+    "20221115": 16829
   },
   "TweetsCountHistory": {
     "20210116": 783,
@@ -1226,20 +1227,21 @@
     "20221104": 6332,
     "20221111": 6344,
     "20221112": 6346,
-    "20221114": 6346
+    "20221114": 6346,
+    "20221115": 6350
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0263516279052374742943029678,
+    "WeeklyGrowth": -0.1212569857555172779145072686,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221031.0,
-        "Y": 16841.6443619026499611837021
+        "X": 20221101.0,
+        "Y": 16854.558583106267030712982
       },
       "End": {
-        "X": 20221114.0,
-        "Y": 16846.0824093580219536559053
+        "X": 20221115.0,
+        "Y": 16834.121253405994549753900
       }
     }
   }
