@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/922073805312233475/PC5DpXRB_normal.jpg",
   "Login": "ban8ku",
   "CurrentFollowersCount": 6251,
-  "CurrentTweetsCout": 4600,
+  "CurrentTweetsCout": 4602,
   "FollowersCountHistory": {
     "20201225": 5504,
     "20201226": 5504,
@@ -608,7 +608,8 @@
     "20221107": 6253,
     "20221112": 6253,
     "20221113": 6255,
-    "20221115": 6251
+    "20221115": 6250,
+    "20221116": 6251
   },
   "TweetsCountHistory": {
     "20201225": 3248,
@@ -1214,20 +1215,21 @@
     "20221107": 4591,
     "20221112": 4599,
     "20221113": 4599,
-    "20221115": 4600
+    "20221115": 4601,
+    "20221116": 4602
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0340771769418092790998737254,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221101.0,
-        "Y": 6253.0
+        "X": 20221103.0,
+        "Y": 6253.8852459016393439430112
       },
       "End": {
-        "X": 20221115.0,
-        "Y": 6253.0
+        "X": 20221116.0,
+        "Y": 6251.7540983606557379667309
       }
     }
   }

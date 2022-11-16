@@ -2,7 +2,7 @@
   "PublicName": "Fluffy-Pixel-Artist",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1294717860380577795/cc-btpqX_normal.jpg",
   "Login": "Gangnam_KID",
-  "CurrentFollowersCount": 112,
+  "CurrentFollowersCount": 111,
   "CurrentTweetsCout": 37522,
   "FollowersCountHistory": {
     "20210113": 119,
@@ -585,7 +585,8 @@
     "20221111": 112,
     "20221112": 112,
     "20221113": 112,
-    "20221115": 112
+    "20221115": 111,
+    "20221116": 111
   },
   "TweetsCountHistory": {
     "20210113": 37264,
@@ -1168,20 +1169,21 @@
     "20221111": 37522,
     "20221112": 37522,
     "20221113": 37522,
-    "20221115": 37522
+    "20221115": 37522,
+    "20221116": 37522
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.7542172428933615315510172701,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221031.0,
-        "Y": 112.0
+        "X": 20221101.0,
+        "Y": 112.2464228934817170534216
       },
       "End": {
-        "X": 20221115.0,
-        "Y": 112.0
+        "X": 20221116.0,
+        "Y": 111.3998410174880762866146
       }
     }
   }

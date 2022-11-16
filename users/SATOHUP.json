@@ -2,7 +2,7 @@
   "PublicName": "SATOHUP 🏖",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1584075605900873728/k2B-noIW_normal.jpg",
   "Login": "SATOHUP",
-  "CurrentFollowersCount": 0,
+  "CurrentFollowersCount": 1,
   "CurrentTweetsCout": 1,
   "FollowersCountHistory": {
     "20210915": 155,
@@ -389,7 +389,8 @@
     "20221112": 0,
     "20221113": 0,
     "20221114": 0,
-    "20221115": 0
+    "20221115": 0,
+    "20221116": 1
   },
   "TweetsCountHistory": {
     "20210915": 495,
@@ -776,12 +777,22 @@
     "20221112": 1,
     "20221113": 1,
     "20221114": 1,
-    "20221115": 1
+    "20221115": 1,
+    "20221116": 1
   },
   "LangId": "th",
   "FollowersTrend": {
-    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 90",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -269.9999999999999517857879,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20221107.0,
+        "Y": -0.2127659574468086052189
+      },
+      "End": {
+        "X": 20221116.0,
+        "Y": 0.3617021276595745262887
+      }
+    }
   }
 }
