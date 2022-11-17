@@ -2,8 +2,8 @@
   "PublicName": "Fliper",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1489052825309134850/9qn33I05_normal.jpg",
   "Login": "FilipeBrizolara",
-  "CurrentFollowersCount": 3373,
-  "CurrentTweetsCout": 20001,
+  "CurrentFollowersCount": 3370,
+  "CurrentTweetsCout": 20006,
   "FollowersCountHistory": {
     "20201219": 2819,
     "20201220": 2818,
@@ -614,7 +614,8 @@
     "20221112": 3379,
     "20221113": 3380,
     "20221115": 3373,
-    "20221116": 3373
+    "20221116": 3373,
+    "20221117": 3370
   },
   "TweetsCountHistory": {
     "20201219": 15705,
@@ -1226,20 +1227,21 @@
     "20221112": 19974,
     "20221113": 19985,
     "20221115": 19995,
-    "20221116": 20001
+    "20221116": 20001,
+    "20221117": 20006
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0287682182973424672629870293,
+    "WeeklyGrowth": -0.0471831778412611304998230016,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221103.0,
-        "Y": 3374.7522768670309655371739
+        "X": 20221105.0,
+        "Y": 3375.5194508009153314824540
       },
       "End": {
-        "X": 20221116.0,
-        "Y": 3375.7231329690346082595174
+        "X": 20221117.0,
+        "Y": 3373.9267734553775745919313
       }
     }
   }
