@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1585516677995061249/m5-jI7Nr_normal.jpg",
   "Login": "theEyeDonutz",
   "CurrentFollowersCount": 663,
-  "CurrentTweetsCout": 369,
+  "CurrentTweetsCout": 374,
   "FollowersCountHistory": {
     "20210914": 611,
     "20210915": 610,
@@ -402,7 +402,8 @@
     "20221114": 661,
     "20221115": 662,
     "20221116": 663,
-    "20221117": 663
+    "20221117": 663,
+    "20221119": 663
   },
   "TweetsCountHistory": {
     "20210914": 3438,
@@ -802,20 +803,21 @@
     "20221114": 369,
     "20221115": 369,
     "20221116": 369,
-    "20221117": 369
+    "20221117": 369,
+    "20221119": 374
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.3875772270695005468860496325,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221104.0,
-        "Y": 662.0
+        "X": 20221111.0,
+        "Y": 660.7652439024390255195941
       },
       "End": {
-        "X": 20221117.0,
-        "Y": 662.0
+        "X": 20221119.0,
+        "Y": 663.3262195121951207382139
       }
     }
   }

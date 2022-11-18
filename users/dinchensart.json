@@ -3,7 +3,7 @@
   "AvatarImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
   "Login": "dinchensart",
   "CurrentFollowersCount": 0,
-  "CurrentTweetsCout": 20,
+  "CurrentTweetsCout": 21,
   "FollowersCountHistory": {
     "20201221": 1501,
     "20201222": 1513,
@@ -610,7 +610,8 @@
     "20221113": 0,
     "20221115": 0,
     "20221116": 0,
-    "20221117": 0
+    "20221117": 0,
+    "20221118": 0
   },
   "TweetsCountHistory": {
     "20201221": 1562,
@@ -1218,21 +1219,13 @@
     "20221113": 20,
     "20221115": 20,
     "20221116": 20,
-    "20221117": 20
+    "20221117": 20,
+    "20221118": 21
   },
   "LangId": "de",
   "FollowersTrend": {
-    "ErrorMessage": null,
-    "WeeklyGrowth": -126.07003891050584358366389172,
-    "WeeklyTrendLine": {
-      "Start": {
-        "X": 20221105.0,
-        "Y": 2328.0733137829917556561
-      },
-      "End": {
-        "X": 20221117.0,
-        "Y": -606.9296187683287531424
-      }
-    }
+    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at System.Decimal.op_Division(Decimal d1, Decimal d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 83",
+    "WeeklyGrowth": 0.0,
+    "WeeklyTrendLine": null
   }
 }

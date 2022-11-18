@@ -2,7 +2,7 @@
   "PublicName": "ShibaPixels",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1474451939429535749/S_hOjly1_normal.jpg",
   "Login": "ShibaPixels",
-  "CurrentFollowersCount": 43389,
+  "CurrentFollowersCount": 43366,
   "CurrentTweetsCout": 1718,
   "FollowersCountHistory": {
     "20210214": 1194,
@@ -587,7 +587,8 @@
     "20221114": 43391,
     "20221115": 43378,
     "20221116": 43392,
-    "20221117": 43389
+    "20221117": 43389,
+    "20221119": 43366
   },
   "TweetsCountHistory": {
     "20210214": 158,
@@ -1172,20 +1173,21 @@
     "20221114": 1718,
     "20221115": 1718,
     "20221116": 1718,
-    "20221117": 1718
+    "20221117": 1718,
+    "20221119": 1718
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0101242879728622322851844913,
+    "WeeklyGrowth": -0.0359737301835334417942590409,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221104.0,
-        "Y": 43384.0556930693069299642806
+        "X": 20221111.0,
+        "Y": 43392.097560975609749216254
       },
       "End": {
-        "X": 20221117.0,
-        "Y": 43388.4480198019801983782228
+        "X": 20221119.0,
+        "Y": 43376.487804878048787878836
       }
     }
   }
