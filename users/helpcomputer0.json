@@ -2,7 +2,7 @@
   "PublicName": "Adam",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1543354857721151489/F4knfrxj_normal.jpg",
   "Login": "helpcomputer0",
-  "CurrentFollowersCount": 8098,
+  "CurrentFollowersCount": 8095,
   "CurrentTweetsCout": 2641,
   "FollowersCountHistory": {
     "20210114": 3419,
@@ -621,7 +621,8 @@
     "20221116": 8120,
     "20221117": 8117,
     "20221119": 8108,
-    "20221120": 8098
+    "20221120": 8098,
+    "20221121": 8095
   },
   "TweetsCountHistory": {
     "20210114": 1197,
@@ -1240,20 +1241,21 @@
     "20221116": 2640,
     "20221117": 2640,
     "20221119": 2641,
-    "20221120": 2641
+    "20221120": 2641,
+    "20221121": 2641
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2416337696751123289248015607,
+    "WeeklyGrowth": -0.2265003273686982299841160386,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221112.0,
-        "Y": 8095.298780487804887316359
+        "X": 20221114.0,
+        "Y": 8117.863013698630140068156
       },
       "End": {
-        "X": 20221120.0,
-        "Y": 8114.859756097560966981320
+        "X": 20221121.0,
+        "Y": 8099.476027397260270762339
       }
     }
   }
