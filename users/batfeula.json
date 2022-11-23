@@ -2,8 +2,8 @@
   "PublicName": "Batfeula",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1587504498687164416/cwOBcRDi_normal.jpg",
   "Login": "batfeula",
-  "CurrentFollowersCount": 8632,
-  "CurrentTweetsCout": 10800,
+  "CurrentFollowersCount": 8630,
+  "CurrentTweetsCout": 10811,
   "FollowersCountHistory": {
     "20210316": 1658,
     "20210317": 1670,
@@ -563,7 +563,8 @@
     "20221120": 8629,
     "20221121": 8625,
     "20221122": 8630,
-    "20221123": 8632
+    "20221123": 8632,
+    "20221124": 8630
   },
   "TweetsCountHistory": {
     "20210316": 1002,
@@ -1124,20 +1125,21 @@
     "20221120": 10738,
     "20221121": 10746,
     "20221122": 10789,
-    "20221123": 10800
+    "20221123": 10800,
+    "20221124": 10811
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0305710743884945478303559443,
+    "WeeklyGrowth": -0.0564904702000901254012883395,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221116.0,
-        "Y": 8628.0289855072463758014389
+        "X": 20221117.0,
+        "Y": 8633.401639344262291776263
       },
       "End": {
-        "X": 20221123.0,
-        "Y": 8630.6666666666666675602659
+        "X": 20221124.0,
+        "Y": 8628.524590163934428923045
       }
     }
   }
