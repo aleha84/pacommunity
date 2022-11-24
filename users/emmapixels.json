@@ -2,7 +2,7 @@
   "PublicName": "@emmapixels@mastodon.gamedev.place",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1579617251371589632/HJOud1TI_normal.png",
   "Login": "emmapixels",
-  "CurrentFollowersCount": 7067,
+  "CurrentFollowersCount": 7065,
   "CurrentTweetsCout": 1768,
   "FollowersCountHistory": {
     "20210302": 435,
@@ -577,7 +577,8 @@
     "20221121": 7061,
     "20221122": 7061,
     "20221123": 7065,
-    "20221124": 7067
+    "20221124": 7067,
+    "20221125": 7065
   },
   "TweetsCountHistory": {
     "20210302": 108,
@@ -1152,20 +1153,21 @@
     "20221121": 1763,
     "20221122": 1766,
     "20221123": 1768,
-    "20221124": 1768
+    "20221124": 1768,
+    "20221125": 1768
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.784821607311382416932504898,
+    "WeeklyGrowth": 0.2126560743688671507123978448,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221117.0,
-        "Y": 7022.06147540983610290721
+        "X": 20221119.0,
+        "Y": 7053.642857142857142857143
       },
       "End": {
-        "X": 20221124.0,
-        "Y": 7077.17213114754095318673
+        "X": 20221125.0,
+        "Y": 7068.642857142857142857143
       }
     }
   }
