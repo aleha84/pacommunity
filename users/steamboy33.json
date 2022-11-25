@@ -2,7 +2,7 @@
   "PublicName": "steamboy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1595323081844617216/eTpDdLXP_normal.jpg",
   "Login": "steamboy33",
-  "CurrentFollowersCount": 26019,
+  "CurrentFollowersCount": 26030,
   "CurrentTweetsCout": 502,
   "FollowersCountHistory": {
     "20211021": 5173,
@@ -372,7 +372,8 @@
     "20221122": 26064,
     "20221123": 26067,
     "20221124": 26045,
-    "20221125": 26019
+    "20221125": 26019,
+    "20221126": 26030
   },
   "TweetsCountHistory": {
     "20211021": 347,
@@ -742,20 +743,21 @@
     "20221122": 502,
     "20221123": 502,
     "20221124": 502,
-    "20221125": 502
+    "20221125": 502,
+    "20221126": 502
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0337390708040459454826001036,
+    "WeeklyGrowth": -0.1257880594519860948014617241,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221119.0,
-        "Y": 26040.178571428571428571428
+        "X": 20221120.0,
+        "Y": 26064.25000000000000000001
       },
       "End": {
-        "X": 20221125.0,
-        "Y": 26048.964285714285714285714
+        "X": 20221126.0,
+        "Y": 26031.46428571428571428572
       }
     }
   }
