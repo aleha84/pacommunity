@@ -2,7 +2,7 @@
   "PublicName": "Mui",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1257550440050208769/TPF6p8EF_normal.jpg",
   "Login": "mui_doter",
-  "CurrentFollowersCount": 351,
+  "CurrentFollowersCount": 350,
   "CurrentTweetsCout": 102,
   "FollowersCountHistory": {
     "20210114": 238,
@@ -598,7 +598,8 @@
     "20221122": 351,
     "20221123": 351,
     "20221124": 351,
-    "20221125": 351
+    "20221125": 351,
+    "20221126": 350
   },
   "TweetsCountHistory": {
     "20210114": 91,
@@ -1194,20 +1195,21 @@
     "20221122": 102,
     "20221123": 102,
     "20221124": 102,
-    "20221125": 102
+    "20221125": 102,
+    "20221126": 102
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1830570527814502186514634767,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221119.0,
-        "Y": 351.0
+        "X": 20221120.0,
+        "Y": 351.1785714285714285714285
       },
       "End": {
-        "X": 20221125.0,
-        "Y": 351.0
+        "X": 20221126.0,
+        "Y": 350.5357142857142857142857
       }
     }
   }
