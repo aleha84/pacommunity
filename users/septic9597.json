@@ -2,7 +2,7 @@
   "PublicName": "セプティック-9795/septic",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1458851754498564097/32hmSyIn_normal.jpg",
   "Login": "septic9597",
-  "CurrentFollowersCount": 106,
+  "CurrentFollowersCount": 105,
   "CurrentTweetsCout": 57,
   "FollowersCountHistory": {
     "20220218": 89,
@@ -245,7 +245,9 @@
     "20221123": 106,
     "20221124": 106,
     "20221125": 106,
-    "20221126": 106
+    "20221126": 106,
+    "20221127": 105,
+    "20221128": 105
   },
   "TweetsCountHistory": {
     "20220218": 15,
@@ -488,20 +490,22 @@
     "20221123": 57,
     "20221124": 57,
     "20221125": 57,
-    "20221126": 57
+    "20221126": 57,
+    "20221127": 57,
+    "20221128": 57
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.0084033613445378151261176471,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221120.0,
-        "Y": 106.0
+        "X": 20221122.0,
+        "Y": 106.2500000000000000000000
       },
       "End": {
-        "X": 20221126.0,
-        "Y": 106.0
+        "X": 20221128.0,
+        "Y": 105.1785714285714285714285
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "Fanny",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1567797476324769794/KRmkLWrw_normal.jpg",
   "Login": "phanpy100",
-  "CurrentFollowersCount": 46,
-  "CurrentTweetsCout": 997,
+  "CurrentFollowersCount": 45,
+  "CurrentTweetsCout": 998,
   "FollowersCountHistory": {
     "20210125": 44,
     "20210126": 48,
@@ -587,7 +587,9 @@
     "20221123": 46,
     "20221124": 46,
     "20221125": 46,
-    "20221126": 46
+    "20221126": 46,
+    "20221127": 45,
+    "20221128": 45
   },
   "TweetsCountHistory": {
     "20210125": 1384,
@@ -1172,20 +1174,22 @@
     "20221123": 993,
     "20221124": 997,
     "20221125": 997,
-    "20221126": 997
+    "20221126": 997,
+    "20221127": 997,
+    "20221128": 998
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 2.861685214626391096979527602,
+    "WeeklyGrowth": -0.936037441497659906396100136,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221120.0,
-        "Y": 44.9285714285714285714285
+        "X": 20221122.0,
+        "Y": 45.7857142857142857142857
       },
       "End": {
-        "X": 20221126.0,
-        "Y": 46.2142857142857142857143
+        "X": 20221128.0,
+        "Y": 45.3571428571428571428572
       }
     }
   }

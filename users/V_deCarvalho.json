@@ -2,7 +2,7 @@
   "PublicName": "Vítor de Carvalho",
   "AvatarImage": "https://pbs.twimg.com/profile_images/615175427775168512/qV97DYwI_normal.png",
   "Login": "V_deCarvalho",
-  "CurrentFollowersCount": 493,
+  "CurrentFollowersCount": 492,
   "CurrentTweetsCout": 1809,
   "FollowersCountHistory": {
     "20210126": 445,
@@ -592,7 +592,9 @@
     "20221123": 493,
     "20221124": 493,
     "20221125": 493,
-    "20221126": 493
+    "20221126": 493,
+    "20221127": 492,
+    "20221128": 492
   },
   "TweetsCountHistory": {
     "20210126": 1773,
@@ -1182,20 +1184,22 @@
     "20221123": 1809,
     "20221124": 1809,
     "20221125": 1809,
-    "20221126": 1809
+    "20221126": 1809,
+    "20221127": 1809,
+    "20221128": 1809
   },
   "LangId": "pt",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2172181594381290275867207299,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221120.0,
-        "Y": 493.0
+        "X": 20221122.0,
+        "Y": 493.2500000000000000000000
       },
       "End": {
-        "X": 20221126.0,
-        "Y": 493.0
+        "X": 20221128.0,
+        "Y": 492.1785714285714285714285
       }
     }
   }
