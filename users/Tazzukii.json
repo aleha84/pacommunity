@@ -2,7 +2,7 @@
   "PublicName": "Tazzuki",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1571659024935911426/qOcX3whH_normal.jpg",
   "Login": "Tazzukii",
-  "CurrentFollowersCount": 1370,
+  "CurrentFollowersCount": 1368,
   "CurrentTweetsCout": 406,
   "FollowersCountHistory": {
     "20210112": 334,
@@ -632,7 +632,8 @@
     "20221126": 1370,
     "20221127": 1371,
     "20221128": 1371,
-    "20221129": 1370
+    "20221129": 1370,
+    "20221130": 1368
   },
   "TweetsCountHistory": {
     "20210112": 169,
@@ -1262,20 +1263,21 @@
     "20221126": 406,
     "20221127": 406,
     "20221128": 406,
-    "20221129": 406
+    "20221129": 406,
+    "20221130": 406
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0938820215928649663589412194,
+    "WeeklyGrowth": -0.078175895765472312703580978,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221123.0,
-        "Y": 1369.5000000000000000000000
+        "X": 20221124.0,
+        "Y": 1370.5357142857142857142857
       },
       "End": {
-        "X": 20221129.0,
-        "Y": 1370.7857142857142857142857
+        "X": 20221130.0,
+        "Y": 1369.4642857142857142857143
       }
     }
   }
