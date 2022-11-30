@@ -2,8 +2,8 @@
   "PublicName": "lizard",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1550089546276020225/ZrsteWMU_normal.jpg",
   "Login": "knee_destroyer",
-  "CurrentFollowersCount": 1436,
-  "CurrentTweetsCout": 3849,
+  "CurrentFollowersCount": 1435,
+  "CurrentTweetsCout": 3850,
   "FollowersCountHistory": {
     "20210116": 189,
     "20210117": 190,
@@ -630,7 +630,8 @@
     "20221127": 1435,
     "20221128": 1437,
     "20221129": 1436,
-    "20221130": 1436
+    "20221130": 1436,
+    "20221201": 1435
   },
   "TweetsCountHistory": {
     "20210116": 719,
@@ -1258,20 +1259,21 @@
     "20221127": 3833,
     "20221128": 3842,
     "20221129": 3845,
-    "20221130": 3849
+    "20221130": 3849,
+    "20221201": 3850
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2242208326066917461819975138,
+    "WeeklyGrowth": -0.027337375587963401488927857,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221124.0,
-        "Y": 1433.535714285714285714286
+        "X": 20221125.0,
+        "Y": 1435.49569707401032702237521
       },
       "End": {
-        "X": 20221130.0,
-        "Y": 1436.750000000000000000000
+        "X": 20221201.0,
+        "Y": 1435.10327022375215146299483
       }
     }
   }
