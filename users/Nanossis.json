@@ -2,8 +2,8 @@
   "PublicName": "Jamie",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1457291691669426176/LZBAzyiJ_normal.jpg",
   "Login": "Nanossis",
-  "CurrentFollowersCount": 201,
-  "CurrentTweetsCout": 63,
+  "CurrentFollowersCount": 202,
+  "CurrentTweetsCout": 64,
   "FollowersCountHistory": {
     "20210914": 140,
     "20210915": 142,
@@ -415,7 +415,8 @@
     "20221128": 201,
     "20221129": 200,
     "20221130": 201,
-    "20221201": 201
+    "20221201": 201,
+    "20221202": 202
   },
   "TweetsCountHistory": {
     "20210914": 16,
@@ -828,20 +829,21 @@
     "20221128": 63,
     "20221129": 63,
     "20221130": 63,
-    "20221201": 63
+    "20221201": 63,
+    "20221202": 64
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0325377287809054907417318891,
+    "WeeklyGrowth": 0.3575550913898697450260975197,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221125.0,
-        "Y": 201.011187607573149741824441
+        "X": 20221126.0,
+        "Y": 200.78273809523809523809523
       },
       "End": {
-        "X": 20221201.0,
-        "Y": 200.945783132530120481927711
+        "X": 20221202.0,
+        "Y": 201.50064699792960662525879
       }
     }
   }

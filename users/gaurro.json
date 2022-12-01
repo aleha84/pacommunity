@@ -2,7 +2,7 @@
   "PublicName": "Gaurro",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1514041578934919168/aTQskajv_normal.png",
   "Login": "gaurro",
-  "CurrentFollowersCount": 1431,
+  "CurrentFollowersCount": 1430,
   "CurrentTweetsCout": 730,
   "FollowersCountHistory": {
     "20210310": 1198,
@@ -553,7 +553,8 @@
     "20221127": 1431,
     "20221128": 1431,
     "20221129": 1431,
-    "20221130": 1431
+    "20221130": 1431,
+    "20221201": 1430
   },
   "TweetsCountHistory": {
     "20210310": 715,
@@ -1104,20 +1105,21 @@
     "20221127": 730,
     "20221128": 730,
     "20221129": 730,
-    "20221130": 730
+    "20221130": 730,
+    "20221201": 730
   },
   "LangId": "it",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0449382099613032080888807925,
+    "WeeklyGrowth": -0.0719843799307909576914360016,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221124.0,
-        "Y": 1430.5357142857142857142856
+        "X": 20221125.0,
+        "Y": 1431.03334767641996557659208
       },
       "End": {
-        "X": 20221130.0,
-        "Y": 1431.1785714285714285714285
+        "X": 20221201.0,
+        "Y": 1430.00322719449225473321859
       }
     }
   }

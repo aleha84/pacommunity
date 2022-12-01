@@ -2,8 +2,8 @@
   "PublicName": "Taks",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1510016035067670530/jCj3m-_b_normal.jpg",
   "Login": "Takspx",
-  "CurrentFollowersCount": 1787,
-  "CurrentTweetsCout": 2553,
+  "CurrentFollowersCount": 1784,
+  "CurrentTweetsCout": 2554,
   "FollowersCountHistory": {
     "20210116": 249,
     "20210117": 253,
@@ -589,7 +589,8 @@
     "20221127": 1789,
     "20221128": 1790,
     "20221129": 1788,
-    "20221130": 1787
+    "20221130": 1787,
+    "20221201": 1784
   },
   "TweetsCountHistory": {
     "20210116": 375,
@@ -1176,20 +1177,21 @@
     "20221127": 2553,
     "20221128": 2553,
     "20221129": 2553,
-    "20221130": 2553
+    "20221130": 2553,
+    "20221201": 2554
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.240470131860355524767594424,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221124.0,
-        "Y": 1788.1428571428571428571428571
+        "X": 20221125.0,
+        "Y": 1788.3070137693631669535284
       },
       "End": {
-        "X": 20221130.0,
-        "Y": 1788.1428571428571428571428571
+        "X": 20221201.0,
+        "Y": 1784.0066695352839931153184
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "lacnoR",
   "AvatarImage": "https://pbs.twimg.com/profile_images/981857369582796800/I2caLSWS_normal.jpg",
   "Login": "lacno_DotR",
-  "CurrentFollowersCount": 525,
+  "CurrentFollowersCount": 524,
   "CurrentTweetsCout": 1893,
   "FollowersCountHistory": {
     "20201231": 547,
@@ -617,7 +617,8 @@
     "20221127": 523,
     "20221128": 524,
     "20221129": 525,
-    "20221130": 525
+    "20221130": 525,
+    "20221201": 524
   },
   "TweetsCountHistory": {
     "20201231": 1767,
@@ -1232,20 +1233,21 @@
     "20221127": 1893,
     "20221128": 1893,
     "20221129": 1893,
-    "20221130": 1893
+    "20221130": 1893,
+    "20221201": 1893
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2046245140167792101493704162,
+    "WeeklyGrowth": -0.0187169528800711244209443343,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221124.0,
-        "Y": 523.6071428571428571428572
+        "X": 20221125.0,
+        "Y": 524.159638554216867469879518
       },
       "End": {
-        "X": 20221130.0,
-        "Y": 524.6785714285714285714286
+        "X": 20221201.0,
+        "Y": 524.061531841652323580034423
       }
     }
   }

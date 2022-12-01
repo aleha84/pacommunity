@@ -2,7 +2,7 @@
   "PublicName": "Sergio Stellet",
   "AvatarImage": "https://pbs.twimg.com/profile_images/378800000010668066/e99f396f5db1a796b40bfd0ac0e438ef_normal.jpeg",
   "Login": "sstellet",
-  "CurrentFollowersCount": 143,
+  "CurrentFollowersCount": 142,
   "CurrentTweetsCout": 511,
   "FollowersCountHistory": {
     "20201221": 114,
@@ -627,7 +627,8 @@
     "20221127": 143,
     "20221128": 143,
     "20221129": 143,
-    "20221130": 143
+    "20221130": 143,
+    "20221201": 142
   },
   "TweetsCountHistory": {
     "20201221": 386,
@@ -1252,20 +1253,21 @@
     "20221127": 511,
     "20221128": 511,
     "20221129": 511,
-    "20221130": 511
+    "20221130": 511,
+    "20221201": 511
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.7201960232785164082253939204,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221124.0,
-        "Y": 143.0
+        "X": 20221125.0,
+        "Y": 143.03334767641996557659208
       },
       "End": {
-        "X": 20221130.0,
-        "Y": 143.0
+        "X": 20221201.0,
+        "Y": 142.00322719449225473321859
       }
     }
   }

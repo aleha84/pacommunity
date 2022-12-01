@@ -2,7 +2,7 @@
   "PublicName": "Lapes",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1489662649856147456/wCKPgeJr_normal.jpg",
   "Login": "LapesDoc",
-  "CurrentFollowersCount": 3798,
+  "CurrentFollowersCount": 3796,
   "CurrentTweetsCout": 220,
   "FollowersCountHistory": {
     "20210422": 105,
@@ -505,7 +505,8 @@
     "20221127": 3799,
     "20221128": 3796,
     "20221129": 3799,
-    "20221130": 3798
+    "20221130": 3798,
+    "20221201": 3796
   },
   "TweetsCountHistory": {
     "20210422": 39,
@@ -1008,20 +1009,21 @@
     "20221127": 219,
     "20221128": 219,
     "20221129": 219,
-    "20221130": 220
+    "20221130": 220,
+    "20221201": 220
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1468622319293555007437140639,
+    "WeeklyGrowth": -0.0271285931008497516186924478,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221124.0,
-        "Y": 3793.642857142857142857144
+        "X": 20221125.0,
+        "Y": 3797.17620481927710843373494
       },
       "End": {
-        "X": 20221130.0,
-        "Y": 3799.214285714285714285715
+        "X": 20221201.0,
+        "Y": 3796.14608433734939759036145
       }
     }
   }
