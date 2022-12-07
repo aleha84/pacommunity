@@ -2,7 +2,7 @@
   "PublicName": "Spritesaurus",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1377383216156438529/wRxvIewE_normal.jpg",
   "Login": "spritesaurus",
-  "CurrentFollowersCount": 2535,
+  "CurrentFollowersCount": 2536,
   "CurrentTweetsCout": 48,
   "FollowersCountHistory": {
     "20210411": 566,
@@ -527,7 +527,8 @@
     "20221203": 2535,
     "20221204": 2536,
     "20221205": 2534,
-    "20221206": 2535
+    "20221206": 2535,
+    "20221207": 2536
   },
   "TweetsCountHistory": {
     "20210411": 15,
@@ -1052,20 +1053,21 @@
     "20221203": 48,
     "20221204": 48,
     "20221205": 48,
-    "20221206": 48
+    "20221206": 48,
+    "20221207": 48
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0509748083074674103804032059,
+    "WeeklyGrowth": -0.0253517556090759285080508715,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221130.0,
-        "Y": 2534.07207401032702237521515
+        "X": 20221201.0,
+        "Y": 2535.7500000000000000000001
       },
       "End": {
-        "X": 20221206.0,
-        "Y": 2535.36381239242685025817556
+        "X": 20221207.0,
+        "Y": 2535.1071428571428571428572
       }
     }
   }

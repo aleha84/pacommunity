@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1418051916509192194/qfsLEbnb_normal.png",
   "Login": "GerardoGndara1",
   "CurrentFollowersCount": 361,
-  "CurrentTweetsCout": 466,
+  "CurrentTweetsCout": 467,
   "FollowersCountHistory": {
     "20210728": 305,
     "20210729": 308,
@@ -438,7 +438,8 @@
     "20221203": 361,
     "20221204": 361,
     "20221205": 361,
-    "20221206": 361
+    "20221206": 361,
+    "20221207": 361
   },
   "TweetsCountHistory": {
     "20210728": 286,
@@ -874,20 +875,21 @@
     "20221203": 465,
     "20221204": 465,
     "20221205": 465,
-    "20221206": 466
+    "20221206": 466,
+    "20221207": 467
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2845662059206174397243238971,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221130.0,
-        "Y": 361.99677280550774526678142
+        "X": 20221201.0,
+        "Y": 361.0
       },
       "End": {
-        "X": 20221206.0,
-        "Y": 360.96665232358003442340793
+        "X": 20221207.0,
+        "Y": 361.0
       }
     }
   }
