@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1589302316632506368/Fzhteyxb_normal.jpg",
   "Login": "r_ramenoodles",
   "CurrentFollowersCount": 592,
-  "CurrentTweetsCout": 1959,
+  "CurrentTweetsCout": 1960,
   "FollowersCountHistory": {
     "20210113": 205,
     "20210114": 206,
@@ -638,7 +638,8 @@
     "20221204": 592,
     "20221205": 592,
     "20221206": 592,
-    "20221207": 592
+    "20221207": 592,
+    "20221208": 592
   },
   "TweetsCountHistory": {
     "20210113": 728,
@@ -1274,20 +1275,21 @@
     "20221204": 1957,
     "20221205": 1957,
     "20221206": 1958,
-    "20221207": 1959
+    "20221207": 1959,
+    "20221208": 1960
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1085056362649948761227391436,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221201.0,
-        "Y": 592.4642857142857142857144
+        "X": 20221202.0,
+        "Y": 592.0
       },
       "End": {
-        "X": 20221207.0,
-        "Y": 591.8214285714285714285715
+        "X": 20221208.0,
+        "Y": 592.0
       }
     }
   }
