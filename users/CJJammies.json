@@ -2,8 +2,8 @@
   "PublicName": "CJJammies",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1600855651886014466/46mWahjT_normal.jpg",
   "Login": "CJJammies",
-  "CurrentFollowersCount": 468,
-  "CurrentTweetsCout": 3616,
+  "CurrentFollowersCount": 467,
+  "CurrentTweetsCout": 3615,
   "FollowersCountHistory": {
     "20210301": 161,
     "20210302": 160,
@@ -593,7 +593,8 @@
     "20221206": 468,
     "20221207": 468,
     "20221208": 468,
-    "20221209": 468
+    "20221209": 468,
+    "20221210": 467
   },
   "TweetsCountHistory": {
     "20210301": 2811,
@@ -1184,20 +1185,21 @@
     "20221206": 3616,
     "20221207": 3615,
     "20221208": 3615,
-    "20221209": 3616
+    "20221209": 3616,
+    "20221210": 3615
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1373102448699366847204089003,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221203.0,
-        "Y": 468.0
+        "X": 20221204.0,
+        "Y": 468.1785714285714285714285
       },
       "End": {
-        "X": 20221209.0,
-        "Y": 468.0
+        "X": 20221210.0,
+        "Y": 467.5357142857142857142857
       }
     }
   }
