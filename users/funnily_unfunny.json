@@ -2,7 +2,7 @@
   "PublicName": "wren",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1598088405598244868/RuY18zhu_normal.jpg",
   "Login": "funnily_unfunny",
-  "CurrentFollowersCount": 3791,
+  "CurrentFollowersCount": 3790,
   "CurrentTweetsCout": 3152,
   "FollowersCountHistory": {
     "20210522": 1377,
@@ -519,7 +519,8 @@
     "20221207": 3792,
     "20221208": 3792,
     "20221209": 3792,
-    "20221210": 3791
+    "20221210": 3791,
+    "20221211": 3790
   },
   "TweetsCountHistory": {
     "20210522": 2022,
@@ -1036,20 +1037,21 @@
     "20221207": 3150,
     "20221208": 3150,
     "20221209": 3152,
-    "20221210": 3152
+    "20221210": 3152,
+    "20221211": 3152
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0395722428981956941630941727,
+    "WeeklyGrowth": -0.0113034795877997776982355268,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221204.0,
-        "Y": 3790.5357142857142857142857
+        "X": 20221205.0,
+        "Y": 3791.5000000000000000000000
       },
       "End": {
-        "X": 20221210.0,
-        "Y": 3792.0357142857142857142857
+        "X": 20221211.0,
+        "Y": 3791.0714285714285714285714
       }
     }
   }
