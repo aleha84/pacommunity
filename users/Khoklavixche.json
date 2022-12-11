@@ -2,7 +2,7 @@
   "PublicName": "Jamie",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1581114277783810048/_1n4yIdx_normal.jpg",
   "Login": "Khoklavixche",
-  "CurrentFollowersCount": 11527,
+  "CurrentFollowersCount": 11524,
   "CurrentTweetsCout": 3742,
   "FollowersCountHistory": {
     "20210310": 11474,
@@ -586,7 +586,8 @@
     "20221208": 11524,
     "20221209": 11523,
     "20221210": 11523,
-    "20221211": 11527
+    "20221211": 11527,
+    "20221212": 11524
   },
   "TweetsCountHistory": {
     "20210310": 3578,
@@ -1170,20 +1171,21 @@
     "20221208": 3740,
     "20221209": 3740,
     "20221210": 3742,
-    "20221211": 3742
+    "20221211": 3742,
+    "20221212": 3742
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0092963586163299835454458689,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221205.0,
-        "Y": 11524.714285714285714285714286
+        "X": 20221206.0,
+        "Y": 11525.2500000000000000000000
       },
       "End": {
-        "X": 20221211.0,
-        "Y": 11524.714285714285714285714286
+        "X": 20221212.0,
+        "Y": 11524.1785714285714285714285
       }
     }
   }

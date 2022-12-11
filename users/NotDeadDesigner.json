@@ -2,7 +2,7 @@
   "PublicName": "The Not Dead Designer",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1272443962297479168/hLFzukBH_normal.jpg",
   "Login": "NotDeadDesigner",
-  "CurrentFollowersCount": 3607,
+  "CurrentFollowersCount": 3606,
   "CurrentTweetsCout": 6653,
   "FollowersCountHistory": {
     "20210112": 758,
@@ -644,7 +644,8 @@
     "20221208": 3606,
     "20221209": 3607,
     "20221210": 3607,
-    "20221211": 3607
+    "20221211": 3607,
+    "20221212": 3606
   },
   "TweetsCountHistory": {
     "20210112": 3631,
@@ -1286,20 +1287,21 @@
     "20221208": 6649,
     "20221209": 6653,
     "20221210": 6653,
-    "20221211": 6653
+    "20221211": 6653,
+    "20221212": 6653
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0118823645905535201505107437,
+    "WeeklyGrowth": -0.0296997356723525160626090229,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221205.0,
-        "Y": 3606.7857142857142857142857
+        "X": 20221206.0,
+        "Y": 3607.5357142857142857142857
       },
       "End": {
-        "X": 20221211.0,
-        "Y": 3607.2142857142857142857143
+        "X": 20221212.0,
+        "Y": 3606.4642857142857142857142
       }
     }
   }

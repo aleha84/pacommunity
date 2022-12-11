@@ -2,7 +2,7 @@
   "PublicName": "JunGeon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1578027310787092480/trES91pY_normal.jpg",
   "Login": "aKM3mZfpo7wkuDg",
-  "CurrentFollowersCount": 133,
+  "CurrentFollowersCount": 132,
   "CurrentTweetsCout": 524,
   "FollowersCountHistory": {
     "20210919": 103,
@@ -410,7 +410,8 @@
     "20221207": 133,
     "20221208": 133,
     "20221209": 133,
-    "20221210": 133
+    "20221210": 133,
+    "20221211": 132
   },
   "TweetsCountHistory": {
     "20210919": 258,
@@ -818,20 +819,21 @@
     "20221207": 523,
     "20221208": 523,
     "20221209": 523,
-    "20221210": 524
+    "20221210": 524,
+    "20221211": 524
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.4827031375703942075623815944,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221204.0,
-        "Y": 133.0
+        "X": 20221205.0,
+        "Y": 133.1785714285714285714285
       },
       "End": {
-        "X": 20221210.0,
-        "Y": 133.0
+        "X": 20221211.0,
+        "Y": 132.5357142857142857142856
       }
     }
   }
