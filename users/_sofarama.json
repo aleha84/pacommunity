@@ -2,8 +2,8 @@
   "PublicName": "Sofa",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1521933571103076353/goXfeftH_normal.jpg",
   "Login": "_sofarama",
-  "CurrentFollowersCount": 3864,
-  "CurrentTweetsCout": 12782,
+  "CurrentFollowersCount": 3862,
+  "CurrentTweetsCout": 12781,
   "FollowersCountHistory": {
     "20201219": 4292,
     "20201220": 4291,
@@ -640,7 +640,8 @@
     "20221208": 3864,
     "20221209": 3864,
     "20221210": 3864,
-    "20221211": 3864
+    "20221211": 3864,
+    "20221212": 3862
   },
   "TweetsCountHistory": {
     "20201219": 3759,
@@ -1278,20 +1279,21 @@
     "20221208": 12782,
     "20221209": 12782,
     "20221210": 12782,
-    "20221211": 12782
+    "20221211": 12782,
+    "20221212": 12781
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0332711040461359309439747874,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221205.0,
-        "Y": 3864.0
+        "X": 20221206.0,
+        "Y": 3864.3571428571428571428572
       },
       "End": {
-        "X": 20221211.0,
-        "Y": 3864.0
+        "X": 20221212.0,
+        "Y": 3863.0714285714285714285715
       }
     }
   }

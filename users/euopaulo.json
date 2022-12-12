@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1461488404038926340/g-ujrQN3_normal.jpg",
   "Login": "euopaulo",
   "CurrentFollowersCount": 306,
-  "CurrentTweetsCout": 14753,
+  "CurrentTweetsCout": 14754,
   "FollowersCountHistory": {
     "20201219": 239,
     "20201220": 239,
@@ -640,7 +640,8 @@
     "20221208": 306,
     "20221209": 306,
     "20221210": 306,
-    "20221211": 306
+    "20221211": 306,
+    "20221212": 306
   },
   "TweetsCountHistory": {
     "20201219": 14153,
@@ -1278,20 +1279,21 @@
     "20221208": 14752,
     "20221209": 14752,
     "20221210": 14753,
-    "20221211": 14753
+    "20221211": 14753,
+    "20221212": 14754
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.209765761566251019694688255,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221205.0,
-        "Y": 306.4642857142857142857143
+        "X": 20221206.0,
+        "Y": 306.0
       },
       "End": {
-        "X": 20221211.0,
-        "Y": 305.8214285714285714285714
+        "X": 20221212.0,
+        "Y": 306.0
       }
     }
   }
