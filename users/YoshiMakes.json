@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1587499979186536449/kfCmbwfW_normal.jpg",
   "Login": "YoshiMakes",
   "CurrentFollowersCount": 969,
-  "CurrentTweetsCout": 7309,
+  "CurrentTweetsCout": 7308,
   "FollowersCountHistory": {
     "20210204": 507,
     "20210205": 509,
@@ -621,7 +621,8 @@
     "20221209": 969,
     "20221210": 969,
     "20221211": 969,
-    "20221212": 969
+    "20221212": 969,
+    "20221213": 969
   },
   "TweetsCountHistory": {
     "20210204": 2233,
@@ -1240,20 +1241,21 @@
     "20221209": 7293,
     "20221210": 7299,
     "20221211": 7301,
-    "20221212": 7309
+    "20221212": 7309,
+    "20221213": 7308
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0663105544299134278872764704,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221206.0,
-        "Y": 969.4642857142857142857144
+        "X": 20221207.0,
+        "Y": 969.0
       },
       "End": {
-        "X": 20221212.0,
-        "Y": 968.8214285714285714285715
+        "X": 20221213.0,
+        "Y": 969.0
       }
     }
   }
