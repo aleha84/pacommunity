@@ -2,7 +2,7 @@
   "PublicName": "PetroniuM",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1524766150609014790/DITXtNL-_normal.jpg",
   "Login": "m_petroniu",
-  "CurrentFollowersCount": 482,
+  "CurrentFollowersCount": 481,
   "CurrentTweetsCout": 198,
   "FollowersCountHistory": {
     "20211030": 133,
@@ -365,7 +365,8 @@
     "20221209": 482,
     "20221210": 482,
     "20221211": 482,
-    "20221212": 482
+    "20221212": 482,
+    "20221213": 481
   },
   "TweetsCountHistory": {
     "20211030": 84,
@@ -728,20 +729,21 @@
     "20221209": 198,
     "20221210": 198,
     "20221211": 198,
-    "20221212": 198
+    "20221212": 198,
+    "20221213": 198
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1333234575216650618472587413,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221206.0,
-        "Y": 482.0
+        "X": 20221207.0,
+        "Y": 482.1785714285714285714285
       },
       "End": {
-        "X": 20221212.0,
-        "Y": 482.0
+        "X": 20221213.0,
+        "Y": 481.5357142857142857142857
       }
     }
   }

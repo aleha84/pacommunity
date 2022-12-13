@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1572754595666878465/inb_HPIr_normal.jpg",
   "Login": "SYduck_",
   "CurrentFollowersCount": 216,
-  "CurrentTweetsCout": 1197,
+  "CurrentTweetsCout": 1195,
   "FollowersCountHistory": {
     "20210113": 257,
     "20210114": 258,
@@ -612,7 +612,8 @@
     "20221209": 216,
     "20221210": 216,
     "20221211": 216,
-    "20221212": 216
+    "20221212": 216,
+    "20221213": 216
   },
   "TweetsCountHistory": {
     "20210113": 1196,
@@ -1222,20 +1223,21 @@
     "20221209": 1197,
     "20221210": 1197,
     "20221211": 1197,
-    "20221212": 1197
+    "20221212": 1197,
+    "20221213": 1195
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.296980696254743441676310683,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221206.0,
-        "Y": 216.4642857142857142857144
+        "X": 20221207.0,
+        "Y": 216.0
       },
       "End": {
-        "X": 20221212.0,
-        "Y": 215.8214285714285714285715
+        "X": 20221213.0,
+        "Y": 216.0
       }
     }
   }
