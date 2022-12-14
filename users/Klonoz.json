@@ -2,8 +2,8 @@
   "PublicName": "Klonoz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1567843038260494336/PL7AeABt_normal.jpg",
   "Login": "Klonoz",
-  "CurrentFollowersCount": 2057,
-  "CurrentTweetsCout": 4390,
+  "CurrentFollowersCount": 2056,
+  "CurrentTweetsCout": 4393,
   "FollowersCountHistory": {
     "20201228": 2017,
     "20201229": 2016,
@@ -629,7 +629,8 @@
     "20221210": 2057,
     "20221211": 2058,
     "20221212": 2058,
-    "20221213": 2057
+    "20221213": 2057,
+    "20221214": 2056
   },
   "TweetsCountHistory": {
     "20201228": 3820,
@@ -1256,20 +1257,21 @@
     "20221210": 4381,
     "20221211": 4385,
     "20221212": 4388,
-    "20221213": 4390
+    "20221213": 4390,
+    "20221214": 4393
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0312527129091066932893452554,
+    "WeeklyGrowth": -0.0208311634204770336423303122,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221207.0,
-        "Y": 2056.9642857142857142857143
+        "X": 20221208.0,
+        "Y": 2057.3571428571428571428572
       },
       "End": {
-        "X": 20221213.0,
-        "Y": 2057.6071428571428571428571
+        "X": 20221214.0,
+        "Y": 2056.9285714285714285714286
       }
     }
   }
