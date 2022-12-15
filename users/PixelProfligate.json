@@ -2,7 +2,7 @@
   "PublicName": "Pixel Profligate (comms open)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1582074873316360202/r-Cn9rXJ_normal.jpg",
   "Login": "PixelProfligate",
-  "CurrentFollowersCount": 2631,
+  "CurrentFollowersCount": 2629,
   "CurrentTweetsCout": 6877,
   "FollowersCountHistory": {
     "20210115": 859,
@@ -645,7 +645,8 @@
     "20221212": 2630,
     "20221213": 2633,
     "20221214": 2632,
-    "20221215": 2631
+    "20221215": 2631,
+    "20221216": 2629
   },
   "TweetsCountHistory": {
     "20210115": 1571,
@@ -1288,20 +1289,21 @@
     "20221212": 6873,
     "20221213": 6874,
     "20221214": 6876,
-    "20221215": 6877
+    "20221215": 6877,
+    "20221216": 6877
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0488771825019686642952176374,
+    "WeeklyGrowth": -0.0081447595259749955882554197,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221209.0,
-        "Y": 2630.5000000000000000000001
+        "X": 20221210.0,
+        "Y": 2630.96428571428571428571428
       },
       "End": {
-        "X": 20221215.0,
-        "Y": 2631.7857142857142857142858
+        "X": 20221216.0,
+        "Y": 2630.74999999999999999999999
       }
     }
   }

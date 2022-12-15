@@ -2,8 +2,8 @@
   "PublicName": "Luis",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1580121270322085888/xLFdNd78_normal.jpg",
   "Login": "LuisCastanon",
-  "CurrentFollowersCount": 6542,
-  "CurrentTweetsCout": 22440,
+  "CurrentFollowersCount": 0,
+  "CurrentTweetsCout": 22433,
   "FollowersCountHistory": {
     "20210127": 3907,
     "20210128": 3906,
@@ -587,7 +587,8 @@
     "20221205": 6545,
     "20221206": 6545,
     "20221211": 6542,
-    "20221212": 6542
+    "20221212": 6542,
+    "20221216": 0
   },
   "TweetsCountHistory": {
     "20210127": 11753,
@@ -1172,20 +1173,21 @@
     "20221205": 22425,
     "20221206": 22430,
     "20221211": 22429,
-    "20221212": 22440
+    "20221212": 22440,
+    "20221216": 22433
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0562064130076051,
+    "WeeklyGrowth": -62.751849100134962921040064408,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221202.0,
-        "Y": 6545.95283018868
+        "X": 20221203.0,
+        "Y": 7462.0079999999994442681
       },
       "End": {
-        "X": 20221212.0,
-        "Y": 6542.27358490566
+        "X": 20221216.0,
+        "Y": 2779.4600000000008490351
       }
     }
   }
