@@ -2,7 +2,7 @@
   "PublicName": "Dan Mafra",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1398719869693136898/yaqmlyS3_normal.png",
   "Login": "danielmafra",
-  "CurrentFollowersCount": 321,
+  "CurrentFollowersCount": 320,
   "CurrentTweetsCout": 335,
   "FollowersCountHistory": {
     "20210914": 315,
@@ -415,7 +415,8 @@
     "20221211": 321,
     "20221212": 321,
     "20221213": 321,
-    "20221214": 321
+    "20221214": 321,
+    "20221215": 320
   },
   "TweetsCountHistory": {
     "20210914": 263,
@@ -828,20 +829,21 @@
     "20221211": 335,
     "20221212": 335,
     "20221213": 335,
-    "20221214": 335
+    "20221214": 335,
+    "20221215": 335
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.200155676637384632491920427,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221208.0,
-        "Y": 321.0
+        "X": 20221209.0,
+        "Y": 321.1785714285714285714285
       },
       "End": {
-        "X": 20221214.0,
-        "Y": 321.0
+        "X": 20221215.0,
+        "Y": 320.5357142857142857142857
       }
     }
   }
