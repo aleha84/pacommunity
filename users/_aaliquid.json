@@ -2,7 +2,7 @@
   "PublicName": "aliquid",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1107610855116554240/_beC2T8J_normal.png",
   "Login": "_aaliquid",
-  "CurrentFollowersCount": 6551,
+  "CurrentFollowersCount": 6552,
   "CurrentTweetsCout": 89,
   "FollowersCountHistory": {
     "20201215": 2567,
@@ -644,7 +644,8 @@
     "20221212": 6553,
     "20221213": 6552,
     "20221214": 6553,
-    "20221215": 6551
+    "20221215": 6551,
+    "20221216": 6552
   },
   "TweetsCountHistory": {
     "20201215": 47,
@@ -1286,20 +1287,21 @@
     "20221212": 89,
     "20221213": 89,
     "20221214": 89,
-    "20221215": 89
+    "20221215": 89,
+    "20221216": 89
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0098116704368918808427125998,
+    "WeeklyGrowth": -0.0228891565345817006643305195,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221209.0,
-        "Y": 6551.9642857142857142857143
+        "X": 20221210.0,
+        "Y": 6553.3214285714285714285714
       },
       "End": {
-        "X": 20221215.0,
-        "Y": 6552.6071428571428571428571
+        "X": 20221216.0,
+        "Y": 6551.8214285714285714285714
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "HogFrog (comms open)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1484056529187790848/kAwNiZ8P_normal.png",
   "Login": "HogFrogPix",
-  "CurrentFollowersCount": 1667,
+  "CurrentFollowersCount": 1666,
   "CurrentTweetsCout": 604,
   "FollowersCountHistory": {
     "20210113": 596,
@@ -615,7 +615,8 @@
     "20221212": 1667,
     "20221213": 1667,
     "20221214": 1667,
-    "20221215": 1667
+    "20221215": 1667,
+    "20221216": 1666
   },
   "TweetsCountHistory": {
     "20210113": 417,
@@ -1228,20 +1229,21 @@
     "20221212": 604,
     "20221213": 604,
     "20221214": 604,
-    "20221215": 604
+    "20221215": 604,
+    "20221216": 604
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.064304546331425631792171996,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221209.0,
-        "Y": 1666.1785714285714285714285
+        "X": 20221210.0,
+        "Y": 1666.7142857142857142857142857
       },
       "End": {
-        "X": 20221215.0,
-        "Y": 1667.2500000000000000000000
+        "X": 20221216.0,
+        "Y": 1666.7142857142857142857142857
       }
     }
   }
