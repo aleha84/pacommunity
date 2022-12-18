@@ -2,7 +2,7 @@
   "PublicName": "Diam",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1447760991169626116/gkLjyw7j_normal.jpg",
   "Login": "diamchan",
-  "CurrentFollowersCount": 2850,
+  "CurrentFollowersCount": 2849,
   "CurrentTweetsCout": 697,
   "FollowersCountHistory": {
     "20210823": 1114,
@@ -443,7 +443,8 @@
     "20221214": 2849,
     "20221215": 2850,
     "20221216": 2851,
-    "20221217": 2850
+    "20221217": 2850,
+    "20221218": 2849
   },
   "TweetsCountHistory": {
     "20210823": 391,
@@ -884,20 +885,21 @@
     "20221214": 697,
     "20221215": 697,
     "20221216": 697,
-    "20221217": 697
+    "20221217": 697,
+    "20221218": 697
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0601745060675960284825965287,
+    "WeeklyGrowth": -0.007518891214175616235792228,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221211.0,
-        "Y": 2848.8571428571428571428572
+        "X": 20221212.0,
+        "Y": 2849.96428571428571428571428
       },
       "End": {
-        "X": 20221217.0,
-        "Y": 2850.5714285714285714285714
+        "X": 20221218.0,
+        "Y": 2849.75000000000000000000000
       }
     }
   }

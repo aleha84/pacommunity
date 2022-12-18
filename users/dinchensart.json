@@ -2,7 +2,7 @@
   "PublicName": "Dinchen's Archive",
   "AvatarImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
   "Login": "dinchensart",
-  "CurrentFollowersCount": 0,
+  "CurrentFollowersCount": 1,
   "CurrentTweetsCout": 21,
   "FollowersCountHistory": {
     "20201221": 1501,
@@ -640,7 +640,8 @@
     "20221214": 0,
     "20221215": 0,
     "20221216": 0,
-    "20221217": 0
+    "20221217": 0,
+    "20221218": 1
   },
   "TweetsCountHistory": {
     "20201221": 1562,
@@ -1278,12 +1279,22 @@
     "20221214": 21,
     "20221215": 21,
     "20221216": 21,
-    "20221217": 21
+    "20221217": 21,
+    "20221218": 21
   },
   "LangId": "de",
   "FollowersTrend": {
-    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at System.Decimal.op_Division(Decimal d1, Decimal d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 83",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -360.000000000000000000168,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20221212.0,
+        "Y": -0.1785714285714285714285
+      },
+      "End": {
+        "X": 20221218.0,
+        "Y": 0.4642857142857142857144
+      }
+    }
   }
 }
