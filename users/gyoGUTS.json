@@ -2,8 +2,8 @@
   "PublicName": "Fish",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1062290057560616960/sZjRngGD_normal.jpg",
   "Login": "gyoGUTS",
-  "CurrentFollowersCount": 2280,
-  "CurrentTweetsCout": 11122,
+  "CurrentFollowersCount": 2279,
+  "CurrentTweetsCout": 11123,
   "FollowersCountHistory": {
     "20210120": 2201,
     "20210121": 2201,
@@ -643,7 +643,8 @@
     "20221215": 2280,
     "20221216": 2280,
     "20221217": 2280,
-    "20221218": 2280
+    "20221218": 2280,
+    "20221219": 2279
   },
   "TweetsCountHistory": {
     "20210120": 10838,
@@ -1284,20 +1285,21 @@
     "20221215": 11122,
     "20221216": 11122,
     "20221217": 11122,
-    "20221218": 11122
+    "20221218": 11122,
+    "20221219": 11123
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0187999373335422215259295007,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221212.0,
-        "Y": 2279.6428571428571428571428
+        "X": 20221213.0,
+        "Y": 2279.7142857142857142857142857
       },
       "End": {
-        "X": 20221218.0,
-        "Y": 2280.0714285714285714285714
+        "X": 20221219.0,
+        "Y": 2279.7142857142857142857142857
       }
     }
   }
