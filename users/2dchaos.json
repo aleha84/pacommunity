@@ -2,7 +2,7 @@
   "PublicName": "2dchaos",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1455207721393954818/e9YsqMzq_normal.jpg",
   "Login": "2dchaos",
-  "CurrentFollowersCount": 3256,
+  "CurrentFollowersCount": 3255,
   "CurrentTweetsCout": 15740,
   "FollowersCountHistory": {
     "20210929": 3352,
@@ -404,7 +404,8 @@
     "20221215": 3259,
     "20221216": 3259,
     "20221217": 3258,
-    "20221218": 3256
+    "20221218": 3256,
+    "20221219": 3255
   },
   "TweetsCountHistory": {
     "20210929": 15558,
@@ -806,20 +807,21 @@
     "20221215": 15740,
     "20221216": 15740,
     "20221217": 15740,
-    "20221218": 15740
+    "20221218": 15740,
+    "20221219": 15740
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0789058390320883745397334771,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221212.0,
-        "Y": 3257.8571428571428571428571429
+        "X": 20221213.0,
+        "Y": 3258.857142857142857142857
       },
       "End": {
-        "X": 20221218.0,
-        "Y": 3257.8571428571428571428571429
+        "X": 20221219.0,
+        "Y": 3256.285714285714285714285
       }
     }
   }

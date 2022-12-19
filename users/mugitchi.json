@@ -2,8 +2,8 @@
   "PublicName": "mugi",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1587443026091466752/sygGexE2_normal.jpg",
   "Login": "mugitchi",
-  "CurrentFollowersCount": 7192,
-  "CurrentTweetsCout": 6795,
+  "CurrentFollowersCount": 7205,
+  "CurrentTweetsCout": 6800,
   "FollowersCountHistory": {
     "20210928": 827,
     "20210929": 844,
@@ -410,7 +410,8 @@
     "20221215": 7160,
     "20221216": 7183,
     "20221217": 7191,
-    "20221218": 7192
+    "20221218": 7192,
+    "20221219": 7205
   },
   "TweetsCountHistory": {
     "20210928": 1373,
@@ -818,20 +819,21 @@
     "20221215": 6778,
     "20221216": 6785,
     "20221217": 6785,
-    "20221218": 6795
+    "20221218": 6795,
+    "20221219": 6800
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.0133865252670037939346569278,
+    "WeeklyGrowth": 0.9876864420772436843606310336,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221212.0,
-        "Y": 7126.03571428571428571428
+        "X": 20221213.0,
+        "Y": 7137.89285714285714285714
       },
       "End": {
-        "X": 20221218.0,
-        "Y": 7198.24999999999999999999
+        "X": 20221219.0,
+        "Y": 7208.39285714285714285714
       }
     }
   }
