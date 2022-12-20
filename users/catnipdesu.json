@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1508059135895609347/1UuVnVOt_normal.jpg",
   "Login": "catnipdesu",
   "CurrentFollowersCount": 371,
-  "CurrentTweetsCout": 9952,
+  "CurrentTweetsCout": 9954,
   "FollowersCountHistory": {
     "20201219": 335,
     "20201220": 336,
@@ -648,7 +648,8 @@
     "20221216": 371,
     "20221217": 371,
     "20221218": 371,
-    "20221219": 371
+    "20221219": 371,
+    "20221220": 371
   },
   "TweetsCountHistory": {
     "20201219": 9872,
@@ -1294,20 +1295,21 @@
     "20221216": 9953,
     "20221217": 9953,
     "20221218": 9952,
-    "20221219": 9952
+    "20221219": 9952,
+    "20221220": 9954
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.173493975903614457831336921,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221213.0,
-        "Y": 370.5357142857142857142856
+        "X": 20221214.0,
+        "Y": 371.0
       },
       "End": {
-        "X": 20221219.0,
-        "Y": 371.1785714285714285714285
+        "X": 20221220.0,
+        "Y": 371.0
       }
     }
   }
