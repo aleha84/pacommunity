@@ -2,7 +2,7 @@
   "PublicName": "ファントム【休眠状態】",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1486239631578648576/lLQIwe35_normal.jpg",
   "Login": "PhantomEE13",
-  "CurrentFollowersCount": 833,
+  "CurrentFollowersCount": 832,
   "CurrentTweetsCout": 3803,
   "FollowersCountHistory": {
     "20201225": 727,
@@ -645,7 +645,8 @@
     "20221219": 833,
     "20221220": 833,
     "20221221": 833,
-    "20221222": 833
+    "20221222": 833,
+    "20221223": 832
   },
   "TweetsCountHistory": {
     "20201225": 4687,
@@ -1288,20 +1289,21 @@
     "20221219": 3803,
     "20221220": 3803,
     "20221221": 3803,
-    "20221222": 3803
+    "20221222": 3803,
+    "20221223": 3803
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0771571863346049980710754921,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221216.0,
-        "Y": 833.0
+        "X": 20221217.0,
+        "Y": 833.1785714285714285714285
       },
       "End": {
-        "X": 20221222.0,
-        "Y": 833.0
+        "X": 20221223.0,
+        "Y": 832.5357142857142857142856
       }
     }
   }
