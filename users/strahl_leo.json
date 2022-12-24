@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1437686263067385861/roqYGhBC_normal.jpg",
   "Login": "strahl_leo",
   "CurrentFollowersCount": 90,
-  "CurrentTweetsCout": 224,
+  "CurrentTweetsCout": 225,
   "FollowersCountHistory": {
     "20210916": 54,
     "20210917": 56,
@@ -418,7 +418,8 @@
     "20221220": 90,
     "20221221": 90,
     "20221222": 90,
-    "20221223": 90
+    "20221223": 90,
+    "20221224": 90
   },
   "TweetsCountHistory": {
     "20210916": 98,
@@ -834,20 +835,21 @@
     "20221220": 224,
     "20221221": 224,
     "20221222": 224,
-    "20221223": 224
+    "20221223": 224,
+    "20221224": 225
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.7106198183971575207264586324,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221217.0,
-        "Y": 90.4642857142857142857143
+        "X": 20221218.0,
+        "Y": 90.0
       },
       "End": {
-        "X": 20221223.0,
-        "Y": 89.8214285714285714285714
+        "X": 20221224.0,
+        "Y": 90.0
       }
     }
   }
