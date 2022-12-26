@@ -2,8 +2,8 @@
   "PublicName": "Karv",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1479106465369522184/qTIeNB-O_normal.jpg",
   "Login": "karvisprites",
-  "CurrentFollowersCount": 3074,
-  "CurrentTweetsCout": 3949,
+  "CurrentFollowersCount": 3072,
+  "CurrentTweetsCout": 3966,
   "FollowersCountHistory": {
     "20201228": 475,
     "20201229": 494,
@@ -640,7 +640,8 @@
     "20221221": 3075,
     "20221222": 3074,
     "20221223": 3076,
-    "20221224": 3074
+    "20221224": 3074,
+    "20221226": 3072
   },
   "TweetsCountHistory": {
     "20201228": 484,
@@ -1278,20 +1279,21 @@
     "20221221": 3928,
     "20221222": 3932,
     "20221223": 3943,
-    "20221224": 3949
+    "20221224": 3949,
+    "20221226": 3966
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0348557552661236914568534543,
+    "WeeklyGrowth": -0.067168475595453784397830826,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221218.0,
-        "Y": 3073.8928571428571428571429
+        "X": 20221219.0,
+        "Y": 3075.2131147540983595151048
       },
       "End": {
-        "X": 20221224.0,
-        "Y": 3074.9642857142857142857143
+        "X": 20221226.0,
+        "Y": 3073.1475409836065587769168
       }
     }
   }
