@@ -2,7 +2,7 @@
   "PublicName": "Sam 🐈",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1303007570941161473/pjT9QiYb_normal.jpg",
   "Login": "SweatersJPG",
-  "CurrentFollowersCount": 493,
+  "CurrentFollowersCount": 492,
   "CurrentTweetsCout": 1307,
   "FollowersCountHistory": {
     "20210214": 315,
@@ -627,7 +627,8 @@
     "20221225": 493,
     "20221227": 493,
     "20221228": 493,
-    "20221229": 493
+    "20221229": 493,
+    "20221230": 492
   },
   "TweetsCountHistory": {
     "20210214": 1069,
@@ -1252,20 +1253,21 @@
     "20221225": 1307,
     "20221227": 1307,
     "20221228": 1307,
-    "20221229": 1307
+    "20221229": 1307,
+    "20221230": 1307
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1166666666666667065826435844,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221222.0,
-        "Y": 493.0
+        "X": 20221223.0,
+        "Y": 493.1506849315068494155598
       },
       "End": {
-        "X": 20221229.0,
-        "Y": 493.0
+        "X": 20221230.0,
+        "Y": 492.5753424657534245610624
       }
     }
   }

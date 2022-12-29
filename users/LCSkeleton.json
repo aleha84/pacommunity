@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1400880882899095554/oSbQNeyz_normal.jpg",
   "Login": "LCSkeleton",
   "CurrentFollowersCount": 415,
-  "CurrentTweetsCout": 1886,
+  "CurrentTweetsCout": 1887,
   "FollowersCountHistory": {
     "20210213": 201,
     "20210214": 208,
@@ -628,7 +628,8 @@
     "20221225": 415,
     "20221227": 415,
     "20221228": 415,
-    "20221229": 415
+    "20221229": 415,
+    "20221230": 415
   },
   "TweetsCountHistory": {
     "20210213": 1347,
@@ -1254,20 +1255,21 @@
     "20221225": 1886,
     "20221227": 1886,
     "20221228": 1886,
-    "20221229": 1886
+    "20221229": 1886,
+    "20221230": 1887
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1384950207742531635183145308,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221222.0,
-        "Y": 415.4246575342465754389376
+        "X": 20221223.0,
+        "Y": 415.0
       },
       "End": {
-        "X": 20221229.0,
-        "Y": 414.8493150684931505844401
+        "X": 20221230.0,
+        "Y": 415.0
       }
     }
   }
