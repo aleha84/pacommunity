@@ -2,7 +2,7 @@
   "PublicName": "Gustavo Viselner",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1465690948894027784/3NWNOyiC_normal.jpg",
   "Login": "PixelGustavo",
-  "CurrentFollowersCount": 16779,
+  "CurrentFollowersCount": 16778,
   "CurrentTweetsCout": 1270,
   "FollowersCountHistory": {
     "20210201": 9872,
@@ -642,7 +642,8 @@
     "20221228": 16785,
     "20221229": 16783,
     "20221230": 16783,
-    "20221231": 16779
+    "20221231": 16779,
+    "20230101": 16778
   },
   "TweetsCountHistory": {
     "20210201": 919,
@@ -1282,20 +1283,21 @@
     "20221228": 1270,
     "20221229": 1270,
     "20221230": 1270,
-    "20221231": 1270
+    "20221231": 1270,
+    "20230101": 1270
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0145095387262179697116416242,
+    "WeeklyGrowth": -0.0258294476671931899515631959,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221224.0,
-        "Y": 16780.5652173913043468885634
+        "X": 20221225.0,
+        "Y": 16782.334935978190842978932175
       },
       "End": {
-        "X": 20221231.0,
-        "Y": 16783.0000000000000008293479
+        "X": 20230101.0,
+        "Y": 16778.000151558569276435877556
       }
     }
   }

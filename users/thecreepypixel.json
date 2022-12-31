@@ -2,7 +2,7 @@
   "PublicName": "The Creepy Pixel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1578614421277925378/-CC4flZV_normal.jpg",
   "Login": "thecreepypixel",
-  "CurrentFollowersCount": 159,
+  "CurrentFollowersCount": 158,
   "CurrentTweetsCout": 783,
   "FollowersCountHistory": {
     "20210114": 19,
@@ -660,7 +660,8 @@
     "20221228": 159,
     "20221229": 159,
     "20221230": 159,
-    "20221231": 159
+    "20221231": 159,
+    "20230101": 158
   },
   "TweetsCountHistory": {
     "20210114": 44,
@@ -1318,20 +1319,21 @@
     "20221228": 783,
     "20221229": 783,
     "20221230": 783,
-    "20221231": 783
+    "20221231": 783,
+    "20230101": 783
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.629165393919437716064575292,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221224.0,
-        "Y": 159.0
+        "X": 20221225.0,
+        "Y": 159.0003756360974844669084748
       },
       "End": {
-        "X": 20221231.0,
-        "Y": 159.0
+        "X": 20230101.0,
+        "Y": 158.0000002963932460566165060
       }
     }
   }
