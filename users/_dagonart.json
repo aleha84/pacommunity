@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1465847429597736965/2VL8cvuk_normal.jpg",
   "Login": "_dagonart",
   "CurrentFollowersCount": 358,
-  "CurrentTweetsCout": 267,
+  "CurrentTweetsCout": 269,
   "FollowersCountHistory": {
     "20210113": 196,
     "20210114": 195,
@@ -634,7 +634,8 @@
     "20221228": 358,
     "20221229": 358,
     "20221231": 358,
-    "20230101": 358
+    "20230101": 358,
+    "20230102": 358
   },
   "TweetsCountHistory": {
     "20210113": 187,
@@ -1266,20 +1267,21 @@
     "20221228": 267,
     "20221229": 267,
     "20221231": 267,
-    "20230101": 267
+    "20230101": 267,
+    "20230102": 269
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0466801184148903752434175182,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221224.0,
-        "Y": 358.16679831532948650502072346
+        "X": 20221226.0,
+        "Y": 358.0
       },
       "End": {
-        "X": 20230101.0,
-        "Y": 357.99960562975306911510358079
+        "X": 20230102.0,
+        "Y": 358.0
       }
     }
   }
