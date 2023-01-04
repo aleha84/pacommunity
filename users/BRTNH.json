@@ -2,8 +2,8 @@
   "PublicName": "bertanha",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1384878374707945476/nzKTEMBh_normal.jpg",
   "Login": "BRTNH",
-  "CurrentFollowersCount": 6302,
-  "CurrentTweetsCout": 1839,
+  "CurrentFollowersCount": 6298,
+  "CurrentTweetsCout": 1845,
   "FollowersCountHistory": {
     "20201219": 1462,
     "20201220": 1460,
@@ -660,7 +660,8 @@
     "20221229": 6301,
     "20221231": 6302,
     "20230101": 6303,
-    "20230102": 6302
+    "20230102": 6302,
+    "20230104": 6298
   },
   "TweetsCountHistory": {
     "20201219": 931,
@@ -1318,20 +1319,21 @@
     "20221229": 1838,
     "20221231": 1838,
     "20230101": 1838,
-    "20230102": 1839
+    "20230102": 1839,
+    "20230104": 1845
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0206413998042327892439539197,
+    "WeeklyGrowth": -0.007945499815650179551534112,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221226.0,
-        "Y": 6301.1996032903272319082404138
+        "X": 20221227.0,
+        "Y": 6301.5003099845282054742306760
       },
       "End": {
-        "X": 20230102.0,
-        "Y": 6302.5002590929051188059550069
+        "X": 20230104.0,
+        "Y": 6300.9996242890151892926807201
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Stepan Krapivin",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1485213894020845576/zf7mGs3k_normal.png",
   "Login": "KrapivinStepan",
-  "CurrentFollowersCount": 81,
+  "CurrentFollowersCount": 80,
   "CurrentTweetsCout": 164,
   "FollowersCountHistory": {
     "20210315": 24,
@@ -569,7 +569,8 @@
     "20221228": 81,
     "20221229": 81,
     "20230101": 81,
-    "20230102": 81
+    "20230102": 81,
+    "20230104": 80
   },
   "TweetsCountHistory": {
     "20210315": 69,
@@ -1136,20 +1137,21 @@
     "20221228": 164,
     "20221229": 164,
     "20230101": 164,
-    "20230102": 164
+    "20230102": 164,
+    "20230104": 164
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2478905806037649696584969517,
+    "WeeklyGrowth": -0.4118042092037618422810787537,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221224.0,
-        "Y": 80.79987373665874360668470319
+        "X": 20221226.0,
+        "Y": 81.00010329660517655450974469
       },
       "End": {
-        "X": 20230102.0,
-        "Y": 81.00016901279165597198226833
+        "X": 20230104.0,
+        "Y": 80.66654146177036138061965287
       }
     }
   }

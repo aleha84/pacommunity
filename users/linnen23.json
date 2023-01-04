@@ -2,8 +2,8 @@
   "PublicName": "은둔자(HERMIT)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1525124508012580864/BYcfSDER_normal.jpg",
   "Login": "linnen23",
-  "CurrentFollowersCount": 802,
-  "CurrentTweetsCout": 241698,
+  "CurrentFollowersCount": 799,
+  "CurrentTweetsCout": 242225,
   "FollowersCountHistory": {
     "20210919": 729,
     "20210920": 732,
@@ -431,7 +431,8 @@
     "20221230": 802,
     "20221231": 802,
     "20230101": 802,
-    "20230102": 802
+    "20230102": 802,
+    "20230104": 799
   },
   "TweetsCountHistory": {
     "20210919": 172028,
@@ -860,20 +861,21 @@
     "20221230": 241160,
     "20221231": 241310,
     "20230101": 241516,
-    "20230102": 241698
+    "20230102": 241698,
+    "20230104": 242225
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1247737247237035960719634277,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221227.0,
-        "Y": 802.0
+        "X": 20221228.0,
+        "Y": 802.0003099596725029274197455
       },
       "End": {
-        "X": 20230102.0,
-        "Y": 802.0
+        "X": 20230104.0,
+        "Y": 800.9996243006401715636267519
       }
     }
   }
