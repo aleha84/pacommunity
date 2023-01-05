@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1601127798390673410/cQ0N5RmC_normal.jpg",
   "Login": "airyucat",
   "CurrentFollowersCount": 366,
-  "CurrentTweetsCout": 485,
+  "CurrentTweetsCout": 454,
   "FollowersCountHistory": {
     "20210311": 312,
     "20210312": 314,
@@ -608,7 +608,8 @@
     "20230101": 366,
     "20230102": 366,
     "20230103": 366,
-    "20230105": 366
+    "20230105": 366,
+    "20230106": 366
   },
   "TweetsCountHistory": {
     "20210311": 4451,
@@ -1214,20 +1215,21 @@
     "20230101": 481,
     "20230102": 481,
     "20230103": 485,
-    "20230105": 485
+    "20230105": 485,
+    "20230106": 454
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.182584658250420542639140599,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221229.0,
-        "Y": 365.3331830760312526748334849
+        "X": 20221230.0,
+        "Y": 366.0
       },
       "End": {
-        "X": 20230105.0,
-        "Y": 366.0002254198260075570027879
+        "X": 20230106.0,
+        "Y": 366.0
       }
     }
   }
