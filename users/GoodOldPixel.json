@@ -2,7 +2,7 @@
   "PublicName": "Good Old Pixel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1606561748970094593/hJoXSmdz_normal.jpg",
   "Login": "GoodOldPixel",
-  "CurrentFollowersCount": 5500,
+  "CurrentFollowersCount": 5499,
   "CurrentTweetsCout": 5539,
   "FollowersCountHistory": {
     "20210214": 281,
@@ -634,7 +634,8 @@
     "20230103": 5501,
     "20230105": 5498,
     "20230106": 5500,
-    "20230109": 5500
+    "20230109": 5500,
+    "20230110": 5499
   },
   "TweetsCountHistory": {
     "20210214": 785,
@@ -1266,20 +1267,21 @@
     "20230103": 5524,
     "20230105": 5532,
     "20230106": 5534,
-    "20230109": 5539
+    "20230109": 5539,
+    "20230110": 5539
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0515687444393201455280017304,
+    "WeeklyGrowth": -0.0108871167285863727991395379,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221231.0,
-        "Y": 5497.0000766907900796113050534
+        "X": 20230101.0,
+        "Y": 5499.9899193548387095109560
       },
       "End": {
-        "X": 20230109.0,
-        "Y": 5499.8348106121679855556295492
+        "X": 20230110.0,
+        "Y": 5499.3911290322580647112929
       }
     }
   }
