@@ -2,7 +2,7 @@
   "PublicName": "Melixel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1353308558759239682/c-Izl2A2_normal.jpg",
   "Login": "PixelMelixel",
-  "CurrentFollowersCount": 209,
+  "CurrentFollowersCount": 208,
   "CurrentTweetsCout": 1046,
   "FollowersCountHistory": {
     "20210116": 93,
@@ -633,7 +633,8 @@
     "20230101": 209,
     "20230102": 209,
     "20230104": 209,
-    "20230105": 209
+    "20230105": 209,
+    "20230109": 208
   },
   "TweetsCountHistory": {
     "20210116": 540,
@@ -1264,20 +1265,21 @@
     "20230101": 1046,
     "20230102": 1046,
     "20230104": 1046,
-    "20230105": 1046
+    "20230105": 1046,
+    "20230109": 1046
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0959374331865632562506526527,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221228.0,
-        "Y": 209.0
+        "X": 20221229.0,
+        "Y": 209.00029297490737637705744861
       },
       "End": {
-        "X": 20230105.0,
-        "Y": 209.0
+        "X": 20230109.0,
+        "Y": 208.79978345847485315388626005
       }
     }
   }

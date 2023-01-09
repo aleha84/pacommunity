@@ -2,7 +2,7 @@
   "PublicName": "Carlins",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1588109333849640960/UXLPh1BH_normal.jpg",
   "Login": "theuraim",
-  "CurrentFollowersCount": 10,
+  "CurrentFollowersCount": 9,
   "CurrentTweetsCout": 726,
   "FollowersCountHistory": {
     "20210914": 7,
@@ -434,7 +434,8 @@
     "20230101": 10,
     "20230102": 10,
     "20230104": 10,
-    "20230105": 10
+    "20230105": 10,
+    "20230109": 9
   },
   "TweetsCountHistory": {
     "20210914": 290,
@@ -866,20 +867,21 @@
     "20230101": 723,
     "20230102": 725,
     "20230104": 726,
-    "20230105": 726
+    "20230105": 726,
+    "20230109": 726
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -2.0050364217892362353153066819,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20221228.0,
-        "Y": 10.0
+        "X": 20221229.0,
+        "Y": 10.00029297490737637705746573
       },
       "End": {
-        "X": 20230105.0,
-        "Y": 10.0
+        "X": 20230109.0,
+        "Y": 9.79978345847485315388625319
       }
     }
   }
