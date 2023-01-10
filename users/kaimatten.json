@@ -2,7 +2,7 @@
   "PublicName": "Kaimatten/John Bond",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1458329245864792069/Rjc_Rpt4_normal.jpg",
   "Login": "kaimatten",
-  "CurrentFollowersCount": 3106,
+  "CurrentFollowersCount": 3105,
   "CurrentTweetsCout": 3340,
   "FollowersCountHistory": {
     "20210116": 2164,
@@ -666,7 +666,8 @@
     "20230105": 3108,
     "20230106": 3109,
     "20230109": 3105,
-    "20230110": 3106
+    "20230110": 3106,
+    "20230111": 3105
   },
   "TweetsCountHistory": {
     "20210116": 2535,
@@ -1330,20 +1331,21 @@
     "20230105": 3340,
     "20230106": 3340,
     "20230109": 3340,
-    "20230110": 3340
+    "20230110": 3340,
+    "20230111": 3340
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0350526438781206377909320632,
+    "WeeklyGrowth": -0.0881001785696471674280416043,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230101.0,
-        "Y": 3105.9274193548387099804520
+        "X": 20230102.0,
+        "Y": 3108.2480620155038762384614
       },
       "End": {
-        "X": 20230110.0,
-        "Y": 3107.0161290322580641608494
+        "X": 20230111.0,
+        "Y": 3105.5096899224806198939901
       }
     }
   }
