@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1345898839480410114/sTGcyjxM_normal.jpg",
   "Login": "Suko51543192",
   "CurrentFollowersCount": 79,
-  "CurrentTweetsCout": 257,
+  "CurrentTweetsCout": 256,
   "FollowersCountHistory": {
     "20201219": 68,
     "20201220": 68,
@@ -664,7 +664,8 @@
     "20230105": 79,
     "20230109": 79,
     "20230110": 79,
-    "20230111": 79
+    "20230111": 79,
+    "20230112": 79
   },
   "TweetsCountHistory": {
     "20201219": 253,
@@ -1326,20 +1327,21 @@
     "20230105": 257,
     "20230109": 257,
     "20230110": 257,
-    "20230111": 257
+    "20230111": 257,
+    "20230112": 256
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.6559343316029160966285808658,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230101.0,
-        "Y": 79.4032738095238095238096
+        "X": 20230102.0,
+        "Y": 79.0
       },
       "End": {
-        "X": 20230111.0,
-        "Y": 78.8824404761904761904762
+        "X": 20230112.0,
+        "Y": 79.0
       }
     }
   }
