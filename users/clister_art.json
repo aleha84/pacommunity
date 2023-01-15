@@ -2,7 +2,7 @@
   "PublicName": "Clister.Art",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1587217429171965952/eLh1oIlY_normal.jpg",
   "Login": "clister_art",
-  "CurrentFollowersCount": 1743,
+  "CurrentFollowersCount": 1741,
   "CurrentTweetsCout": 708,
   "FollowersCountHistory": {
     "20210116": 1464,
@@ -645,7 +645,8 @@
     "20230111": 1743,
     "20230112": 1744,
     "20230113": 1744,
-    "20230114": 1743
+    "20230114": 1743,
+    "20230115": 1741
   },
   "TweetsCountHistory": {
     "20210116": 473,
@@ -1288,20 +1289,21 @@
     "20230111": 707,
     "20230112": 707,
     "20230113": 707,
-    "20230114": 708
+    "20230114": 708,
+    "20230115": 708
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1787378358972792605454720504,
+    "WeeklyGrowth": -0.0860215053763440860215053763,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230105.0,
-        "Y": 1740.9308510638297867215829
+        "X": 20230109.0,
+        "Y": 1743.75
       },
       "End": {
-        "X": 20230114.0,
-        "Y": 1744.0425531914893620174877
+        "X": 20230115.0,
+        "Y": 1742.25
       }
     }
   }
