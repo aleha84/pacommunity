@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1457291691669426176/LZBAzyiJ_normal.jpg",
   "Login": "Nanossis",
   "CurrentFollowersCount": 200,
-  "CurrentTweetsCout": 66,
+  "CurrentTweetsCout": 67,
   "FollowersCountHistory": {
     "20210914": 140,
     "20210915": 142,
@@ -457,7 +457,8 @@
     "20230113": 200,
     "20230114": 200,
     "20230115": 200,
-    "20230116": 200
+    "20230116": 200,
+    "20230117": 200
   },
   "TweetsCountHistory": {
     "20210914": 16,
@@ -912,20 +913,21 @@
     "20230113": 66,
     "20230114": 66,
     "20230115": 66,
-    "20230116": 66
+    "20230116": 66,
+    "20230117": 67
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3221764811168784678718670183,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230110.0,
-        "Y": 199.5357142857142857142856
+        "X": 20230111.0,
+        "Y": 200.0
       },
       "End": {
-        "X": 20230116.0,
-        "Y": 200.1785714285714285714285
+        "X": 20230117.0,
+        "Y": 200.0
       }
     }
   }
