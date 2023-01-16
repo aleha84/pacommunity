@@ -2,7 +2,7 @@
   "PublicName": "notsoTV 🔞",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1535536959271182336/4CguKPlu_normal.jpg",
   "Login": "trueNOTSO",
-  "CurrentFollowersCount": 6723,
+  "CurrentFollowersCount": 6720,
   "CurrentTweetsCout": 512,
   "FollowersCountHistory": {
     "20210225": 516,
@@ -596,7 +596,8 @@
     "20230112": 6709,
     "20230113": 6708,
     "20230114": 6715,
-    "20230115": 6723
+    "20230115": 6723,
+    "20230116": 6720
   },
   "TweetsCountHistory": {
     "20210225": 64,
@@ -1190,20 +1191,21 @@
     "20230112": 511,
     "20230113": 511,
     "20230114": 511,
-    "20230115": 512
+    "20230115": 512,
+    "20230116": 512
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.092609841126220826569439811,
+    "WeeklyGrowth": 0.178890876565295169946332737,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230109.0,
-        "Y": 6710.178571428571428571429
+        "X": 20230110.0,
+        "Y": 6708.0
       },
       "End": {
-        "X": 20230115.0,
-        "Y": 6716.392857142857142857143
+        "X": 20230116.0,
+        "Y": 6720.0
       }
     }
   }
