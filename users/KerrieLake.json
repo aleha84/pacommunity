@@ -2,7 +2,7 @@
   "PublicName": "Kerrie Lake",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1556790115829252096/bJ5-KEHp_normal.png",
   "Login": "KerrieLake",
-  "CurrentFollowersCount": 5463,
+  "CurrentFollowersCount": 5461,
   "CurrentTweetsCout": 9744,
   "FollowersCountHistory": {
     "20210110": 3839,
@@ -680,7 +680,8 @@
     "20230116": 5465,
     "20230117": 5463,
     "20230118": 5463,
-    "20230119": 5463
+    "20230119": 5463,
+    "20230120": 5461
   },
   "TweetsCountHistory": {
     "20210110": 7297,
@@ -1358,20 +1359,21 @@
     "20230116": 9744,
     "20230117": 9745,
     "20230118": 9745,
-    "20230119": 9744
+    "20230119": 9744,
+    "20230120": 9744
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0117678593610052366974146011,
+    "WeeklyGrowth": -0.0156891457260152184713534503,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230113.0,
-        "Y": 5462.8214285714285714285715
+        "X": 20230114.0,
+        "Y": 5463.2857142857142857142857
       },
       "End": {
-        "X": 20230119.0,
-        "Y": 5463.4642857142857142857143
+        "X": 20230120.0,
+        "Y": 5462.4285714285714285714286
       }
     }
   }
