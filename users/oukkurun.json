@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1597647783791575041/8ABE9mFy_normal.png",
   "Login": "oukkurun",
   "CurrentFollowersCount": 340,
-  "CurrentTweetsCout": 521,
+  "CurrentTweetsCout": 523,
   "FollowersCountHistory": {
     "20201228": 76,
     "20201229": 74,
@@ -658,7 +658,8 @@
     "20230115": 340,
     "20230116": 340,
     "20230117": 340,
-    "20230118": 340
+    "20230118": 340,
+    "20230119": 340
   },
   "TweetsCountHistory": {
     "20201228": 63,
@@ -1314,20 +1315,21 @@
     "20230115": 514,
     "20230116": 519,
     "20230117": 520,
-    "20230118": 521
+    "20230118": 521,
+    "20230119": 523
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1893341748185547491322310514,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230112.0,
-        "Y": 339.5357142857142857142856
+        "X": 20230113.0,
+        "Y": 340.0
       },
       "End": {
-        "X": 20230118.0,
-        "Y": 340.1785714285714285714285
+        "X": 20230119.0,
+        "Y": 340.0
       }
     }
   }

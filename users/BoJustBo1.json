@@ -2,7 +2,7 @@
   "PublicName": "BoJustBo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1421105491355242498/lpPhR5rB_normal.jpg",
   "Login": "BoJustBo1",
-  "CurrentFollowersCount": 5610,
+  "CurrentFollowersCount": 5606,
   "CurrentTweetsCout": 2264,
   "FollowersCountHistory": {
     "20210125": 1950,
@@ -642,7 +642,8 @@
     "20230115": 5607,
     "20230116": 5608,
     "20230117": 5609,
-    "20230118": 5610
+    "20230118": 5610,
+    "20230119": 5606
   },
   "TweetsCountHistory": {
     "20210125": 764,
@@ -1282,20 +1283,21 @@
     "20230115": 2264,
     "20230116": 2264,
     "20230117": 2264,
-    "20230118": 2264
+    "20230118": 2264,
+    "20230119": 2264
   },
   "LangId": "se",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0152807844135998981281031456,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230112.0,
-        "Y": 5609.2857142857142857142856
+        "X": 20230113.0,
+        "Y": 5608.0
       },
       "End": {
-        "X": 20230118.0,
-        "Y": 5608.4285714285714285714285
+        "X": 20230119.0,
+        "Y": 5608.0
       }
     }
   }
