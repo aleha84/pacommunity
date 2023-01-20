@@ -2,7 +2,7 @@
   "PublicName": "sarah?",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1082357853321654272/_gn2pi1u_normal.jpg",
   "Login": "sarahcatseye",
-  "CurrentFollowersCount": 3129,
+  "CurrentFollowersCount": 3128,
   "CurrentTweetsCout": 1033,
   "FollowersCountHistory": {
     "20210113": 2897,
@@ -679,7 +679,8 @@
     "20230117": 3129,
     "20230118": 3129,
     "20230119": 3129,
-    "20230120": 3129
+    "20230120": 3129,
+    "20230121": 3128
   },
   "TweetsCountHistory": {
     "20210113": 984,
@@ -1356,20 +1357,21 @@
     "20230117": 1033,
     "20230118": 1033,
     "20230119": 1033,
-    "20230120": 1033
+    "20230120": 1033,
+    "20230121": 1033
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0205439583642443817980510636,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230114.0,
-        "Y": 3129.0
+        "X": 20230115.0,
+        "Y": 3129.1785714285714285714285
       },
       "End": {
-        "X": 20230120.0,
-        "Y": 3129.0
+        "X": 20230121.0,
+        "Y": 3128.5357142857142857142857
       }
     }
   }
