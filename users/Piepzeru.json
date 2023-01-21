@@ -2,7 +2,7 @@
   "PublicName": "Piepzeru",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1599454698561368065/pTzGV1TS_normal.jpg",
   "Login": "Piepzeru",
-  "CurrentFollowersCount": 356,
+  "CurrentFollowersCount": 351,
   "CurrentTweetsCout": 559,
   "FollowersCountHistory": {
     "20210914": 203,
@@ -451,7 +451,8 @@
     "20230117": 354,
     "20230118": 356,
     "20230119": 356,
-    "20230120": 356
+    "20230120": 356,
+    "20230121": 351
   },
   "TweetsCountHistory": {
     "20210914": 434,
@@ -900,20 +901,21 @@
     "20230117": 559,
     "20230118": 559,
     "20230119": 559,
-    "20230120": 559
+    "20230120": 559,
+    "20230121": 559
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.7816414470387814410262347804,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230114.0,
-        "Y": 355.71428571428571428571428571
+        "X": 20230115.0,
+        "Y": 356.392857142857142857143
       },
       "End": {
-        "X": 20230120.0,
-        "Y": 355.71428571428571428571428571
+        "X": 20230121.0,
+        "Y": 353.607142857142857142857
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "Hto",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1433182787083845636/lfab7Q0S_normal.jpg",
   "Login": "Hto_TheCLS",
-  "CurrentFollowersCount": 905,
-  "CurrentTweetsCout": 35281,
+  "CurrentFollowersCount": 907,
+  "CurrentTweetsCout": 35265,
   "FollowersCountHistory": {
     "20210214": 476,
     "20210215": 480,
@@ -616,7 +616,8 @@
     "20230117": 905,
     "20230118": 906,
     "20230119": 904,
-    "20230120": 905
+    "20230120": 905,
+    "20230121": 907
   },
   "TweetsCountHistory": {
     "20210214": 7261,
@@ -1230,20 +1231,21 @@
     "20230117": 35307,
     "20230118": 35295,
     "20230119": 35295,
-    "20230120": 35281
+    "20230120": 35281,
+    "20230121": 35265
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0946372239747634069400583581,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230114.0,
-        "Y": 905.7142857142857142857143
+        "X": 20230115.0,
+        "Y": 905.5714285714285714285714286
       },
       "End": {
-        "X": 20230120.0,
-        "Y": 904.8571428571428571428572
+        "X": 20230121.0,
+        "Y": 905.5714285714285714285714286
       }
     }
   }
