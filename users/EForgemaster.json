@@ -2,7 +2,7 @@
   "PublicName": "Ermis Belmont",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1086220656956592128/okQVdklx_normal.jpg",
   "Login": "EForgemaster",
-  "CurrentFollowersCount": 44,
+  "CurrentFollowersCount": 43,
   "CurrentTweetsCout": 56,
   "FollowersCountHistory": {
     "20210125": 27,
@@ -645,7 +645,8 @@
     "20230118": 44,
     "20230119": 44,
     "20230120": 44,
-    "20230121": 44
+    "20230121": 44,
+    "20230122": 43
   },
   "TweetsCountHistory": {
     "20210125": 53,
@@ -1288,20 +1289,21 @@
     "20230118": 56,
     "20230119": 56,
     "20230120": 56,
-    "20230121": 56
+    "20230121": 56,
+    "20230122": 56
   },
   "LangId": "gr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.4551333872271624898950063947,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230115.0,
-        "Y": 44.0
+        "X": 20230116.0,
+        "Y": 44.1785714285714285714285
       },
       "End": {
-        "X": 20230121.0,
-        "Y": 44.0
+        "X": 20230122.0,
+        "Y": 43.5357142857142857142856
       }
     }
   }
