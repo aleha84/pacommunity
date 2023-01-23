@@ -2,7 +2,7 @@
   "PublicName": "Rose",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1540451741522591745/3DbynuxF_normal.jpg",
   "Login": "rose_bushes_",
-  "CurrentFollowersCount": 2982,
+  "CurrentFollowersCount": 2981,
   "CurrentTweetsCout": 2675,
   "FollowersCountHistory": {
     "20210225": 2559,
@@ -638,7 +638,8 @@
     "20230120": 2981,
     "20230121": 2981,
     "20230122": 2981,
-    "20230123": 2982
+    "20230123": 2982,
+    "20230124": 2981
   },
   "TweetsCountHistory": {
     "20210225": 1069,
@@ -1274,20 +1275,21 @@
     "20230120": 2675,
     "20230121": 2675,
     "20230122": 2675,
-    "20230123": 2675
+    "20230123": 2675,
+    "20230124": 2675
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.021559726431026841859404712,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230117.0,
-        "Y": 2981.4285714285714285714285714
+        "X": 20230118.0,
+        "Y": 2981.7500000000000000000000
       },
       "End": {
-        "X": 20230123.0,
-        "Y": 2981.4285714285714285714285714
+        "X": 20230124.0,
+        "Y": 2981.1071428571428571428572
       }
     }
   }
