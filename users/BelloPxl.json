@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1514681332244303879/2x-eJcsf_normal.png",
   "Login": "BelloPxl",
   "CurrentFollowersCount": 336,
-  "CurrentTweetsCout": 1905,
+  "CurrentTweetsCout": 1906,
   "FollowersCountHistory": {
     "20210113": 136,
     "20210114": 136,
@@ -646,7 +646,8 @@
     "20230119": 336,
     "20230120": 336,
     "20230121": 336,
-    "20230122": 336
+    "20230122": 336,
+    "20230123": 336
   },
   "TweetsCountHistory": {
     "20210113": 1412,
@@ -1290,20 +1291,21 @@
     "20230119": 1904,
     "20230120": 1905,
     "20230121": 1905,
-    "20230122": 1905
+    "20230122": 1905,
+    "20230123": 1906
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1910625199023458231610359753,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230116.0,
-        "Y": 336.4642857142857142857143
+        "X": 20230117.0,
+        "Y": 336.0
       },
       "End": {
-        "X": 20230122.0,
-        "Y": 335.8214285714285714285714
+        "X": 20230123.0,
+        "Y": 336.0
       }
     }
   }
