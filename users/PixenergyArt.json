@@ -2,7 +2,7 @@
   "PublicName": "Pixenergy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1247869296803528704/4rAjrsOg_normal.jpg",
   "Login": "PixenergyArt",
-  "CurrentFollowersCount": 411,
+  "CurrentFollowersCount": 410,
   "CurrentTweetsCout": 1446,
   "FollowersCountHistory": {
     "20210113": 339,
@@ -647,7 +647,8 @@
     "20230120": 411,
     "20230121": 411,
     "20230122": 411,
-    "20230123": 411
+    "20230123": 411,
+    "20230124": 410
   },
   "TweetsCountHistory": {
     "20210113": 1327,
@@ -1292,20 +1293,21 @@
     "20230120": 1445,
     "20230121": 1445,
     "20230122": 1445,
-    "20230123": 1446
+    "20230123": 1446,
+    "20230124": 1446
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.156345001302875010857277887,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230117.0,
-        "Y": 411.0
+        "X": 20230118.0,
+        "Y": 411.1785714285714285714285
       },
       "End": {
-        "X": 20230123.0,
-        "Y": 411.0
+        "X": 20230124.0,
+        "Y": 410.5357142857142857142857
       }
     }
   }
