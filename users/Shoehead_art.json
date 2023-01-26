@@ -2,8 +2,8 @@
   "PublicName": "@Shoehead@mastodon.gamedev.place",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1457710431053750278/WkERk8lf_normal.jpg",
   "Login": "Shoehead_art",
-  "CurrentFollowersCount": 1792,
-  "CurrentTweetsCout": 21256,
+  "CurrentFollowersCount": 1787,
+  "CurrentTweetsCout": 21263,
   "FollowersCountHistory": {
     "20210213": 1475,
     "20210214": 1475,
@@ -653,7 +653,8 @@
     "20230123": 1799,
     "20230124": 1797,
     "20230125": 1794,
-    "20230126": 1792
+    "20230126": 1792,
+    "20230127": 1787
   },
   "TweetsCountHistory": {
     "20210213": 11303,
@@ -1304,20 +1305,21 @@
     "20230123": 21302,
     "20230124": 21316,
     "20230125": 21324,
-    "20230126": 21256
+    "20230126": 21256,
+    "20230127": 21263
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0119395856963763357411494637,
+    "WeeklyGrowth": -0.4052604394294568715483490953,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230120.0,
-        "Y": 1794.75000000000000000000000
+        "X": 20230121.0,
+        "Y": 1797.785714285714285714286
       },
       "End": {
-        "X": 20230126.0,
-        "Y": 1794.96428571428571428571428
+        "X": 20230127.0,
+        "Y": 1790.500000000000000000000
       }
     }
   }

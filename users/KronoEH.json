@@ -2,7 +2,7 @@
   "PublicName": "Eve",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1450218821764145152/FHGXQdTB_normal.png",
   "Login": "KronoEH",
-  "CurrentFollowersCount": 1443,
+  "CurrentFollowersCount": 1442,
   "CurrentTweetsCout": 422,
   "FollowersCountHistory": {
     "20210126": 389,
@@ -396,7 +396,8 @@
     "20230123": 1443,
     "20230124": 1443,
     "20230125": 1443,
-    "20230126": 1443
+    "20230126": 1443,
+    "20230127": 1442
   },
   "TweetsCountHistory": {
     "20210126": 200,
@@ -790,20 +791,21 @@
     "20230123": 422,
     "20230124": 422,
     "20230125": 422,
-    "20230126": 422
+    "20230126": 422,
+    "20230127": 422
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0742923652212674277506797788,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230120.0,
-        "Y": 1442.1785714285714285714285
+        "X": 20230121.0,
+        "Y": 1442.7142857142857142857142857
       },
       "End": {
-        "X": 20230126.0,
-        "Y": 1443.2500000000000000000000
+        "X": 20230127.0,
+        "Y": 1442.7142857142857142857142857
       }
     }
   }
