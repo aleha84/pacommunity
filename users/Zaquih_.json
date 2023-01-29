@@ -2,7 +2,7 @@
   "PublicName": "Zaquih",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1540754449240494080/DblBJrrJ_normal.jpg",
   "Login": "Zaquih_",
-  "CurrentFollowersCount": 61,
+  "CurrentFollowersCount": 60,
   "CurrentTweetsCout": 124,
   "FollowersCountHistory": {
     "20201221": 22,
@@ -680,7 +680,8 @@
     "20230125": 61,
     "20230126": 61,
     "20230127": 61,
-    "20230128": 61
+    "20230128": 61,
+    "20230129": 60
   },
   "TweetsCountHistory": {
     "20201221": 34,
@@ -1358,20 +1359,21 @@
     "20230125": 122,
     "20230126": 122,
     "20230127": 124,
-    "20230128": 124
+    "20230128": 124,
+    "20230129": 124
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.0507880910683012259195108591,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230122.0,
-        "Y": 61.0
+        "X": 20230123.0,
+        "Y": 61.1785714285714285714285
       },
       "End": {
-        "X": 20230128.0,
-        "Y": 61.0
+        "X": 20230129.0,
+        "Y": 60.5357142857142857142856
       }
     }
   }

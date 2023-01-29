@@ -2,7 +2,7 @@
   "PublicName": "Antic",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1538371986761474048/XhMdn2Tg_normal.jpg",
   "Login": "anticdope",
-  "CurrentFollowersCount": 236,
+  "CurrentFollowersCount": 235,
   "CurrentTweetsCout": 981,
   "FollowersCountHistory": {
     "20210914": 237,
@@ -470,7 +470,8 @@
     "20230126": 236,
     "20230127": 236,
     "20230128": 236,
-    "20230129": 236
+    "20230129": 236,
+    "20230130": 235
   },
   "TweetsCountHistory": {
     "20210914": 959,
@@ -938,20 +939,21 @@
     "20230126": 981,
     "20230127": 981,
     "20230128": 981,
-    "20230129": 981
+    "20230129": 981,
+    "20230130": 981
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2721911386662634205353273525,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230123.0,
-        "Y": 236.0
+        "X": 20230124.0,
+        "Y": 236.1785714285714285714286
       },
       "End": {
-        "X": 20230129.0,
-        "Y": 236.0
+        "X": 20230130.0,
+        "Y": 235.5357142857142857142857
       }
     }
   }

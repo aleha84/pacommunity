@@ -2,8 +2,8 @@
   "PublicName": "C",
   "AvatarImage": "https://pbs.twimg.com/profile_images/977388707018809344/Bd8EaJYd_normal.jpg",
   "Login": "ckjong",
-  "CurrentFollowersCount": 3226,
-  "CurrentTweetsCout": 6977,
+  "CurrentFollowersCount": 3225,
+  "CurrentTweetsCout": 6978,
   "FollowersCountHistory": {
     "20210301": 2695,
     "20210302": 2695,
@@ -640,7 +640,8 @@
     "20230126": 3226,
     "20230127": 3226,
     "20230128": 3227,
-    "20230129": 3226
+    "20230129": 3226,
+    "20230130": 3225
   },
   "TweetsCountHistory": {
     "20210301": 5626,
@@ -1278,20 +1279,21 @@
     "20230126": 6972,
     "20230127": 6975,
     "20230128": 6977,
-    "20230129": 6977
+    "20230129": 6977,
+    "20230130": 6978
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0332053084219730594264358526,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230123.0,
-        "Y": 3226.2857142857142857142857143
+        "X": 20230124.0,
+        "Y": 3226.6785714285714285714286
       },
       "End": {
-        "X": 20230129.0,
-        "Y": 3226.2857142857142857142857143
+        "X": 20230130.0,
+        "Y": 3225.6071428571428571428571
       }
     }
   }
