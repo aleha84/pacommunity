@@ -2,8 +2,8 @@
   "PublicName": "aconfuseddragon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1529513909107179520/ZvjB5C-H_normal.png",
   "Login": "aconfuseddragon",
-  "CurrentFollowersCount": 7132,
-  "CurrentTweetsCout": 3028,
+  "CurrentFollowersCount": 7131,
+  "CurrentTweetsCout": 3030,
   "FollowersCountHistory": {
     "20210111": 5168,
     "20210112": 5166,
@@ -691,7 +691,8 @@
     "20230128": 7129,
     "20230129": 7136,
     "20230130": 7131,
-    "20230131": 7132
+    "20230131": 7132,
+    "20230201": 7131
   },
   "TweetsCountHistory": {
     "20210111": 2178,
@@ -1380,20 +1381,21 @@
     "20230128": 3022,
     "20230129": 3022,
     "20230130": 3028,
-    "20230131": 3028
+    "20230131": 3028,
+    "20230201": 3030
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0060095551927564828076645867,
+    "WeeklyGrowth": -0.0057134444522985850777785319,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230125.0,
-        "Y": 7131.5000000000000000000000
+        "X": 20230126.0,
+        "Y": 7131.49842072015161086470226
       },
       "End": {
-        "X": 20230131.0,
-        "Y": 7131.9285714285714285714286
+        "X": 20230201.0,
+        "Y": 7131.09096651926721415393904
       }
     }
   }
