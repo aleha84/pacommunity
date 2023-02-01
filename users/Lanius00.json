@@ -2,7 +2,7 @@
   "PublicName": "Lanius",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1560730555188416512/qtigRZNL_normal.jpg",
   "Login": "Lanius00",
-  "CurrentFollowersCount": 3000,
+  "CurrentFollowersCount": 3001,
   "CurrentTweetsCout": 135,
   "FollowersCountHistory": {
     "20201213": 2030,
@@ -686,7 +686,8 @@
     "20230128": 2995,
     "20230129": 2994,
     "20230130": 2996,
-    "20230131": 3000
+    "20230131": 3000,
+    "20230201": 3001
   },
   "TweetsCountHistory": {
     "20201213": 80,
@@ -1370,20 +1371,21 @@
     "20230128": 135,
     "20230129": 135,
     "20230130": 135,
-    "20230131": 135
+    "20230131": 135,
+    "20230201": 135
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1503346736186510445873552051,
+    "WeeklyGrowth": 0.1786299250803373376411256551,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230125.0,
-        "Y": 2993.321428571428571428571
+        "X": 20230126.0,
+        "Y": 2995.7969046114971573049535
       },
       "End": {
-        "X": 20230131.0,
-        "Y": 2997.821428571428571428571
+        "X": 20230201.0,
+        "Y": 3001.1482943777637396927246
       }
     }
   }

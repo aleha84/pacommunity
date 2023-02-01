@@ -2,8 +2,8 @@
   "PublicName": "カイエ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1261306444600668160/srCv8lWK_normal.png",
   "Login": "4_9_13",
-  "CurrentFollowersCount": 22740,
-  "CurrentTweetsCout": 2018,
+  "CurrentFollowersCount": 22742,
+  "CurrentTweetsCout": 2024,
   "FollowersCountHistory": {
     "20201225": 15922,
     "20201226": 15922,
@@ -679,7 +679,8 @@
     "20230128": 22746,
     "20230129": 22742,
     "20230130": 22743,
-    "20230131": 22740
+    "20230131": 22740,
+    "20230201": 22742
   },
   "TweetsCountHistory": {
     "20201225": 1444,
@@ -1356,20 +1357,21 @@
     "20230128": 2011,
     "20230129": 2014,
     "20230130": 2018,
-    "20230131": 2018
+    "20230131": 2018,
+    "20230201": 2024
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0056537102473498233215547075,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230125.0,
-        "Y": 22741.0714285714285714285714
+        "X": 20230126.0,
+        "Y": 22742.0
       },
       "End": {
-        "X": 20230131.0,
-        "Y": 22742.3571428571428571428571
+        "X": 20230201.0,
+        "Y": 22742.0
       }
     }
   }

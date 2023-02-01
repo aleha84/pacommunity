@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1481303237550432257/GKweTc-c_normal.jpg",
   "Login": "RedsJ78",
   "CurrentFollowersCount": 178,
-  "CurrentTweetsCout": 51239,
+  "CurrentTweetsCout": 51252,
   "FollowersCountHistory": {
     "20201228": 79,
     "20201229": 81,
@@ -671,7 +671,8 @@
     "20230128": 178,
     "20230129": 178,
     "20230130": 178,
-    "20230131": 178
+    "20230131": 178,
+    "20230201": 178
   },
   "TweetsCountHistory": {
     "20201228": 4952,
@@ -1340,20 +1341,21 @@
     "20230128": 51115,
     "20230129": 51178,
     "20230130": 51206,
-    "20230131": 51239
+    "20230131": 51239,
+    "20230201": 51252
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3621001810500905250452303651,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230125.0,
-        "Y": 177.5357142857142857142857
+        "X": 20230126.0,
+        "Y": 178.0
       },
       "End": {
-        "X": 20230131.0,
-        "Y": 178.1785714285714285714285
+        "X": 20230201.0,
+        "Y": 178.0
       }
     }
   }
