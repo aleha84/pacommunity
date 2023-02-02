@@ -2,7 +2,7 @@
   "PublicName": "Grandero",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1333465434927009792/0d-X5FX5_normal.jpg",
   "Login": "Grandero_Pixels",
-  "CurrentFollowersCount": 3576,
+  "CurrentFollowersCount": 3575,
   "CurrentTweetsCout": 860,
   "FollowersCountHistory": {
     "20201228": 1203,
@@ -672,7 +672,8 @@
     "20230129": 3577,
     "20230130": 3576,
     "20230131": 3575,
-    "20230201": 3576
+    "20230201": 3576,
+    "20230202": 3575
   },
   "TweetsCountHistory": {
     "20201228": 627,
@@ -1342,20 +1343,21 @@
     "20230129": 860,
     "20230130": 860,
     "20230131": 860,
-    "20230201": 860
+    "20230201": 860,
+    "20230202": 860
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0054986031781308052238526161,
+    "WeeklyGrowth": -0.0148623508039793316600555058,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230126.0,
-        "Y": 3575.823436512950094757118417
+        "X": 20230127.0,
+        "Y": 3576.01810547913975226140875
       },
       "End": {
-        "X": 20230201.0,
-        "Y": 3576.020056854074542007260991
+        "X": 20230202.0,
+        "Y": 3575.48662512348962686996476
       }
     }
   }

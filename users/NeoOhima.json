@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1607208947555139585/fhiyJKGX_normal.jpg",
   "Login": "NeoOhima",
   "CurrentFollowersCount": 1159,
-  "CurrentTweetsCout": 7952,
+  "CurrentTweetsCout": 7954,
   "FollowersCountHistory": {
     "20201225": 832,
     "20201226": 832,
@@ -680,7 +680,8 @@
     "20230129": 1160,
     "20230130": 1159,
     "20230131": 1158,
-    "20230201": 1159
+    "20230201": 1159,
+    "20230202": 1159
   },
   "TweetsCountHistory": {
     "20201225": 2211,
@@ -1358,20 +1359,21 @@
     "20230129": 7942,
     "20230130": 7946,
     "20230131": 7948,
-    "20230201": 7952
+    "20230201": 7952,
+    "20230202": 7954
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0204043456241135377925568543,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230126.0,
-        "Y": 1159.0
+        "X": 20230127.0,
+        "Y": 1159.214491982673455430029036
       },
       "End": {
-        "X": 20230201.0,
-        "Y": 1159.0
+        "X": 20230202.0,
+        "Y": 1158.977961851204498821442593
       }
     }
   }
