@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1614696995716751364/SmEjkmRs_normal.jpg",
   "Login": "ChloraCreates",
   "CurrentFollowersCount": 319,
-  "CurrentTweetsCout": 4684,
+  "CurrentTweetsCout": 4685,
   "FollowersCountHistory": {
     "20201215": 145,
     "20201216": 145,
@@ -686,7 +686,8 @@
     "20230130": 319,
     "20230131": 319,
     "20230201": 319,
-    "20230202": 319
+    "20230202": 319,
+    "20230203": 319
   },
   "TweetsCountHistory": {
     "20201215": 1884,
@@ -1370,20 +1371,21 @@
     "20230130": 4675,
     "20230131": 4677,
     "20230201": 4680,
-    "20230202": 4684
+    "20230202": 4684,
+    "20230203": 4685
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0710677922374661894336047689,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230127.0,
-        "Y": 318.788528763583858955586135
+        "X": 20230128.0,
+        "Y": 319.0
       },
       "End": {
-        "X": 20230202.0,
-        "Y": 319.015084732882437875820598
+        "X": 20230203.0,
+        "Y": 319.0
       }
     }
   }

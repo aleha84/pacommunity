@@ -2,7 +2,7 @@
   "PublicName": "さばかん",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1314989798927392768/2Lu3gaDF_normal.jpg",
   "Login": "savacan38",
-  "CurrentFollowersCount": 161,
+  "CurrentFollowersCount": 160,
   "CurrentTweetsCout": 185,
   "FollowersCountHistory": {
     "20210112": 152,
@@ -663,7 +663,8 @@
     "20230130": 161,
     "20230131": 161,
     "20230201": 161,
-    "20230202": 161
+    "20230202": 161,
+    "20230203": 160
   },
   "TweetsCountHistory": {
     "20210112": 199,
@@ -1324,20 +1325,21 @@
     "20230130": 185,
     "20230131": 185,
     "20230201": 185,
-    "20230202": 185
+    "20230202": 185,
+    "20230203": 185
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2191640380100790863396044577,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230127.0,
-        "Y": 161.0
+        "X": 20230128.0,
+        "Y": 161.01039224383752613926917
       },
       "End": {
-        "X": 20230202.0,
-        "Y": 161.0
+        "X": 20230203.0,
+        "Y": 160.65751536658006463437305
       }
     }
   }
