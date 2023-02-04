@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1610830550519975941/AlyTabuq_normal.jpg",
   "Login": "tysunshinee",
   "CurrentFollowersCount": 194,
-  "CurrentTweetsCout": 1601,
+  "CurrentTweetsCout": 1606,
   "FollowersCountHistory": {
     "20210914": 210,
     "20210915": 210,
@@ -455,7 +455,8 @@
     "20230131": 194,
     "20230201": 194,
     "20230202": 194,
-    "20230203": 194
+    "20230203": 194,
+    "20230204": 194
   },
   "TweetsCountHistory": {
     "20210914": 1201,
@@ -908,20 +909,21 @@
     "20230131": 1600,
     "20230201": 1600,
     "20230202": 1601,
-    "20230203": 1601
+    "20230203": 1601,
+    "20230204": 1606
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1394495412844036699473843909,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230128.0,
-        "Y": 194.260503136683353399845736
+        "X": 20230129.0,
+        "Y": 194.0
       },
       "End": {
-        "X": 20230203.0,
-        "Y": 193.989607756162473860727262
+        "X": 20230204.0,
+        "Y": 194.0
       }
     }
   }

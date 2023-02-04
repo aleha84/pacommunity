@@ -2,8 +2,8 @@
   "PublicName": "BrawlersinZone",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1509577807386529807/RgBs-R5l_normal.jpg",
   "Login": "BrawlersinZone",
-  "CurrentFollowersCount": 609,
-  "CurrentTweetsCout": 3898,
+  "CurrentFollowersCount": 608,
+  "CurrentTweetsCout": 3899,
   "FollowersCountHistory": {
     "20210301": 307,
     "20210302": 307,
@@ -646,7 +646,8 @@
     "20230201": 609,
     "20230202": 609,
     "20230203": 609,
-    "20230204": 609
+    "20230204": 609,
+    "20230205": 608
   },
   "TweetsCountHistory": {
     "20210301": 3174,
@@ -1290,20 +1291,21 @@
     "20230201": 3894,
     "20230202": 3898,
     "20230203": 3898,
-    "20230204": 3898
+    "20230204": 3898,
+    "20230205": 3899
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0372003871460667821585534025,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230129.0,
-        "Y": 609.0
+        "X": 20230130.0,
+        "Y": 609.015084732882437875848411
       },
       "End": {
-        "X": 20230204.0,
-        "Y": 609.0
+        "X": 20230205.0,
+        "Y": 608.788528763583858955574052
       }
     }
   }
