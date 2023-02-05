@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1618371361407176705/XcTIMC2N_normal.jpg",
   "Login": "ssero",
   "CurrentFollowersCount": 1552,
-  "CurrentTweetsCout": 3375,
+  "CurrentTweetsCout": 3376,
   "FollowersCountHistory": {
     "20210214": 809,
     "20210215": 809,
@@ -627,7 +627,8 @@
     "20230201": 1552,
     "20230202": 1552,
     "20230203": 1552,
-    "20230204": 1552
+    "20230204": 1552,
+    "20230205": 1552
   },
   "TweetsCountHistory": {
     "20210214": 2843,
@@ -1252,20 +1253,21 @@
     "20230201": 3371,
     "20230202": 3372,
     "20230203": 3373,
-    "20230204": 3375
+    "20230204": 3375,
+    "20230205": 3376
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1135592636049580175127336797,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230129.0,
-        "Y": 1553.71242316709967682815828
+        "X": 20230130.0,
+        "Y": 1552.0
       },
       "End": {
-        "X": 20230204.0,
-        "Y": 1551.94803878081236930363610
+        "X": 20230205.0,
+        "Y": 1552.0
       }
     }
   }
