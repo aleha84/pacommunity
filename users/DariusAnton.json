@@ -2,8 +2,8 @@
   "PublicName": "Darius Anton",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1504210673512890370/XqBSAzbQ_normal.jpg",
   "Login": "DariusAnton",
-  "CurrentFollowersCount": 3001,
-  "CurrentTweetsCout": 1123,
+  "CurrentFollowersCount": 3000,
+  "CurrentTweetsCout": 1125,
   "FollowersCountHistory": {
     "20210125": 328,
     "20210126": 329,
@@ -660,7 +660,8 @@
     "20230202": 3001,
     "20230203": 2999,
     "20230204": 3001,
-    "20230205": 3001
+    "20230205": 3001,
+    "20230206": 3000
   },
   "TweetsCountHistory": {
     "20210125": 440,
@@ -1318,20 +1319,21 @@
     "20230202": 1121,
     "20230203": 1122,
     "20230204": 1122,
-    "20230205": 1123
+    "20230205": 1123,
+    "20230206": 1125
   },
   "LangId": "ro",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.0003437934489368042997673612,
+    "WeeklyGrowth": 0.8736631488692702997902155289,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230130.0,
-        "Y": 2971.278820579071357927194
+        "X": 20230131.0,
+        "Y": 2975.0353758686039168181123
       },
       "End": {
-        "X": 20230205.0,
-        "Y": 3001.001823846796869097203
+        "X": 20230206.0,
+        "Y": 3001.0271636133922930721147
       }
     }
   }

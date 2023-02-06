@@ -2,8 +2,8 @@
   "PublicName": "Fanny",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1621290355978018817/0M5FmQ23_normal.jpg",
   "Login": "phanpy100",
-  "CurrentFollowersCount": 55,
-  "CurrentTweetsCout": 1971,
+  "CurrentFollowersCount": 54,
+  "CurrentTweetsCout": 1983,
   "FollowersCountHistory": {
     "20210125": 44,
     "20210126": 48,
@@ -653,7 +653,8 @@
     "20230202": 55,
     "20230203": 55,
     "20230204": 55,
-    "20230205": 55
+    "20230205": 55,
+    "20230206": 54
   },
   "TweetsCountHistory": {
     "20210125": 1384,
@@ -1304,20 +1305,21 @@
     "20230202": 1946,
     "20230203": 1954,
     "20230204": 1958,
-    "20230205": 1971
+    "20230205": 1971,
+    "20230206": 1983
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3874033643829955713348434106,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230130.0,
-        "Y": 55.0
+        "X": 20230131.0,
+        "Y": 55.033796588755527477796038
       },
       "End": {
-        "X": 20230205.0,
-        "Y": 55.0
+        "X": 20230206.0,
+        "Y": 54.820593809222994314938752
       }
     }
   }

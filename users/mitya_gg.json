@@ -2,7 +2,7 @@
   "PublicName": "Mitya G",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1113001533715742721/mojSrHHx_normal.png",
   "Login": "mitya_gg",
-  "CurrentFollowersCount": 113,
+  "CurrentFollowersCount": 112,
   "CurrentTweetsCout": 221,
   "FollowersCountHistory": {
     "20210315": 69,
@@ -599,7 +599,8 @@
     "20230202": 113,
     "20230203": 113,
     "20230204": 113,
-    "20230205": 113
+    "20230205": 113,
+    "20230206": 112
   },
   "TweetsCountHistory": {
     "20210315": 168,
@@ -1196,20 +1197,21 @@
     "20230202": 221,
     "20230203": 221,
     "20230204": 221,
-    "20230205": 221
+    "20230205": 221,
+    "20230206": 221
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1886186131641820221651743075,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230130.0,
-        "Y": 113.0
+        "X": 20230131.0,
+        "Y": 113.033796588755527477797411
       },
       "End": {
-        "X": 20230205.0,
-        "Y": 113.0
+        "X": 20230206.0,
+        "Y": 112.820593809222994314938467
       }
     }
   }
