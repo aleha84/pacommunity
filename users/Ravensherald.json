@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1602904380918882304/6UdwkQEl_normal.jpg",
   "Login": "Ravensherald",
   "CurrentFollowersCount": 158,
-  "CurrentTweetsCout": 5051,
+  "CurrentTweetsCout": 5052,
   "FollowersCountHistory": {
     "20201222": 107,
     "20201223": 107,
@@ -687,7 +687,8 @@
     "20230203": 158,
     "20230204": 158,
     "20230205": 158,
-    "20230206": 158
+    "20230206": 158,
+    "20230207": 158
   },
   "TweetsCountHistory": {
     "20201222": 4064,
@@ -1372,20 +1373,21 @@
     "20230203": 5052,
     "20230204": 5052,
     "20230205": 5051,
-    "20230206": 5051
+    "20230206": 5051,
+    "20230207": 5052
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.6563428876069386193985632597,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230131.0,
-        "Y": 157.00331648768161719065729
+        "X": 20230201.0,
+        "Y": 158.0
       },
       "End": {
-        "X": 20230206.0,
-        "Y": 158.03379658875552747779503
+        "X": 20230207.0,
+        "Y": 158.0
       }
     }
   }
