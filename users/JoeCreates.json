@@ -2,7 +2,7 @@
   "PublicName": "Joe Williamson",
   "AvatarImage": "https://pbs.twimg.com/profile_images/857401304871784448/dUeDvxR7_normal.jpg",
   "Login": "JoeCreates",
-  "CurrentFollowersCount": 34024,
+  "CurrentFollowersCount": 34035,
   "CurrentTweetsCout": 4258,
   "FollowersCountHistory": {
     "20210108": 19620,
@@ -702,7 +702,8 @@
     "20230204": 34013,
     "20230205": 34018,
     "20230206": 34019,
-    "20230207": 34024
+    "20230207": 34024,
+    "20230208": 34035
   },
   "TweetsCountHistory": {
     "20210108": 3634,
@@ -1402,20 +1403,21 @@
     "20230204": 4258,
     "20230205": 4258,
     "20230206": 4258,
-    "20230207": 4258
+    "20230207": 4258,
+    "20230208": 4258
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0195240129614253789075584176,
+    "WeeklyGrowth": 0.0258271783807619017622333163,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230201.0,
-        "Y": 34024.035714285714285714285
+        "X": 20230202.0,
+        "Y": 34017.321428571428571428571
       },
       "End": {
-        "X": 20230207.0,
-        "Y": 34017.392857142857142857142
+        "X": 20230208.0,
+        "Y": 34026.107142857142857142857
       }
     }
   }
