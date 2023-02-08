@@ -2,7 +2,7 @@
   "PublicName": "arfu",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1497097716886913056/rpJo1eRQ_normal.jpg",
   "Login": "uarfun",
-  "CurrentFollowersCount": 4369,
+  "CurrentFollowersCount": 4368,
   "CurrentTweetsCout": 305,
   "FollowersCountHistory": {
     "20210913": 248,
@@ -460,7 +460,8 @@
     "20230204": 4367,
     "20230205": 4368,
     "20230206": 4370,
-    "20230207": 4369
+    "20230207": 4369,
+    "20230208": 4368
   },
   "TweetsCountHistory": {
     "20210913": 195,
@@ -918,20 +919,21 @@
     "20230204": 305,
     "20230205": 305,
     "20230206": 305,
-    "20230207": 305
+    "20230207": 305,
+    "20230208": 305
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0981836033382425135002290951,
+    "WeeklyGrowth": 0.1080037310379813120816835385,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230201.0,
-        "Y": 4365.000000000000000000000
+        "X": 20230202.0,
+        "Y": 4364.928571428571428571429
       },
       "End": {
-        "X": 20230207.0,
-        "Y": 4369.285714285714285714285
+        "X": 20230208.0,
+        "Y": 4369.642857142857142857143
       }
     }
   }

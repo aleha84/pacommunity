@@ -2,7 +2,7 @@
   "PublicName": "Stellet",
   "AvatarImage": "https://pbs.twimg.com/profile_images/378800000010668066/e99f396f5db1a796b40bfd0ac0e438ef_normal.jpeg",
   "Login": "sstellet",
-  "CurrentFollowersCount": 142,
+  "CurrentFollowersCount": 141,
   "CurrentTweetsCout": 515,
   "FollowersCountHistory": {
     "20201221": 114,
@@ -690,7 +690,8 @@
     "20230204": 142,
     "20230205": 142,
     "20230206": 142,
-    "20230207": 142
+    "20230207": 142,
+    "20230208": 141
   },
   "TweetsCountHistory": {
     "20201221": 386,
@@ -1378,20 +1379,21 @@
     "20230204": 515,
     "20230205": 515,
     "20230206": 515,
-    "20230207": 515
+    "20230207": 515,
+    "20230208": 515
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.4521477015825169555387693806,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230201.0,
-        "Y": 142.0
+        "X": 20230202.0,
+        "Y": 142.1785714285714285714285
       },
       "End": {
-        "X": 20230207.0,
-        "Y": 142.0
+        "X": 20230208.0,
+        "Y": 141.5357142857142857142857
       }
     }
   }
