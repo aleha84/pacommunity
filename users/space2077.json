@@ -2,7 +2,7 @@
   "PublicName": "Naif",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1516814098444529667/_tkL1qoe_normal.jpg",
   "Login": "space2077",
-  "CurrentFollowersCount": 1419,
+  "CurrentFollowersCount": 1418,
   "CurrentTweetsCout": 2623,
   "FollowersCountHistory": {
     "20210214": 99,
@@ -640,7 +640,8 @@
     "20230205": 1419,
     "20230206": 1419,
     "20230207": 1421,
-    "20230208": 1419
+    "20230208": 1419,
+    "20230209": 1418
   },
   "TweetsCountHistory": {
     "20210214": 2505,
@@ -1278,20 +1279,21 @@
     "20230205": 2623,
     "20230206": 2623,
     "20230207": 2623,
-    "20230208": 2623
+    "20230208": 2623,
+    "20230209": 2623
   },
   "LangId": "arabic",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0452841580920274723892455138,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230202.0,
-        "Y": 1419.5714285714285714285714286
+        "X": 20230203.0,
+        "Y": 1419.6071428571428571428572
       },
       "End": {
-        "X": 20230208.0,
-        "Y": 1419.5714285714285714285714286
+        "X": 20230209.0,
+        "Y": 1418.9642857142857142857143
       }
     }
   }

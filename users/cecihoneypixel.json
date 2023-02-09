@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1420076703913811973/ACbBW8Ka_normal.png",
   "Login": "cecihoneypixel",
   "CurrentFollowersCount": 454,
-  "CurrentTweetsCout": 1209,
+  "CurrentTweetsCout": 1208,
   "FollowersCountHistory": {
     "20201219": 239,
     "20201220": 238,
@@ -694,7 +694,8 @@
     "20230205": 449,
     "20230206": 450,
     "20230207": 450,
-    "20230208": 454
+    "20230208": 454,
+    "20230209": 454
   },
   "TweetsCountHistory": {
     "20201219": 525,
@@ -1386,20 +1387,21 @@
     "20230205": 1192,
     "20230206": 1196,
     "20230207": 1201,
-    "20230208": 1209
+    "20230208": 1209,
+    "20230209": 1208
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.5725190839694656488548662301,
+    "WeeklyGrowth": 1.0027855153203342618384401114,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230202.0,
-        "Y": 449.142857142857142857143
+        "X": 20230203.0,
+        "Y": 448.75
       },
       "End": {
-        "X": 20230208.0,
-        "Y": 451.714285714285714285714
+        "X": 20230209.0,
+        "Y": 453.25
       }
     }
   }

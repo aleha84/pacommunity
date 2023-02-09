@@ -2,7 +2,7 @@
   "PublicName": "DL",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1599500401564426241/M0Rie_mx_normal.jpg",
   "Login": "Lafontaine_DL",
-  "CurrentFollowersCount": 1435,
+  "CurrentFollowersCount": 1434,
   "CurrentTweetsCout": 1135,
   "FollowersCountHistory": {
     "20210227": 485,
@@ -618,7 +618,8 @@
     "20230205": 1435,
     "20230206": 1435,
     "20230207": 1435,
-    "20230208": 1435
+    "20230208": 1435,
+    "20230209": 1434
   },
   "TweetsCountHistory": {
     "20210227": 809,
@@ -1234,20 +1235,21 @@
     "20230205": 1135,
     "20230206": 1135,
     "20230207": 1135,
-    "20230208": 1135
+    "20230208": 1135,
+    "20230209": 1135
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0447928331466965285554341163,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230202.0,
-        "Y": 1435.0
+        "X": 20230203.0,
+        "Y": 1435.1785714285714285714286
       },
       "End": {
-        "X": 20230208.0,
-        "Y": 1435.0
+        "X": 20230209.0,
+        "Y": 1434.5357142857142857142857
       }
     }
   }
