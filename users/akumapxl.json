@@ -2,7 +2,7 @@
   "PublicName": "悪魔",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1362242142773645319/k8nwB0Gi_normal.jpg",
   "Login": "akumapxl",
-  "CurrentFollowersCount": 158,
+  "CurrentFollowersCount": 157,
   "CurrentTweetsCout": 345,
   "FollowersCountHistory": {
     "20210125": 48,
@@ -688,7 +688,8 @@
     "20230207": 158,
     "20230208": 158,
     "20230209": 158,
-    "20230210": 158
+    "20230210": 158,
+    "20230211": 157
   },
   "TweetsCountHistory": {
     "20210125": 74,
@@ -1374,20 +1375,21 @@
     "20230207": 345,
     "20230208": 345,
     "20230209": 345,
-    "20230210": 345
+    "20230210": 345,
+    "20230211": 345
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.4064122826823210657033463113,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230204.0,
-        "Y": 158.0
+        "X": 20230205.0,
+        "Y": 158.1785714285714285714285
       },
       "End": {
-        "X": 20230210.0,
-        "Y": 158.0
+        "X": 20230211.0,
+        "Y": 157.5357142857142857142856
       }
     }
   }

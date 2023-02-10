@@ -2,7 +2,7 @@
   "PublicName": "rsvp asap",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1323408692012830720/n4cIqvYC_normal.jpg",
   "Login": "rsvpasap1",
-  "CurrentFollowersCount": 2664,
+  "CurrentFollowersCount": 2663,
   "CurrentTweetsCout": 1368,
   "FollowersCountHistory": {
     "20210113": 2204,
@@ -700,7 +700,8 @@
     "20230207": 2664,
     "20230208": 2664,
     "20230209": 2664,
-    "20230210": 2664
+    "20230210": 2664,
+    "20230211": 2663
   },
   "TweetsCountHistory": {
     "20210113": 1145,
@@ -1398,20 +1399,21 @@
     "20230207": 1368,
     "20230208": 1368,
     "20230209": 1368,
-    "20230210": 1368
+    "20230210": 1368,
+    "20230211": 1368
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0241296566886067804335311078,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230204.0,
-        "Y": 2664.0
+        "X": 20230205.0,
+        "Y": 2664.1785714285714285714285
       },
       "End": {
-        "X": 20230210.0,
-        "Y": 2664.0
+        "X": 20230211.0,
+        "Y": 2663.5357142857142857142856
       }
     }
   }
