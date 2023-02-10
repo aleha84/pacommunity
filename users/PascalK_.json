@@ -10,7 +10,8 @@
     "20230206": 337,
     "20230207": 340,
     "20230208": 340,
-    "20230209": 342
+    "20230209": 342,
+    "20230210": 342
   },
   "TweetsCountHistory": {
     "20230204": 888,
@@ -18,12 +19,22 @@
     "20230206": 888,
     "20230207": 888,
     "20230208": 888,
-    "20230209": 888
+    "20230209": 888,
+    "20230210": 888
   },
   "LangId": "nl",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 10.42654028436018957345971564,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20230204.0,
+        "Y": 316.5
+      },
+      "End": {
+        "X": 20230210.0,
+        "Y": 349.5
+      }
+    }
   }
 }

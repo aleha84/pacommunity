@@ -2,8 +2,8 @@
   "PublicName": "Padla",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1568055022117601281/WwdMD2xP_normal.jpg",
   "Login": "PadlukaPadla",
-  "CurrentFollowersCount": 6868,
-  "CurrentTweetsCout": 487,
+  "CurrentFollowersCount": 6866,
+  "CurrentTweetsCout": 489,
   "FollowersCountHistory": {
     "20201213": 2063,
     "20201214": 2064,
@@ -695,7 +695,8 @@
     "20230206": 6864,
     "20230207": 6867,
     "20230208": 6867,
-    "20230209": 6868
+    "20230209": 6868,
+    "20230210": 6866
   },
   "TweetsCountHistory": {
     "20201213": 299,
@@ -1388,20 +1389,21 @@
     "20230206": 484,
     "20230207": 485,
     "20230208": 487,
-    "20230209": 487
+    "20230209": 487,
+    "20230210": 489
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0031204655734635607632659417,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230203.0,
-        "Y": 6867.10714285714285714285714
+        "X": 20230204.0,
+        "Y": 6866.7142857142857142857142857
       },
       "End": {
-        "X": 20230209.0,
-        "Y": 6866.89285714285714285714285
+        "X": 20230210.0,
+        "Y": 6866.7142857142857142857142857
       }
     }
   }
