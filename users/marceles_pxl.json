@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1484258815130361863/W6Nf-Rxo_normal.jpg",
   "Login": "marceles_pxl",
   "CurrentFollowersCount": 110,
-  "CurrentTweetsCout": 845,
+  "CurrentTweetsCout": 846,
   "FollowersCountHistory": {
     "20210914": 29,
     "20210915": 29,
@@ -462,7 +462,8 @@
     "20230207": 110,
     "20230208": 110,
     "20230209": 110,
-    "20230210": 110
+    "20230210": 110,
+    "20230211": 110
   },
   "TweetsCountHistory": {
     "20210914": 102,
@@ -922,20 +923,21 @@
     "20230207": 830,
     "20230208": 836,
     "20230209": 841,
-    "20230210": 845
+    "20230210": 845,
+    "20230211": 846
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.586892729051190088033857266,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230204.0,
-        "Y": 109.5357142857142857142857
+        "X": 20230205.0,
+        "Y": 110.0
       },
       "End": {
-        "X": 20230210.0,
-        "Y": 110.1785714285714285714285
+        "X": 20230211.0,
+        "Y": 110.0
       }
     }
   }

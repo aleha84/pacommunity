@@ -2,8 +2,8 @@
   "PublicName": "pixel32",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1609744085149188097/61hm8B5P_normal.png",
   "Login": "pixel32",
-  "CurrentFollowersCount": 212,
-  "CurrentTweetsCout": 1288,
+  "CurrentFollowersCount": 210,
+  "CurrentTweetsCout": 1298,
   "FollowersCountHistory": {
     "20210213": 137,
     "20210214": 137,
@@ -644,7 +644,8 @@
     "20230207": 212,
     "20230208": 212,
     "20230209": 212,
-    "20230210": 212
+    "20230210": 212,
+    "20230211": 210
   },
   "TweetsCountHistory": {
     "20210213": 425,
@@ -1286,20 +1287,21 @@
     "20230207": 1288,
     "20230208": 1288,
     "20230209": 1288,
-    "20230210": 1288
+    "20230210": 1288,
+    "20230211": 1298
   },
   "LangId": "cn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.6054490413723511604439893587,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230204.0,
-        "Y": 212.0
+        "X": 20230205.0,
+        "Y": 212.3571428571428571428571
       },
       "End": {
-        "X": 20230210.0,
-        "Y": 212.0
+        "X": 20230211.0,
+        "Y": 211.0714285714285714285714
       }
     }
   }

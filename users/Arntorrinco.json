@@ -2,7 +2,7 @@
   "PublicName": "Arntor",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1297948744445558785/HIPrFD8K_normal.jpg",
   "Login": "Arntorrinco",
-  "CurrentFollowersCount": 54,
+  "CurrentFollowersCount": 53,
   "CurrentTweetsCout": 563,
   "FollowersCountHistory": {
     "20201225": 51,
@@ -688,7 +688,8 @@
     "20230207": 53,
     "20230208": 54,
     "20230209": 54,
-    "20230210": 54
+    "20230210": 54,
+    "20230211": 53
   },
   "TweetsCountHistory": {
     "20201225": 377,
@@ -1374,20 +1375,21 @@
     "20230207": 563,
     "20230208": 563,
     "20230209": 563,
-    "20230210": 563
+    "20230210": 563,
+    "20230211": 563
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.7947019867549668874172711021,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230204.0,
-        "Y": 53.857142857142857142857142857
+        "X": 20230205.0,
+        "Y": 53.9285714285714285714286
       },
       "End": {
-        "X": 20230210.0,
-        "Y": 53.857142857142857142857142857
+        "X": 20230211.0,
+        "Y": 53.5000000000000000000000
       }
     }
   }

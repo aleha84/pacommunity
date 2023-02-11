@@ -2,7 +2,7 @@
   "PublicName": "Wolfenoctis",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1231223674981756930/zJjTeSGP_normal.png",
   "Login": "wolfenoctis",
-  "CurrentFollowersCount": 30928,
+  "CurrentFollowersCount": 30929,
   "CurrentTweetsCout": 3256,
   "FollowersCountHistory": {
     "20210108": 10034,
@@ -705,7 +705,8 @@
     "20230208": 30909,
     "20230209": 30895,
     "20230210": 30908,
-    "20230211": 30928
+    "20230211": 30928,
+    "20230212": 30929
   },
   "TweetsCountHistory": {
     "20210108": 1395,
@@ -1408,20 +1409,21 @@
     "20230208": 3252,
     "20230209": 3254,
     "20230210": 3256,
-    "20230211": 3256
+    "20230211": 3256,
+    "20230212": 3256
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0533549524829108244726001536,
+    "WeeklyGrowth": 0.0201025693163162388323863944,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230205.0,
-        "Y": 30924.964285714285714285714
+        "X": 20230206.0,
+        "Y": 30912.892857142857142857143
       },
       "End": {
-        "X": 20230211.0,
-        "Y": 30908.464285714285714285714
+        "X": 20230212.0,
+        "Y": 30919.107142857142857142857
       }
     }
   }

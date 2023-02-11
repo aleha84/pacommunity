@@ -2,7 +2,7 @@
   "PublicName": "Killer Kun",
   "AvatarImage": "https://pbs.twimg.com/profile_images/657209985374359553/ThhVbAX4_normal.jpg",
   "Login": "killerkun666",
-  "CurrentFollowersCount": 62,
+  "CurrentFollowersCount": 61,
   "CurrentTweetsCout": 78,
   "FollowersCountHistory": {
     "20210917": 54,
@@ -459,7 +459,8 @@
     "20230207": 62,
     "20230208": 62,
     "20230209": 62,
-    "20230210": 62
+    "20230210": 62,
+    "20230211": 61
   },
   "TweetsCountHistory": {
     "20210917": 67,
@@ -916,20 +917,21 @@
     "20230207": 78,
     "20230208": 78,
     "20230209": 78,
-    "20230210": 78
+    "20230210": 78,
+    "20230211": 78
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.0338885697874784606548662078,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230204.0,
-        "Y": 62.0
+        "X": 20230205.0,
+        "Y": 62.1785714285714285714285
       },
       "End": {
-        "X": 20230210.0,
-        "Y": 62.0
+        "X": 20230211.0,
+        "Y": 61.5357142857142857142856
       }
     }
   }
