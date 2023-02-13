@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1323329604191424512/aWjto2YU_normal.jpg",
   "Login": "CouchSlothV",
   "CurrentFollowersCount": 1140,
-  "CurrentTweetsCout": 12348,
+  "CurrentTweetsCout": 12351,
   "FollowersCountHistory": {
     "20210909": 624,
     "20210910": 630,
@@ -490,7 +490,8 @@
     "20230210": 1138,
     "20230211": 1139,
     "20230212": 1139,
-    "20230213": 1140
+    "20230213": 1140,
+    "20230214": 1140
   },
   "TweetsCountHistory": {
     "20210909": 6640,
@@ -978,20 +979,21 @@
     "20230210": 12323,
     "20230211": 12331,
     "20230212": 12336,
-    "20230213": 12348
+    "20230213": 12348,
+    "20230214": 12351
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.1317812431363935866461673622,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230207.0,
-        "Y": 1139.0
+        "X": 20230208.0,
+        "Y": 1138.25
       },
       "End": {
-        "X": 20230213.0,
-        "Y": 1139.0
+        "X": 20230214.0,
+        "Y": 1139.75
       }
     }
   }

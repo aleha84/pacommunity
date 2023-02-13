@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1553851595502272516/V58gRweo_normal.jpg",
   "Login": "ScarSnapdragon",
   "CurrentFollowersCount": 65,
-  "CurrentTweetsCout": 2749,
+  "CurrentTweetsCout": 2751,
   "FollowersCountHistory": {
     "20210301": 46,
     "20210302": 46,
@@ -641,7 +641,8 @@
     "20230210": 65,
     "20230211": 65,
     "20230212": 65,
-    "20230213": 65
+    "20230213": 65,
+    "20230214": 65
   },
   "TweetsCountHistory": {
     "20210301": 1183,
@@ -1280,20 +1281,21 @@
     "20230210": 2749,
     "20230211": 2749,
     "20230212": 2749,
-    "20230213": 2749
+    "20230213": 2749,
+    "20230214": 2751
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.9961261759822910902048258984,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230207.0,
-        "Y": 64.5357142857142857142857
+        "X": 20230208.0,
+        "Y": 65.0
       },
       "End": {
-        "X": 20230213.0,
-        "Y": 65.1785714285714285714286
+        "X": 20230214.0,
+        "Y": 65.0
       }
     }
   }
