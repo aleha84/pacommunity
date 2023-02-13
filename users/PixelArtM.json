@@ -2,8 +2,8 @@
   "PublicName": "PixelArtM (pixelartm@mastodon.gamedev.place)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/553589167582478336/a-Lf-Ohm_normal.png",
   "Login": "PixelArtM",
-  "CurrentFollowersCount": 20726,
-  "CurrentTweetsCout": 15881,
+  "CurrentFollowersCount": 20724,
+  "CurrentTweetsCout": 15882,
   "FollowersCountHistory": {
     "20201228": 19215,
     "20201229": 19218,
@@ -683,7 +683,8 @@
     "20230209": 20726,
     "20230210": 20729,
     "20230211": 20731,
-    "20230212": 20726
+    "20230212": 20726,
+    "20230213": 20724
   },
   "TweetsCountHistory": {
     "20201228": 15571,
@@ -1364,20 +1365,21 @@
     "20230209": 15881,
     "20230210": 15881,
     "20230211": 15881,
-    "20230212": 15881
+    "20230212": 15881,
+    "20230213": 15882
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0134406517682211297384773118,
+    "WeeklyGrowth": -0.0113714483607023420014775986,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230206.0,
-        "Y": 20726.035714285714285714286
+        "X": 20230207.0,
+        "Y": 20728.607142857142857142858
       },
       "End": {
-        "X": 20230212.0,
-        "Y": 20728.821428571428571428572
+        "X": 20230213.0,
+        "Y": 20726.250000000000000000001
       }
     }
   }
