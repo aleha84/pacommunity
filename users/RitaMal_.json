@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1198672945197043712/4EJtH17Y_normal.jpg",
   "Login": "RitaMal_",
   "CurrentFollowersCount": 305,
-  "CurrentTweetsCout": 6109,
+  "CurrentTweetsCout": 6110,
   "FollowersCountHistory": {
     "20210320": 244,
     "20210325": 243,
@@ -614,7 +614,8 @@
     "20230209": 305,
     "20230210": 305,
     "20230211": 305,
-    "20230213": 305
+    "20230213": 305,
+    "20230214": 305
   },
   "TweetsCountHistory": {
     "20210320": 6073,
@@ -1226,20 +1227,21 @@
     "20230209": 6109,
     "20230210": 6109,
     "20230211": 6109,
-    "20230213": 6109
+    "20230213": 6109,
+    "20230214": 6110
   },
   "LangId": "pt",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2066448392464170077081476389,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230206.0,
-        "Y": 305.4262295081967209630540
+        "X": 20230207.0,
+        "Y": 305.0
       },
       "End": {
-        "X": 20230213.0,
-        "Y": 304.7950819672131151817067
+        "X": 20230214.0,
+        "Y": 305.0
       }
     }
   }

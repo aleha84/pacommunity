@@ -2,7 +2,7 @@
   "PublicName": "Tamerlan Oekaki",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1559151656050331650/Sl7pF_I1_normal.jpg",
   "Login": "TamerKaki",
-  "CurrentFollowersCount": 42,
+  "CurrentFollowersCount": 41,
   "CurrentTweetsCout": 13,
   "FollowersCountHistory": {
     "20201217": 130,
@@ -665,7 +665,8 @@
     "20230210": 42,
     "20230211": 42,
     "20230212": 42,
-    "20230213": 42
+    "20230213": 42,
+    "20230214": 41
   },
   "TweetsCountHistory": {
     "20201217": 259,
@@ -1328,20 +1329,21 @@
     "20230210": 13,
     "20230211": 13,
     "20230212": 13,
-    "20230213": 13
+    "20230213": 13,
+    "20230214": 13
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.5241320914479254868756297889,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230207.0,
-        "Y": 42.0
+        "X": 20230208.0,
+        "Y": 42.1785714285714285714286
       },
       "End": {
-        "X": 20230213.0,
-        "Y": 42.0
+        "X": 20230214.0,
+        "Y": 41.5357142857142857142857
       }
     }
   }

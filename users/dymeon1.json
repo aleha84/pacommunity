@@ -2,8 +2,8 @@
   "PublicName": "dymeon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1564306956403326980/1lgngI7y_normal.jpg",
   "Login": "dymeon1",
-  "CurrentFollowersCount": 152,
-  "CurrentTweetsCout": 450,
+  "CurrentFollowersCount": 151,
+  "CurrentTweetsCout": 451,
   "FollowersCountHistory": {
     "20210914": 19,
     "20210915": 18,
@@ -467,7 +467,8 @@
     "20230210": 152,
     "20230211": 152,
     "20230212": 152,
-    "20230213": 152
+    "20230213": 152,
+    "20230214": 151
   },
   "TweetsCountHistory": {
     "20210914": 85,
@@ -932,20 +933,21 @@
     "20230210": 450,
     "20230211": 450,
     "20230212": 450,
-    "20230213": 450
+    "20230213": 450,
+    "20230214": 451
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.4224360478760854259563763581,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230207.0,
-        "Y": 152.0
+        "X": 20230208.0,
+        "Y": 152.1785714285714285714286
       },
       "End": {
-        "X": 20230213.0,
-        "Y": 152.0
+        "X": 20230214.0,
+        "Y": 151.5357142857142857142857
       }
     }
   }
