@@ -2,7 +2,7 @@
   "PublicName": "MikAnimus",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1321407895846686720/wDW7ckhg_normal.jpg",
   "Login": "mikanimus",
-  "CurrentFollowersCount": 203,
+  "CurrentFollowersCount": 202,
   "CurrentTweetsCout": 626,
   "FollowersCountHistory": {
     "20210914": 95,
@@ -467,7 +467,8 @@
     "20230212": 203,
     "20230213": 203,
     "20230214": 203,
-    "20230215": 203
+    "20230215": 203,
+    "20230216": 202
   },
   "TweetsCountHistory": {
     "20210914": 244,
@@ -932,20 +933,21 @@
     "20230212": 625,
     "20230213": 626,
     "20230214": 626,
-    "20230215": 626
+    "20230215": 626,
+    "20230216": 626
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3174043378592840768823558679,
+    "WeeklyGrowth": -0.3164000703111267358059623391,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230209.0,
-        "Y": 202.5357142857142857142857
+        "X": 20230210.0,
+        "Y": 203.1785714285714285714286
       },
       "End": {
-        "X": 20230215.0,
-        "Y": 203.1785714285714285714285
+        "X": 20230216.0,
+        "Y": 202.5357142857142857142857
       }
     }
   }
