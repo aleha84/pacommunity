@@ -2,7 +2,7 @@
   "PublicName": "Angus Doolan",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1625276714216730625/ilgwGs73_normal.png",
   "Login": "AngusDoolan",
-  "CurrentFollowersCount": 1120,
+  "CurrentFollowersCount": 1115,
   "CurrentTweetsCout": 691,
   "FollowersCountHistory": {
     "20210207": 370,
@@ -682,7 +682,8 @@
     "20230215": 1120,
     "20230216": 1120,
     "20230217": 1121,
-    "20230218": 1120
+    "20230218": 1120,
+    "20230219": 1115
   },
   "TweetsCountHistory": {
     "20210207": 277,
@@ -1362,20 +1363,21 @@
     "20230215": 690,
     "20230216": 691,
     "20230217": 691,
-    "20230218": 691
+    "20230218": 691,
+    "20230219": 691
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2107616158390547660865271965,
+    "WeeklyGrowth": -0.1721774064981028600580327049,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230212.0,
-        "Y": 1118.392857142857142857143
+        "X": 20230213.0,
+        "Y": 1120.1071428571428571428572
       },
       "End": {
-        "X": 20230218.0,
-        "Y": 1120.750000000000000000000
+        "X": 20230219.0,
+        "Y": 1118.1785714285714285714286
       }
     }
   }

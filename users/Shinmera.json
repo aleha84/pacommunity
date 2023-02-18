@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1578519608595779584/XXk0kTS7_normal.jpg",
   "Login": "Shinmera",
   "CurrentFollowersCount": 1331,
-  "CurrentTweetsCout": 44605,
+  "CurrentTweetsCout": 44604,
   "FollowersCountHistory": {
     "20210213": 675,
     "20210214": 677,
@@ -641,7 +641,8 @@
     "20230214": 1330,
     "20230215": 1330,
     "20230216": 1329,
-    "20230217": 1331
+    "20230217": 1331,
+    "20230218": 1331
   },
   "TweetsCountHistory": {
     "20210213": 41482,
@@ -1280,20 +1281,21 @@
     "20230214": 44606,
     "20230215": 44605,
     "20230216": 44605,
-    "20230217": 44605
+    "20230217": 44605,
+    "20230218": 44604
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.1128455896182057551250705285,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230211.0,
-        "Y": 1330.0
+        "X": 20230212.0,
+        "Y": 1329.25
       },
       "End": {
-        "X": 20230217.0,
-        "Y": 1330.0
+        "X": 20230218.0,
+        "Y": 1330.75
       }
     }
   }

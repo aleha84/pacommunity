@@ -2,8 +2,8 @@
   "PublicName": "Yuushio Pixels",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1517010099100954624/CIlm5vdC_normal.jpg",
   "Login": "YuushioPixels",
-  "CurrentFollowersCount": 305,
-  "CurrentTweetsCout": 114,
+  "CurrentFollowersCount": 303,
+  "CurrentTweetsCout": 115,
   "FollowersCountHistory": {
     "20210914": 327,
     "20210915": 327,
@@ -490,7 +490,8 @@
     "20230215": 305,
     "20230216": 304,
     "20230217": 305,
-    "20230218": 305
+    "20230218": 305,
+    "20230219": 303
   },
   "TweetsCountHistory": {
     "20210914": 65,
@@ -978,20 +979,21 @@
     "20230215": 114,
     "20230216": 114,
     "20230217": 114,
-    "20230218": 114
+    "20230218": 114,
+    "20230219": 115
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2818224518553311413809159759,
+    "WeeklyGrowth": -0.2109457400679714051329942576,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230212.0,
-        "Y": 304.1428571428571428571428
+        "X": 20230213.0,
+        "Y": 304.7500000000000000000000
       },
       "End": {
-        "X": 20230218.0,
-        "Y": 304.9999999999999999999999
+        "X": 20230219.0,
+        "Y": 304.1071428571428571428572
       }
     }
   }
