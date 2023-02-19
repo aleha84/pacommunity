@@ -2,7 +2,7 @@
   "PublicName": "lizard",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1605550097810350080/iljsv1EV_normal.jpg",
   "Login": "knee_destroyer",
-  "CurrentFollowersCount": 1450,
+  "CurrentFollowersCount": 1449,
   "CurrentTweetsCout": 3993,
   "FollowersCountHistory": {
     "20210116": 189,
@@ -707,7 +707,8 @@
     "20230216": 1450,
     "20230217": 1450,
     "20230218": 1450,
-    "20230219": 1450
+    "20230219": 1450,
+    "20230220": 1449
   },
   "TweetsCountHistory": {
     "20210116": 719,
@@ -1412,20 +1413,21 @@
     "20230216": 3985,
     "20230217": 3990,
     "20230218": 3990,
-    "20230219": 3993
+    "20230219": 3993,
+    "20230220": 3993
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0443491758444822233720117283,
+    "WeeklyGrowth": -0.0443295160694495751754739586,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230213.0,
-        "Y": 1449.5357142857142857142857
+        "X": 20230214.0,
+        "Y": 1450.1785714285714285714285
       },
       "End": {
-        "X": 20230219.0,
-        "Y": 1450.1785714285714285714285
+        "X": 20230220.0,
+        "Y": 1449.5357142857142857142856
       }
     }
   }
