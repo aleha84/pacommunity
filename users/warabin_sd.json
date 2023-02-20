@@ -2,7 +2,7 @@
   "PublicName": "warabin",
   "AvatarImage": "https://pbs.twimg.com/profile_images/878988048121208832/qVDHwo9V_normal.jpg",
   "Login": "warabin_sd",
-  "CurrentFollowersCount": 2043,
+  "CurrentFollowersCount": 2042,
   "CurrentTweetsCout": 3267,
   "FollowersCountHistory": {
     "20201231": 1118,
@@ -692,7 +692,8 @@
     "20230216": 2043,
     "20230217": 2042,
     "20230218": 2042,
-    "20230219": 2043
+    "20230219": 2043,
+    "20230220": 2042
   },
   "TweetsCountHistory": {
     "20201231": 2367,
@@ -1382,20 +1383,21 @@
     "20230216": 3267,
     "20230217": 3267,
     "20230218": 3267,
-    "20230219": 3267
+    "20230219": 3267,
+    "20230220": 3267
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0419551080344031885882085169,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230213.0,
-        "Y": 2042.5714285714285714285714286
+        "X": 20230214.0,
+        "Y": 2043.0000000000000000000000
       },
       "End": {
-        "X": 20230219.0,
-        "Y": 2042.5714285714285714285714286
+        "X": 20230220.0,
+        "Y": 2042.1428571428571428571429
       }
     }
   }

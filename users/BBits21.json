@@ -2,7 +2,7 @@
   "PublicName": "BurnedBits",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1195325698434641925/VgaOOH05_normal.jpg",
   "Login": "BBits21",
-  "CurrentFollowersCount": 474,
+  "CurrentFollowersCount": 473,
   "CurrentTweetsCout": 879,
   "FollowersCountHistory": {
     "20210914": 72,
@@ -471,7 +471,8 @@
     "20230216": 474,
     "20230217": 474,
     "20230218": 474,
-    "20230219": 474
+    "20230219": 474,
+    "20230220": 473
   },
   "TweetsCountHistory": {
     "20210914": 770,
@@ -940,20 +941,21 @@
     "20230216": 877,
     "20230217": 877,
     "20230218": 879,
-    "20230219": 879
+    "20230219": 879,
+    "20230220": 879
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1355727950591248022896829307,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230213.0,
-        "Y": 474.0
+        "X": 20230214.0,
+        "Y": 474.1785714285714285714285
       },
       "End": {
-        "X": 20230219.0,
-        "Y": 474.0
+        "X": 20230220.0,
+        "Y": 473.5357142857142857142856
       }
     }
   }
