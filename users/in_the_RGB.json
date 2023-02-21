@@ -2,7 +2,7 @@
   "PublicName": "Zennyan",
   "AvatarImage": "https://pbs.twimg.com/profile_images/924982501012934657/56_4YQdv_normal.jpg",
   "Login": "in_the_RGB",
-  "CurrentFollowersCount": 9401,
+  "CurrentFollowersCount": 9399,
   "CurrentTweetsCout": 2945,
   "FollowersCountHistory": {
     "20201225": 7370,
@@ -699,7 +699,8 @@
     "20230217": 9400,
     "20230218": 9399,
     "20230219": 9404,
-    "20230220": 9401
+    "20230220": 9401,
+    "20230221": 9399
   },
   "TweetsCountHistory": {
     "20201225": 2483,
@@ -1396,20 +1397,21 @@
     "20230217": 2945,
     "20230218": 2945,
     "20230219": 2945,
-    "20230220": 2945
+    "20230220": 2945,
+    "20230221": 2945
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0250776075962353191505515197,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230214.0,
-        "Y": 9399.392857142857142857142
+        "X": 20230215.0,
+        "Y": 9400.571428571428571428571429
       },
       "End": {
-        "X": 20230220.0,
-        "Y": 9401.749999999999999999999
+        "X": 20230221.0,
+        "Y": 9400.571428571428571428571429
       }
     }
   }
