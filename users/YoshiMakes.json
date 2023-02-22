@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1614035910940659713/HMtDNPrC_normal.jpg",
   "Login": "YoshiMakes",
   "CurrentFollowersCount": 961,
-  "CurrentTweetsCout": 7572,
+  "CurrentTweetsCout": 7573,
   "FollowersCountHistory": {
     "20210204": 507,
     "20210205": 509,
@@ -689,7 +689,8 @@
     "20230219": 961,
     "20230220": 961,
     "20230221": 961,
-    "20230222": 961
+    "20230222": 961,
+    "20230223": 961
   },
   "TweetsCountHistory": {
     "20210204": 2233,
@@ -1376,20 +1377,21 @@
     "20230219": 7563,
     "20230220": 7570,
     "20230221": 7570,
-    "20230222": 7572
+    "20230222": 7572,
+    "20230223": 7573
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1339186072464846365597782943,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230216.0,
-        "Y": 960.0714285714285714285714
+        "X": 20230217.0,
+        "Y": 961.0
       },
       "End": {
-        "X": 20230222.0,
-        "Y": 961.3571428571428571428571
+        "X": 20230223.0,
+        "Y": 961.0
       }
     }
   }
