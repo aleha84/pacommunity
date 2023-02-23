@@ -2,8 +2,8 @@
   "PublicName": "Zoria and the Cursed Land",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1600676579855802368/9B8coNKA_normal.jpg",
   "Login": "AllFenom",
-  "CurrentFollowersCount": 5002,
-  "CurrentTweetsCout": 12002,
+  "CurrentFollowersCount": 5001,
+  "CurrentTweetsCout": 12005,
   "FollowersCountHistory": {
     "20210109": 3568,
     "20210110": 3570,
@@ -681,7 +681,8 @@
     "20230219": 4999,
     "20230220": 5000,
     "20230221": 5002,
-    "20230222": 5002
+    "20230222": 5002,
+    "20230223": 5001
   },
   "TweetsCountHistory": {
     "20210109": 8295,
@@ -1360,20 +1361,21 @@
     "20230219": 11984,
     "20230220": 11987,
     "20230221": 11993,
-    "20230222": 12002
+    "20230222": 12002,
+    "20230223": 12005
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0042846431249330524511730067,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230216.0,
-        "Y": 5001.1428571428571428571428571
+        "X": 20230217.0,
+        "Y": 5001.25000000000000000000000
       },
       "End": {
-        "X": 20230222.0,
-        "Y": 5001.1428571428571428571428571
+        "X": 20230223.0,
+        "Y": 5001.03571428571428571428571
       }
     }
   }
