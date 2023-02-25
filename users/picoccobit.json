@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1212617096221229056/5e663WxL_normal.jpg",
   "Login": "picoccobit",
   "CurrentFollowersCount": 117,
-  "CurrentTweetsCout": 250,
+  "CurrentTweetsCout": 251,
   "FollowersCountHistory": {
     "20201225": 81,
     "20201226": 82,
@@ -703,7 +703,8 @@
     "20230221": 117,
     "20230222": 117,
     "20230223": 117,
-    "20230224": 117
+    "20230224": 117,
+    "20230225": 117
   },
   "TweetsCountHistory": {
     "20201225": 160,
@@ -1404,20 +1405,21 @@
     "20230221": 248,
     "20230222": 250,
     "20230223": 250,
-    "20230224": 250
+    "20230224": 250,
+    "20230225": 251
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.5516395954642966595157340548,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230218.0,
-        "Y": 116.5357142857142857142857
+        "X": 20230219.0,
+        "Y": 117.0
       },
       "End": {
-        "X": 20230224.0,
-        "Y": 117.1785714285714285714285
+        "X": 20230225.0,
+        "Y": 117.0
       }
     }
   }

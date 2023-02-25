@@ -2,7 +2,7 @@
   "PublicName": "Crackpot",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1211977721326309376/zEXuB0fc_normal.png",
   "Login": "CrackpotGames",
-  "CurrentFollowersCount": 3287,
+  "CurrentFollowersCount": 3286,
   "CurrentTweetsCout": 1765,
   "FollowersCountHistory": {
     "20210219": 2773,
@@ -642,7 +642,8 @@
     "20230221": 3287,
     "20230222": 3286,
     "20230223": 3287,
-    "20230224": 3287
+    "20230224": 3287,
+    "20230225": 3286
   },
   "TweetsCountHistory": {
     "20210219": 1407,
@@ -1282,20 +1283,21 @@
     "20230221": 1765,
     "20230222": 1765,
     "20230223": 1765,
-    "20230224": 1765
+    "20230224": 1765,
+    "20230225": 1765
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0130403599139336245680359041,
+    "WeeklyGrowth": -0.0195573519345480621923804558,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230218.0,
-        "Y": 3286.5000000000000000000001
+        "X": 20230219.0,
+        "Y": 3287.0357142857142857142857
       },
       "End": {
-        "X": 20230224.0,
-        "Y": 3286.9285714285714285714286
+        "X": 20230225.0,
+        "Y": 3286.3928571428571428571428
       }
     }
   }
