@@ -2,7 +2,7 @@
   "PublicName": "Arkflinn",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1431301356992794634/w1hc4Pa9_normal.jpg",
   "Login": "Arkflinn",
-  "CurrentFollowersCount": 1040,
+  "CurrentFollowersCount": 1039,
   "CurrentTweetsCout": 1688,
   "FollowersCountHistory": {
     "20210226": 285,
@@ -636,7 +636,8 @@
     "20230222": 1041,
     "20230223": 1041,
     "20230224": 1041,
-    "20230225": 1040
+    "20230225": 1040,
+    "20230226": 1039
   },
   "TweetsCountHistory": {
     "20210226": 496,
@@ -1270,20 +1271,21 @@
     "20230222": 1683,
     "20230223": 1685,
     "20230224": 1687,
-    "20230225": 1688
+    "20230225": 1688,
+    "20230226": 1688
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.164609053497942386831267501,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230219.0,
-        "Y": 1040.7142857142857142857142857
+        "X": 20230220.0,
+        "Y": 1041.4285714285714285714285
       },
       "End": {
-        "X": 20230225.0,
-        "Y": 1040.7142857142857142857142857
+        "X": 20230226.0,
+        "Y": 1039.7142857142857142857143
       }
     }
   }
