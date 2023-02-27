@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1577074630774337536/QLXzroW1_normal.png",
   "Login": "jjmmmmm8",
   "CurrentFollowersCount": 603,
-  "CurrentTweetsCout": 22974,
+  "CurrentTweetsCout": 22981,
   "FollowersCountHistory": {
     "20210914": 463,
     "20210915": 464,
@@ -499,7 +499,8 @@
     "20230224": 603,
     "20230225": 603,
     "20230226": 603,
-    "20230227": 603
+    "20230227": 603,
+    "20230228": 603
   },
   "TweetsCountHistory": {
     "20210914": 16373,
@@ -996,20 +997,21 @@
     "20230224": 22963,
     "20230225": 22966,
     "20230226": 22967,
-    "20230227": 22974
+    "20230227": 22974,
+    "20230228": 22981
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.212891780011827321111765809,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230221.0,
-        "Y": 603.9285714285714285714286
+        "X": 20230222.0,
+        "Y": 603.0
       },
       "End": {
-        "X": 20230227.0,
-        "Y": 602.6428571428571428571429
+        "X": 20230228.0,
+        "Y": 603.0
       }
     }
   }
