@@ -2,7 +2,7 @@
   "PublicName": "Saultoons",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1617172627742724098/7msEezTq_normal.jpg",
   "Login": "Saultoons",
-  "CurrentFollowersCount": 5448,
+  "CurrentFollowersCount": 5446,
   "CurrentTweetsCout": 10028,
   "FollowersCountHistory": {
     "20210930": 3243,
@@ -484,7 +484,8 @@
     "20230225": 5450,
     "20230226": 5454,
     "20230227": 5449,
-    "20230228": 5448
+    "20230228": 5448,
+    "20230301": 5446
   },
   "TweetsCountHistory": {
     "20210930": 9276,
@@ -966,20 +967,21 @@
     "20230225": 10026,
     "20230226": 10027,
     "20230227": 10027,
-    "20230228": 10028
+    "20230228": 10028,
+    "20230301": 10028
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0983754926972592587734517363,
+    "WeeklyGrowth": -0.0495873179912924005207090268,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230222.0,
-        "Y": 5445.607142857142857142857
+        "X": 20230223.0,
+        "Y": 5448.88879501223633609403855
       },
       "End": {
-        "X": 20230228.0,
-        "Y": 5450.964285714285714285714
+        "X": 20230301.0,
+        "Y": 5446.18683719846171773548968
       }
     }
   }

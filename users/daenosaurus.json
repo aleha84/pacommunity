@@ -2,7 +2,7 @@
   "PublicName": "dae",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1548762103153954819/qWqt_6am_normal.jpg",
   "Login": "daenosaurus",
-  "CurrentFollowersCount": 4187,
+  "CurrentFollowersCount": 4186,
   "CurrentTweetsCout": 1449,
   "FollowersCountHistory": {
     "20210914": 689,
@@ -500,7 +500,8 @@
     "20230225": 4187,
     "20230226": 4187,
     "20230227": 4187,
-    "20230228": 4187
+    "20230228": 4187,
+    "20230301": 4186
   },
   "TweetsCountHistory": {
     "20210914": 512,
@@ -998,20 +999,21 @@
     "20230225": 1449,
     "20230226": 1449,
     "20230227": 1449,
-    "20230228": 1449
+    "20230228": 1449,
+    "20230301": 1449
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0716931533038594814195244354,
+    "WeeklyGrowth": -0.0001085706854388908007939812,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230222.0,
-        "Y": 4184.5
+        "X": 20230223.0,
+        "Y": 4186.1436312784057802120893909
       },
       "End": {
-        "X": 20230228.0,
-        "Y": 4187.5
+        "X": 20230301.0,
+        "Y": 4186.1390863535718447733710310
       }
     }
   }

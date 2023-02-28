@@ -2,8 +2,8 @@
   "PublicName": "Tofu",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1609851871199461380/6kw3DMag_normal.jpg",
   "Login": "TofuPixel",
-  "CurrentFollowersCount": 73916,
-  "CurrentTweetsCout": 9504,
+  "CurrentFollowersCount": 73958,
+  "CurrentTweetsCout": 9509,
   "FollowersCountHistory": {
     "20210112": 1068,
     "20210113": 1071,
@@ -719,7 +719,8 @@
     "20230225": 73814,
     "20230226": 73852,
     "20230227": 73901,
-    "20230228": 73916
+    "20230228": 73916,
+    "20230301": 73958
   },
   "TweetsCountHistory": {
     "20210112": 489,
@@ -1436,20 +1437,21 @@
     "20230225": 9495,
     "20230226": 9498,
     "20230227": 9501,
-    "20230228": 9504
+    "20230228": 9504,
+    "20230301": 9509
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2592510782752246648918333872,
+    "WeeklyGrowth": 0.177616506619368251773148542,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230222.0,
-        "Y": 73728.85714285714285714286
+        "X": 20230223.0,
+        "Y": 73834.091277240414869931222
       },
       "End": {
-        "X": 20230228.0,
-        "Y": 73920.00000000000000000001
+        "X": 20230301.0,
+        "Y": 73965.232810861204988399533
       }
     }
   }
