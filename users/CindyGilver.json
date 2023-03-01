@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1621548844189204480/c3mtDw4M_normal.jpg",
   "Login": "CindyGilver",
   "CurrentFollowersCount": 473,
-  "CurrentTweetsCout": 9307,
+  "CurrentTweetsCout": 9308,
   "FollowersCountHistory": {
     "20210116": 182,
     "20210117": 185,
@@ -685,7 +685,8 @@
     "20230225": 473,
     "20230226": 473,
     "20230227": 473,
-    "20230228": 473
+    "20230228": 473,
+    "20230301": 473
   },
   "TweetsCountHistory": {
     "20210116": 1926,
@@ -1368,20 +1369,21 @@
     "20230225": 9290,
     "20230226": 9303,
     "20230227": 9303,
-    "20230228": 9307
+    "20230228": 9307,
+    "20230301": 9308
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1360441387650215403219802309,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230222.0,
-        "Y": 472.5357142857142857142856
+        "X": 20230223.0,
+        "Y": 473.0
       },
       "End": {
-        "X": 20230228.0,
-        "Y": 473.1785714285714285714285
+        "X": 20230301.0,
+        "Y": 473.0
       }
     }
   }

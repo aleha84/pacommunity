@@ -2,7 +2,7 @@
   "PublicName": "Lastandir Tinadan",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1623838793160687618/T9s3ycxH_normal.jpg",
   "Login": "Lastandir",
-  "CurrentFollowersCount": 3258,
+  "CurrentFollowersCount": 3257,
   "CurrentTweetsCout": 1142,
   "FollowersCountHistory": {
     "20210320": 1704,
@@ -629,7 +629,8 @@
     "20230225": 3257,
     "20230226": 3257,
     "20230227": 3258,
-    "20230228": 3258
+    "20230228": 3258,
+    "20230301": 3257
   },
   "TweetsCountHistory": {
     "20210320": 822,
@@ -1256,20 +1257,21 @@
     "20230225": 1142,
     "20230226": 1142,
     "20230227": 1142,
-    "20230228": 1142
+    "20230228": 1142,
+    "20230301": 1142
   },
   "LangId": "pl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0150683053579917398503300728,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230222.0,
-        "Y": 3257.5714285714285714285714286
+        "X": 20230223.0,
+        "Y": 3257.51217806782426290690058
       },
       "End": {
-        "X": 20230228.0,
-        "Y": 3257.5714285714285714285714286
+        "X": 20230301.0,
+        "Y": 3257.02132618575923551800038
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "YoukaiDrawing",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1556597568402063360/5wQuDk7Q_normal.jpg",
   "Login": "YoukaiDrawing",
-  "CurrentFollowersCount": 1225,
+  "CurrentFollowersCount": 1224,
   "CurrentTweetsCout": 397,
   "FollowersCountHistory": {
     "20201215": 102,
@@ -711,7 +711,8 @@
     "20230225": 1225,
     "20230226": 1225,
     "20230227": 1225,
-    "20230228": 1225
+    "20230228": 1225,
+    "20230301": 1224
   },
   "TweetsCountHistory": {
     "20201215": 161,
@@ -1420,20 +1421,21 @@
     "20230225": 397,
     "20230226": 397,
     "20230227": 397,
-    "20230228": 397
+    "20230228": 397,
+    "20230301": 397
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0840325042692265026260935997,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230222.0,
-        "Y": 1225.0
+        "X": 20230223.0,
+        "Y": 1225.03248455890921804088880
       },
       "End": {
-        "X": 20230228.0,
-        "Y": 1225.0
+        "X": 20230301.0,
+        "Y": 1224.00305908402284115567073
       }
     }
   }

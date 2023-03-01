@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1621900453410906113/AGW_rghV_normal.jpg",
   "Login": "tasomono_",
   "CurrentFollowersCount": 522,
-  "CurrentTweetsCout": 98404,
+  "CurrentTweetsCout": 98410,
   "FollowersCountHistory": {
     "20210128": 345,
     "20210129": 345,
@@ -677,7 +677,8 @@
     "20230225": 522,
     "20230226": 522,
     "20230227": 522,
-    "20230228": 522
+    "20230228": 522,
+    "20230301": 522
   },
   "TweetsCountHistory": {
     "20210128": 86523,
@@ -1352,20 +1353,21 @@
     "20230225": 98399,
     "20230226": 98401,
     "20230227": 98404,
-    "20230228": 98404
+    "20230228": 98404,
+    "20230301": 98410
   },
   "LangId": "th",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.123043270216692870326072842,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230222.0,
-        "Y": 522.4642857142857142857144
+        "X": 20230223.0,
+        "Y": 522.0
       },
       "End": {
-        "X": 20230228.0,
-        "Y": 521.8214285714285714285715
+        "X": 20230301.0,
+        "Y": 522.0
       }
     }
   }
