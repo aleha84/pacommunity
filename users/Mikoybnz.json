@@ -2,7 +2,7 @@
   "PublicName": "Miko",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1520642297683054592/DxG4fNoA_normal.jpg",
   "Login": "Mikoybnz",
-  "CurrentFollowersCount": 82,
+  "CurrentFollowersCount": 81,
   "CurrentTweetsCout": 55,
   "FollowersCountHistory": {
     "20210207": 50,
@@ -693,7 +693,8 @@
     "20230226": 82,
     "20230227": 82,
     "20230228": 82,
-    "20230301": 82
+    "20230301": 82,
+    "20230302": 81
   },
   "TweetsCountHistory": {
     "20210207": 40,
@@ -1384,20 +1385,21 @@
     "20230226": 55,
     "20230227": 55,
     "20230228": 55,
-    "20230301": 55
+    "20230301": 55,
+    "20230302": 55
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.6348563434043450435410889884,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230223.0,
-        "Y": 82.0
+        "X": 20230224.0,
+        "Y": 82.01448945265961174601695
       },
       "End": {
-        "X": 20230301.0,
-        "Y": 82.0
+        "X": 20230302.0,
+        "Y": 81.49381526385871469556083
       }
     }
   }

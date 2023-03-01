@@ -2,7 +2,7 @@
   "PublicName": "Conor 'Beever' McKeever",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1118670180807258113/Ij308aTK_normal.png",
   "Login": "CMcKeever829",
-  "CurrentFollowersCount": 324,
+  "CurrentFollowersCount": 323,
   "CurrentTweetsCout": 686,
   "FollowersCountHistory": {
     "20210112": 357,
@@ -720,7 +720,8 @@
     "20230226": 324,
     "20230227": 324,
     "20230228": 324,
-    "20230301": 324
+    "20230301": 324,
+    "20230302": 323
   },
   "TweetsCountHistory": {
     "20210112": 687,
@@ -1438,20 +1439,21 @@
     "20230226": 686,
     "20230227": 686,
     "20230228": 686,
-    "20230301": 686
+    "20230301": 686,
+    "20230302": 686
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1606947237700524366804677764,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230223.0,
-        "Y": 324.0
+        "X": 20230224.0,
+        "Y": 324.01448945265961174601695
       },
       "End": {
-        "X": 20230301.0,
-        "Y": 324.0
+        "X": 20230302.0,
+        "Y": 323.49381526385871469556083
       }
     }
   }

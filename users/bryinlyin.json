@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1526672238270980096/CxEiVxh-_normal.jpg",
   "Login": "bryinlyin",
   "CurrentFollowersCount": 859,
-  "CurrentTweetsCout": 9875,
+  "CurrentTweetsCout": 9878,
   "FollowersCountHistory": {
     "20210114": 516,
     "20210115": 516,
@@ -718,7 +718,8 @@
     "20230226": 859,
     "20230227": 859,
     "20230228": 859,
-    "20230301": 859
+    "20230301": 859,
+    "20230302": 859
   },
   "TweetsCountHistory": {
     "20210114": 4754,
@@ -1434,20 +1435,21 @@
     "20230226": 9871,
     "20230227": 9874,
     "20230228": 9875,
-    "20230301": 9875
+    "20230301": 9875,
+    "20230302": 9878
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0246080346148949442834591396,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230223.0,
-        "Y": 858.821145554131220137314971
+        "X": 20230224.0,
+        "Y": 859.0
       },
       "End": {
-        "X": 20230301.0,
-        "Y": 859.032484558909218040820617
+        "X": 20230302.0,
+        "Y": 859.0
       }
     }
   }
