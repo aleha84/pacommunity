@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1610722254244937732/hbfpC1t0_normal.jpg",
   "Login": "suricacto",
   "CurrentFollowersCount": 124,
-  "CurrentTweetsCout": 582,
+  "CurrentTweetsCout": 584,
   "FollowersCountHistory": {
     "20201222": 80,
     "20201223": 80,
@@ -711,7 +711,8 @@
     "20230226": 124,
     "20230227": 124,
     "20230228": 124,
-    "20230301": 124
+    "20230301": 124,
+    "20230302": 124
   },
   "TweetsCountHistory": {
     "20201222": 249,
@@ -1420,20 +1421,21 @@
     "20230226": 582,
     "20230227": 582,
     "20230228": 582,
-    "20230301": 582
+    "20230301": 582,
+    "20230302": 584
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1701892046927549944595739074,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230223.0,
-        "Y": 124.178854445868779862695866
+        "X": 20230224.0,
+        "Y": 124.0
       },
       "End": {
-        "X": 20230301.0,
-        "Y": 123.967515441090781959126591
+        "X": 20230302.0,
+        "Y": 124.0
       }
     }
   }

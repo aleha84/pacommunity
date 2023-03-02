@@ -2,7 +2,7 @@
   "PublicName": "Lutrof",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1466621343772856321/pEeFUZwH_normal.jpg",
   "Login": "Lutr0f",
-  "CurrentFollowersCount": 586,
+  "CurrentFollowersCount": 585,
   "CurrentTweetsCout": 887,
   "FollowersCountHistory": {
     "20210222": 297,
@@ -644,7 +644,8 @@
     "20230226": 586,
     "20230227": 586,
     "20230228": 586,
-    "20230301": 586
+    "20230301": 586,
+    "20230302": 585
   },
   "TweetsCountHistory": {
     "20210222": 580,
@@ -1286,20 +1287,21 @@
     "20230226": 887,
     "20230227": 887,
     "20230228": 887,
-    "20230301": 887
+    "20230301": 887,
+    "20230302": 887
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0888500537396625260152004132,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230223.0,
-        "Y": 586.0
+        "X": 20230224.0,
+        "Y": 586.01448945265961174601406
       },
       "End": {
-        "X": 20230301.0,
-        "Y": 586.0
+        "X": 20230302.0,
+        "Y": 585.49381526385871469556751
       }
     }
   }
