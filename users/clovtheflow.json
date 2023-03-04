@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1408827309600149508/04ez0OLg_normal.jpg",
   "Login": "clovtheflow",
   "CurrentFollowersCount": 491,
-  "CurrentTweetsCout": 484,
+  "CurrentTweetsCout": 485,
   "FollowersCountHistory": {
     "20201215": 76,
     "20201216": 78,
@@ -714,7 +714,8 @@
     "20230228": 491,
     "20230301": 491,
     "20230302": 491,
-    "20230303": 491
+    "20230303": 491,
+    "20230304": 491
   },
   "TweetsCountHistory": {
     "20201215": 110,
@@ -1426,20 +1427,21 @@
     "20230228": 476,
     "20230301": 481,
     "20230302": 481,
-    "20230303": 484
+    "20230303": 484,
+    "20230304": 485
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0549724803053194035193866391,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230225.0,
-        "Y": 491.260080056097703499749707
+        "X": 20230226.0,
+        "Y": 491.0
       },
       "End": {
-        "X": 20230303.0,
-        "Y": 490.990022205340968854756709
+        "X": 20230304.0,
+        "Y": 491.0
       }
     }
   }

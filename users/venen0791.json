@@ -2,7 +2,7 @@
   "PublicName": "dead account",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1608070953778515970/TvgGsdr5_normal.jpg",
   "Login": "venen0791",
-  "CurrentFollowersCount": 539,
+  "CurrentFollowersCount": 538,
   "CurrentTweetsCout": 1327,
   "FollowersCountHistory": {
     "20210204": 299,
@@ -657,7 +657,8 @@
     "20230228": 539,
     "20230301": 539,
     "20230302": 539,
-    "20230303": 539
+    "20230303": 539,
+    "20230304": 538
   },
   "TweetsCountHistory": {
     "20210204": 505,
@@ -1312,20 +1313,21 @@
     "20230228": 1327,
     "20230301": 1327,
     "20230302": 1327,
-    "20230303": 1327
+    "20230303": 1327,
+    "20230304": 1327
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0501025698748040147403453131,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230225.0,
-        "Y": 539.0
+        "X": 20230226.0,
+        "Y": 539.009977794659031145243291
       },
       "End": {
-        "X": 20230303.0,
-        "Y": 539.0
+        "X": 20230304.0,
+        "Y": 538.739919943902296500250293
       }
     }
   }
