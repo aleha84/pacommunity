@@ -2,7 +2,7 @@
   "PublicName": "Andrew",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1496332604781514761/qEwbAaYo_normal.jpg",
   "Login": "OvergrownRobot",
-  "CurrentFollowersCount": 2785,
+  "CurrentFollowersCount": 2786,
   "CurrentTweetsCout": 600,
   "FollowersCountHistory": {
     "20210707": 2125,
@@ -560,7 +560,8 @@
     "20230301": 2785,
     "20230302": 2784,
     "20230303": 2784,
-    "20230304": 2785
+    "20230304": 2785,
+    "20230305": 2786
   },
   "TweetsCountHistory": {
     "20210707": 275,
@@ -1118,20 +1119,21 @@
     "20230301": 600,
     "20230302": 600,
     "20230303": 600,
-    "20230304": 600
+    "20230304": 600,
+    "20230305": 600
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0199739322971852454998519544,
+    "WeeklyGrowth": -0.0247270022462373154094339152,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230226.0,
-        "Y": 2783.97101618652486413973419
+        "X": 20230227.0,
+        "Y": 2785.48062232812390496965559
       },
       "End": {
-        "X": 20230304.0,
-        "Y": 2784.52708467247122070835920
+        "X": 20230305.0,
+        "Y": 2784.79185647207232461944050
       }
     }
   }
