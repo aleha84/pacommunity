@@ -2,8 +2,8 @@
   "PublicName": "wunk",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1589328239570300928/2yTn6jZG_normal.jpg",
   "Login": "Wunkolo",
-  "CurrentFollowersCount": 10450,
-  "CurrentTweetsCout": 17402,
+  "CurrentFollowersCount": 10449,
+  "CurrentTweetsCout": 17403,
   "FollowersCountHistory": {
     "20210213": 10468,
     "20210214": 10469,
@@ -691,7 +691,8 @@
     "20230303": 10449,
     "20230304": 10449,
     "20230305": 10449,
-    "20230306": 10450
+    "20230306": 10450,
+    "20230307": 10449
   },
   "TweetsCountHistory": {
     "20210213": 15379,
@@ -1380,20 +1381,21 @@
     "20230303": 17399,
     "20230304": 17399,
     "20230305": 17400,
-    "20230306": 17402
+    "20230306": 17402,
+    "20230307": 17403
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.03946187162180656155110362,
+    "WeeklyGrowth": -0.0287040137779266134047744343,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230228.0,
-        "Y": 10446.1513226896632093956579
+        "X": 20230301.0,
+        "Y": 10451.5
       },
       "End": {
-        "X": 20230306.0,
-        "Y": 10450.2735695140426523757258
+        "X": 20230307.0,
+        "Y": 10448.5
       }
     }
   }

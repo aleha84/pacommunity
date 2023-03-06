@@ -2,8 +2,8 @@
   "PublicName": "Pixogen Pixels",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1613397282959032320/59EOf9Zr_normal.jpg",
   "Login": "PixogenP",
-  "CurrentFollowersCount": 3200,
-  "CurrentTweetsCout": 994,
+  "CurrentFollowersCount": 3198,
+  "CurrentTweetsCout": 998,
   "FollowersCountHistory": {
     "20210217": 8,
     "20210218": 8,
@@ -688,7 +688,8 @@
     "20230303": 3200,
     "20230304": 3201,
     "20230305": 3201,
-    "20230306": 3200
+    "20230306": 3200,
+    "20230307": 3198
   },
   "TweetsCountHistory": {
     "20210217": 56,
@@ -1374,20 +1375,21 @@
     "20230303": 979,
     "20230304": 979,
     "20230305": 979,
-    "20230306": 994
+    "20230306": 994,
+    "20230307": 998
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0848433649112468916810143067,
+    "WeeklyGrowth": -0.0669358977219482808630281788,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230228.0,
-        "Y": 3198.03455308239132966871929
+        "X": 20230301.0,
+        "Y": 3201.3571428571428571428572
       },
       "End": {
-        "X": 20230306.0,
-        "Y": 3200.74787320825078662430267
+        "X": 20230307.0,
+        "Y": 3199.2142857142857142857143
       }
     }
   }
