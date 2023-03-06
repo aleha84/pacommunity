@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/958706689225601024/6EKRRyuj_normal.jpg",
   "Login": "ten_do_ten",
   "CurrentFollowersCount": 1499,
-  "CurrentTweetsCout": 5948,
+  "CurrentTweetsCout": 5949,
   "FollowersCountHistory": {
     "20210717": 1530,
     "20210719": 1528,
@@ -534,7 +534,8 @@
     "20230302": 1499,
     "20230303": 1499,
     "20230304": 1499,
-    "20230305": 1499
+    "20230305": 1499,
+    "20230306": 1499
   },
   "TweetsCountHistory": {
     "20210717": 5798,
@@ -1066,20 +1067,21 @@
     "20230302": 5948,
     "20230303": 5948,
     "20230304": 5948,
-    "20230305": 5948
+    "20230305": 5948,
+    "20230306": 5949
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0347465023543801130692433008,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230227.0,
-        "Y": 1498.49381526385871469556751
+        "X": 20230228.0,
+        "Y": 1499.0
       },
       "End": {
-        "X": 20230305.0,
-        "Y": 1499.01448945265961174601406
+        "X": 20230306.0,
+        "Y": 1499.0
       }
     }
   }
