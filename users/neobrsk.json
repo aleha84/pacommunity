@@ -2,7 +2,7 @@
   "PublicName": "Dario",
   "AvatarImage": "https://pbs.twimg.com/profile_images/781021545502236672/AGF1sjeT_normal.jpg",
   "Login": "neobrsk",
-  "CurrentFollowersCount": 5487,
+  "CurrentFollowersCount": 5488,
   "CurrentTweetsCout": 1190,
   "FollowersCountHistory": {
     "20210313": 4559,
@@ -630,7 +630,8 @@
     "20230303": 5487,
     "20230304": 5485,
     "20230305": 5487,
-    "20230306": 5487
+    "20230306": 5487,
+    "20230307": 5488
   },
   "TweetsCountHistory": {
     "20210313": 1233,
@@ -1258,20 +1259,21 @@
     "20230303": 1190,
     "20230304": 1190,
     "20230305": 1190,
-    "20230306": 1190
+    "20230306": 1190,
+    "20230307": 1190
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0041415044607507392442674982,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230228.0,
-        "Y": 5487.045682321407761334219976
+        "X": 20230301.0,
+        "Y": 5487.0
       },
       "End": {
-        "X": 20230306.0,
-        "Y": 5486.818436079710989394961461
+        "X": 20230307.0,
+        "Y": 5487.0
       }
     }
   }
