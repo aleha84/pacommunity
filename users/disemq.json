@@ -2,7 +2,7 @@
   "PublicName": "disemq",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1314762757955256327/VNHXbhnd_normal.png",
   "Login": "disemq",
-  "CurrentFollowersCount": 480,
+  "CurrentFollowersCount": 479,
   "CurrentTweetsCout": 3550,
   "FollowersCountHistory": {
     "20201228": 297,
@@ -706,7 +706,8 @@
     "20230304": 481,
     "20230305": 482,
     "20230306": 481,
-    "20230307": 480
+    "20230307": 480,
+    "20230308": 479
   },
   "TweetsCountHistory": {
     "20201228": 1666,
@@ -1410,20 +1411,21 @@
     "20230304": 3542,
     "20230305": 3542,
     "20230306": 3548,
-    "20230307": 3550
+    "20230307": 3550,
+    "20230308": 3550
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2678970084834052686411638477,
+    "WeeklyGrowth": -0.222700616138371316160656198,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230301.0,
-        "Y": 479.9285714285714285714286
+        "X": 20230302.0,
+        "Y": 481.1071428571428571428572
       },
       "End": {
-        "X": 20230307.0,
-        "Y": 481.2142857142857142857143
+        "X": 20230308.0,
+        "Y": 480.0357142857142857142857
       }
     }
   }
