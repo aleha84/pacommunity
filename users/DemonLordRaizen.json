@@ -2,7 +2,7 @@
   "PublicName": "Raizen⚡",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1617405757355626497/5f4az5y5_normal.png",
   "Login": "DemonLordRaizen",
-  "CurrentFollowersCount": 45169,
+  "CurrentFollowersCount": 45178,
   "CurrentTweetsCout": 395,
   "FollowersCountHistory": {
     "20230303": 44973,
@@ -10,7 +10,8 @@
     "20230305": 45011,
     "20230306": 45087,
     "20230307": 45138,
-    "20230308": 45169
+    "20230308": 45169,
+    "20230309": 45178
   },
   "TweetsCountHistory": {
     "20230303": 394,
@@ -18,12 +19,22 @@
     "20230305": 394,
     "20230306": 395,
     "20230307": 395,
-    "20230308": 395
+    "20230308": 395,
+    "20230309": 395
   },
   "LangId": "ph",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.5166152487283194753781777276,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20230303.0,
+        "Y": 44962.99999999999999999999
+      },
+      "End": {
+        "X": 20230309.0,
+        "Y": 45195.28571428571428571428
+      }
+    }
   }
 }
