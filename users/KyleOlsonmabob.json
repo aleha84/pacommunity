@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1058498486092611590/Xwb3PM17_normal.jpg",
   "Login": "KyleOlsonmabob",
   "CurrentFollowersCount": 2862,
-  "CurrentTweetsCout": 10301,
+  "CurrentTweetsCout": 10302,
   "FollowersCountHistory": {
     "20220824": 2747,
     "20220825": 2746,
@@ -187,7 +187,8 @@
     "20230306": 2859,
     "20230307": 2859,
     "20230308": 2859,
-    "20230309": 2862
+    "20230309": 2862,
+    "20230310": 2862
   },
   "TweetsCountHistory": {
     "20220824": 10170,
@@ -372,20 +373,21 @@
     "20230306": 10301,
     "20230307": 10301,
     "20230308": 10301,
-    "20230309": 10301
+    "20230309": 10301,
+    "20230310": 10302
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.0749494091488245434331806012,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230303.0,
-        "Y": 2860.0
+        "X": 20230304.0,
+        "Y": 2859.0714285714285714285715
       },
       "End": {
-        "X": 20230309.0,
-        "Y": 2860.0
+        "X": 20230310.0,
+        "Y": 2861.2142857142857142857143
       }
     }
   }
