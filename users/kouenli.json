@@ -2,7 +2,7 @@
   "PublicName": "kouenli",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1463997759531458561/CfrYtHQs_normal.png",
   "Login": "kouenli",
-  "CurrentFollowersCount": 2446,
+  "CurrentFollowersCount": 2444,
   "CurrentTweetsCout": 3362,
   "FollowersCountHistory": {
     "20210302": 300,
@@ -679,7 +679,8 @@
     "20230307": 2445,
     "20230308": 2446,
     "20230309": 2447,
-    "20230310": 2446
+    "20230310": 2446,
+    "20230311": 2444
   },
   "TweetsCountHistory": {
     "20210302": 258,
@@ -1356,20 +1357,21 @@
     "20230307": 3362,
     "20230308": 3362,
     "20230309": 3362,
-    "20230310": 3362
+    "20230310": 3362,
+    "20230311": 3362
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0788908530438720799427322546,
+    "WeeklyGrowth": -0.0175228527204228848456540406,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230304.0,
-        "Y": 2444.6071428571428571428571
+        "X": 20230305.0,
+        "Y": 2445.7857142857142857142857
       },
       "End": {
-        "X": 20230310.0,
-        "Y": 2446.5357142857142857142857
+        "X": 20230311.0,
+        "Y": 2445.3571428571428571428571
       }
     }
   }
