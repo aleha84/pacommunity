@@ -2,8 +2,8 @@
   "PublicName": "PeepingOwl",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1612240405982216193/cD5rgoCE_normal.jpg",
   "Login": "beckyOwlmusic",
-  "CurrentFollowersCount": 468,
-  "CurrentTweetsCout": 6598,
+  "CurrentFollowersCount": 467,
+  "CurrentTweetsCout": 6599,
   "FollowersCountHistory": {
     "20210213": 163,
     "20210214": 163,
@@ -697,7 +697,8 @@
     "20230308": 469,
     "20230309": 469,
     "20230310": 469,
-    "20230311": 468
+    "20230311": 468,
+    "20230312": 467
   },
   "TweetsCountHistory": {
     "20210213": 4742,
@@ -1392,20 +1393,21 @@
     "20230308": 6592,
     "20230309": 6593,
     "20230310": 6596,
-    "20230311": 6598
+    "20230311": 6598,
+    "20230312": 6599
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3208311053395462531510197944,
+    "WeeklyGrowth": -0.0914773593535599939014941302,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230305.0,
-        "Y": 467.5357142857142857142857
+        "X": 20230306.0,
+        "Y": 468.5000000000000000000000
       },
       "End": {
-        "X": 20230311.0,
-        "Y": 469.0357142857142857142857
+        "X": 20230312.0,
+        "Y": 468.0714285714285714285715
       }
     }
   }

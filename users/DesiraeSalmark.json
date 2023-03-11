@@ -2,8 +2,8 @@
   "PublicName": "dez",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1486153253343490048/fCCphe5W_normal.jpg",
   "Login": "DesiraeSalmark",
-  "CurrentFollowersCount": 50143,
-  "CurrentTweetsCout": 12155,
+  "CurrentFollowersCount": 50132,
+  "CurrentTweetsCout": 12156,
   "FollowersCountHistory": {
     "20210111": 2495,
     "20210112": 2500,
@@ -731,7 +731,8 @@
     "20230308": 50143,
     "20230309": 50143,
     "20230310": 50145,
-    "20230311": 50143
+    "20230311": 50143,
+    "20230312": 50132
   },
   "TweetsCountHistory": {
     "20210111": 4285,
@@ -1460,20 +1461,21 @@
     "20230308": 12147,
     "20230309": 12149,
     "20230310": 12151,
-    "20230311": 12155
+    "20230311": 12155,
+    "20230312": 12156
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0324858515567562022329754192,
+    "WeeklyGrowth": -0.0081195829383346165598193178,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230305.0,
-        "Y": 50131.714285714285714285714
+        "X": 20230306.0,
+        "Y": 50143.321428571428571428572
       },
       "End": {
-        "X": 20230311.0,
-        "Y": 50148.000000000000000000000
+        "X": 20230312.0,
+        "Y": 50139.250000000000000000000
       }
     }
   }
