@@ -2,7 +2,7 @@
   "PublicName": "Gwynbelidd",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1611605824643670021/lm8UFuGk_normal.jpg",
   "Login": "Gwynbelidd",
-  "CurrentFollowersCount": 142,
+  "CurrentFollowersCount": 141,
   "CurrentTweetsCout": 16913,
   "FollowersCountHistory": {
     "20210914": 138,
@@ -491,7 +491,8 @@
     "20230308": 142,
     "20230309": 142,
     "20230310": 142,
-    "20230311": 142
+    "20230311": 142,
+    "20230312": 141
   },
   "TweetsCountHistory": {
     "20210914": 13872,
@@ -980,20 +981,21 @@
     "20230308": 16890,
     "20230309": 16903,
     "20230310": 16909,
-    "20230311": 16913
+    "20230311": 16913,
+    "20230312": 16913
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.4521477015825169555388393967,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230305.0,
-        "Y": 142.0
+        "X": 20230306.0,
+        "Y": 142.1785714285714285714286
       },
       "End": {
-        "X": 20230311.0,
-        "Y": 142.0
+        "X": 20230312.0,
+        "Y": 141.5357142857142857142857
       }
     }
   }

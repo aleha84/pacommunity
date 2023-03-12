@@ -2,8 +2,8 @@
   "PublicName": "Philtacular",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1462212267945054215/U4nHJP4f_normal.jpg",
   "Login": "pixelsbyphil",
-  "CurrentFollowersCount": 2720,
-  "CurrentTweetsCout": 1845,
+  "CurrentFollowersCount": 2719,
+  "CurrentTweetsCout": 1851,
   "FollowersCountHistory": {
     "20210114": 56,
     "20210115": 56,
@@ -729,7 +729,8 @@
     "20230309": 2723,
     "20230310": 2723,
     "20230311": 2721,
-    "20230312": 2720
+    "20230312": 2720,
+    "20230313": 2719
   },
   "TweetsCountHistory": {
     "20210114": 108,
@@ -1456,20 +1457,21 @@
     "20230309": 1829,
     "20230310": 1838,
     "20230311": 1843,
-    "20230312": 1845
+    "20230312": 1845,
+    "20230313": 1851
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1101754938223026678208861084,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230306.0,
-        "Y": 2721.5714285714285714285714286
+        "X": 20230307.0,
+        "Y": 2722.928571428571428571429
       },
       "End": {
-        "X": 20230312.0,
-        "Y": 2721.5714285714285714285714286
+        "X": 20230313.0,
+        "Y": 2719.928571428571428571429
       }
     }
   }
