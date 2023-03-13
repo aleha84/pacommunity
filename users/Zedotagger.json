@@ -2,7 +2,7 @@
   "PublicName": "Zedo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1469086669336887300/WgcwVG1__normal.jpg",
   "Login": "Zedotagger",
-  "CurrentFollowersCount": 10873,
+  "CurrentFollowersCount": 10872,
   "CurrentTweetsCout": 279,
   "FollowersCountHistory": {
     "20210213": 3076,
@@ -698,7 +698,8 @@
     "20230310": 10870,
     "20230311": 10870,
     "20230312": 10869,
-    "20230313": 10873
+    "20230313": 10873,
+    "20230314": 10872
   },
   "TweetsCountHistory": {
     "20210213": 179,
@@ -1394,20 +1395,21 @@
     "20230310": 279,
     "20230311": 279,
     "20230312": 279,
-    "20230313": 279
+    "20230313": 279,
+    "20230314": 279
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0197156996116007176514653365,
+    "WeeklyGrowth": 0.0414069149547974511743461158,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230307.0,
-        "Y": 10868.7857142857142857142857
+        "X": 20230308.0,
+        "Y": 10867.75
       },
       "End": {
-        "X": 20230313.0,
-        "Y": 10870.9285714285714285714285
+        "X": 20230314.0,
+        "Y": 10872.25
       }
     }
   }
