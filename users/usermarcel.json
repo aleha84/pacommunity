@@ -2,7 +2,7 @@
   "PublicName": "Marcel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1626142019998343169/XUH1neSk_normal.jpg",
   "Login": "usermarcel",
-  "CurrentFollowersCount": 5897,
+  "CurrentFollowersCount": 5895,
   "CurrentTweetsCout": 1400,
   "FollowersCountHistory": {
     "20210310": 768,
@@ -645,7 +645,8 @@
     "20230309": 5894,
     "20230310": 5895,
     "20230311": 5897,
-    "20230312": 5897
+    "20230312": 5897,
+    "20230313": 5895
   },
   "TweetsCountHistory": {
     "20210310": 902,
@@ -1288,20 +1289,21 @@
     "20230309": 1400,
     "20230310": 1400,
     "20230311": 1400,
-    "20230312": 1400
+    "20230312": 1400,
+    "20230313": 1400
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.007269114742976217879598018,
+    "WeeklyGrowth": -0.003634447291428156063166597,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230306.0,
-        "Y": 5895.7857142857142857142857
+        "X": 20230307.0,
+        "Y": 5895.96428571428571428571428
       },
       "End": {
-        "X": 20230312.0,
-        "Y": 5896.2142857142857142857142
+        "X": 20230313.0,
+        "Y": 5895.75000000000000000000000
       }
     }
   }

@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1567514791077355521/UwNPN8mx_normal.jpg",
   "Login": "tyltal",
   "CurrentFollowersCount": 460,
-  "CurrentTweetsCout": 2783,
+  "CurrentTweetsCout": 2785,
   "FollowersCountHistory": {
     "20210116": 26,
     "20210117": 26,
@@ -692,7 +692,8 @@
     "20230309": 460,
     "20230310": 460,
     "20230311": 460,
-    "20230312": 460
+    "20230312": 460,
+    "20230313": 460
   },
   "TweetsCountHistory": {
     "20210116": 58,
@@ -1382,20 +1383,21 @@
     "20230309": 2783,
     "20230310": 2783,
     "20230311": 2783,
-    "20230312": 2783
+    "20230312": 2783,
+    "20230313": 2785
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1396106414333359187155913715,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230306.0,
-        "Y": 460.4642857142857142857144
+        "X": 20230307.0,
+        "Y": 460.0
       },
       "End": {
-        "X": 20230312.0,
-        "Y": 459.8214285714285714285715
+        "X": 20230313.0,
+        "Y": 460.0
       }
     }
   }
