@@ -2,7 +2,7 @@
   "PublicName": "NVBR",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1561613688204775424/4oECBUB1_normal.jpg",
   "Login": "novabiruu",
-  "CurrentFollowersCount": 54,
+  "CurrentFollowersCount": 53,
   "CurrentTweetsCout": 143,
   "FollowersCountHistory": {
     "20210914": 6,
@@ -503,7 +503,8 @@
     "20230312": 54,
     "20230313": 54,
     "20230314": 54,
-    "20230315": 54
+    "20230315": 54,
+    "20230316": 53
   },
   "TweetsCountHistory": {
     "20210914": 13,
@@ -1004,20 +1005,21 @@
     "20230312": 143,
     "20230313": 143,
     "20230314": 143,
-    "20230315": 143
+    "20230315": 143,
+    "20230316": 143
   },
   "LangId": "id",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.1865524060646011865524867324,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230309.0,
-        "Y": 54.0
+        "X": 20230310.0,
+        "Y": 54.1785714285714285714285
       },
       "End": {
-        "X": 20230315.0,
-        "Y": 54.0
+        "X": 20230316.0,
+        "Y": 53.5357142857142857142856
       }
     }
   }
