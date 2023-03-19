@@ -2,7 +2,7 @@
   "PublicName": "bleikur",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1349496616085037059/svB3nCbH_normal.jpg",
   "Login": "Bleikur_",
-  "CurrentFollowersCount": 73,
+  "CurrentFollowersCount": 72,
   "CurrentTweetsCout": 465,
   "FollowersCountHistory": {
     "20210214": 66,
@@ -704,7 +704,8 @@
     "20230316": 73,
     "20230317": 73,
     "20230318": 73,
-    "20230319": 73
+    "20230319": 73,
+    "20230320": 72
   },
   "TweetsCountHistory": {
     "20210214": 448,
@@ -1406,20 +1407,21 @@
     "20230316": 465,
     "20230317": 465,
     "20230318": 465,
-    "20230319": 465
+    "20230319": 465,
+    "20230320": 465
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.8784773060029282576865991981,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230313.0,
-        "Y": 73.0
+        "X": 20230314.0,
+        "Y": 73.1785714285714285714285
       },
       "End": {
-        "X": 20230319.0,
-        "Y": 73.0
+        "X": 20230320.0,
+        "Y": 72.5357142857142857142857
       }
     }
   }
