@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1629051804057993288/FwLowG7l_normal.jpg",
   "Login": "Dax_zZ",
   "CurrentFollowersCount": 625,
-  "CurrentTweetsCout": 1263,
+  "CurrentTweetsCout": 1264,
   "FollowersCountHistory": {
     "20210914": 110,
     "20210915": 111,
@@ -499,7 +499,8 @@
     "20230316": 625,
     "20230317": 625,
     "20230318": 625,
-    "20230319": 625
+    "20230319": 625,
+    "20230320": 625
   },
   "TweetsCountHistory": {
     "20210914": 573,
@@ -996,20 +997,21 @@
     "20230316": 1263,
     "20230317": 1263,
     "20230318": 1263,
-    "20230319": 1263
+    "20230319": 1263,
+    "20230320": 1264
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.102780791412093873122829879,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230313.0,
-        "Y": 625.4642857142857142857144
+        "X": 20230314.0,
+        "Y": 625.0
       },
       "End": {
-        "X": 20230319.0,
-        "Y": 624.8214285714285714285715
+        "X": 20230320.0,
+        "Y": 625.0
       }
     }
   }
