@@ -2,7 +2,7 @@
   "PublicName": "n8-bit",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1424697529497800716/u2xxwnxT_normal.jpg",
   "Login": "moist_pixels",
-  "CurrentFollowersCount": 1905,
+  "CurrentFollowersCount": 1906,
   "CurrentTweetsCout": 5764,
   "FollowersCountHistory": {
     "20210208": 911,
@@ -710,7 +710,8 @@
     "20230317": 1909,
     "20230318": 1908,
     "20230319": 1906,
-    "20230320": 1905
+    "20230320": 1905,
+    "20230321": 1906
   },
   "TweetsCountHistory": {
     "20210208": 4375,
@@ -1418,20 +1419,21 @@
     "20230317": 5756,
     "20230318": 5760,
     "20230319": 5761,
-    "20230320": 5764
+    "20230320": 5764,
+    "20230321": 5764
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0562250501340030361527057351,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230314.0,
-        "Y": 1905.6071428571428571428572
+        "X": 20230315.0,
+        "Y": 1906.2857142857142857142857143
       },
       "End": {
-        "X": 20230320.0,
-        "Y": 1906.6785714285714285714286
+        "X": 20230321.0,
+        "Y": 1906.2857142857142857142857143
       }
     }
   }
