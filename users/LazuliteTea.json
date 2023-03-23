@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1444729802947235842/3ky6yXcm_normal.jpg",
   "Login": "LazuliteTea",
   "CurrentFollowersCount": 196,
-  "CurrentTweetsCout": 1428,
+  "CurrentTweetsCout": 1433,
   "FollowersCountHistory": {
     "20210215": 6,
     "20210216": 6,
@@ -661,7 +661,8 @@
     "20230320": 196,
     "20230321": 196,
     "20230322": 196,
-    "20230323": 196
+    "20230323": 196,
+    "20230324": 196
   },
   "TweetsCountHistory": {
     "20210215": 32,
@@ -1320,20 +1321,21 @@
     "20230320": 1419,
     "20230321": 1422,
     "20230322": 1428,
-    "20230323": 1428
+    "20230323": 1428,
+    "20230324": 1433
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.3272132339574622795855516941,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230317.0,
-        "Y": 196.4642857142857142857143
+        "X": 20230318.0,
+        "Y": 196.0
       },
       "End": {
-        "X": 20230323.0,
-        "Y": 195.8214285714285714285714
+        "X": 20230324.0,
+        "Y": 196.0
       }
     }
   }
