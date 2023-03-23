@@ -2,8 +2,8 @@
   "PublicName": "Rico",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1631155065875738624/4qoTQKQn_normal.jpg",
   "Login": "AsepriteRico",
-  "CurrentFollowersCount": 61946,
-  "CurrentTweetsCout": 3114,
+  "CurrentFollowersCount": 61952,
+  "CurrentTweetsCout": 3118,
   "FollowersCountHistory": {
     "20211010": 19133,
     "20211011": 20366,
@@ -484,7 +484,8 @@
     "20230319": 61946,
     "20230320": 61951,
     "20230321": 61944,
-    "20230322": 61946
+    "20230322": 61946,
+    "20230323": 61952
   },
   "TweetsCountHistory": {
     "20211010": 2813,
@@ -966,20 +967,21 @@
     "20230319": 3112,
     "20230320": 3112,
     "20230321": 3113,
-    "20230322": 3114
+    "20230322": 3114,
+    "20230323": 3118
   },
   "LangId": "id",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0013836776768974256676822246,
+    "WeeklyGrowth": -0.0006918157049083171237070714,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230316.0,
-        "Y": 61946.7142857142857142857143
+        "X": 20230317.0,
+        "Y": 61948.7857142857142857142857
       },
       "End": {
-        "X": 20230322.0,
-        "Y": 61947.5714285714285714285715
+        "X": 20230323.0,
+        "Y": 61948.3571428571428571428571
       }
     }
   }
