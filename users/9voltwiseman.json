@@ -2,7 +2,7 @@
   "PublicName": "9VOLTWISEMAN",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1620097661012697090/C2iYrh0B_normal.png",
   "Login": "9voltwiseman",
-  "CurrentFollowersCount": 42067,
+  "CurrentFollowersCount": 42066,
   "CurrentTweetsCout": 8402,
   "FollowersCountHistory": {
     "20210120": 736,
@@ -736,7 +736,8 @@
     "20230322": 42070,
     "20230323": 42067,
     "20230324": 42075,
-    "20230325": 42067
+    "20230325": 42067,
+    "20230326": 42066
   },
   "TweetsCountHistory": {
     "20210120": 627,
@@ -1470,20 +1471,21 @@
     "20230322": 8403,
     "20230323": 8403,
     "20230324": 8402,
-    "20230325": 8402
+    "20230325": 8402,
+    "20230326": 8402
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0652282479081097057594300571,
+    "WeeklyGrowth": -0.0045841691660292690712047112,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230319.0,
-        "Y": 42050.14285714285714285715
+        "X": 20230320.0,
+        "Y": 42070.2500000000000000000000
       },
       "End": {
-        "X": 20230325.0,
-        "Y": 42077.57142857142857142857
+        "X": 20230326.0,
+        "Y": 42068.3214285714285714285715
       }
     }
   }
