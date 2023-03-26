@@ -2,7 +2,7 @@
   "PublicName": "Kasatka",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1359039468041347075/18LkGoRo_normal.jpg",
   "Login": "Kasatka_Pixel",
-  "CurrentFollowersCount": 783,
+  "CurrentFollowersCount": 782,
   "CurrentTweetsCout": 47,
   "FollowersCountHistory": {
     "20210225": 49,
@@ -665,7 +665,8 @@
     "20230322": 782,
     "20230323": 783,
     "20230324": 782,
-    "20230325": 783
+    "20230325": 783,
+    "20230326": 782
   },
   "TweetsCountHistory": {
     "20210225": 13,
@@ -1328,20 +1329,21 @@
     "20230322": 47,
     "20230323": 47,
     "20230324": 47,
-    "20230325": 47
+    "20230325": 47,
+    "20230326": 47
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2194185408667032364234795883,
+    "WeeklyGrowth": -0.0273835060015517320067551456,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230319.0,
-        "Y": 781.2857142857142857142858
+        "X": 20230320.0,
+        "Y": 782.53571428571428571428572
       },
       "End": {
-        "X": 20230325.0,
-        "Y": 783.0000000000000000000001
+        "X": 20230326.0,
+        "Y": 782.32142857142857142857143
       }
     }
   }
