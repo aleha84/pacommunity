@@ -2,7 +2,7 @@
   "PublicName": "Ainon 🎄🎁",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1639726894009417731/mdDIGiQx_normal.png",
   "Login": "ainaSGE",
-  "CurrentFollowersCount": 2516,
+  "CurrentFollowersCount": 2515,
   "CurrentTweetsCout": 14914,
   "FollowersCountHistory": {
     "20230321": 2444,
@@ -10,7 +10,8 @@
     "20230323": 2515,
     "20230324": 2517,
     "20230325": 2515,
-    "20230326": 2516
+    "20230326": 2516,
+    "20230327": 2515
   },
   "TweetsCountHistory": {
     "20230321": 14885,
@@ -18,12 +19,22 @@
     "20230323": 14906,
     "20230324": 14906,
     "20230325": 14911,
-    "20230326": 14914
+    "20230326": 14914,
+    "20230327": 14914
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.9964565057689814614753058744,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20230321.0,
+        "Y": 2479.39285714285714285714
+      },
+      "End": {
+        "X": 20230327.0,
+        "Y": 2528.89285714285714285714
+      }
+    }
   }
 }
