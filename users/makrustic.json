@@ -2,7 +2,7 @@
   "PublicName": "Makrustic, Comms Open",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1515723971039096833/CBIIHDgb_normal.png",
   "Login": "makrustic",
-  "CurrentFollowersCount": 11162,
+  "CurrentFollowersCount": 11160,
   "CurrentTweetsCout": 866,
   "FollowersCountHistory": {
     "20210915": 1315,
@@ -516,7 +516,8 @@
     "20230325": 11162,
     "20230326": 11163,
     "20230327": 11164,
-    "20230328": 11162
+    "20230328": 11162,
+    "20230329": 11160
   },
   "TweetsCountHistory": {
     "20210915": 329,
@@ -1030,20 +1031,21 @@
     "20230325": 866,
     "20230326": 866,
     "20230327": 866,
-    "20230328": 866
+    "20230328": 866,
+    "20230329": 866
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0076790170858130159339600691,
+    "WeeklyGrowth": -0.0038394348351922596993716125,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230322.0,
-        "Y": 11162.1428571428571428571429
+        "X": 20230323.0,
+        "Y": 11162.3571428571428571428571
       },
       "End": {
-        "X": 20230328.0,
-        "Y": 11163.0000000000000000000000
+        "X": 20230329.0,
+        "Y": 11161.9285714285714285714286
       }
     }
   }
