@@ -2,7 +2,7 @@
   "PublicName": "Aduare",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1612786265845530625/_j2xdwqj_normal.jpg",
   "Login": "Aduare_rp",
-  "CurrentFollowersCount": 241120,
+  "CurrentFollowersCount": 241088,
   "CurrentTweetsCout": 836,
   "FollowersCountHistory": {
     "20210827": 108010,
@@ -534,7 +534,8 @@
     "20230326": 241195,
     "20230327": 241195,
     "20230328": 241148,
-    "20230329": 241120
+    "20230329": 241120,
+    "20230330": 241088
   },
   "TweetsCountHistory": {
     "20210827": 508,
@@ -1066,20 +1067,21 @@
     "20230326": 836,
     "20230327": 836,
     "20230328": 836,
-    "20230329": 836
+    "20230329": 836,
+    "20230330": 836
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0063979716060389743103665505,
+    "WeeklyGrowth": -0.034204511886067880408588442,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230323.0,
-        "Y": 241147.857142857142857142857
+        "X": 20230324.0,
+        "Y": 241196.25
       },
       "End": {
-        "X": 20230329.0,
-        "Y": 241163.285714285714285714285
+        "X": 20230330.0,
+        "Y": 241113.75
       }
     }
   }
