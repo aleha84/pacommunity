@@ -2,7 +2,7 @@
   "PublicName": "Tommi Laurila",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1400444028861120512/b-kSfSeN_normal.png",
   "Login": "PxTommi",
-  "CurrentFollowersCount": 13462,
+  "CurrentFollowersCount": 13460,
   "CurrentTweetsCout": 385,
   "FollowersCountHistory": {
     "20210114": 6870,
@@ -748,7 +748,8 @@
     "20230328": 13441,
     "20230329": 13445,
     "20230330": 13448,
-    "20230331": 13462
+    "20230331": 13462,
+    "20230401": 13460
   },
   "TweetsCountHistory": {
     "20210114": 329,
@@ -1494,20 +1495,21 @@
     "20230328": 382,
     "20230329": 382,
     "20230330": 382,
-    "20230331": 385
+    "20230331": 385,
+    "20230401": 385
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2458165952805341988347655422,
+    "WeeklyGrowth": 0.1359533045716564537796388021,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230325.0,
-        "Y": 13424.64285714285714285714
+        "X": 20230326.0,
+        "Y": 13443.0097915350600126638049
       },
       "End": {
-        "X": 20230331.0,
-        "Y": 13457.64285714285714285714
+        "X": 20230401.0,
+        "Y": 13461.2860075805432721249431
       }
     }
   }
