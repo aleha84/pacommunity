@@ -2,7 +2,7 @@
   "PublicName": "deopixel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1635444213201379331/DtU-P4Hn_normal.jpg",
   "Login": "DeoPixel",
-  "CurrentFollowersCount": 6347,
+  "CurrentFollowersCount": 6346,
   "CurrentTweetsCout": 110,
   "FollowersCountHistory": {
     "20210820": 367,
@@ -535,7 +535,8 @@
     "20230327": 6348,
     "20230328": 6345,
     "20230329": 6347,
-    "20230330": 6347
+    "20230330": 6347,
+    "20230331": 6346
   },
   "TweetsCountHistory": {
     "20210820": 4,
@@ -1068,20 +1069,21 @@
     "20230327": 110,
     "20230328": 110,
     "20230329": 110,
-    "20230330": 110
+    "20230330": 110,
+    "20230331": 110
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0202609155682624013687371819,
+    "WeeklyGrowth": -0.016880201211998447021488046,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230324.0,
-        "Y": 6345.7857142857142857142858
+        "X": 20230325.0,
+        "Y": 6347.2500000000000000000000
       },
       "End": {
-        "X": 20230330.0,
-        "Y": 6347.0714285714285714285715
+        "X": 20230331.0,
+        "Y": 6346.1785714285714285714286
       }
     }
   }
