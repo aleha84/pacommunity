@@ -2,7 +2,7 @@
   "PublicName": "Davi Pixelhart",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1550835637263138816/2YMD5ZZh_normal.jpg",
   "Login": "pixel_davi",
-  "CurrentFollowersCount": 1959,
+  "CurrentFollowersCount": 1958,
   "CurrentTweetsCout": 2259,
   "FollowersCountHistory": {
     "20201224": 338,
@@ -739,7 +739,8 @@
     "20230328": 1959,
     "20230329": 1959,
     "20230330": 1959,
-    "20230331": 1959
+    "20230331": 1959,
+    "20230401": 1958
   },
   "TweetsCountHistory": {
     "20201224": 1904,
@@ -1476,20 +1477,21 @@
     "20230328": 2259,
     "20230329": 2259,
     "20230330": 2259,
-    "20230331": 2259
+    "20230331": 2259,
+    "20230401": 2259
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0526014458182535799091074023,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230325.0,
-        "Y": 1959.0
+        "X": 20230326.0,
+        "Y": 1959.03379658875552747780356
       },
       "End": {
-        "X": 20230331.0,
-        "Y": 1959.0
+        "X": 20230401.0,
+        "Y": 1958.00331648768161719061607
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "Noggi",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1605304748533481477/j_QhP6Bn_normal.jpg",
   "Login": "Noggi19",
-  "CurrentFollowersCount": 650,
-  "CurrentTweetsCout": 5409,
+  "CurrentFollowersCount": 649,
+  "CurrentTweetsCout": 5410,
   "FollowersCountHistory": {
     "20201217": 182,
     "20201218": 183,
@@ -741,7 +741,8 @@
     "20230328": 649,
     "20230329": 650,
     "20230330": 650,
-    "20230331": 650
+    "20230331": 650,
+    "20230401": 649
   },
   "TweetsCountHistory": {
     "20201217": 880,
@@ -1480,20 +1481,21 @@
     "20230328": 5407,
     "20230329": 5408,
     "20230330": 5410,
-    "20230331": 5409
+    "20230331": 5409,
+    "20230401": 5410
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0329869701467920171532251362,
+    "WeeklyGrowth": -0.1006369785959245417280651801,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230325.0,
-        "Y": 649.60714285714285714285714
+        "X": 20230326.0,
+        "Y": 649.68351231838281743418339
       },
       "End": {
-        "X": 20230331.0,
-        "Y": 649.82142857142857142857143
+        "X": 20230401.0,
+        "Y": 649.02969046114971573478025
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Obvious_Dev",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1566377535851610114/n6Vx5GyH_normal.png",
   "Login": "Obvious_Dev",
-  "CurrentFollowersCount": 577,
+  "CurrentFollowersCount": 576,
   "CurrentTweetsCout": 450,
   "FollowersCountHistory": {
     "20210113": 221,
@@ -714,7 +714,8 @@
     "20230328": 577,
     "20230329": 577,
     "20230330": 577,
-    "20230331": 577
+    "20230331": 577,
+    "20230401": 576
   },
   "TweetsCountHistory": {
     "20210113": 180,
@@ -1426,20 +1427,21 @@
     "20230328": 450,
     "20230329": 450,
     "20230330": 450,
-    "20230331": 450
+    "20230331": 450,
+    "20230401": 450
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1785822783978665353639444784,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230325.0,
-        "Y": 577.0
+        "X": 20230326.0,
+        "Y": 577.03379658875552747780356
       },
       "End": {
-        "X": 20230331.0,
-        "Y": 577.0
+        "X": 20230401.0,
+        "Y": 576.00331648768161719061607
       }
     }
   }

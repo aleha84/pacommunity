@@ -2,7 +2,7 @@
   "PublicName": "Richard Schmidbauer @visionvortex@mastodon.gamedev",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1560695269100257280/MKOsCt9W_normal.jpg",
   "Login": "visionvortex",
-  "CurrentFollowersCount": 2865,
+  "CurrentFollowersCount": 2864,
   "CurrentTweetsCout": 4312,
   "FollowersCountHistory": {
     "20201217": 2397,
@@ -742,7 +742,8 @@
     "20230328": 2864,
     "20230329": 2864,
     "20230330": 2866,
-    "20230331": 2865
+    "20230331": 2865,
+    "20230401": 2864
   },
   "TweetsCountHistory": {
     "20201217": 3182,
@@ -1482,20 +1483,21 @@
     "20230328": 4311,
     "20230329": 4311,
     "20230330": 4312,
-    "20230331": 4312
+    "20230331": 4312,
+    "20230401": 4312
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0523801803374780190314655221,
+    "WeeklyGrowth": -0.0148031576982319239369564778,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230325.0,
-        "Y": 2863.6785714285714285714286
+        "X": 20230326.0,
+        "Y": 2864.50126342387871130695897
       },
       "End": {
-        "X": 20230331.0,
-        "Y": 2865.1785714285714285714286
+        "X": 20230401.0,
+        "Y": 2864.07722678458622868303165
       }
     }
   }
