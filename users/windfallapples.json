@@ -2,8 +2,8 @@
   "PublicName": "windfall.apples",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1537136767958241280/IhutFz9h_normal.png",
   "Login": "windfallapples",
-  "CurrentFollowersCount": 961,
-  "CurrentTweetsCout": 18543,
+  "CurrentFollowersCount": 960,
+  "CurrentTweetsCout": 18541,
   "FollowersCountHistory": {
     "20210520": 752,
     "20210521": 752,
@@ -630,7 +630,8 @@
     "20230330": 961,
     "20230331": 961,
     "20230401": 961,
-    "20230402": 961
+    "20230402": 961,
+    "20230403": 960
   },
   "TweetsCountHistory": {
     "20210520": 14685,
@@ -1258,20 +1259,21 @@
     "20230330": 18533,
     "20230331": 18539,
     "20230401": 18542,
-    "20230402": 18543
+    "20230402": 18543,
+    "20230403": 18541
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0235802117236066987724638286,
+    "WeeklyGrowth": -0.0367193612166397804034365359,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230327.0,
-        "Y": 960.788528763583858955574052
+        "X": 20230328.0,
+        "Y": 961.01039224383752613926556
       },
       "End": {
-        "X": 20230402.0,
-        "Y": 961.015084732882437875848412
+        "X": 20230403.0,
+        "Y": 960.65751536658006463437776
       }
     }
   }

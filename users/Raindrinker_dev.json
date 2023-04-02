@@ -2,8 +2,8 @@
   "PublicName": "Raindrinker 🌧️",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1616388378718502914/X04yl_e-_normal.jpg",
   "Login": "Raindrinker_dev",
-  "CurrentFollowersCount": 3079,
-  "CurrentTweetsCout": 9045,
+  "CurrentFollowersCount": 3075,
+  "CurrentTweetsCout": 9044,
   "FollowersCountHistory": {
     "20210115": 1220,
     "20210116": 1221,
@@ -722,7 +722,8 @@
     "20230329": 3078,
     "20230330": 3078,
     "20230331": 3078,
-    "20230401": 3079
+    "20230401": 3079,
+    "20230402": 3075
   },
   "TweetsCountHistory": {
     "20210115": 4511,
@@ -1442,20 +1443,21 @@
     "20230329": 9041,
     "20230330": 9042,
     "20230331": 9045,
-    "20230401": 9045
+    "20230401": 9045,
+    "20230402": 9044
   },
   "LangId": "catalan",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0073868230976929924841375715,
+    "WeeklyGrowth": -0.0485998737403051585141386341,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230326.0,
-        "Y": 3078.675300063171193935922616
+        "X": 20230327.0,
+        "Y": 3078.45311193859715784046322
       },
       "End": {
-        "X": 20230401.0,
-        "Y": 3078.902716361339229309707363
+        "X": 20230402.0,
+        "Y": 3076.95698761304050459365068
       }
     }
   }

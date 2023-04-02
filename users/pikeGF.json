@@ -2,7 +2,7 @@
   "PublicName": "PieLing",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1137504800692690944/Dm_B0ksX_normal.jpg",
   "Login": "pikeGF",
-  "CurrentFollowersCount": 232,
+  "CurrentFollowersCount": 231,
   "CurrentTweetsCout": 85,
   "FollowersCountHistory": {
     "20210112": 36,
@@ -716,7 +716,8 @@
     "20230329": 232,
     "20230330": 232,
     "20230331": 232,
-    "20230401": 232
+    "20230401": 232,
+    "20230402": 231
   },
   "TweetsCountHistory": {
     "20210112": 26,
@@ -1430,20 +1431,21 @@
     "20230329": 85,
     "20230330": 85,
     "20230331": 85,
-    "20230401": 85
+    "20230401": 85,
+    "20230402": 85
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2247725375615790782875009613,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230326.0,
-        "Y": 232.0
+        "X": 20230327.0,
+        "Y": 232.01508473288243787581774
       },
       "End": {
-        "X": 20230401.0,
-        "Y": 232.0
+        "X": 20230402.0,
+        "Y": 231.49357853940269017264593
       }
     }
   }
