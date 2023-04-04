@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1632166651239059456/VgHyMvYH_normal.jpg",
   "Login": "DungeonFellows",
   "CurrentFollowersCount": 150,
-  "CurrentTweetsCout": 233,
+  "CurrentTweetsCout": 234,
   "FollowersCountHistory": {
     "20230329": 152,
     "20230330": 153,
     "20230331": 155,
     "20230401": 154,
     "20230402": 151,
-    "20230403": 150
+    "20230403": 150,
+    "20230404": 150
   },
   "TweetsCountHistory": {
     "20230329": 222,
@@ -18,12 +19,22 @@
     "20230331": 226,
     "20230401": 227,
     "20230402": 230,
-    "20230403": 233
+    "20230403": 233,
+    "20230404": 234
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -1.4230298125133045950645484396,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20230329.0,
+        "Y": 153.37759014004182244666604
+      },
+      "End": {
+        "X": 20230404.0,
+        "Y": 151.19498130663456054599377
+      }
+    }
   }
 }

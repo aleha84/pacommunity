@@ -2,7 +2,7 @@
   "PublicName": "Sidi",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1266017203691892738/LCpR5pUQ_normal.jpg",
   "Login": "_Sidioso_",
-  "CurrentFollowersCount": 119,
+  "CurrentFollowersCount": 118,
   "CurrentTweetsCout": 132,
   "FollowersCountHistory": {
     "20210214": 111,
@@ -685,7 +685,8 @@
     "20230331": 119,
     "20230401": 119,
     "20230402": 119,
-    "20230403": 119
+    "20230403": 119,
+    "20230404": 118
   },
   "TweetsCountHistory": {
     "20210214": 122,
@@ -1368,20 +1369,21 @@
     "20230331": 132,
     "20230401": 132,
     "20230402": 132,
-    "20230403": 132
+    "20230403": 132,
+    "20230404": 132
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2276232986156776282674509826,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230328.0,
-        "Y": 119.0
+        "X": 20230329.0,
+        "Y": 119.010392243837526139272738
       },
       "End": {
-        "X": 20230403.0,
-        "Y": 119.0
+        "X": 20230404.0,
+        "Y": 118.739496863316646600154264
       }
     }
   }
