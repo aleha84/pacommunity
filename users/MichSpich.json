@@ -2,15 +2,16 @@
   "PublicName": "mich-spich",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1565043654506717184/_lf2rlm5_normal.jpg",
   "Login": "MichSpich",
-  "CurrentFollowersCount": 3016,
-  "CurrentTweetsCout": 910,
+  "CurrentFollowersCount": 3014,
+  "CurrentTweetsCout": 912,
   "FollowersCountHistory": {
     "20230331": 2973,
     "20230401": 2989,
     "20230402": 2994,
     "20230403": 3000,
     "20230404": 3000,
-    "20230405": 3016
+    "20230405": 3016,
+    "20230406": 3014
   },
   "TweetsCountHistory": {
     "20230331": 897,
@@ -18,12 +19,22 @@
     "20230402": 901,
     "20230403": 905,
     "20230404": 907,
-    "20230405": 910
+    "20230405": 910,
+    "20230406": 912
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.0646563223069785532115139803,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20230331.0,
+        "Y": 2971.784586228679722295156
+      },
+      "End": {
+        "X": 20230406.0,
+        "Y": 3003.423878711307643663071
+      }
+    }
   }
 }
