@@ -2,7 +2,7 @@
   "PublicName": "KIN",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1477866447724498944/mcy6xj4z_normal.jpg",
   "Login": "the_wild_kin",
-  "CurrentFollowersCount": 6769,
+  "CurrentFollowersCount": 6764,
   "CurrentTweetsCout": 722,
   "FollowersCountHistory": {
     "20230102": 6615,
@@ -93,7 +93,8 @@
     "20230402": 6773,
     "20230403": 6771,
     "20230404": 6769,
-    "20230405": 6769
+    "20230405": 6769,
+    "20230406": 6764
   },
   "TweetsCountHistory": {
     "20230102": 675,
@@ -184,20 +185,21 @@
     "20230402": 722,
     "20230403": 722,
     "20230404": 722,
-    "20230405": 722
+    "20230405": 722,
+    "20230406": 722
   },
   "LangId": "arabic",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0030305089076365648123202731,
+    "WeeklyGrowth": -0.0116864989586419699313876952,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230330.0,
-        "Y": 6770.571244015502697773042192
+        "X": 20230331.0,
+        "Y": 6770.36986734049273530668162
       },
       "End": {
-        "X": 20230405.0,
-        "Y": 6770.776426780150467360891507
+        "X": 20230406.0,
+        "Y": 6769.57864813644977890206588
       }
     }
   }
