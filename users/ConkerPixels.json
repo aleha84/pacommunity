@@ -2,7 +2,7 @@
   "PublicName": "Conker",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1485927418242252804/Ld3HahpT_normal.jpg",
   "Login": "ConkerPixels",
-  "CurrentFollowersCount": 2103,
+  "CurrentFollowersCount": 2102,
   "CurrentTweetsCout": 7134,
   "FollowersCountHistory": {
     "20210301": 1976,
@@ -707,7 +707,8 @@
     "20230403": 2101,
     "20230404": 2101,
     "20230405": 2102,
-    "20230406": 2103
+    "20230406": 2103,
+    "20230407": 2102
   },
   "TweetsCountHistory": {
     "20210301": 6216,
@@ -1412,20 +1413,21 @@
     "20230403": 7134,
     "20230404": 7134,
     "20230405": 7134,
-    "20230406": 7134
+    "20230406": 7134,
+    "20230407": 7134
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0061985133635815775966566556,
+    "WeeklyGrowth": 0.0305898747514572676444117399,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230331.0,
-        "Y": 2101.965097915350600125280184
+        "X": 20230401.0,
+        "Y": 2101.5357142857142857142857
       },
       "End": {
-        "X": 20230406.0,
-        "Y": 2101.834807327858496525804100
+        "X": 20230407.0,
+        "Y": 2102.1785714285714285714286
       }
     }
   }
