@@ -2,7 +2,7 @@
   "PublicName": "John 🌿",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1428467711714136064/V9oSvTsF_normal.jpg",
   "Login": "ionutRogojan_",
-  "CurrentFollowersCount": 176,
+  "CurrentFollowersCount": 175,
   "CurrentTweetsCout": 1127,
   "FollowersCountHistory": {
     "20210226": 40,
@@ -711,7 +711,8 @@
     "20230404": 176,
     "20230405": 176,
     "20230406": 176,
-    "20230407": 176
+    "20230407": 176,
+    "20230408": 175
   },
   "TweetsCountHistory": {
     "20210226": 319,
@@ -1420,20 +1421,21 @@
     "20230404": 1126,
     "20230405": 1126,
     "20230406": 1126,
-    "20230407": 1127
+    "20230407": 1127,
+    "20230408": 1127
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3648895195621325765254086215,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230401.0,
-        "Y": 176.0
+        "X": 20230402.0,
+        "Y": 176.1785714285714285714285
       },
       "End": {
-        "X": 20230407.0,
-        "Y": 176.0
+        "X": 20230408.0,
+        "Y": 175.5357142857142857142857
       }
     }
   }
