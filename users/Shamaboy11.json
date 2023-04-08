@@ -2,7 +2,7 @@
   "PublicName": "Shamaboy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1459543255994052622/K-TJOJVh_normal.jpg",
   "Login": "Shamaboy11",
-  "CurrentFollowersCount": 1165,
+  "CurrentFollowersCount": 1164,
   "CurrentTweetsCout": 11911,
   "FollowersCountHistory": {
     "20210312": 1230,
@@ -673,7 +673,8 @@
     "20230404": 1164,
     "20230405": 1164,
     "20230406": 1165,
-    "20230407": 1165
+    "20230407": 1165,
+    "20230408": 1164
   },
   "TweetsCountHistory": {
     "20210312": 10041,
@@ -1344,20 +1345,21 @@
     "20230404": 11900,
     "20230405": 11902,
     "20230406": 11904,
-    "20230407": 11911
+    "20230407": 11911,
+    "20230408": 11911
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1103143960286817429674560369,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230401.0,
-        "Y": 1165.4999999999999999999999
+        "X": 20230402.0,
+        "Y": 1164.4285714285714285714285714
       },
       "End": {
-        "X": 20230407.0,
-        "Y": 1164.2142857142857142857142
+        "X": 20230408.0,
+        "Y": 1164.4285714285714285714285714
       }
     }
   }
