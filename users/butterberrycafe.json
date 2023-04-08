@@ -2,7 +2,7 @@
   "PublicName": "comms open!",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1609581162162454528/7KERssDA_normal.png",
   "Login": "butterberrycafe",
-  "CurrentFollowersCount": 36897,
+  "CurrentFollowersCount": 36898,
   "CurrentTweetsCout": 9659,
   "FollowersCountHistory": {
     "20210116": 14769,
@@ -754,7 +754,8 @@
     "20230405": 36902,
     "20230406": 36901,
     "20230407": 36902,
-    "20230408": 36897
+    "20230408": 36897,
+    "20230409": 36898
   },
   "TweetsCountHistory": {
     "20210116": 3503,
@@ -1506,20 +1507,21 @@
     "20230405": 9654,
     "20230406": 9655,
     "20230407": 9662,
-    "20230408": 9659
+    "20230408": 9659,
+    "20230409": 9659
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0145193935539700377794643506,
+    "WeeklyGrowth": -0.0063876922719569663107298712,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230402.0,
-        "Y": 36896.464285714285714285714
+        "X": 20230403.0,
+        "Y": 36901.321428571428571428572
       },
       "End": {
-        "X": 20230408.0,
-        "Y": 36901.821428571428571428572
+        "X": 20230409.0,
+        "Y": 36898.964285714285714285715
       }
     }
   }
