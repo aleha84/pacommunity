@@ -2,7 +2,7 @@
   "PublicName": "eBoy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1587119436074430469/AAZ_ZlCF_normal.jpg",
   "Login": "eBoyArts",
-  "CurrentFollowersCount": 15215,
+  "CurrentFollowersCount": 15213,
   "CurrentTweetsCout": 5781,
   "FollowersCountHistory": {
     "20201217": 3377,
@@ -749,7 +749,8 @@
     "20230405": 15211,
     "20230406": 15210,
     "20230407": 15215,
-    "20230408": 15215
+    "20230408": 15215,
+    "20230409": 15213
   },
   "TweetsCountHistory": {
     "20201217": 1065,
@@ -1496,20 +1497,21 @@
     "20230405": 5773,
     "20230406": 5778,
     "20230407": 5780,
-    "20230408": 5781
+    "20230408": 5781,
+    "20230409": 5781
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0914953865210873405575550556,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230402.0,
-        "Y": 15223.250000000000000000000
+        "X": 20230403.0,
+        "Y": 15213.142857142857142857142857
       },
       "End": {
-        "X": 20230408.0,
-        "Y": 15209.321428571428571428572
+        "X": 20230409.0,
+        "Y": 15213.142857142857142857142857
       }
     }
   }
