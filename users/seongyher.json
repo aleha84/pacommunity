@@ -2,7 +2,7 @@
   "PublicName": "Seong",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1374089250010918912/xy3gq7sf_normal.jpg",
   "Login": "seongyher",
-  "CurrentFollowersCount": 176,
+  "CurrentFollowersCount": 175,
   "CurrentTweetsCout": 352,
   "FollowersCountHistory": {
     "20210204": 98,
@@ -736,7 +736,8 @@
     "20230407": 176,
     "20230408": 176,
     "20230409": 176,
-    "20230410": 176
+    "20230410": 176,
+    "20230411": 175
   },
   "TweetsCountHistory": {
     "20210204": 208,
@@ -1470,20 +1471,21 @@
     "20230407": 352,
     "20230408": 352,
     "20230409": 352,
-    "20230410": 352
+    "20230410": 352,
+    "20230411": 352
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3648895195621325765254086215,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230404.0,
-        "Y": 176.0
+        "X": 20230405.0,
+        "Y": 176.1785714285714285714285
       },
       "End": {
-        "X": 20230410.0,
-        "Y": 176.0
+        "X": 20230411.0,
+        "Y": 175.5357142857142857142857
       }
     }
   }

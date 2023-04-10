@@ -2,8 +2,8 @@
   "PublicName": "moaw! haha hehe hoho",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1477066782317977600/7EtuAVAT_normal.jpg",
   "Login": "moawko",
-  "CurrentFollowersCount": 41847,
-  "CurrentTweetsCout": 20888,
+  "CurrentFollowersCount": 41852,
+  "CurrentTweetsCout": 20892,
   "FollowersCountHistory": {
     "20210110": 23061,
     "20210111": 23068,
@@ -761,7 +761,8 @@
     "20230407": 41848,
     "20230408": 41885,
     "20230409": 41881,
-    "20230410": 41847
+    "20230410": 41847,
+    "20230411": 41852
   },
   "TweetsCountHistory": {
     "20210110": 13236,
@@ -1520,20 +1521,21 @@
     "20230407": 20881,
     "20230408": 20885,
     "20230409": 20887,
-    "20230410": 20888
+    "20230410": 20888,
+    "20230411": 20892
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0102381391158343059565476312,
+    "WeeklyGrowth": -0.0025594758193521966701218908,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230404.0,
-        "Y": 41860.285714285714285714286
+        "X": 20230405.0,
+        "Y": 41861.2500000000000000000000
       },
       "End": {
-        "X": 20230410.0,
-        "Y": 41864.571428571428571428571
+        "X": 20230411.0,
+        "Y": 41860.1785714285714285714286
       }
     }
   }
