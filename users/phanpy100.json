@@ -2,8 +2,8 @@
   "PublicName": "Princess Fanny (Title in Bio)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1621290355978018817/0M5FmQ23_normal.jpg",
   "Login": "phanpy100",
-  "CurrentFollowersCount": 61,
-  "CurrentTweetsCout": 2271,
+  "CurrentFollowersCount": 60,
+  "CurrentTweetsCout": 2273,
   "FollowersCountHistory": {
     "20210125": 44,
     "20210126": 48,
@@ -720,7 +720,8 @@
     "20230411": 61,
     "20230412": 61,
     "20230413": 61,
-    "20230414": 61
+    "20230414": 61,
+    "20230415": 60
   },
   "TweetsCountHistory": {
     "20210125": 1384,
@@ -1438,20 +1439,21 @@
     "20230411": 2252,
     "20230412": 2266,
     "20230413": 2266,
-    "20230414": 2271
+    "20230414": 2271,
+    "20230415": 2273
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.0507880910683012259193474031,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230408.0,
-        "Y": 61.0
+        "X": 20230409.0,
+        "Y": 61.1785714285714285714285
       },
       "End": {
-        "X": 20230414.0,
-        "Y": 61.0
+        "X": 20230415.0,
+        "Y": 60.5357142857142857142857
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Quercus",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1570976934737154051/AIOJktAL_normal.jpg",
   "Login": "InkyPixel98",
-  "CurrentFollowersCount": 513,
+  "CurrentFollowersCount": 512,
   "CurrentTweetsCout": 227,
   "FollowersCountHistory": {
     "20210213": 191,
@@ -732,7 +732,8 @@
     "20230412": 513,
     "20230413": 514,
     "20230414": 513,
-    "20230415": 513
+    "20230415": 513,
+    "20230416": 512
   },
   "TweetsCountHistory": {
     "20210213": 37,
@@ -1462,20 +1463,21 @@
     "20230412": 227,
     "20230413": 227,
     "20230414": 227,
-    "20230415": 227
+    "20230415": 227,
+    "20230416": 227
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1672240802675585284281048031,
+    "WeeklyGrowth": -0.1252348152786474639949989633,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230409.0,
-        "Y": 512.5714285714285714285714
+        "X": 20230410.0,
+        "Y": 513.3214285714285714285714
       },
       "End": {
-        "X": 20230415.0,
-        "Y": 513.4285714285714285714286
+        "X": 20230416.0,
+        "Y": 512.6785714285714285714285
       }
     }
   }

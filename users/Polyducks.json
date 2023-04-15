@@ -2,8 +2,8 @@
   "PublicName": "Polyducks",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1587554823729287170/JXRwKrHm_normal.jpg",
   "Login": "Polyducks",
-  "CurrentFollowersCount": 7496,
-  "CurrentTweetsCout": 15121,
+  "CurrentFollowersCount": 7501,
+  "CurrentTweetsCout": 15122,
   "FollowersCountHistory": {
     "20210915": 4589,
     "20210916": 4595,
@@ -545,7 +545,8 @@
     "20230412": 7491,
     "20230413": 7490,
     "20230414": 7493,
-    "20230415": 7496
+    "20230415": 7496,
+    "20230416": 7501
   },
   "TweetsCountHistory": {
     "20210915": 12326,
@@ -1088,20 +1089,21 @@
     "20230412": 15109,
     "20230413": 15117,
     "20230414": 15121,
-    "20230415": 15121
+    "20230415": 15121,
+    "20230416": 15122
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0114383757506434086359744542,
+    "WeeklyGrowth": 0.0772344351159231660397366416,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230409.0,
-        "Y": 7493.5714285714285714285715
+        "X": 20230410.0,
+        "Y": 7491.107142857142857142857
       },
       "End": {
-        "X": 20230415.0,
-        "Y": 7492.7142857142857142857143
+        "X": 20230416.0,
+        "Y": 7496.892857142857142857143
       }
     }
   }
