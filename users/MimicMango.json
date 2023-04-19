@@ -2,7 +2,7 @@
   "PublicName": "DieMango",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1277189850026958849/u5NvIG5Q_normal.jpg",
   "Login": "MimicMango",
-  "CurrentFollowersCount": 46267,
+  "CurrentFollowersCount": 46262,
   "CurrentTweetsCout": 17041,
   "FollowersCountHistory": {
     "20201217": 25234,
@@ -759,7 +759,8 @@
     "20230415": 46303,
     "20230416": 46301,
     "20230417": 46280,
-    "20230418": 46267
+    "20230418": 46267,
+    "20230419": 46262
   },
   "TweetsCountHistory": {
     "20201217": 11426,
@@ -1516,20 +1517,21 @@
     "20230415": 16979,
     "20230416": 16981,
     "20230417": 16998,
-    "20230418": 17041
+    "20230418": 17041,
+    "20230419": 17041
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0875585750652635675254973814,
+    "WeeklyGrowth": -0.0509165755054241582178550481,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230412.0,
-        "Y": 46254.75
+        "X": 20230413.0,
+        "Y": 46294.21428571428571428572
       },
       "End": {
-        "X": 20230418.0,
-        "Y": 46295.25
+        "X": 20230419.0,
+        "Y": 46270.64285714285714285715
       }
     }
   }
