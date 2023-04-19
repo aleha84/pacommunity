@@ -2,8 +2,8 @@
   "PublicName": "PROGRAMANCER",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1325277192323018752/KMAU2Ch-_normal.png",
   "Login": "Programancer",
-  "CurrentFollowersCount": 9198,
-  "CurrentTweetsCout": 66497,
+  "CurrentFollowersCount": 9197,
+  "CurrentTweetsCout": 66509,
   "FollowersCountHistory": {
     "20220829": 7911,
     "20220830": 7931,
@@ -223,7 +223,8 @@
     "20230416": 9207,
     "20230417": 9206,
     "20230418": 9200,
-    "20230419": 9198
+    "20230419": 9198,
+    "20230420": 9197
   },
   "TweetsCountHistory": {
     "20220829": 62896,
@@ -444,20 +445,21 @@
     "20230416": 66446,
     "20230417": 66460,
     "20230418": 66483,
-    "20230419": 66497
+    "20230419": 66497,
+    "20230420": 66509
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0395998089891566405385589576,
+    "WeeklyGrowth": -0.0535487701244426853544051616,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230413.0,
-        "Y": 9199.178571428571428571428
+        "X": 20230414.0,
+        "Y": 9203.892857142857142857143
       },
       "End": {
-        "X": 20230419.0,
-        "Y": 9202.821428571428571428571
+        "X": 20230420.0,
+        "Y": 9198.964285714285714285715
       }
     }
   }

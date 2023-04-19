@@ -2,7 +2,7 @@
   "PublicName": "Avolicis",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1345096915415945216/8Uzfsp_0_normal.jpg",
   "Login": "avolicis",
-  "CurrentFollowersCount": 6880,
+  "CurrentFollowersCount": 6879,
   "CurrentTweetsCout": 2595,
   "FollowersCountHistory": {
     "20230303": 6826,
@@ -52,7 +52,8 @@
     "20230416": 6885,
     "20230417": 6884,
     "20230418": 6884,
-    "20230419": 6880
+    "20230419": 6880,
+    "20230420": 6879
   },
   "TweetsCountHistory": {
     "20230303": 2588,
@@ -102,20 +103,21 @@
     "20230416": 2595,
     "20230417": 2595,
     "20230418": 2595,
-    "20230419": 2595
+    "20230419": 2595,
+    "20230420": 2595
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0872328493987164309302760278,
+    "WeeklyGrowth": -0.009341089897611275733404464,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230413.0,
-        "Y": 6878.142857142857142857143
+        "X": 20230414.0,
+        "Y": 6882.0357142857142857142857
       },
       "End": {
-        "X": 20230419.0,
-        "Y": 6884.142857142857142857143
+        "X": 20230420.0,
+        "Y": 6881.3928571428571428571429
       }
     }
   }
