@@ -2,7 +2,7 @@
   "PublicName": "insomniak",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1452770466360397834/Q9jVCUP7_normal.jpg",
   "Login": "insomniak111",
-  "CurrentFollowersCount": 20,
+  "CurrentFollowersCount": 19,
   "CurrentTweetsCout": 300,
   "FollowersCountHistory": {
     "20211107": 5,
@@ -478,7 +478,8 @@
     "20230417": 22,
     "20230418": 21,
     "20230419": 21,
-    "20230420": 20
+    "20230420": 20,
+    "20230421": 19
   },
   "TweetsCountHistory": {
     "20211107": 40,
@@ -954,20 +955,21 @@
     "20230417": 299,
     "20230418": 299,
     "20230419": 299,
-    "20230420": 300
+    "20230420": 300,
+    "20230421": 300
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -8.896210873146622734761240334,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230414.0,
-        "Y": 20.857142857142857142857142857
+        "X": 20230415.0,
+        "Y": 21.6785714285714285714286
       },
       "End": {
-        "X": 20230420.0,
-        "Y": 20.857142857142857142857142857
+        "X": 20230421.0,
+        "Y": 19.7500000000000000000000
       }
     }
   }
