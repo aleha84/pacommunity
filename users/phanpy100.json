@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1621290355978018817/0M5FmQ23_normal.jpg",
   "Login": "phanpy100",
   "CurrentFollowersCount": 61,
-  "CurrentTweetsCout": 2283,
+  "CurrentTweetsCout": 2290,
   "FollowersCountHistory": {
     "20210125": 44,
     "20210126": 48,
@@ -727,7 +727,8 @@
     "20230418": 61,
     "20230419": 61,
     "20230420": 61,
-    "20230421": 61
+    "20230421": 61,
+    "20230422": 61
   },
   "TweetsCountHistory": {
     "20210125": 1384,
@@ -1452,20 +1453,21 @@
     "20230418": 2280,
     "20230419": 2281,
     "20230420": 2281,
-    "20230421": 2283
+    "20230421": 2289,
+    "20230422": 2290
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.0619469026548672566372391887,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230415.0,
-        "Y": 60.5357142857142857142857
+        "X": 20230416.0,
+        "Y": 61.0
       },
       "End": {
-        "X": 20230421.0,
-        "Y": 61.1785714285714285714286
+        "X": 20230422.0,
+        "Y": 61.0
       }
     }
   }

@@ -1,9 +1,9 @@
 {
-  "PublicName": "Nicotinefist/CommissionsOPEN",
+  "PublicName": "Nicotinefist/CommissionsCLOSED",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1489750760128667654/oy65vKym_normal.jpg",
   "Login": "Nico_1805_",
   "CurrentFollowersCount": 22256,
-  "CurrentTweetsCout": 10709,
+  "CurrentTweetsCout": 10708,
   "FollowersCountHistory": {
     "20210222": 4181,
     "20210223": 4185,
@@ -695,7 +695,8 @@
     "20230418": 22213,
     "20230419": 22235,
     "20230420": 22254,
-    "20230421": 22256
+    "20230421": 22256,
+    "20230422": 22256
   },
   "TweetsCountHistory": {
     "20210222": 1996,
@@ -1388,20 +1389,21 @@
     "20230418": 10702,
     "20230419": 10705,
     "20230420": 10705,
-    "20230421": 10709
+    "20230421": 10710,
+    "20230422": 10708
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.8878567397059560793928223728,
+    "WeeklyGrowth": 0.7662761015824424929645005432,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230415.0,
-        "Y": 22083.67857142857142857143
+        "X": 20230416.0,
+        "Y": 22119.96428571428571428571
       },
       "End": {
-        "X": 20230421.0,
-        "Y": 22279.75000000000000000000
+        "X": 20230422.0,
+        "Y": 22289.46428571428571428571
       }
     }
   }

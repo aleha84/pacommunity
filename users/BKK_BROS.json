@@ -2,8 +2,8 @@
   "PublicName": "BKK BROS.",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1642605944315215872/4Nch9hye_normal.png",
   "Login": "BKK_BROS",
-  "CurrentFollowersCount": 10441,
-  "CurrentTweetsCout": 32090,
+  "CurrentFollowersCount": 10439,
+  "CurrentTweetsCout": 32093,
   "FollowersCountHistory": {
     "20210914": 5682,
     "20210915": 5767,
@@ -542,7 +542,8 @@
     "20230418": 10445,
     "20230419": 10444,
     "20230420": 10441,
-    "20230421": 10441
+    "20230421": 10439,
+    "20230422": 10439
   },
   "TweetsCountHistory": {
     "20210914": 14521,
@@ -1082,20 +1083,21 @@
     "20230418": 32089,
     "20230419": 32096,
     "20230420": 32090,
-    "20230421": 32090
+    "20230421": 32093,
+    "20230422": 32093
   },
   "LangId": "th",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0615430904204760699950027002,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230415.0,
-        "Y": 10442.714285714285714285714286
+        "X": 20230416.0,
+        "Y": 10445.642857142857142857143
       },
       "End": {
-        "X": 20230421.0,
-        "Y": 10442.714285714285714285714286
+        "X": 20230422.0,
+        "Y": 10439.214285714285714285715
       }
     }
   }
