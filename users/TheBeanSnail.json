@@ -2,8 +2,8 @@
   "PublicName": "beansnail",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1614294404629397508/stfijcc9_normal.jpg",
   "Login": "TheBeanSnail",
-  "CurrentFollowersCount": 562,
-  "CurrentTweetsCout": 1255,
+  "CurrentFollowersCount": 565,
+  "CurrentTweetsCout": 1258,
   "FollowersCountHistory": {
     "20210913": 317,
     "20210914": 316,
@@ -546,7 +546,8 @@
     "20230421": 562,
     "20230422": 563,
     "20230423": 562,
-    "20230424": 562
+    "20230424": 562,
+    "20230425": 565
   },
   "TweetsCountHistory": {
     "20210913": 739,
@@ -1090,20 +1091,21 @@
     "20230421": 1255,
     "20230422": 1255,
     "20230423": 1255,
-    "20230424": 1255
+    "20230424": 1258,
+    "20230425": 1258
   },
   "LangId": "rs",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0761904761904761904761777778,
+    "WeeklyGrowth": 0.3434022257551669316375249865,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230418.0,
-        "Y": 562.5000000000000000000000
+        "X": 20230419.0,
+        "Y": 561.6071428571428571428571
       },
       "End": {
-        "X": 20230424.0,
-        "Y": 562.0714285714285714285715
+        "X": 20230425.0,
+        "Y": 563.5357142857142857142857
       }
     }
   }
