@@ -2,7 +2,7 @@
   "PublicName": "Hommet",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1266083015547027457/FYlTeBQm_normal.jpg",
   "Login": "Hommet_",
-  "CurrentFollowersCount": 5154,
+  "CurrentFollowersCount": 5151,
   "CurrentTweetsCout": 485,
   "FollowersCountHistory": {
     "20210213": 762,
@@ -742,7 +742,8 @@
     "20230422": 5149,
     "20230423": 5152,
     "20230424": 5150,
-    "20230425": 5154
+    "20230425": 5154,
+    "20230426": 5151
   },
   "TweetsCountHistory": {
     "20210213": 152,
@@ -1482,20 +1483,21 @@
     "20230422": 485,
     "20230423": 485,
     "20230424": 485,
-    "20230425": 485
+    "20230425": 485,
+    "20230426": 485
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.033283408221001830587452432,
+    "WeeklyGrowth": -0.0124777307167069882224094496,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230419.0,
-        "Y": 5150.5714285714285714285715
+        "X": 20230420.0,
+        "Y": 5152.0357142857142857142858
       },
       "End": {
-        "X": 20230425.0,
-        "Y": 5152.2857142857142857142858
+        "X": 20230426.0,
+        "Y": 5151.3928571428571428571429
       }
     }
   }
