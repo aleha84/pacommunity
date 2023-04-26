@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1636321150249717763/1Uu3i7UL_normal.jpg",
   "Login": "FluffyBunnyPixl",
   "CurrentFollowersCount": 1054,
-  "CurrentTweetsCout": 35011,
+  "CurrentTweetsCout": 35013,
   "FollowersCountHistory": {
     "20210915": 1129,
     "20210916": 1129,
@@ -555,7 +555,8 @@
     "20230423": 1054,
     "20230424": 1054,
     "20230425": 1054,
-    "20230426": 1054
+    "20230426": 1054,
+    "20230427": 1054
   },
   "TweetsCountHistory": {
     "20210915": 31038,
@@ -1108,20 +1109,21 @@
     "20230423": 35001,
     "20230424": 35003,
     "20230425": 35007,
-    "20230426": 35011
+    "20230426": 35011,
+    "20230427": 35013
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0568852251192151984380762657,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230419.0,
-        "Y": 1053.5513698630136985252979
+        "X": 20230420.0,
+        "Y": 1054.0
       },
       "End": {
-        "X": 20230426.0,
-        "Y": 1054.1506849315068494157141
+        "X": 20230427.0,
+        "Y": 1054.0
       }
     }
   }
