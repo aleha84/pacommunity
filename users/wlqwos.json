@@ -2,7 +2,7 @@
   "PublicName": "Maxim Bonk",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1563482178809257985/aXOev9xu_normal.png",
   "Login": "wlqwos",
-  "CurrentFollowersCount": 1193,
+  "CurrentFollowersCount": 1192,
   "CurrentTweetsCout": 571,
   "FollowersCountHistory": {
     "20210320": 106,
@@ -674,7 +674,8 @@
     "20230423": 1193,
     "20230424": 1193,
     "20230425": 1193,
-    "20230426": 1193
+    "20230426": 1193,
+    "20230427": 1192
   },
   "TweetsCountHistory": {
     "20210320": 126,
@@ -1346,20 +1347,21 @@
     "20230423": 571,
     "20230424": 571,
     "20230425": 571,
-    "20230426": 571
+    "20230426": 571,
+    "20230427": 571
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0538776976263880990152306297,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230420.0,
-        "Y": 1193.0
+        "X": 20230421.0,
+        "Y": 1193.1785714285714285714285
       },
       "End": {
-        "X": 20230426.0,
-        "Y": 1193.0
+        "X": 20230427.0,
+        "Y": 1192.5357142857142857142857
       }
     }
   }
