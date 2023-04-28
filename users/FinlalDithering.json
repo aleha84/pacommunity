@@ -2,7 +2,7 @@
   "PublicName": "Finlal",
   "AvatarImage": "https://pbs.twimg.com/profile_images/811050374819958788/B0ExHyLf_normal.jpg",
   "Login": "FinlalDithering",
-  "CurrentFollowersCount": 13088,
+  "CurrentFollowersCount": 13087,
   "CurrentTweetsCout": 346,
   "FollowersCountHistory": {
     "20201213": 9314,
@@ -772,7 +772,8 @@
     "20230424": 13090,
     "20230425": 13086,
     "20230426": 13086,
-    "20230427": 13088
+    "20230427": 13088,
+    "20230428": 13087
   },
   "TweetsCountHistory": {
     "20201213": 295,
@@ -1542,20 +1543,21 @@
     "20230424": 346,
     "20230425": 346,
     "20230426": 346,
-    "20230427": 346
+    "20230427": 346,
+    "20230428": 346
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0098247375976333298764811064,
+    "WeeklyGrowth": -0.0180087260463479122156452184,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230421.0,
-        "Y": 13086.5000000000000000000001
+        "X": 20230422.0,
+        "Y": 13088.892857142857142857142
       },
       "End": {
-        "X": 20230427.0,
-        "Y": 13087.7857142857142857142858
+        "X": 20230428.0,
+        "Y": 13086.535714285714285714285
       }
     }
   }
