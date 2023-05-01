@@ -2,7 +2,7 @@
   "PublicName": "Jess",
   "AvatarImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
   "Login": "JessPixels",
-  "CurrentFollowersCount": 0,
+  "CurrentFollowersCount": 1,
   "CurrentTweetsCout": 0,
   "FollowersCountHistory": {
     "20210820": 915,
@@ -562,7 +562,8 @@
     "20230425": 0,
     "20230426": 0,
     "20230427": 0,
-    "20230428": 0
+    "20230428": 0,
+    "20230429": 1
   },
   "TweetsCountHistory": {
     "20210820": 381,
@@ -1122,12 +1123,22 @@
     "20230425": 0,
     "20230426": 0,
     "20230427": 0,
-    "20230428": 0
+    "20230428": 0,
+    "20230429": 0
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at System.Decimal.op_Division(Decimal d1, Decimal d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 83",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": -360.000000000000000000112,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20230423.0,
+        "Y": -0.1785714285714285714285
+      },
+      "End": {
+        "X": 20230429.0,
+        "Y": 0.4642857142857142857143
+      }
+    }
   }
 }
