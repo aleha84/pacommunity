@@ -2,8 +2,8 @@
   "PublicName": "Noodle",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1589302316632506368/Fzhteyxb_normal.jpg",
   "Login": "r_ramenoodles",
-  "CurrentFollowersCount": 763,
-  "CurrentTweetsCout": 2395,
+  "CurrentFollowersCount": 761,
+  "CurrentTweetsCout": 2407,
   "FollowersCountHistory": {
     "20210113": 205,
     "20210114": 206,
@@ -777,7 +777,8 @@
     "20230426": 764,
     "20230427": 764,
     "20230428": 762,
-    "20230429": 763
+    "20230429": 763,
+    "20230503": 761
   },
   "TweetsCountHistory": {
     "20210113": 728,
@@ -1552,20 +1553,21 @@
     "20230426": 2390,
     "20230427": 2393,
     "20230428": 2395,
-    "20230429": 2395
+    "20230429": 2395,
+    "20230503": 2407
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.309583001078849852244589682,
+    "WeeklyGrowth": -0.2656139700987163387558774466,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230423.0,
-        "Y": 761.392857142857142857142
+        "X": 20230424.0,
+        "Y": 763.05880349642411170492454
       },
       "End": {
-        "X": 20230429.0,
-        "Y": 763.750000000000000000000
+        "X": 20230503.0,
+        "Y": 761.03201271426949710042178
       }
     }
   }

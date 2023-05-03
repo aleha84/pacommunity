@@ -2,7 +2,7 @@
   "PublicName": "Lazlo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1566457300260646912/M5ZbwRJ0_normal.jpg",
   "Login": "ArcLazarus",
-  "CurrentFollowersCount": 64,
+  "CurrentFollowersCount": 63,
   "CurrentTweetsCout": 129,
   "FollowersCountHistory": {
     "20210913": 13,
@@ -550,7 +550,9 @@
     "20230425": 64,
     "20230426": 64,
     "20230427": 64,
-    "20230428": 64
+    "20230428": 64,
+    "20230502": 63,
+    "20230503": 63
   },
   "TweetsCountHistory": {
     "20210913": 36,
@@ -1098,20 +1100,22 @@
     "20230425": 129,
     "20230426": 129,
     "20230427": 129,
-    "20230428": 129
+    "20230428": 129,
+    "20230502": 129,
+    "20230503": 129
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.6108899197233859232699011146,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230422.0,
-        "Y": 64.0
+        "X": 20230424.0,
+        "Y": 64.02575261109973376862776
       },
       "End": {
-        "X": 20230428.0,
-        "Y": 64.0
+        "X": 20230503.0,
+        "Y": 62.99436821626049560065679
       }
     }
   }

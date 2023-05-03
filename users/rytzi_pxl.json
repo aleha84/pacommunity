@@ -2,8 +2,8 @@
   "PublicName": "rytzi",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1612369426950819841/KQtw3ejd_normal.jpg",
   "Login": "rytzi_pxl",
-  "CurrentFollowersCount": 363,
-  "CurrentTweetsCout": 468,
+  "CurrentFollowersCount": 362,
+  "CurrentTweetsCout": 471,
   "FollowersCountHistory": {
     "20210827": 20,
     "20210828": 20,
@@ -566,7 +566,9 @@
     "20230425": 364,
     "20230426": 363,
     "20230427": 363,
-    "20230428": 363
+    "20230428": 363,
+    "20230502": 362,
+    "20230503": 362
   },
   "TweetsCountHistory": {
     "20210827": 40,
@@ -1130,20 +1132,22 @@
     "20230425": 468,
     "20230426": 468,
     "20230427": 468,
-    "20230428": 468
+    "20230428": 468,
+    "20230502": 471,
+    "20230503": 471
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3433322942138113296893491335,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230422.0,
-        "Y": 363.14285714285714285714285714
+        "X": 20230424.0,
+        "Y": 363.23375315721209638690342
       },
       "End": {
-        "X": 20230428.0,
-        "Y": 363.14285714285714285714285714
+        "X": 20230503.0,
+        "Y": 361.98665437913850775242681
       }
     }
   }

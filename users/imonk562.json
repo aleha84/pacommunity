@@ -2,8 +2,8 @@
   "PublicName": "Kevin Anderson",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1626335459885613058/KrscnM2i_normal.png",
   "Login": "imonk562",
-  "CurrentFollowersCount": 4205,
-  "CurrentTweetsCout": 8976,
+  "CurrentFollowersCount": 4193,
+  "CurrentTweetsCout": 8983,
   "FollowersCountHistory": {
     "20210116": 530,
     "20210117": 528,
@@ -774,7 +774,8 @@
     "20230426": 4205,
     "20230427": 4207,
     "20230428": 4208,
-    "20230429": 4205
+    "20230429": 4205,
+    "20230503": 4193
   },
   "TweetsCountHistory": {
     "20210116": 3263,
@@ -1546,20 +1547,21 @@
     "20230426": 8958,
     "20230427": 8968,
     "20230428": 8969,
-    "20230429": 8976
+    "20230429": 8976,
+    "20230503": 8983
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0305742870246123010548149413,
+    "WeeklyGrowth": -0.3222925360496689148945308639,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230423.0,
-        "Y": 4205.2142857142857142857142
+        "X": 20230424.0,
+        "Y": 4206.5902486093767737606478
       },
       "End": {
-        "X": 20230429.0,
-        "Y": 4206.5000000000000000000000
+        "X": 20230503.0,
+        "Y": 4193.0327222159155408921562
       }
     }
   }

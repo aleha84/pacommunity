@@ -2,8 +2,8 @@
   "PublicName": "Rumblecade",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1589695367171514369/pceiYdhM_normal.jpg",
   "Login": "rumblecade",
-  "CurrentFollowersCount": 565,
-  "CurrentTweetsCout": 2250,
+  "CurrentFollowersCount": 563,
+  "CurrentTweetsCout": 2251,
   "FollowersCountHistory": {
     "20210215": 524,
     "20210216": 524,
@@ -744,7 +744,8 @@
     "20230426": 564,
     "20230427": 564,
     "20230428": 564,
-    "20230429": 565
+    "20230429": 565,
+    "20230503": 563
   },
   "TweetsCountHistory": {
     "20210215": 1810,
@@ -1486,20 +1487,21 @@
     "20230426": 2250,
     "20230427": 2250,
     "20230428": 2250,
-    "20230429": 2250
+    "20230429": 2250,
+    "20230503": 2251
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1140178627985050991321872282,
+    "WeeklyGrowth": -0.2058444491616222492089880828,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230423.0,
-        "Y": 563.8214285714285714285715
+        "X": 20230424.0,
+        "Y": 564.19741173799523214949885
       },
       "End": {
-        "X": 20230429.0,
-        "Y": 564.4642857142857142857143
+        "X": 20230503.0,
+        "Y": 563.03604268361902599340460
       }
     }
   }

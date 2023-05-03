@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1541917448185724928/MELLLTu0_normal.jpg",
   "Login": "Artyrie_Art",
   "CurrentFollowersCount": 655,
-  "CurrentTweetsCout": 904,
+  "CurrentTweetsCout": 905,
   "FollowersCountHistory": {
     "20201221": 338,
     "20201222": 343,
@@ -771,7 +771,9 @@
     "20230426": 655,
     "20230427": 655,
     "20230428": 655,
-    "20230429": 655
+    "20230429": 655,
+    "20230502": 655,
+    "20230503": 655
   },
   "TweetsCountHistory": {
     "20201221": 280,
@@ -1540,20 +1542,22 @@
     "20230426": 904,
     "20230427": 904,
     "20230428": 904,
-    "20230429": 904
+    "20230429": 904,
+    "20230502": 905,
+    "20230503": 905
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0982157472581437223768123555,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230423.0,
-        "Y": 654.5357142857142857142857
+        "X": 20230425.0,
+        "Y": 655.0
       },
       "End": {
-        "X": 20230429.0,
-        "Y": 655.1785714285714285714285
+        "X": 20230503.0,
+        "Y": 655.0
       }
     }
   }

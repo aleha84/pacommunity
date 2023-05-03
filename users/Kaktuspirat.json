@@ -2,7 +2,7 @@
   "PublicName": "Kaktuspirat - My Friend the Reaper",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1438163218397028359/D0_bWw3G_normal.png",
   "Login": "Kaktuspirat",
-  "CurrentFollowersCount": 2051,
+  "CurrentFollowersCount": 2048,
   "CurrentTweetsCout": 605,
   "FollowersCountHistory": {
     "20210219": 222,
@@ -706,7 +706,9 @@
     "20230426": 2047,
     "20230427": 2049,
     "20230428": 2050,
-    "20230429": 2051
+    "20230429": 2051,
+    "20230502": 2049,
+    "20230503": 2048
   },
   "TweetsCountHistory": {
     "20210219": 97,
@@ -1410,20 +1412,22 @@
     "20230426": 605,
     "20230427": 605,
     "20230428": 605,
-    "20230429": 605
+    "20230429": 605,
+    "20230502": 605,
+    "20230503": 605
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.0117332958617297828989253888,
+    "WeeklyGrowth": 0.0448476043904654760477447388,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230423.0,
-        "Y": 2033.285714285714285714285
+        "X": 20230425.0,
+        "Y": 2047.72247529609643282592066
       },
       "End": {
-        "X": 20230429.0,
-        "Y": 2053.857142857142857142857
+        "X": 20230503.0,
+        "Y": 2048.64082977083187329287412
       }
     }
   }

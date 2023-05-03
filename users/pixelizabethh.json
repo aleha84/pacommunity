@@ -2,7 +2,7 @@
   "PublicName": "pixelizabeth",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1565668306442506240/dqPDWONj_normal.jpg",
   "Login": "pixelizabethh",
-  "CurrentFollowersCount": 1366,
+  "CurrentFollowersCount": 1364,
   "CurrentTweetsCout": 1165,
   "FollowersCountHistory": {
     "20210901": 1241,
@@ -562,7 +562,9 @@
     "20230425": 1366,
     "20230426": 1366,
     "20230427": 1366,
-    "20230428": 1366
+    "20230428": 1366,
+    "20230502": 1365,
+    "20230503": 1364
   },
   "TweetsCountHistory": {
     "20210901": 1055,
@@ -1122,20 +1124,22 @@
     "20230425": 1166,
     "20230426": 1165,
     "20230427": 1165,
-    "20230428": 1165
+    "20230428": 1165,
+    "20230502": 1165,
+    "20230503": 1165
   },
   "LangId": "ua",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1135980852046979921574755486,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230422.0,
-        "Y": 1366.0
+        "X": 20230424.0,
+        "Y": 1366.04005392859580858521356
       },
       "End": {
-        "X": 20230428.0,
-        "Y": 1366.0
+        "X": 20230503.0,
+        "Y": 1364.48825858420369991681176
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "hope42morrow",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1406725604020572166/XjMnlw65_normal.jpg",
   "Login": "hope42morr0w",
-  "CurrentFollowersCount": 497,
+  "CurrentFollowersCount": 496,
   "CurrentTweetsCout": 65,
   "FollowersCountHistory": {
     "20201215": 356,
@@ -771,7 +771,9 @@
     "20230426": 497,
     "20230427": 497,
     "20230428": 497,
-    "20230429": 497
+    "20230429": 497,
+    "20230502": 496,
+    "20230503": 496
   },
   "TweetsCountHistory": {
     "20201215": 37,
@@ -1540,20 +1542,22 @@
     "20230426": 65,
     "20230427": 65,
     "20230428": 65,
-    "20230429": 65
+    "20230429": 65,
+    "20230502": 65,
+    "20230503": 65
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2075911526617722535166726168,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230423.0,
-        "Y": 497.0
+        "X": 20230425.0,
+        "Y": 497.02608802298689466730681
       },
       "End": {
-        "X": 20230429.0,
-        "Y": 497.0
+        "X": 20230503.0,
+        "Y": 495.99430583783026140458244
       }
     }
   }

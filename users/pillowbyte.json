@@ -2,7 +2,7 @@
   "PublicName": "pillowrd",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1440851965840277506/4NfZvTeb_normal.png",
   "Login": "pillowbyte",
-  "CurrentFollowersCount": 122,
+  "CurrentFollowersCount": 124,
   "CurrentTweetsCout": 501,
   "FollowersCountHistory": {
     "20210916": 91,
@@ -545,7 +545,9 @@
     "20230425": 122,
     "20230426": 122,
     "20230427": 122,
-    "20230428": 122
+    "20230428": 122,
+    "20230502": 124,
+    "20230503": 124
   },
   "TweetsCountHistory": {
     "20210916": 315,
@@ -1088,20 +1090,22 @@
     "20230425": 500,
     "20230426": 500,
     "20230427": 500,
-    "20230428": 501
+    "20230428": 501,
+    "20230502": 501,
+    "20230503": 501
   },
   "LangId": "id",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 1.6915082006030484845593246036,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230422.0,
-        "Y": 122.0
+        "X": 20230424.0,
+        "Y": 121.94849477780053246274164
       },
       "End": {
-        "X": 20230428.0,
-        "Y": 122.0
+        "X": 20230503.0,
+        "Y": 124.01126356747900879869301
       }
     }
   }

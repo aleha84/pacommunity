@@ -2,7 +2,7 @@
   "PublicName": "Millkydad",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1367486089569718286/nlYsJzsL_normal.jpg",
   "Login": "millkydad",
-  "CurrentFollowersCount": 304,
+  "CurrentFollowersCount": 306,
   "CurrentTweetsCout": 60,
   "FollowersCountHistory": {
     "20210113": 11,
@@ -743,7 +743,9 @@
     "20230426": 305,
     "20230427": 304,
     "20230428": 304,
-    "20230429": 304
+    "20230429": 304,
+    "20230502": 307,
+    "20230503": 306
   },
   "TweetsCountHistory": {
     "20210113": 5,
@@ -1484,20 +1486,22 @@
     "20230426": 60,
     "20230427": 60,
     "20230428": 60,
-    "20230429": 60
+    "20230429": 60,
+    "20230502": 60,
+    "20230503": 60
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.6306201097746117015064907748,
+    "WeeklyGrowth": 0.6263896856247225817077289097,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230423.0,
-        "Y": 305.8214285714285714285714
+        "X": 20230425.0,
+        "Y": 304.56633260915270866813405
       },
       "End": {
-        "X": 20230429.0,
-        "Y": 303.8928571428571428571428
+        "X": 20230503.0,
+        "Y": 306.47410470250192725721779
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "PixelShorts",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1499520362593361927/DfOA0v9T_normal.jpg",
   "Login": "PixelShorts",
-  "CurrentFollowersCount": 5081,
+  "CurrentFollowersCount": 5079,
   "CurrentTweetsCout": 6835,
   "FollowersCountHistory": {
     "20210113": 4857,
@@ -779,7 +779,8 @@
     "20230426": 5079,
     "20230427": 5079,
     "20230428": 5081,
-    "20230429": 5081
+    "20230429": 5081,
+    "20230503": 5079
   },
   "TweetsCountHistory": {
     "20210113": 6213,
@@ -1556,20 +1557,21 @@
     "20230426": 6835,
     "20230427": 6835,
     "20230428": 6835,
-    "20230429": 6835
+    "20230429": 6835,
+    "20230503": 6835
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0168747890651366857914287324,
+    "WeeklyGrowth": -0.0110343125441149022343257208,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230423.0,
-        "Y": 5079.4285714285714285714285
+        "X": 20230424.0,
+        "Y": 5079.66670450675445567061899
       },
       "End": {
-        "X": 20230429.0,
-        "Y": 5080.2857142857142857142857
+        "X": 20230503.0,
+        "Y": 5079.10619820637983879984987
       }
     }
   }

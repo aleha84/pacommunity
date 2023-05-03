@@ -2,7 +2,7 @@
   "PublicName": "겜네임/Gamename",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1330746896617328641/7RhE2JIj_normal.png",
   "Login": "Gamename_pixel",
-  "CurrentFollowersCount": 112,
+  "CurrentFollowersCount": 113,
   "CurrentTweetsCout": 292,
   "FollowersCountHistory": {
     "20210915": 82,
@@ -546,7 +546,9 @@
     "20230425": 112,
     "20230426": 112,
     "20230427": 112,
-    "20230428": 112
+    "20230428": 112,
+    "20230502": 113,
+    "20230503": 113
   },
   "TweetsCountHistory": {
     "20210915": 262,
@@ -1090,20 +1092,22 @@
     "20230425": 292,
     "20230426": 292,
     "20230427": 292,
-    "20230428": 292
+    "20230428": 292,
+    "20230502": 292,
+    "20230503": 292
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 0.9210907140613447739942850906,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230422.0,
-        "Y": 112.0
+        "X": 20230424.0,
+        "Y": 111.97424738890026623137224
       },
       "End": {
-        "X": 20230428.0,
-        "Y": 112.0
+        "X": 20230503.0,
+        "Y": 113.00563178373950439934321
       }
     }
   }

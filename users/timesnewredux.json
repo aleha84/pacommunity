@@ -2,7 +2,7 @@
   "PublicName": "TNR ◆ TEMP. HIATUS",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1592009091320160256/jr4N28DR_normal.jpg",
   "Login": "timesnewredux",
-  "CurrentFollowersCount": 694,
+  "CurrentFollowersCount": 693,
   "CurrentTweetsCout": 156,
   "FollowersCountHistory": {
     "20210828": 301,
@@ -564,7 +564,9 @@
     "20230425": 694,
     "20230426": 694,
     "20230427": 694,
-    "20230428": 694
+    "20230428": 694,
+    "20230502": 693,
+    "20230503": 693
   },
   "TweetsCountHistory": {
     "20210828": 90,
@@ -1126,20 +1128,22 @@
     "20230425": 156,
     "20230426": 156,
     "20230427": 156,
-    "20230428": 156
+    "20230428": 156,
+    "20230502": 156,
+    "20230503": 156
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1486089516071860774851152702,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230422.0,
-        "Y": 694.0
+        "X": 20230424.0,
+        "Y": 694.02575261109973376861637
       },
       "End": {
-        "X": 20230428.0,
-        "Y": 694.0
+        "X": 20230503.0,
+        "Y": 692.99436821626049560068315
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Sheldon Y.",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1572754595666878465/inb_HPIr_normal.jpg",
   "Login": "SYduck_",
-  "CurrentFollowersCount": 210,
+  "CurrentFollowersCount": 209,
   "CurrentTweetsCout": 1200,
   "FollowersCountHistory": {
     "20210113": 257,
@@ -743,7 +743,9 @@
     "20230426": 210,
     "20230427": 210,
     "20230428": 210,
-    "20230429": 210
+    "20230429": 210,
+    "20230502": 209,
+    "20230503": 209
   },
   "TweetsCountHistory": {
     "20210113": 1196,
@@ -1484,20 +1486,22 @@
     "20230426": 1200,
     "20230427": 1200,
     "20230428": 1200,
-    "20230429": 1200
+    "20230429": 1200,
+    "20230502": 1200,
+    "20230503": 1200
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.4912638210181332166927496474,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230423.0,
-        "Y": 210.0
+        "X": 20230425.0,
+        "Y": 210.02608802298689466730681
       },
       "End": {
-        "X": 20230429.0,
-        "Y": 210.0
+        "X": 20230503.0,
+        "Y": 208.99430583783026140458244
       }
     }
   }

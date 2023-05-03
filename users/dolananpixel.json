@@ -2,7 +2,7 @@
   "PublicName": "dolananpixel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1443087530128134148/Omzc2ycL_normal.jpg",
   "Login": "dolananpixel",
-  "CurrentFollowersCount": 26,
+  "CurrentFollowersCount": 27,
   "CurrentTweetsCout": 30,
   "FollowersCountHistory": {
     "20210914": 23,
@@ -547,7 +547,9 @@
     "20230425": 26,
     "20230426": 26,
     "20230427": 26,
-    "20230428": 26
+    "20230428": 26,
+    "20230502": 27,
+    "20230503": 27
   },
   "TweetsCountHistory": {
     "20210914": 21,
@@ -1092,20 +1094,22 @@
     "20230425": 30,
     "20230426": 30,
     "20230427": 30,
-    "20230428": 30
+    "20230428": 30,
+    "20230502": 30,
+    "20230503": 30
   },
   "LangId": "id",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": 3.9707960711885186724250580104,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230422.0,
-        "Y": 26.0
+        "X": 20230424.0,
+        "Y": 25.97424738890026623137139
       },
       "End": {
-        "X": 20230428.0,
-        "Y": 26.0
+        "X": 20230503.0,
+        "Y": 27.00563178373950439934518
       }
     }
   }

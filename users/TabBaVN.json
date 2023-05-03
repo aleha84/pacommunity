@@ -2,8 +2,8 @@
   "PublicName": "Tabba",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1538431156605005824/hyAKDAUX_normal.jpg",
   "Login": "TabBaVN",
-  "CurrentFollowersCount": 136,
-  "CurrentTweetsCout": 35,
+  "CurrentFollowersCount": 139,
+  "CurrentTweetsCout": 36,
   "FollowersCountHistory": {
     "20210914": 15,
     "20210915": 15,
@@ -550,7 +550,9 @@
     "20230425": 133,
     "20230426": 133,
     "20230427": 135,
-    "20230428": 136
+    "20230428": 136,
+    "20230502": 136,
+    "20230503": 139
   },
   "TweetsCountHistory": {
     "20210914": 13,
@@ -1098,20 +1100,22 @@
     "20230425": 35,
     "20230426": 35,
     "20230427": 35,
-    "20230428": 35
+    "20230428": 35,
+    "20230502": 36,
+    "20230503": 36
   },
   "LangId": "vn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 3.102040816326530612244547794,
+    "WeeklyGrowth": 2.9360339635124346795958866096,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230422.0,
-        "Y": 131.250000000000000000001
+        "X": 20230424.0,
+        "Y": 133.6719400641682026137541
       },
       "End": {
-        "X": 20230428.0,
-        "Y": 135.321428571428571428572
+        "X": 20230503.0,
+        "Y": 137.5965936241381664137180
       }
     }
   }
