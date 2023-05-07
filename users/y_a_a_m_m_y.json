@@ -2,7 +2,7 @@
   "PublicName": "yaa",
   "AvatarImage": "https://pbs.twimg.com/profile_images/590660124634652673/yaMb48LZ_normal.png",
   "Login": "y_a_a_m_m_y",
-  "CurrentFollowersCount": 3950,
+  "CurrentFollowersCount": 3946,
   "CurrentTweetsCout": 268,
   "FollowersCountHistory": {
     "20210209": 4105,
@@ -724,7 +724,8 @@
     "20230429": 3950,
     "20230502": 3950,
     "20230503": 3950,
-    "20230504": 3950
+    "20230504": 3950,
+    "20230507": 3946
   },
   "TweetsCountHistory": {
     "20210209": 276,
@@ -1446,20 +1447,21 @@
     "20230429": 268,
     "20230502": 268,
     "20230503": 268,
-    "20230504": 268
+    "20230504": 268,
+    "20230507": 268
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0290559676720269724973869799,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230426.0,
-        "Y": 3950.0
+        "X": 20230427.0,
+        "Y": 3950.06597142198663286561431
       },
       "End": {
-        "X": 20230504.0,
-        "Y": 3950.0
+        "X": 20230507.0,
+        "Y": 3948.91824153030652223942779
       }
     }
   }

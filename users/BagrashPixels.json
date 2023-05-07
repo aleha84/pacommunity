@@ -2,7 +2,7 @@
   "PublicName": "Bagrash",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1542228873693347842/fzR8Lyub_normal.jpg",
   "Login": "BagrashPixels",
-  "CurrentFollowersCount": 2752,
+  "CurrentFollowersCount": 2751,
   "CurrentTweetsCout": 163,
   "FollowersCountHistory": {
     "20210915": 2315,
@@ -552,7 +552,8 @@
     "20230502": 2754,
     "20230503": 2755,
     "20230504": 2755,
-    "20230505": 2752
+    "20230505": 2752,
+    "20230507": 2751
   },
   "TweetsCountHistory": {
     "20210915": 106,
@@ -1102,20 +1103,21 @@
     "20230502": 163,
     "20230503": 163,
     "20230504": 163,
-    "20230505": 163
+    "20230505": 163,
+    "20230507": 163
   },
   "LangId": "no",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0130635357670824488701171694,
+    "WeeklyGrowth": -0.0640499802689108862248223905,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230426.0,
-        "Y": 2753.65353748079002788943505
+        "X": 20230427.0,
+        "Y": 2755.07662549205918284657179
       },
       "End": {
-        "X": 20230505.0,
-        "Y": 2754.01326199556036200171115
+        "X": 20230507.0,
+        "Y": 2753.31199945703814306858677
       }
     }
   }
