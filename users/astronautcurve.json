@@ -2,7 +2,7 @@
   "PublicName": "Astronaut Curve",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1161347475715874817/zsHM_rJZ_normal.png",
   "Login": "astronautcurve",
-  "CurrentFollowersCount": 7546,
+  "CurrentFollowersCount": 7545,
   "CurrentTweetsCout": 1621,
   "FollowersCountHistory": {
     "20210127": 5682,
@@ -770,7 +770,8 @@
     "20230505": 7541,
     "20230506": 7543,
     "20230508": 7545,
-    "20230509": 7546
+    "20230509": 7546,
+    "20230510": 7545
   },
   "TweetsCountHistory": {
     "20210127": 1006,
@@ -1538,20 +1539,21 @@
     "20230505": 1621,
     "20230506": 1621,
     "20230508": 1621,
-    "20230509": 1621
+    "20230509": 1621,
+    "20230510": 1621
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1753193422789016716086026362,
+    "WeeklyGrowth": 0.0724856209601529167454883856,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230429.0,
-        "Y": 7555.6189620310042686116044
+        "X": 20230503.0,
+        "Y": 7540.465753424657533332107
       },
       "End": {
-        "X": 20230509.0,
-        "Y": 7542.3725005616715345064016
+        "X": 20230510.0,
+        "Y": 7545.931506849315069445721
       }
     }
   }
