@@ -2,7 +2,7 @@
   "PublicName": "Mucho Pixels",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1621103512049405954/OViRV_1v_normal.jpg",
   "Login": "muchopixels",
-  "CurrentFollowersCount": 2566,
+  "CurrentFollowersCount": 2563,
   "CurrentTweetsCout": 2730,
   "FollowersCountHistory": {
     "20210225": 773,
@@ -703,7 +703,8 @@
     "20230429": 2566,
     "20230502": 2567,
     "20230503": 2567,
-    "20230504": 2566
+    "20230504": 2566,
+    "20230509": 2563
   },
   "TweetsCountHistory": {
     "20210225": 406,
@@ -1404,20 +1405,21 @@
     "20230429": 2730,
     "20230502": 2730,
     "20230503": 2730,
-    "20230504": 2730
+    "20230504": 2730,
+    "20230509": 2730
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0370393622196706114299623831,
+    "WeeklyGrowth": -0.0159676946275766468037569851,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230426.0,
-        "Y": 2565.73035119499795477302452
+        "X": 20230427.0,
+        "Y": 2566.08057464084946908243916
       },
       "End": {
-        "X": 20230504.0,
-        "Y": 2566.68068135335709694149967
+        "X": 20230509.0,
+        "Y": 2565.67083073079325421560183
       }
     }
   }
