@@ -2,7 +2,7 @@
   "PublicName": "Oxalis",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1447450452379852805/QR_pG5lX_normal.jpg",
   "Login": "oxalisoo",
-  "CurrentFollowersCount": 3008,
+  "CurrentFollowersCount": 3006,
   "CurrentTweetsCout": 198,
   "FollowersCountHistory": {
     "20210205": 711,
@@ -734,7 +734,8 @@
     "20230504": 3009,
     "20230505": 3008,
     "20230507": 3006,
-    "20230509": 3008
+    "20230509": 3008,
+    "20230510": 3006
   },
   "TweetsCountHistory": {
     "20210205": 81,
@@ -1466,20 +1467,21 @@
     "20230504": 198,
     "20230505": 198,
     "20230507": 198,
-    "20230509": 198
+    "20230509": 198,
+    "20230510": 198
   },
   "LangId": "cn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0911482471308666038698908353,
+    "WeeklyGrowth": -0.0486657196271931954423283472,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230428.0,
-        "Y": 3005.05389254998324583938344
+        "X": 20230502.0,
+        "Y": 3008.1082474226804127216739
       },
       "End": {
-        "X": 20230509.0,
-        "Y": 3007.79294649838043114039986
+        "X": 20230510.0,
+        "Y": 3006.6443298969072160903762
       }
     }
   }
