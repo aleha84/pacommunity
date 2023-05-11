@@ -2,7 +2,7 @@
   "PublicName": "Heath",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1557461438557573122/axMmVomb_normal.jpg",
   "Login": "Double_Boy_",
-  "CurrentFollowersCount": 4579,
+  "CurrentFollowersCount": 4577,
   "CurrentTweetsCout": 964,
   "FollowersCountHistory": {
     "20210227": 218,
@@ -740,7 +740,8 @@
     "20230506": 4580,
     "20230508": 4581,
     "20230509": 4580,
-    "20230510": 4579
+    "20230510": 4579,
+    "20230511": 4577
   },
   "TweetsCountHistory": {
     "20210227": 51,
@@ -1478,20 +1479,21 @@
     "20230506": 964,
     "20230508": 964,
     "20230509": 964,
-    "20230510": 964
+    "20230510": 964,
+    "20230511": 964
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0544238843103716560041128653,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230503.0,
-        "Y": 4580.0
+        "X": 20230504.0,
+        "Y": 4580.9863013698630141340072
       },
       "End": {
-        "X": 20230510.0,
-        "Y": 4580.0
+        "X": 20230511.0,
+        "Y": 4578.4931506849315064313528
       }
     }
   }

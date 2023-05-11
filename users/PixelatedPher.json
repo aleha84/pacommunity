@@ -2,7 +2,7 @@
   "PublicName": "Pher",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1392908439483998210/PzNflBmh_normal.jpg",
   "Login": "PixelatedPher",
-  "CurrentFollowersCount": 1655,
+  "CurrentFollowersCount": 1656,
   "CurrentTweetsCout": 9027,
   "FollowersCountHistory": {
     "20210213": 1347,
@@ -753,7 +753,8 @@
     "20230506": 1656,
     "20230508": 1656,
     "20230509": 1656,
-    "20230510": 1655
+    "20230510": 1655,
+    "20230511": 1656
   },
   "TweetsCountHistory": {
     "20210213": 5864,
@@ -1504,20 +1505,21 @@
     "20230506": 9031,
     "20230508": 9028,
     "20230509": 9028,
-    "20230510": 9027
+    "20230510": 9027,
+    "20230511": 9027
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0333093340615871080331244615,
+    "WeeklyGrowth": -0.0246085890179518707032287784,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230503.0,
-        "Y": 1655.3013698630136985380033
+        "X": 20230504.0,
+        "Y": 1656.0650684931506850025919
       },
       "End": {
-        "X": 20230510.0,
-        "Y": 1655.8527397260273973562464
+        "X": 20230511.0,
+        "Y": 1655.6575342465753423975117
       }
     }
   }
