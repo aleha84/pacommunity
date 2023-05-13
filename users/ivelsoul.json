@@ -2,7 +2,7 @@
   "PublicName": "Mate",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1443763523373383680/XDw9rquw_normal.jpg",
   "Login": "ivelsoul",
-  "CurrentFollowersCount": 946,
+  "CurrentFollowersCount": 945,
   "CurrentTweetsCout": 211,
   "FollowersCountHistory": {
     "20201217": 176,
@@ -776,7 +776,8 @@
     "20230509": 946,
     "20230510": 946,
     "20230511": 946,
-    "20230512": 946
+    "20230512": 946,
+    "20230513": 945
   },
   "TweetsCountHistory": {
     "20201217": 126,
@@ -1550,20 +1551,21 @@
     "20230509": 211,
     "20230510": 211,
     "20230511": 211,
-    "20230512": 211
+    "20230512": 211,
+    "20230513": 211
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0481939724297240252679541601,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230502.0,
-        "Y": 946.0
+        "X": 20230503.0,
+        "Y": 946.1242138364779872955910
       },
       "End": {
-        "X": 20230512.0,
-        "Y": 946.0
+        "X": 20230513.0,
+        "Y": 945.6682389937106919128747
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "Kitka",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1643249520359219200/IKFgCyLf_normal.jpg",
   "Login": "ne_Kitk_a",
-  "CurrentFollowersCount": 779,
-  "CurrentTweetsCout": 8845,
+  "CurrentFollowersCount": 778,
+  "CurrentTweetsCout": 8846,
   "FollowersCountHistory": {
     "20210202": 630,
     "20210203": 633,
@@ -730,7 +730,8 @@
     "20230509": 778,
     "20230510": 778,
     "20230511": 780,
-    "20230512": 779
+    "20230512": 779,
+    "20230513": 778
   },
   "TweetsCountHistory": {
     "20210202": 5467,
@@ -1458,20 +1459,21 @@
     "20230509": 8845,
     "20230510": 8845,
     "20230511": 8845,
-    "20230512": 8845
+    "20230512": 8845,
+    "20230513": 8846
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0283784550769056210457249089,
+    "WeeklyGrowth": -0.1008784495385819242947927195,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230502.0,
-        "Y": 778.74033149171270715027112
+        "X": 20230503.0,
+        "Y": 779.3176100628930815439889
       },
       "End": {
-        "X": 20230512.0,
-        "Y": 778.96132596685082875786628
+        "X": 20230513.0,
+        "Y": 778.5314465408805032981541
       }
     }
   }

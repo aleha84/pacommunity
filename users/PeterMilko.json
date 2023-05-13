@@ -2,7 +2,7 @@
   "PublicName": "Peter Milko (Pixel Pete aka Sad Slime)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1410719788557537284/UX45eJ8q_normal.jpg",
   "Login": "PeterMilko",
-  "CurrentFollowersCount": 8900,
+  "CurrentFollowersCount": 8899,
   "CurrentTweetsCout": 3156,
   "FollowersCountHistory": {
     "20210124": 5992,
@@ -752,7 +752,8 @@
     "20230509": 8899,
     "20230510": 8895,
     "20230511": 8899,
-    "20230512": 8900
+    "20230512": 8900,
+    "20230513": 8899
   },
   "TweetsCountHistory": {
     "20210124": 2358,
@@ -1502,20 +1503,21 @@
     "20230509": 3156,
     "20230510": 3156,
     "20230511": 3156,
-    "20230512": 3156
+    "20230512": 3156,
+    "20230513": 3156
   },
   "LangId": "sk",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0009268151965253702596276426,
+    "WeeklyGrowth": -0.0045755873573829807770637558,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230504.0,
-        "Y": 8898.67010309278350513407376
+        "X": 20230505.0,
+        "Y": 8899.0898203592814371981497
       },
       "End": {
-        "X": 20230512.0,
-        "Y": 8898.75257731958762888380275
+        "X": 20230513.0,
+        "Y": 8898.6826347305389221013876
       }
     }
   }

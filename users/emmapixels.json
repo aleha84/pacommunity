@@ -2,7 +2,7 @@
   "PublicName": "emmapixels",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1605652041887424512/2U2zHZvJ_normal.png",
   "Login": "emmapixels",
-  "CurrentFollowersCount": 7247,
+  "CurrentFollowersCount": 7244,
   "CurrentTweetsCout": 1944,
   "FollowersCountHistory": {
     "20210302": 435,
@@ -739,7 +739,8 @@
     "20230510": 7249,
     "20230511": 7248,
     "20230512": 7248,
-    "20230513": 7247
+    "20230513": 7247,
+    "20230514": 7244
   },
   "TweetsCountHistory": {
     "20210302": 108,
@@ -1476,20 +1477,21 @@
     "20230510": 1920,
     "20230511": 1938,
     "20230512": 1943,
-    "20230513": 1944
+    "20230513": 1944,
+    "20230514": 1944
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2295696856996718173728943578,
+    "WeeklyGrowth": -0.0236518448438978240302745585,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230506.0,
-        "Y": 7235.561475409836076825645
+        "X": 20230508.0,
+        "Y": 7248.0000000000000000000000
       },
       "End": {
-        "X": 20230513.0,
-        "Y": 7252.172131147540974438363
+        "X": 20230514.0,
+        "Y": 7246.2857142857142857142857
       }
     }
   }

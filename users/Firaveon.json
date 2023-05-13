@@ -2,8 +2,8 @@
   "PublicName": "Firaveon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1628044860656697345/PggbxtIg_normal.png",
   "Login": "Firaveon",
-  "CurrentFollowersCount": 6293,
-  "CurrentTweetsCout": 5606,
+  "CurrentFollowersCount": 6290,
+  "CurrentTweetsCout": 5607,
   "FollowersCountHistory": {
     "20210227": 1593,
     "20210228": 1595,
@@ -742,7 +742,8 @@
     "20230510": 6300,
     "20230511": 6296,
     "20230512": 6297,
-    "20230513": 6293
+    "20230513": 6293,
+    "20230514": 6290
   },
   "TweetsCountHistory": {
     "20210227": 1667,
@@ -1482,20 +1483,21 @@
     "20230510": 5587,
     "20230511": 5592,
     "20230512": 5602,
-    "20230513": 5606
+    "20230513": 5606,
+    "20230514": 5607
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1783999796635753539108865309,
+    "WeeklyGrowth": -0.0680565322928245729452643965,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230506.0,
-        "Y": 6287.676229508196728915701
+        "X": 20230508.0,
+        "Y": 6297.285714285714285714286
       },
       "End": {
-        "X": 20230513.0,
-        "Y": 6298.893442622950813476095
+        "X": 20230514.0,
+        "Y": 6293.000000000000000000000
       }
     }
   }
