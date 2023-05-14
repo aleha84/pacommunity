@@ -2,7 +2,7 @@
   "PublicName": "Deceiver",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1447379438409338884/FXzQbDVy_normal.jpg",
   "Login": "DeceiverDmitry",
-  "CurrentFollowersCount": 1351,
+  "CurrentFollowersCount": 1350,
   "CurrentTweetsCout": 29,
   "FollowersCountHistory": {
     "20211113": 1056,
@@ -490,7 +490,8 @@
     "20230510": 1351,
     "20230511": 1351,
     "20230512": 1351,
-    "20230513": 1351
+    "20230513": 1351,
+    "20230514": 1350
   },
   "TweetsCountHistory": {
     "20211113": 25,
@@ -978,20 +979,21 @@
     "20230510": 29,
     "20230511": 29,
     "20230512": 29,
-    "20230513": 29
+    "20230513": 29,
+    "20230514": 29
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.04541564044786806361553019,
+    "WeeklyGrowth": -0.0080477068059456475859270298,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230503.0,
-        "Y": 1350.2122641509433963957401
+        "X": 20230504.0,
+        "Y": 1350.64130434782608697213138
       },
       "End": {
-        "X": 20230513.0,
-        "Y": 1350.8254716981132074274032
+        "X": 20230514.0,
+        "Y": 1350.53260869565217390437146
       }
     }
   }
