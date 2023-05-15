@@ -2,7 +2,7 @@
   "PublicName": "Barker",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1567969033084870657/Bw-IrRsQ_normal.png",
   "Login": "BarkerMugen",
-  "CurrentFollowersCount": 9666,
+  "CurrentFollowersCount": 9665,
   "CurrentTweetsCout": 2057,
   "FollowersCountHistory": {
     "20210222": 5872,
@@ -748,7 +748,8 @@
     "20230511": 9672,
     "20230512": 9673,
     "20230513": 9671,
-    "20230514": 9666
+    "20230514": 9666,
+    "20230515": 9665
   },
   "TweetsCountHistory": {
     "20210222": 1158,
@@ -1494,20 +1495,21 @@
     "20230511": 2057,
     "20230512": 2057,
     "20230513": 2057,
-    "20230514": 2057
+    "20230514": 2057,
+    "20230515": 2057
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0155137832576728586361907014,
+    "WeeklyGrowth": -0.0465276008374968150749426693,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230508.0,
-        "Y": 9668.8214285714285714285714
+        "X": 20230509.0,
+        "Y": 9671.678571428571428571429
       },
       "End": {
-        "X": 20230514.0,
-        "Y": 9670.3214285714285714285714
+        "X": 20230515.0,
+        "Y": 9667.178571428571428571429
       }
     }
   }

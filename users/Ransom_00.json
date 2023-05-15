@@ -2,7 +2,7 @@
   "PublicName": "Alexander Zavrin",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1163869505/ozzy11_normal.png",
   "Login": "Ransom_00",
-  "CurrentFollowersCount": 133,
+  "CurrentFollowersCount": 132,
   "CurrentTweetsCout": 164,
   "FollowersCountHistory": {
     "20201214": 144,
@@ -782,7 +782,8 @@
     "20230511": 133,
     "20230512": 133,
     "20230513": 133,
-    "20230514": 133
+    "20230514": 133,
+    "20230515": 132
   },
   "TweetsCountHistory": {
     "20201214": 164,
@@ -1562,20 +1563,21 @@
     "20230511": 164,
     "20230512": 164,
     "20230513": 164,
-    "20230514": 164
+    "20230514": 164,
+    "20230515": 164
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.4827031375703942075623812319,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230504.0,
-        "Y": 133.0
+        "X": 20230509.0,
+        "Y": 133.1785714285714285714286
       },
       "End": {
-        "X": 20230514.0,
-        "Y": 133.0
+        "X": 20230515.0,
+        "Y": 132.5357142857142857142857
       }
     }
   }

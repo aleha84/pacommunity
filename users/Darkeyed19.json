@@ -2,8 +2,8 @@
   "PublicName": "Darkeyed",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1362760654822735873/S1weQV9d_normal.jpg",
   "Login": "Darkeyed19",
-  "CurrentFollowersCount": 1943,
-  "CurrentTweetsCout": 15658,
+  "CurrentFollowersCount": 1941,
+  "CurrentTweetsCout": 15665,
   "FollowersCountHistory": {
     "20210213": 1698,
     "20210214": 1704,
@@ -731,7 +731,8 @@
     "20230511": 1943,
     "20230512": 1943,
     "20230513": 1943,
-    "20230514": 1943
+    "20230514": 1943,
+    "20230515": 1941
   },
   "TweetsCountHistory": {
     "20210213": 7950,
@@ -1460,20 +1461,21 @@
     "20230511": 15648,
     "20230512": 15653,
     "20230513": 15656,
-    "20230514": 15658
+    "20230514": 15658,
+    "20230515": 15665
   },
   "LangId": "bg",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0661594442606682103870320119,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230507.0,
-        "Y": 1943.0
+        "X": 20230509.0,
+        "Y": 1943.3571428571428571428572
       },
       "End": {
-        "X": 20230514.0,
-        "Y": 1943.0
+        "X": 20230515.0,
+        "Y": 1942.0714285714285714285715
       }
     }
   }

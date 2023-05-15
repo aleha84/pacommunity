@@ -2,7 +2,7 @@
   "PublicName": "Tscholdes",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1136681178340167680/50KoF6x0_normal.png",
   "Login": "Tscholdes",
-  "CurrentFollowersCount": 2266,
+  "CurrentFollowersCount": 2265,
   "CurrentTweetsCout": 200,
   "FollowersCountHistory": {
     "20210221": 463,
@@ -713,7 +713,8 @@
     "20230511": 2267,
     "20230512": 2267,
     "20230513": 2266,
-    "20230514": 2266
+    "20230514": 2266,
+    "20230515": 2265
   },
   "TweetsCountHistory": {
     "20210221": 93,
@@ -1424,20 +1425,21 @@
     "20230511": 200,
     "20230512": 200,
     "20230513": 200,
-    "20230514": 200
+    "20230514": 200,
+    "20230515": 200
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0422127137018631248323997435,
+    "WeeklyGrowth": -0.1039419185158353937981258957,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230504.0,
-        "Y": 2265.9565217391304346493525
+        "X": 20230509.0,
+        "Y": 2267.750000000000000000000
       },
       "End": {
-        "X": 20230514.0,
-        "Y": 2266.9130434782608696392485
+        "X": 20230515.0,
+        "Y": 2265.392857142857142857143
       }
     }
   }
