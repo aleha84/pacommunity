@@ -2,7 +2,7 @@
   "PublicName": "Daniel James Freer",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1258643666563821570/v6VSqwdQ_normal.png",
   "Login": "freerdan",
-  "CurrentFollowersCount": 8824,
+  "CurrentFollowersCount": 8823,
   "CurrentTweetsCout": 2083,
   "FollowersCountHistory": {
     "20210125": 3139,
@@ -777,7 +777,8 @@
     "20230512": 8827,
     "20230513": 8825,
     "20230514": 8824,
-    "20230515": 8824
+    "20230515": 8824,
+    "20230516": 8823
   },
   "TweetsCountHistory": {
     "20210125": 1295,
@@ -1552,20 +1553,21 @@
     "20230512": 2083,
     "20230513": 2083,
     "20230514": 2083,
-    "20230515": 2083
+    "20230515": 2083,
+    "20230516": 2083
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0048565300093083491845068599,
+    "WeeklyGrowth": -0.0364158692265673997046236021,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230509.0,
-        "Y": 8824.6428571428571428571428
+        "X": 20230510.0,
+        "Y": 8826.607142857142857142857
       },
       "End": {
-        "X": 20230515.0,
-        "Y": 8825.0714285714285714285713
+        "X": 20230516.0,
+        "Y": 8823.392857142857142857143
       }
     }
   }
