@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1618036378180141057/_VCnZbkK_normal.jpg",
   "Login": "verionj",
   "CurrentFollowersCount": 485,
-  "CurrentTweetsCout": 2677,
+  "CurrentTweetsCout": 2678,
   "FollowersCountHistory": {
     "20201222": 385,
     "20201223": 386,
@@ -783,7 +783,8 @@
     "20230514": 485,
     "20230515": 485,
     "20230516": 485,
-    "20230517": 485
+    "20230517": 485,
+    "20230519": 485
   },
   "TweetsCountHistory": {
     "20201222": 1504,
@@ -1564,20 +1565,21 @@
     "20230514": 2675,
     "20230515": 2675,
     "20230516": 2676,
-    "20230517": 2677
+    "20230517": 2677,
+    "20230519": 2678
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1324210990951224895166717852,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230511.0,
-        "Y": 485.4642857142857142857144
+        "X": 20230512.0,
+        "Y": 485.0
       },
       "End": {
-        "X": 20230517.0,
-        "Y": 484.8214285714285714285715
+        "X": 20230519.0,
+        "Y": 485.0
       }
     }
   }
