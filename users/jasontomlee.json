@@ -2,7 +2,7 @@
   "PublicName": "jasontomlee",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1573757828510384128/BmO8EqlT_normal.jpg",
   "Login": "jasontomlee",
-  "CurrentFollowersCount": 9001,
+  "CurrentFollowersCount": 9000,
   "CurrentTweetsCout": 8345,
   "FollowersCountHistory": {
     "20210108": 6057,
@@ -802,7 +802,8 @@
     "20230519": 9000,
     "20230520": 9005,
     "20230521": 9005,
-    "20230522": 9001
+    "20230522": 9001,
+    "20230523": 9000
   },
   "TweetsCountHistory": {
     "20210108": 7237,
@@ -1602,20 +1603,21 @@
     "20230519": 8346,
     "20230520": 8344,
     "20230521": 8344,
-    "20230522": 8345
+    "20230522": 8345,
+    "20230523": 8345
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0309502930357872683191927534,
+    "WeeklyGrowth": -0.0023803950662344927179746964,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230516.0,
-        "Y": 9000.607142857142857142857
+        "X": 20230517.0,
+        "Y": 9002.10714285714285714285714
       },
       "End": {
-        "X": 20230522.0,
-        "Y": 9003.392857142857142857142
+        "X": 20230523.0,
+        "Y": 9001.89285714285714285714286
       }
     }
   }
