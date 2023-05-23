@@ -2,7 +2,7 @@
   "PublicName": "jok jokov",
   "AvatarImage": "https://pbs.twimg.com/profile_images/993748315039850496/x5CNimgw_normal.jpg",
   "Login": "JokJokov",
-  "CurrentFollowersCount": 2201,
+  "CurrentFollowersCount": 2200,
   "CurrentTweetsCout": 486,
   "FollowersCountHistory": {
     "20210125": 1165,
@@ -758,7 +758,8 @@
     "20230517": 2201,
     "20230519": 2203,
     "20230520": 2201,
-    "20230522": 2201
+    "20230522": 2201,
+    "20230523": 2200
   },
   "TweetsCountHistory": {
     "20210125": 259,
@@ -1514,20 +1515,21 @@
     "20230517": 480,
     "20230519": 485,
     "20230520": 486,
-    "20230522": 486
+    "20230522": 486,
+    "20230523": 486
   },
   "LangId": "pl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0020885274576094198276624091,
+    "WeeklyGrowth": -0.0510939063420310848257132115,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230514.0,
-        "Y": 2201.40804597701149424728333
+        "X": 20230515.0,
+        "Y": 2201.8281249999999995765430
       },
       "End": {
-        "X": 20230522.0,
-        "Y": 2201.45402298850574713336867
+        "X": 20230523.0,
+        "Y": 2200.7031250000000004548242
       }
     }
   }
