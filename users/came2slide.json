@@ -2,7 +2,7 @@
   "PublicName": "gato",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1576635011180158976/z4y8BsaN_normal.jpg",
   "Login": "came2slide",
-  "CurrentFollowersCount": 26192,
+  "CurrentFollowersCount": 26190,
   "CurrentTweetsCout": 4905,
   "FollowersCountHistory": {
     "20210223": 3951,
@@ -757,7 +757,8 @@
     "20230521": 26194,
     "20230522": 26194,
     "20230523": 26193,
-    "20230524": 26192
+    "20230524": 26192,
+    "20230525": 26190
   },
   "TweetsCountHistory": {
     "20210223": 1717,
@@ -1512,20 +1513,21 @@
     "20230521": 4901,
     "20230522": 4902,
     "20230523": 4905,
-    "20230524": 4905
+    "20230524": 4905,
+    "20230525": 4905
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0171822945999866359930888993,
+    "WeeklyGrowth": -0.0008181219465302766479361974,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230518.0,
-        "Y": 26189.75
+        "X": 20230519.0,
+        "Y": 26192.39285714285714285714285
       },
       "End": {
-        "X": 20230524.0,
-        "Y": 26194.25
+        "X": 20230525.0,
+        "Y": 26192.17857142857142857142857
       }
     }
   }
