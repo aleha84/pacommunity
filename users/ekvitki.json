@@ -2,8 +2,8 @@
   "PublicName": "The Sojourner",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1650879002490425345/4WRE-lRq_normal.jpg",
   "Login": "ekvitki",
-  "CurrentFollowersCount": 10114,
-  "CurrentTweetsCout": 4618,
+  "CurrentFollowersCount": 10118,
+  "CurrentTweetsCout": 4620,
   "FollowersCountHistory": {
     "20210928": 472,
     "20210929": 474,
@@ -566,7 +566,8 @@
     "20230520": 10122,
     "20230521": 10122,
     "20230522": 10118,
-    "20230523": 10114
+    "20230523": 10114,
+    "20230524": 10118
   },
   "TweetsCountHistory": {
     "20210928": 472,
@@ -1130,20 +1131,21 @@
     "20230520": 4603,
     "20230521": 4605,
     "20230522": 4617,
-    "20230523": 4618
+    "20230523": 4618,
+    "20230524": 4620
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0699219205220836732315538587,
+    "WeeklyGrowth": -0.0232921720656274593533937773,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230517.0,
-        "Y": 10113.321428571428571428571
+        "X": 20230518.0,
+        "Y": 10119.892857142857142857142
       },
       "End": {
-        "X": 20230523.0,
-        "Y": 10120.392857142857142857142
+        "X": 20230524.0,
+        "Y": 10117.535714285714285714285
       }
     }
   }
