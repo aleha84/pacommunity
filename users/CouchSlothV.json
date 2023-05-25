@@ -2,7 +2,7 @@
   "PublicName": "Couch Sloth (Give RAT)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1323329604191424512/aWjto2YU_normal.jpg",
   "Login": "CouchSlothV",
-  "CurrentFollowersCount": 1134,
+  "CurrentFollowersCount": 1133,
   "CurrentTweetsCout": 12585,
   "FollowersCountHistory": {
     "20210909": 624,
@@ -587,7 +587,8 @@
     "20230522": 1134,
     "20230523": 1133,
     "20230524": 1134,
-    "20230525": 1134
+    "20230525": 1134,
+    "20230526": 1133
   },
   "TweetsCountHistory": {
     "20210909": 6640,
@@ -1172,20 +1173,21 @@
     "20230522": 12582,
     "20230523": 12584,
     "20230524": 12585,
-    "20230525": 12585
+    "20230525": 12585,
+    "20230526": 12585
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0378095658201524985821349768,
+    "WeeklyGrowth": -0.056687557081220672062486065,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230519.0,
-        "Y": 1133.5000000000000000000001
+        "X": 20230520.0,
+        "Y": 1134.0357142857142857142857
       },
       "End": {
-        "X": 20230525.0,
-        "Y": 1133.9285714285714285714286
+        "X": 20230526.0,
+        "Y": 1133.3928571428571428571428
       }
     }
   }
