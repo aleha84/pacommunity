@@ -2,8 +2,8 @@
   "PublicName": "geographyofrobots",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1445409103426228229/mBJt_NeS_normal.jpg",
   "Login": "roboticgeo",
-  "CurrentFollowersCount": 21012,
-  "CurrentTweetsCout": 5664,
+  "CurrentFollowersCount": 21013,
+  "CurrentTweetsCout": 5675,
   "FollowersCountHistory": {
     "20210108": 11636,
     "20210109": 11655,
@@ -806,7 +806,8 @@
     "20230523": 21017,
     "20230524": 21018,
     "20230525": 21014,
-    "20230526": 21012
+    "20230526": 21012,
+    "20230528": 21013
   },
   "TweetsCountHistory": {
     "20210108": 1690,
@@ -1610,20 +1611,21 @@
     "20230523": 5655,
     "20230524": 5661,
     "20230525": 5664,
-    "20230526": 5664
+    "20230526": 5664,
+    "20230528": 5675
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0020394220277973222388776381,
+    "WeeklyGrowth": -0.0140602982031289743603464709,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230520.0,
-        "Y": 21014.3571428571428571428571
+        "X": 20230521.0,
+        "Y": 21016.040983606557375419282
       },
       "End": {
-        "X": 20230526.0,
-        "Y": 21014.7857142857142857142857
+        "X": 20230528.0,
+        "Y": 21013.086065573770493803607
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "vivi",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1614035910940659713/HMtDNPrC_normal.jpg",
   "Login": "YoshiMakes",
-  "CurrentFollowersCount": 959,
-  "CurrentTweetsCout": 7802,
+  "CurrentFollowersCount": 958,
+  "CurrentTweetsCout": 7805,
   "FollowersCountHistory": {
     "20210204": 507,
     "20210205": 509,
@@ -778,7 +778,8 @@
     "20230523": 959,
     "20230524": 959,
     "20230525": 959,
-    "20230526": 959
+    "20230526": 959,
+    "20230528": 958
   },
   "TweetsCountHistory": {
     "20210204": 2233,
@@ -1554,20 +1555,21 @@
     "20230523": 7790,
     "20230524": 7800,
     "20230525": 7803,
-    "20230526": 7802
+    "20230526": 7802,
+    "20230528": 7805
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1341981659583985685528949427,
+    "WeeklyGrowth": -0.0807533561778452815118655294,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230520.0,
-        "Y": 958.0714285714285714285715
+        "X": 20230521.0,
+        "Y": 959.2049180327868848180516
       },
       "End": {
-        "X": 20230526.0,
-        "Y": 959.3571428571428571428572
+        "X": 20230528.0,
+        "Y": 958.4303278688524595414821
       }
     }
   }
