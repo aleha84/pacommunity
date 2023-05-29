@@ -2,8 +2,8 @@
   "PublicName": "Yes I Do",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1198273222002823174/tWw6vNB__normal.jpg",
   "Login": "yes_i_do_pixels",
-  "CurrentFollowersCount": 21613,
-  "CurrentTweetsCout": 4080,
+  "CurrentFollowersCount": 21602,
+  "CurrentTweetsCout": 4117,
   "FollowersCountHistory": {
     "20201213": 9933,
     "20201214": 9989,
@@ -802,7 +802,8 @@
     "20230523": 21602,
     "20230524": 21602,
     "20230525": 21608,
-    "20230526": 21613
+    "20230526": 21613,
+    "20230529": 21602
   },
   "TweetsCountHistory": {
     "20201213": 9933,
@@ -1602,20 +1603,21 @@
     "20230523": 4066,
     "20230524": 4072,
     "20230525": 4077,
-    "20230526": 4080
+    "20230526": 4080,
+    "20230529": 4117
   },
   "LangId": "ua",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0821056086537600533660585887,
+    "WeeklyGrowth": 0.0570076115501608621831067814,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230519.0,
-        "Y": 21592.021739130434775796189
+        "X": 20230520.0,
+        "Y": 21596.761235955056184553453
       },
       "End": {
-        "X": 20230526.0,
-        "Y": 21609.750000000000006026450
+        "X": 20230529.0,
+        "Y": 21609.073033707865162937332
       }
     }
   }

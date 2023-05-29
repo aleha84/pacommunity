@@ -2,7 +2,7 @@
   "PublicName": "jamon / ja777on",
   "AvatarImage": "https://pbs.twimg.com/profile_images/749961560957878272/UCjUWOVa_normal.jpg",
   "Login": "ja777on",
-  "CurrentFollowersCount": 300,
+  "CurrentFollowersCount": 299,
   "CurrentTweetsCout": 323,
   "FollowersCountHistory": {
     "20210207": 286,
@@ -749,7 +749,8 @@
     "20230523": 300,
     "20230524": 300,
     "20230525": 300,
-    "20230526": 300
+    "20230526": 300,
+    "20230529": 299
   },
   "TweetsCountHistory": {
     "20210207": 291,
@@ -1496,20 +1497,21 @@
     "20230523": 323,
     "20230524": 323,
     "20230525": 323,
-    "20230526": 323
+    "20230526": 323,
+    "20230529": 323
   },
   "LangId": "rs",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2862756104406396692708709661,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230519.0,
-        "Y": 300.0
+        "X": 20230520.0,
+        "Y": 300.2528089887640446104054
       },
       "End": {
-        "X": 20230526.0,
-        "Y": 300.0
+        "X": 20230529.0,
+        "Y": 299.3932584269662925257317
       }
     }
   }

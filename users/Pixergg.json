@@ -2,7 +2,7 @@
   "PublicName": "François B.",
   "AvatarImage": "https://pbs.twimg.com/profile_images/819819724376854528/_1SkoeaI_normal.jpg",
   "Login": "Pixergg",
-  "CurrentFollowersCount": 1364,
+  "CurrentFollowersCount": 1363,
   "CurrentTweetsCout": 1528,
   "FollowersCountHistory": {
     "20201229": 1206,
@@ -778,7 +778,8 @@
     "20230523": 1364,
     "20230524": 1364,
     "20230525": 1364,
-    "20230526": 1364
+    "20230526": 1364,
+    "20230529": 1363
   },
   "TweetsCountHistory": {
     "20201229": 1415,
@@ -1554,20 +1555,21 @@
     "20230523": 1528,
     "20230524": 1528,
     "20230525": 1528,
-    "20230526": 1528
+    "20230526": 1528,
+    "20230529": 1528
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0636572539128715868930504158,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230520.0,
-        "Y": 1364.0
+        "X": 20230521.0,
+        "Y": 1364.2138157894736844455038
       },
       "End": {
-        "X": 20230526.0,
-        "Y": 1364.0
+        "X": 20230529.0,
+        "Y": 1363.3453947368421049260163
       }
     }
   }
