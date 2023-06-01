@@ -2,8 +2,8 @@
   "PublicName": "Daniel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1633777544578101249/fI9xevAy_normal.jpg",
   "Login": "vaalaras",
-  "CurrentFollowersCount": 265,
-  "CurrentTweetsCout": 1800,
+  "CurrentFollowersCount": 264,
+  "CurrentTweetsCout": 1801,
   "FollowersCountHistory": {
     "20210914": 82,
     "20210915": 82,
@@ -564,7 +564,8 @@
     "20230526": 265,
     "20230529": 265,
     "20230530": 265,
-    "20230531": 265
+    "20230531": 264,
+    "20230601": 264
   },
   "TweetsCountHistory": {
     "20210914": 618,
@@ -1126,20 +1127,21 @@
     "20230526": 1792,
     "20230529": 1798,
     "20230530": 1800,
-    "20230531": 1800
+    "20230531": 1801,
+    "20230601": 1801
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.7891364671392875409654395264,
+    "WeeklyGrowth": -0.0935258373078440241212216764,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230523.0,
-        "Y": 263.2839805825242725740967
+        "X": 20230524.0,
+        "Y": 264.330662915851272015655577
       },
       "End": {
-        "X": 20230531.0,
-        "Y": 265.3616504854368924204147
+        "X": 20230601.0,
+        "Y": 264.083445450097847358121330
       }
     }
   }

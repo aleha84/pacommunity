@@ -2,7 +2,7 @@
   "PublicName": "Chironyx - チロニクス",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1117084479238098946/F7AWQcft_normal.png",
   "Login": "Chironyx",
-  "CurrentFollowersCount": 128,
+  "CurrentFollowersCount": 127,
   "CurrentTweetsCout": 761,
   "FollowersCountHistory": {
     "20210310": 82,
@@ -721,7 +721,8 @@
     "20230526": 128,
     "20230529": 128,
     "20230530": 128,
-    "20230531": 128
+    "20230531": 128,
+    "20230601": 127
   },
   "TweetsCountHistory": {
     "20210310": 647,
@@ -1440,20 +1441,21 @@
     "20230526": 761,
     "20230529": 761,
     "20230530": 761,
-    "20230531": 761
+    "20230531": 761,
+    "20230601": 761
   },
   "LangId": "il",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.4108572841572667384682606593,
+    "WeeklyGrowth": -0.8108913572263346144128808986,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230523.0,
-        "Y": 127.6043689320388351355056
+        "X": 20230524.0,
+        "Y": 128.04592710371819960861056
       },
       "End": {
-        "X": 20230531.0,
-        "Y": 128.1286407766990289285310
+        "X": 20230601.0,
+        "Y": 127.00761374755381604696673
       }
     }
   }

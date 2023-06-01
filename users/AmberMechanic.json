@@ -2,7 +2,7 @@
   "PublicName": "amberMechanic",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1387819456475373573/dqKzstgE_normal.png",
   "Login": "AmberMechanic",
-  "CurrentFollowersCount": 1892,
+  "CurrentFollowersCount": 1890,
   "CurrentTweetsCout": 694,
   "FollowersCountHistory": {
     "20210215": 45,
@@ -771,7 +771,8 @@
     "20230528": 1891,
     "20230529": 1892,
     "20230530": 1892,
-    "20230531": 1892
+    "20230531": 1892,
+    "20230601": 1890
   },
   "TweetsCountHistory": {
     "20210215": 8,
@@ -1540,20 +1541,21 @@
     "20230528": 690,
     "20230529": 690,
     "20230530": 690,
-    "20230531": 694
+    "20230531": 694,
+    "20230601": 694
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1509749939736872670795724568,
+    "WeeklyGrowth": -0.0655151704974842751282080207,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230524.0,
-        "Y": 1889.544520547945204981001
+        "X": 20230525.0,
+        "Y": 1891.36413043478260869634754
       },
       "End": {
-        "X": 20230531.0,
-        "Y": 1892.397260273972603218240
+        "X": 20230601.0,
+        "Y": 1890.12499999999999999680128
       }
     }
   }

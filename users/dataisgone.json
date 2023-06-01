@@ -2,7 +2,7 @@
   "PublicName": "No Data (SEMI-HIATUS, Comms)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1570871155262885888/1Uq3tmkk_normal.png",
   "Login": "dataisgone",
-  "CurrentFollowersCount": 1250,
+  "CurrentFollowersCount": 1249,
   "CurrentTweetsCout": 1651,
   "FollowersCountHistory": {
     "20230331": 1202,
@@ -61,7 +61,8 @@
     "20230528": 1247,
     "20230529": 1250,
     "20230530": 1250,
-    "20230531": 1250
+    "20230531": 1250,
+    "20230601": 1249
   },
   "TweetsCountHistory": {
     "20230331": 1559,
@@ -120,20 +121,21 @@
     "20230528": 1646,
     "20230529": 1647,
     "20230530": 1649,
-    "20230531": 1651
+    "20230531": 1651,
+    "20230601": 1651
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0172696895019476430621692249,
+    "WeeklyGrowth": -0.0228007068219114793308705792,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230524.0,
-        "Y": 1249.31849315068493146951821
+        "X": 20230525.0,
+        "Y": 1249.336581709145427286524179
       },
       "End": {
-        "X": 20230531.0,
-        "Y": 1249.53424657534246578926253
+        "X": 20230601.0,
+        "Y": 1249.051724137931034481988767
       }
     }
   }

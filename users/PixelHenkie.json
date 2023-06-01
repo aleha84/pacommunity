@@ -2,7 +2,7 @@
   "PublicName": "PixelHenkie",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1432294616712323073/kpGNDuI-_normal.jpg",
   "Login": "PixelHenkie",
-  "CurrentFollowersCount": 225,
+  "CurrentFollowersCount": 224,
   "CurrentTweetsCout": 253,
   "FollowersCountHistory": {
     "20210126": 145,
@@ -763,7 +763,8 @@
     "20230526": 225,
     "20230529": 225,
     "20230530": 225,
-    "20230531": 225
+    "20230531": 225,
+    "20230601": 224
   },
   "TweetsCountHistory": {
     "20210126": 197,
@@ -1524,20 +1525,21 @@
     "20230526": 253,
     "20230529": 253,
     "20230530": 253,
-    "20230531": 253
+    "20230531": 253,
+    "20230601": 253
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2334201454553312108123953176,
+    "WeeklyGrowth": -0.4613784259627370038351029328,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230523.0,
-        "Y": 224.6043689320388351355056
+        "X": 20230524.0,
+        "Y": 225.04592710371819960861056
       },
       "End": {
-        "X": 20230531.0,
-        "Y": 225.1286407766990289285310
+        "X": 20230601.0,
+        "Y": 224.00761374755381604696673
       }
     }
   }

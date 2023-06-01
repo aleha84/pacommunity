@@ -2,7 +2,7 @@
   "PublicName": "melit",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1534185613414371328/t1ykXJrt_normal.jpg",
   "Login": "melit_maki",
-  "CurrentFollowersCount": 1889,
+  "CurrentFollowersCount": 1886,
   "CurrentTweetsCout": 551,
   "FollowersCountHistory": {
     "20210919": 242,
@@ -566,7 +566,8 @@
     "20230526": 1890,
     "20230529": 1891,
     "20230530": 1890,
-    "20230531": 1889
+    "20230531": 1889,
+    "20230601": 1886
   },
   "TweetsCountHistory": {
     "20210919": 257,
@@ -1130,20 +1131,21 @@
     "20230526": 550,
     "20230529": 551,
     "20230530": 551,
-    "20230531": 551
+    "20230531": 551,
+    "20230601": 551
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3379126681192788044855113378,
+    "WeeklyGrowth": -0.1247836478490415261757163611,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230523.0,
-        "Y": 1884.786407766990293498295
+        "X": 20230524.0,
+        "Y": 1888.71422455968688845401173
       },
       "End": {
-        "X": 20230531.0,
-        "Y": 1891.155339805825240316646
+        "X": 20230601.0,
+        "Y": 1886.35741805283757338551858
       }
     }
   }

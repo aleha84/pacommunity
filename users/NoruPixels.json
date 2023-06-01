@@ -2,8 +2,8 @@
   "PublicName": "Noru 노루",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1635637411592953856/MHfv8i8Q_normal.jpg",
   "Login": "NoruPixels",
-  "CurrentFollowersCount": 3099,
-  "CurrentTweetsCout": 8499,
+  "CurrentFollowersCount": 3096,
+  "CurrentTweetsCout": 8510,
   "FollowersCountHistory": {
     "20210915": 2640,
     "20210916": 2644,
@@ -586,7 +586,8 @@
     "20230528": 3101,
     "20230529": 3102,
     "20230530": 3102,
-    "20230531": 3099
+    "20230531": 3099,
+    "20230601": 3096
   },
   "TweetsCountHistory": {
     "20210915": 5995,
@@ -1170,20 +1171,21 @@
     "20230528": 8473,
     "20230529": 8494,
     "20230530": 8498,
-    "20230531": 8499
+    "20230531": 8499,
+    "20230601": 8510
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0974854932301741146399582701,
+    "WeeklyGrowth": -0.1398032265757818094015001636,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230524.0,
-        "Y": 3098.458904109589040568118
+        "X": 20230525.0,
+        "Y": 3100.4883183408295852098055
       },
       "End": {
-        "X": 20230531.0,
-        "Y": 3101.479452054794521054607
+        "X": 20230601.0,
+        "Y": 3096.1537356321839080348948
       }
     }
   }
