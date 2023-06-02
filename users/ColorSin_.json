@@ -2,7 +2,7 @@
   "PublicName": "Sin",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1244712586274316288/849Sg9gr_normal.png",
   "Login": "ColorSin_",
-  "CurrentFollowersCount": 853,
+  "CurrentFollowersCount": 852,
   "CurrentTweetsCout": 950,
   "FollowersCountHistory": {
     "20210113": 939,
@@ -767,7 +767,8 @@
     "20230529": 853,
     "20230530": 853,
     "20230531": 853,
-    "20230601": 853
+    "20230601": 853,
+    "20230602": 852
   },
   "TweetsCountHistory": {
     "20210113": 949,
@@ -1532,20 +1533,21 @@
     "20230529": 950,
     "20230530": 950,
     "20230531": 950,
-    "20230601": 950
+    "20230601": 950,
+    "20230602": 950
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0619415288491203060158913231,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230524.0,
-        "Y": 853.0
+        "X": 20230525.0,
+        "Y": 853.02281157270029673497434
       },
       "End": {
-        "X": 20230601.0,
-        "Y": 853.0
+        "X": 20230602.0,
+        "Y": 852.49443620178041543230469
       }
     }
   }
