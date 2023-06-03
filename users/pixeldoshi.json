@@ -2,7 +2,7 @@
   "PublicName": "Pixeldoshi",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1448289614029021188/eppDSinz_normal.jpg",
   "Login": "pixeldoshi",
-  "CurrentFollowersCount": 32608,
+  "CurrentFollowersCount": 32604,
   "CurrentTweetsCout": 3656,
   "FollowersCountHistory": {
     "20210125": 6364,
@@ -765,7 +765,8 @@
     "20230530": 32619,
     "20230531": 32620,
     "20230601": 32620,
-    "20230602": 32608
+    "20230602": 32608,
+    "20230603": 32604
   },
   "TweetsCountHistory": {
     "20210125": 910,
@@ -1528,20 +1529,21 @@
     "20230530": 3656,
     "20230531": 3656,
     "20230601": 3656,
-    "20230602": 3656
+    "20230602": 3656,
+    "20230603": 3656
   },
   "LangId": "it",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0052939495228381654865476106,
+    "WeeklyGrowth": -0.0114986617920203001712504825,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230525.0,
-        "Y": 32612.74438056379821958753683
+        "X": 20230526.0,
+        "Y": 32614.5270059319388073733594
       },
       "End": {
-        "X": 20230602.0,
-        "Y": 32614.47088278931750741190161
+        "X": 20230603.0,
+        "Y": 32610.7767717764595691473564
       }
     }
   }

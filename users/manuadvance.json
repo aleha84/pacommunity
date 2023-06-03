@@ -2,7 +2,7 @@
   "PublicName": "manuadvance",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1322781237828898817/CQ1_RpWQ_normal.jpg",
   "Login": "manuadvance",
-  "CurrentFollowersCount": 2380,
+  "CurrentFollowersCount": 2379,
   "CurrentTweetsCout": 1210,
   "FollowersCountHistory": {
     "20210112": 296,
@@ -769,7 +769,8 @@
     "20230530": 2382,
     "20230531": 2382,
     "20230601": 2382,
-    "20230602": 2380
+    "20230602": 2380,
+    "20230603": 2379
   },
   "TweetsCountHistory": {
     "20210112": 461,
@@ -1536,20 +1537,21 @@
     "20230530": 1210,
     "20230531": 1210,
     "20230601": 1210,
-    "20230602": 1210
+    "20230602": 1210,
+    "20230603": 1210
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0236353462310223664081999533,
+    "WeeklyGrowth": -0.0273616878937086213833880952,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230525.0,
-        "Y": 2380.53787091988130563897717
+        "X": 20230526.0,
+        "Y": 2381.00437090227911333215227
       },
       "End": {
-        "X": 20230602.0,
-        "Y": 2381.10051928783382789099675
+        "X": 20230603.0,
+        "Y": 2380.35288791757727130702698
       }
     }
   }
