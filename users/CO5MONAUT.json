@@ -2,7 +2,7 @@
   "PublicName": "CO5MONAUT",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1661012587339993089/Ajmg1alW_normal.jpg",
   "Login": "CO5MONAUT",
-  "CurrentFollowersCount": 1512,
+  "CurrentFollowersCount": 1511,
   "CurrentTweetsCout": 795,
   "FollowersCountHistory": {
     "20201214": 1377,
@@ -799,7 +799,8 @@
     "20230531": 1512,
     "20230601": 1512,
     "20230602": 1512,
-    "20230603": 1512
+    "20230603": 1512,
+    "20230604": 1511
   },
   "TweetsCountHistory": {
     "20201214": 644,
@@ -1596,20 +1597,21 @@
     "20230531": 795,
     "20230601": 795,
     "20230602": 795,
-    "20230603": 795
+    "20230603": 795,
+    "20230604": 795
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0381723697316242798953705239,
+    "WeeklyGrowth": -0.017916238004083309739607213,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230526.0,
-        "Y": 1511.45738370277864501948606
+        "X": 20230529.0,
+        "Y": 1512.010392243837526139277444
       },
       "End": {
-        "X": 20230603.0,
-        "Y": 1512.03434280362160474655696
+        "X": 20230604.0,
+        "Y": 1511.739496863316646600150653
       }
     }
   }
