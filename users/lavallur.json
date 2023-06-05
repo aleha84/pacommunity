@@ -2,7 +2,7 @@
   "PublicName": "lava",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1612218466487992322/Ki2z2Gq5_normal.jpg",
   "Login": "lavallur",
-  "CurrentFollowersCount": 307,
+  "CurrentFollowersCount": 306,
   "CurrentTweetsCout": 184,
   "FollowersCountHistory": {
     "20201228": 266,
@@ -766,7 +766,8 @@
     "20230601": 307,
     "20230602": 307,
     "20230603": 307,
-    "20230604": 307
+    "20230604": 307,
+    "20230605": 306
   },
   "TweetsCountHistory": {
     "20201228": 128,
@@ -1530,20 +1531,21 @@
     "20230601": 184,
     "20230602": 184,
     "20230603": 184,
-    "20230604": 184
+    "20230604": 184,
+    "20230605": 184
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0737931067770475408636696159,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230529.0,
-        "Y": 307.0
+        "X": 20230530.0,
+        "Y": 307.015084732882437875820598
       },
       "End": {
-        "X": 20230604.0,
-        "Y": 307.0
+        "X": 20230605.0,
+        "Y": 306.788528763583858955586135
       }
     }
   }
