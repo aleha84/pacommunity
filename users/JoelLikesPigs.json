@@ -2,7 +2,7 @@
   "PublicName": "Joel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1348052237914935302/4qraoxOI_normal.jpg",
   "Login": "JoelLikesPigs",
-  "CurrentFollowersCount": 4102,
+  "CurrentFollowersCount": 4100,
   "CurrentTweetsCout": 2876,
   "FollowersCountHistory": {
     "20210127": 3984,
@@ -797,7 +797,8 @@
     "20230604": 4101,
     "20230605": 4103,
     "20230606": 4103,
-    "20230607": 4102
+    "20230607": 4102,
+    "20230608": 4100
   },
   "TweetsCountHistory": {
     "20210127": 2522,
@@ -1592,20 +1593,21 @@
     "20230604": 2876,
     "20230605": 2876,
     "20230606": 2876,
-    "20230607": 2876
+    "20230607": 2876,
+    "20230608": 2876
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0052237051740799749262150251,
+    "WeeklyGrowth": -0.0365608433367863018706964841,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230601.0,
-        "Y": 4102.17857142857142857142857
+        "X": 20230602.0,
+        "Y": 4102.75
       },
       "End": {
-        "X": 20230607.0,
-        "Y": 4102.39285714285714285714285
+        "X": 20230608.0,
+        "Y": 4101.25
       }
     }
   }
