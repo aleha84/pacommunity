@@ -2,7 +2,7 @@
   "PublicName": "Daniel Benítez",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1616050038290976768/2rUU_kWr_normal.jpg",
   "Login": "dabntz",
-  "CurrentFollowersCount": 1117,
+  "CurrentFollowersCount": 1116,
   "CurrentTweetsCout": 3305,
   "FollowersCountHistory": {
     "20210225": 1016,
@@ -728,7 +728,8 @@
     "20230602": 1117,
     "20230603": 1117,
     "20230604": 1117,
-    "20230605": 1117
+    "20230605": 1117,
+    "20230606": 1116
   },
   "TweetsCountHistory": {
     "20210225": 2945,
@@ -1454,20 +1455,21 @@
     "20230602": 3305,
     "20230603": 3305,
     "20230604": 3305,
-    "20230605": 3305
+    "20230605": 3305,
+    "20230606": 3305
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0190865110960492616759244144,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230530.0,
-        "Y": 1117.0
+        "X": 20230531.0,
+        "Y": 1117.033796588755527477756192
       },
       "End": {
-        "X": 20230605.0,
-        "Y": 1117.0
+        "X": 20230606.0,
+        "Y": 1116.820593809222994314946995
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Clairvoire",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1455702045089058823/AqrwkJst_normal.png",
   "Login": "Clairvoire",
-  "CurrentFollowersCount": 4834,
+  "CurrentFollowersCount": 4833,
   "CurrentTweetsCout": 11483,
   "FollowersCountHistory": {
     "20210108": 4657,
@@ -816,7 +816,8 @@
     "20230603": 4832,
     "20230604": 4833,
     "20230605": 4833,
-    "20230606": 4834
+    "20230606": 4834,
+    "20230607": 4833
   },
   "TweetsCountHistory": {
     "20210108": 10218,
@@ -1630,20 +1631,21 @@
     "20230603": 11483,
     "20230604": 11483,
     "20230605": 11483,
-    "20230606": 11483
+    "20230606": 11483,
+    "20230607": 11483
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0172499750071384838105900901,
+    "WeeklyGrowth": 0.0044337705523739146499167486,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230531.0,
-        "Y": 4833.97662665824384080198553
+        "X": 20230601.0,
+        "Y": 4833.03571428571428571428572
       },
       "End": {
-        "X": 20230606.0,
-        "Y": 4833.14276689829437776510644
+        "X": 20230607.0,
+        "Y": 4833.25000000000000000000000
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "The Duck In A Tux",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1464049330243837953/dBel0r2W_normal.jpg",
   "Login": "Duck_in_a_Tux",
-  "CurrentFollowersCount": 330,
-  "CurrentTweetsCout": 2049,
+  "CurrentFollowersCount": 329,
+  "CurrentTweetsCout": 2053,
   "FollowersCountHistory": {
     "20230304": 263,
     "20230305": 265,
@@ -94,7 +94,8 @@
     "20230603": 330,
     "20230604": 330,
     "20230605": 330,
-    "20230606": 330
+    "20230606": 330,
+    "20230607": 329
   },
   "TweetsCountHistory": {
     "20230304": 1936,
@@ -186,20 +187,21 @@
     "20230603": 2044,
     "20230604": 2044,
     "20230605": 2049,
-    "20230606": 2049
+    "20230606": 2049,
+    "20230607": 2053
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1946998377501352082206425516,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230531.0,
-        "Y": 330.0
+        "X": 20230601.0,
+        "Y": 330.1785714285714285714285
       },
       "End": {
-        "X": 20230606.0,
-        "Y": 330.0
+        "X": 20230607.0,
+        "Y": 329.5357142857142857142857
       }
     }
   }
