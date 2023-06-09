@@ -2,8 +2,8 @@
   "PublicName": "NB",
   "AvatarImage": "https://pbs.twimg.com/profile_images/898852525532631040/xWC1GZNT_normal.jpg",
   "Login": "neet_dot",
-  "CurrentFollowersCount": 2099,
-  "CurrentTweetsCout": 5558,
+  "CurrentFollowersCount": 2098,
+  "CurrentTweetsCout": 5559,
   "FollowersCountHistory": {
     "20201231": 1239,
     "20210101": 1242,
@@ -793,7 +793,8 @@
     "20230605": 2099,
     "20230606": 2099,
     "20230607": 2099,
-    "20230608": 2099
+    "20230608": 2098,
+    "20230609": 2098
   },
   "TweetsCountHistory": {
     "20201231": 4189,
@@ -1584,20 +1585,21 @@
     "20230605": 5558,
     "20230606": 5558,
     "20230607": 5558,
-    "20230608": 5558
+    "20230608": 5558,
+    "20230609": 5559
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.051038636247639463073550075,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230602.0,
-        "Y": 2099.0
+        "X": 20230603.0,
+        "Y": 2099.2500000000000000000001
       },
       "End": {
-        "X": 20230608.0,
-        "Y": 2099.0
+        "X": 20230609.0,
+        "Y": 2098.1785714285714285714286
       }
     }
   }

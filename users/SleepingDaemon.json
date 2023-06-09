@@ -2,7 +2,7 @@
   "PublicName": "Gabriel",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1378822421927628806/9NAY8bMO_normal.jpg",
   "Login": "SleepingDaemon",
-  "CurrentFollowersCount": 527,
+  "CurrentFollowersCount": 526,
   "CurrentTweetsCout": 298,
   "FollowersCountHistory": {
     "20210111": 497,
@@ -792,7 +792,8 @@
     "20230605": 527,
     "20230606": 527,
     "20230607": 527,
-    "20230608": 527
+    "20230608": 527,
+    "20230609": 526
   },
   "TweetsCountHistory": {
     "20210111": 220,
@@ -1582,20 +1583,21 @@
     "20230605": 298,
     "20230606": 298,
     "20230607": 298,
-    "20230608": 298
+    "20230608": 298,
+    "20230609": 298
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1219429577941873856784662451,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230602.0,
-        "Y": 527.0
+        "X": 20230603.0,
+        "Y": 527.1785714285714285714285
       },
       "End": {
-        "X": 20230608.0,
-        "Y": 527.0
+        "X": 20230609.0,
+        "Y": 526.5357142857142857142857
       }
     }
   }
