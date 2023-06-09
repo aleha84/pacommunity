@@ -2,7 +2,7 @@
   "PublicName": "Rumin",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1568438993611784192/YuYUdaD2_normal.jpg",
   "Login": "HelloRumin",
-  "CurrentFollowersCount": 703,
+  "CurrentFollowersCount": 702,
   "CurrentTweetsCout": 226,
   "FollowersCountHistory": {
     "20220516": 380,
@@ -362,7 +362,8 @@
     "20230606": 704,
     "20230607": 705,
     "20230608": 704,
-    "20230609": 703
+    "20230609": 703,
+    "20230610": 702
   },
   "TweetsCountHistory": {
     "20220516": 157,
@@ -722,20 +723,21 @@
     "20230606": 226,
     "20230607": 226,
     "20230608": 226,
-    "20230609": 226
+    "20230609": 226,
+    "20230610": 226
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1521683996956632006086695502,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230603.0,
-        "Y": 703.85714285714285714285714286
+        "X": 20230604.0,
+        "Y": 704.1071428571428571428571
       },
       "End": {
-        "X": 20230609.0,
-        "Y": 703.85714285714285714285714286
+        "X": 20230610.0,
+        "Y": 703.0357142857142857142857
       }
     }
   }
