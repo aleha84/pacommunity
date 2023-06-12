@@ -2,8 +2,8 @@
   "PublicName": "Jame",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1598552358287556609/X52mugU__normal.jpg",
   "Login": "b0rkdotexe",
-  "CurrentFollowersCount": 1547,
-  "CurrentTweetsCout": 502,
+  "CurrentFollowersCount": 1545,
+  "CurrentTweetsCout": 503,
   "FollowersCountHistory": {
     "20210207": 71,
     "20210208": 73,
@@ -789,7 +789,8 @@
     "20230607": 1549,
     "20230608": 1549,
     "20230609": 1549,
-    "20230610": 1547
+    "20230610": 1547,
+    "20230613": 1545
   },
   "TweetsCountHistory": {
     "20210207": 21,
@@ -1576,20 +1577,21 @@
     "20230607": 501,
     "20230608": 501,
     "20230609": 502,
-    "20230610": 502
+    "20230610": 502,
+    "20230613": 503
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0692376930000692376929982223,
+    "WeeklyGrowth": -0.1597233727119415510864861582,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230604.0,
-        "Y": 1547.4642857142857142857143
+        "X": 20230605.0,
+        "Y": 1548.7302631578947375104035
       },
       "End": {
-        "X": 20230610.0,
-        "Y": 1548.5357142857142857142857
+        "X": 20230613.0,
+        "Y": 1546.2565789473684200937692
       }
     }
   }

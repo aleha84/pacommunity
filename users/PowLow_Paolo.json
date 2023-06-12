@@ -2,7 +2,7 @@
   "PublicName": "Paolo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1010445672531877888/Li5Qsryf_normal.jpg",
   "Login": "PowLow_Paolo",
-  "CurrentFollowersCount": 380,
+  "CurrentFollowersCount": 379,
   "CurrentTweetsCout": 769,
   "FollowersCountHistory": {
     "20210112": 425,
@@ -816,7 +816,8 @@
     "20230607": 380,
     "20230608": 380,
     "20230609": 380,
-    "20230610": 380
+    "20230610": 380,
+    "20230613": 379
   },
   "TweetsCountHistory": {
     "20210112": 757,
@@ -1630,20 +1631,21 @@
     "20230607": 769,
     "20230608": 769,
     "20230609": 769,
-    "20230610": 769
+    "20230610": 769,
+    "20230613": 769
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2284033395336766652569686353,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230604.0,
-        "Y": 380.0
+        "X": 20230605.0,
+        "Y": 380.2138157894736844452012
       },
       "End": {
-        "X": 20230610.0,
-        "Y": 380.0
+        "X": 20230613.0,
+        "Y": 379.3453947368421049264505
       }
     }
   }
