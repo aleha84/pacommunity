@@ -2,8 +2,8 @@
   "PublicName": "Camille Unknown",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1391885965673762822/f5xi2b76_normal.jpg",
   "Login": "CamiUnknown",
-  "CurrentFollowersCount": 39971,
-  "CurrentTweetsCout": 7621,
+  "CurrentFollowersCount": 40000,
+  "CurrentTweetsCout": 7629,
   "FollowersCountHistory": {
     "20201229": 8243,
     "20201230": 8251,
@@ -790,7 +790,8 @@
     "20230606": 39936,
     "20230607": 39943,
     "20230608": 39936,
-    "20230609": 39971
+    "20230609": 39971,
+    "20230613": 40000
   },
   "TweetsCountHistory": {
     "20201229": 5422,
@@ -1578,20 +1579,21 @@
     "20230606": 7613,
     "20230607": 7613,
     "20230608": 7613,
-    "20230609": 7621
+    "20230609": 7621,
+    "20230613": 7629
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0477557908367905604508733323,
+    "WeeklyGrowth": 0.1460792185877397478749257262,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230603.0,
-        "Y": 39935.321428571428571428571
+        "X": 20230604.0,
+        "Y": 39932.06382978723403664038
       },
       "End": {
-        "X": 20230609.0,
-        "Y": 39954.392857142857142857143
+        "X": 20230613.0,
+        "Y": 39990.39627659574469045938
       }
     }
   }

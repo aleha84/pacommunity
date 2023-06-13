@@ -2,8 +2,8 @@
   "PublicName": "Rune_Drawer",
   "AvatarImage": "https://pbs.twimg.com/profile_images/426715307034423297/Tpx3clDP_normal.jpeg",
   "Login": "Rune_Drawer",
-  "CurrentFollowersCount": 1379,
-  "CurrentTweetsCout": 160,
+  "CurrentFollowersCount": 1378,
+  "CurrentTweetsCout": 162,
   "FollowersCountHistory": {
     "20201216": 1385,
     "20201217": 1387,
@@ -802,7 +802,8 @@
     "20230606": 1380,
     "20230607": 1379,
     "20230608": 1379,
-    "20230609": 1379
+    "20230609": 1379,
+    "20230613": 1378
   },
   "TweetsCountHistory": {
     "20201216": 86,
@@ -1602,20 +1603,21 @@
     "20230606": 159,
     "20230607": 159,
     "20230608": 160,
-    "20230609": 160
+    "20230609": 160,
+    "20230613": 162
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0932980873892085212253138396,
+    "WeeklyGrowth": -0.0138882459145409972007306898,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230603.0,
-        "Y": 1378.0714285714285714285715
+        "X": 20230604.0,
+        "Y": 1378.78723404255319150894524
       },
       "End": {
-        "X": 20230609.0,
-        "Y": 1379.3571428571428571428572
+        "X": 20230613.0,
+        "Y": 1378.59574468085106379796402
       }
     }
   }
