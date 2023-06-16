@@ -2,7 +2,7 @@
   "PublicName": "RareThistle",
   "AvatarImage": "https://pbs.twimg.com/profile_images/973662692257947648/iEcB1D2I_normal.jpg",
   "Login": "Hainsaw",
-  "CurrentFollowersCount": 7903,
+  "CurrentFollowersCount": 7902,
   "CurrentTweetsCout": 492,
   "FollowersCountHistory": {
     "20210111": 6727,
@@ -820,7 +820,8 @@
     "20230610": 7904,
     "20230613": 7905,
     "20230614": 7905,
-    "20230615": 7903
+    "20230615": 7903,
+    "20230617": 7902
   },
   "TweetsCountHistory": {
     "20210111": 451,
@@ -1638,20 +1639,21 @@
     "20230610": 492,
     "20230613": 492,
     "20230614": 492,
-    "20230615": 492
+    "20230615": 492,
+    "20230617": 492
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0071244428271140274279446573,
+    "WeeklyGrowth": -0.0291857419208559987949598496,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230607.0,
-        "Y": 7903.8713592233009710686706
+        "X": 20230608.0,
+        "Y": 7905.2415254237288140239515
       },
       "End": {
-        "X": 20230615.0,
-        "Y": 7904.4344660194174755188355
+        "X": 20230617.0,
+        "Y": 7902.9343220338983045736535
       }
     }
   }

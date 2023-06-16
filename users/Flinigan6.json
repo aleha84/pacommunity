@@ -2,8 +2,8 @@
   "PublicName": "Flinigan",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1610141309880389632/pImVREEt_normal.png",
   "Login": "Flinigan6",
-  "CurrentFollowersCount": 5331,
-  "CurrentTweetsCout": 1362,
+  "CurrentFollowersCount": 5327,
+  "CurrentTweetsCout": 1363,
   "FollowersCountHistory": {
     "20210916": 1168,
     "20210917": 1171,
@@ -598,7 +598,8 @@
     "20230610": 5329,
     "20230613": 5330,
     "20230614": 5330,
-    "20230615": 5331
+    "20230615": 5331,
+    "20230617": 5327
   },
   "TweetsCountHistory": {
     "20210916": 561,
@@ -1194,20 +1195,21 @@
     "20230610": 1360,
     "20230613": 1362,
     "20230614": 1362,
-    "20230615": 1362
+    "20230615": 1362,
+    "20230617": 1363
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0273279670315405532587578001,
+    "WeeklyGrowth": -0.0146680839189304206585862598,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230607.0,
-        "Y": 5329.0121359223300975983719
+        "X": 20230608.0,
+        "Y": 5329.8008474576271188016303
       },
       "End": {
-        "X": 20230615.0,
-        "Y": 5330.4684466019417470239709
+        "X": 20230617.0,
+        "Y": 5329.0190677966101693182067
       }
     }
   }
