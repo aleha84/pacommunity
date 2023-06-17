@@ -2,8 +2,8 @@
   "PublicName": "cath wizard",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1506424088939618307/JuHSpsZ9_normal.jpg",
   "Login": "cathwizard",
-  "CurrentFollowersCount": 1843,
-  "CurrentTweetsCout": 11224,
+  "CurrentFollowersCount": 1842,
+  "CurrentTweetsCout": 11222,
   "FollowersCountHistory": {
     "20210711": 500,
     "20210712": 503,
@@ -652,7 +652,8 @@
     "20230613": 1841,
     "20230614": 1841,
     "20230615": 1843,
-    "20230617": 1843
+    "20230617": 1843,
+    "20230618": 1842
   },
   "TweetsCountHistory": {
     "20210711": 4186,
@@ -1302,20 +1303,21 @@
     "20230613": 11198,
     "20230614": 11207,
     "20230615": 11217,
-    "20230617": 11224
+    "20230617": 11224,
+    "20230618": 11222
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0186284836414315953718532355,
+    "WeeklyGrowth": 0.0020701981179598896075130825,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230608.0,
-        "Y": 1842.44915254237288142527650
+        "X": 20230609.0,
+        "Y": 1842.12288135593220338166583
       },
       "End": {
-        "X": 20230617.0,
-        "Y": 1842.10593220338983043219585
+        "X": 20230618.0,
+        "Y": 1842.16101694915254238030379
       }
     }
   }
