@@ -2,8 +2,8 @@
   "PublicName": "Lapes",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1653067408444125188/D0j4Lih7_normal.jpg",
   "Login": "LapesDoc",
-  "CurrentFollowersCount": 4546,
-  "CurrentTweetsCout": 238,
+  "CurrentFollowersCount": 4545,
+  "CurrentTweetsCout": 237,
   "FollowersCountHistory": {
     "20210422": 105,
     "20210423": 106,
@@ -684,7 +684,8 @@
     "20230613": 4549,
     "20230614": 4551,
     "20230615": 4550,
-    "20230616": 4546
+    "20230616": 4546,
+    "20230618": 4545
   },
   "TweetsCountHistory": {
     "20210422": 39,
@@ -1366,20 +1367,21 @@
     "20230613": 244,
     "20230614": 236,
     "20230615": 236,
-    "20230616": 238
+    "20230616": 238,
+    "20230618": 237
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0270508841367920596123200959,
+    "WeeklyGrowth": -0.0395366932142382844608596435,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230607.0,
-        "Y": 4547.7841726618705033654938
+        "X": 20230608.0,
+        "Y": 4549.0935251798561154495955
       },
       "End": {
-        "X": 20230616.0,
-        "Y": 4549.0143884892086333040967
+        "X": 20230618.0,
+        "Y": 4547.2949640287769781125231
       }
     }
   }

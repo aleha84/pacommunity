@@ -2,15 +2,16 @@
   "PublicName": "♠️Nuggeteer♣️",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1651955221055131657/WAe7Bvo7_normal.jpg",
   "Login": "Nuggeteer311",
-  "CurrentFollowersCount": 349,
-  "CurrentTweetsCout": 3498,
+  "CurrentFollowersCount": 351,
+  "CurrentTweetsCout": 3510,
   "FollowersCountHistory": {
     "20230610": 333,
     "20230613": 338,
     "20230614": 339,
     "20230615": 341,
     "20230617": 346,
-    "20230618": 349
+    "20230618": 349,
+    "20230619": 351
   },
   "TweetsCountHistory": {
     "20230610": 3269,
@@ -18,12 +19,22 @@
     "20230614": 3380,
     "20230615": 3415,
     "20230617": 3490,
-    "20230618": 3498
+    "20230618": 3498,
+    "20230619": 3510
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 5.5550680122860862171903607343,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20230610.0,
+        "Y": 331.893203883495153302415
+      },
+      "End": {
+        "X": 20230619.0,
+        "Y": 350.330097087378635023190
+      }
+    }
   }
 }

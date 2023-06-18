@@ -2,8 +2,8 @@
   "PublicName": "Brave",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1637798159496753155/PWuqUPPJ_normal.jpg",
   "Login": "bravepxl",
-  "CurrentFollowersCount": 2575,
-  "CurrentTweetsCout": 20866,
+  "CurrentFollowersCount": 2580,
+  "CurrentTweetsCout": 20885,
   "FollowersCountHistory": {
     "20211020": 577,
     "20211021": 581,
@@ -548,7 +548,8 @@
     "20230613": 2574,
     "20230614": 2576,
     "20230615": 2577,
-    "20230616": 2575
+    "20230616": 2575,
+    "20230618": 2580
   },
   "TweetsCountHistory": {
     "20211020": 3407,
@@ -1094,20 +1095,21 @@
     "20230613": 20806,
     "20230614": 20819,
     "20230615": 20828,
-    "20230616": 20866
+    "20230616": 20866,
+    "20230618": 20885
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.0885170205805565934613931889,
+    "WeeklyGrowth": 0.8132613358716671992713904608,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230608.0,
-        "Y": 2552.760638297872336334397
+        "X": 20230609.0,
+        "Y": 2561.471910112359560035300
       },
       "End": {
-        "X": 20230616.0,
-        "Y": 2580.547872340425535214194
+        "X": 20230618.0,
+        "Y": 2582.303370786516845852243
       }
     }
   }

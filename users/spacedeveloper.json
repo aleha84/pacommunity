@@ -2,7 +2,7 @@
   "PublicName": "Kirill Nepomnyaschy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/2405497393/g1ofqux8oy2xmav4kvxr_normal.png",
   "Login": "spacedeveloper",
-  "CurrentFollowersCount": 343,
+  "CurrentFollowersCount": 342,
   "CurrentTweetsCout": 250,
   "FollowersCountHistory": {
     "20210112": 364,
@@ -780,7 +780,8 @@
     "20230613": 343,
     "20230614": 343,
     "20230615": 343,
-    "20230616": 343
+    "20230616": 343,
+    "20230618": 342
   },
   "TweetsCountHistory": {
     "20210112": 204,
@@ -1558,20 +1559,21 @@
     "20230613": 249,
     "20230614": 250,
     "20230615": 250,
-    "20230616": 250
+    "20230616": 250,
+    "20230618": 250
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.172953255451958364709410322,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230607.0,
-        "Y": 343.0
+        "X": 20230608.0,
+        "Y": 343.1708633093525180984796
       },
       "End": {
-        "X": 20230616.0,
-        "Y": 343.0
+        "X": 20230618.0,
+        "Y": 342.5773381294964027770317
       }
     }
   }
