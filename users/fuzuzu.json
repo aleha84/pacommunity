@@ -2,8 +2,8 @@
   "PublicName": "fuzuki",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1535510099757654017/uvHERw2r_normal.jpg",
   "Login": "fuzuzu",
-  "CurrentFollowersCount": 6653,
-  "CurrentTweetsCout": 2076,
+  "CurrentFollowersCount": 6603,
+  "CurrentTweetsCout": 2079,
   "FollowersCountHistory": {
     "20210930": 2288,
     "20211001": 2333,
@@ -570,7 +570,8 @@
     "20230616": 6663,
     "20230618": 6655,
     "20230619": 6656,
-    "20230620": 6653
+    "20230620": 6653,
+    "20230628": 6603
   },
   "TweetsCountHistory": {
     "20210930": 11087,
@@ -1138,20 +1139,21 @@
     "20230616": 2071,
     "20230618": 2075,
     "20230619": 2075,
-    "20230620": 2076
+    "20230620": 2076,
+    "20230628": 2079
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.2954537480211926900064635625,
+    "WeeklyGrowth": -0.3805655095129956256597831414,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230613.0,
-        "Y": 6637.109589041095887125200
+        "X": 20230614.0,
+        "Y": 6647.260303687635575733221
       },
       "End": {
-        "X": 20230620.0,
-        "Y": 6656.719178082191784244580
+        "X": 20230628.0,
+        "Y": 6621.963123644251625050230
       }
     }
   }

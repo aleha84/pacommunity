@@ -2,7 +2,7 @@
   "PublicName": "Dipsy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1561058387126878208/Q8ND5Etd_normal.jpg",
   "Login": "Dipsy974",
-  "CurrentFollowersCount": 25,
+  "CurrentFollowersCount": 24,
   "CurrentTweetsCout": 21,
   "FollowersCountHistory": {
     "20220902": 9,
@@ -261,7 +261,8 @@
     "20230616": 25,
     "20230618": 25,
     "20230619": 25,
-    "20230620": 25
+    "20230620": 25,
+    "20230628": 24
   },
   "TweetsCountHistory": {
     "20220902": 2,
@@ -520,20 +521,21 @@
     "20230616": 21,
     "20230618": 21,
     "20230619": 21,
-    "20230620": 21
+    "20230620": 21,
+    "20230628": 21
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -3.9793281653746774285612279724,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230613.0,
-        "Y": 25.0
+        "X": 20230614.0,
+        "Y": 25.1843817787418655452526
       },
       "End": {
-        "X": 20230620.0,
-        "Y": 25.0
+        "X": 20230628.0,
+        "Y": 24.1822125813449023129163
       }
     }
   }
