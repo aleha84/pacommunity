@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1312276256180715521/idnMFvCy_normal.jpg",
   "Login": "bdm_bh47",
   "CurrentFollowersCount": 165,
-  "CurrentTweetsCout": 4824,
+  "CurrentTweetsCout": 4825,
   "FollowersCountHistory": {
     "20201225": 162,
     "20201226": 162,
@@ -810,7 +810,8 @@
     "20230619": 165,
     "20230620": 165,
     "20230628": 165,
-    "20230629": 165
+    "20230629": 165,
+    "20230630": 165
   },
   "TweetsCountHistory": {
     "20201225": 4570,
@@ -1618,20 +1619,21 @@
     "20230619": 4823,
     "20230620": 4823,
     "20230628": 4824,
-    "20230629": 4824
+    "20230629": 4825,
+    "20230630": 4825
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2581882561227501130974600904,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230615.0,
-        "Y": 165.31707317073170734363920
+        "X": 20230616.0,
+        "Y": 165.0
       },
       "End": {
-        "X": 20230629.0,
-        "Y": 164.89024390243902435172315
+        "X": 20230630.0,
+        "Y": 165.0
       }
     }
   }

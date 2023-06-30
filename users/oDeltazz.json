@@ -2,7 +2,7 @@
   "PublicName": "Delta",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1404018267728101386/Hj-3gwmR_normal.jpg",
   "Login": "oDeltazz",
-  "CurrentFollowersCount": 159,
+  "CurrentFollowersCount": 158,
   "CurrentTweetsCout": 133,
   "FollowersCountHistory": {
     "20210111": 150,
@@ -792,7 +792,8 @@
     "20230619": 159,
     "20230620": 159,
     "20230628": 159,
-    "20230629": 159
+    "20230629": 158,
+    "20230630": 158
   },
   "TweetsCountHistory": {
     "20210111": 146,
@@ -1582,20 +1583,21 @@
     "20230619": 133,
     "20230620": 133,
     "20230628": 133,
-    "20230629": 133
+    "20230629": 133,
+    "20230630": 133
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.5595715967990096758335489837,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230615.0,
-        "Y": 159.0
+        "X": 20230616.0,
+        "Y": 159.1504787961696305534393
       },
       "End": {
-        "X": 20230629.0,
-        "Y": 159.0
+        "X": 20230630.0,
+        "Y": 158.2599179206566348401673
       }
     }
   }

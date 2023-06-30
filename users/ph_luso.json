@@ -2,8 +2,8 @@
   "PublicName": "Ph",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1649594078911434752/hzCYHlf2_normal.png",
   "Login": "ph_luso",
-  "CurrentFollowersCount": 551,
-  "CurrentTweetsCout": 304,
+  "CurrentFollowersCount": 550,
+  "CurrentTweetsCout": 305,
   "FollowersCountHistory": {
     "20230303": 334,
     "20230304": 334,
@@ -105,7 +105,8 @@
     "20230619": 550,
     "20230620": 550,
     "20230628": 551,
-    "20230629": 551
+    "20230629": 550,
+    "20230630": 550
   },
   "TweetsCountHistory": {
     "20230303": 290,
@@ -208,20 +209,21 @@
     "20230619": 303,
     "20230620": 303,
     "20230628": 304,
-    "20230629": 304
+    "20230629": 304,
+    "20230630": 305
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0697921744139673080212734265,
+    "WeeklyGrowth": -0.0208799403430275870691267107,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230615.0,
-        "Y": 550.41463414634146339073692
+        "X": 20230616.0,
+        "Y": 550.34199726402188781335760
       },
       "End": {
-        "X": 20230629.0,
-        "Y": 550.79878048780487808343148
+        "X": 20230630.0,
+        "Y": 550.22708618331053352775249
       }
     }
   }
