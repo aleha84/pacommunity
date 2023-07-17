@@ -2,7 +2,7 @@
   "PublicName": "eggsy ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1290408777968160773/306aLZXU.jpg",
   "Login": "eggmilkk",
-  "CurrentFollowersCount": 49,
+  "CurrentFollowersCount": 48,
   "CurrentTweetsCout": 267,
   "FollowersCountHistory": {
     "20210116": 30,
@@ -831,7 +831,8 @@
     "20230712": 49,
     "20230713": 49,
     "20230715": 49,
-    "20230716": 49
+    "20230716": 49,
+    "20230717": 48
   },
   "TweetsCountHistory": {
     "20210116": 116,
@@ -1660,20 +1661,21 @@
     "20230712": 267,
     "20230713": 267,
     "20230715": 267,
-    "20230716": 267
+    "20230716": 267,
+    "20230717": 267
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.2193422519509480182202731587,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230709.0,
-        "Y": 49.0
+        "X": 20230710.0,
+        "Y": 49.1506849315068494155990
       },
       "End": {
-        "X": 20230716.0,
-        "Y": 49.0
+        "X": 20230717.0,
+        "Y": 48.5513698630136985254178
       }
     }
   }
