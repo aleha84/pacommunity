@@ -2,7 +2,7 @@
   "PublicName": "ニゴログラフ ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/378800000566141356/2012f644f54de39db3c04dda7753cd83.jpeg",
   "Login": "256graph",
-  "CurrentFollowersCount": 291,
+  "CurrentFollowersCount": 290,
   "CurrentTweetsCout": 261,
   "FollowersCountHistory": {
     "20201225": 277,
@@ -825,7 +825,8 @@
     "20230718": 291,
     "20230719": 291,
     "20230720": 291,
-    "20230722": 291
+    "20230722": 291,
+    "20230724": 290
   },
   "TweetsCountHistory": {
     "20201225": 248,
@@ -1648,20 +1649,21 @@
     "20230718": 261,
     "20230719": 261,
     "20230720": 261,
-    "20230722": 261
+    "20230722": 261,
+    "20230724": 261
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2628458148220260836142972168,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230714.0,
-        "Y": 291.0
+        "X": 20230715.0,
+        "Y": 291.2216494845360826621389
       },
       "End": {
-        "X": 20230722.0,
-        "Y": 291.0
+        "X": 20230724.0,
+        "Y": 290.4561855670103090716472
       }
     }
   }
