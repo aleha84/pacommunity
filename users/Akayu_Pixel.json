@@ -2,7 +2,7 @@
   "PublicName": "A火ゆ?☕ ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1489593637344518144/K7Yj0UlH.jpg",
   "Login": "Akayu_Pixel",
-  "CurrentFollowersCount": 4393,
+  "CurrentFollowersCount": 4391,
   "CurrentTweetsCout": 257,
   "FollowersCountHistory": {
     "20230720": 4359,
@@ -10,7 +10,8 @@
     "20230724": 4374,
     "20230725": 4383,
     "20230726": 4385,
-    "20230727": 4393
+    "20230727": 4393,
+    "20230728": 4391
   },
   "TweetsCountHistory": {
     "20230720": 255,
@@ -18,12 +19,22 @@
     "20230724": 256,
     "20230725": 256,
     "20230726": 256,
-    "20230727": 257
+    "20230727": 257,
+    "20230728": 257
   },
   "LangId": "jp",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.7900773319780780640757528154,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20230720.0,
+        "Y": 4359.46107784431137135289
+      },
+      "End": {
+        "X": 20230728.0,
+        "Y": 4393.90419161676647148532
+      }
+    }
   }
 }
