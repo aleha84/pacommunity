@@ -2,7 +2,7 @@
   "PublicName": "mastodon.gamedev.place/@Braininabowl ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1054329777593688064/6aq7vfzm.jpg",
   "Login": "BraininaBowl",
-  "CurrentFollowersCount": 221,
+  "CurrentFollowersCount": 220,
   "CurrentTweetsCout": 412,
   "FollowersCountHistory": {
     "20210125": 190,
@@ -801,7 +801,8 @@
     "20230726": 221,
     "20230727": 221,
     "20230728": 221,
-    "20230729": 221
+    "20230729": 221,
+    "20230731": 220
   },
   "TweetsCountHistory": {
     "20210125": 308,
@@ -1600,20 +1601,21 @@
     "20230726": 412,
     "20230727": 412,
     "20230728": 412,
-    "20230729": 412
+    "20230729": 412,
+    "20230731": 412
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3501685996961495683019543218,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230722.0,
-        "Y": 221.0
+        "X": 20230724.0,
+        "Y": 221.2049180327868848183221
       },
       "End": {
-        "X": 20230729.0,
-        "Y": 221.0
+        "X": 20230731.0,
+        "Y": 220.4303278688524595411501
       }
     }
   }

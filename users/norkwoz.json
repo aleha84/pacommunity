@@ -2,8 +2,8 @@
   "PublicName": "Nick Wozniak ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1478299966497951744/waYsrT9i.jpg",
   "Login": "norkwoz",
-  "CurrentFollowersCount": 4616,
-  "CurrentTweetsCout": 3201,
+  "CurrentFollowersCount": 4611,
+  "CurrentTweetsCout": 3202,
   "FollowersCountHistory": {
     "20210914": 4202,
     "20210915": 4200,
@@ -630,7 +630,8 @@
     "20230727": 4615,
     "20230728": 4616,
     "20230729": 4616,
-    "20230730": 4616
+    "20230730": 4616,
+    "20230731": 4611
   },
   "TweetsCountHistory": {
     "20210914": 2632,
@@ -1258,20 +1259,21 @@
     "20230727": 3200,
     "20230728": 3200,
     "20230729": 3201,
-    "20230730": 3201
+    "20230730": 3201,
+    "20230731": 3202
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0603785269187599179471362774,
+    "WeeklyGrowth": -0.018572401411502507274189624,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230724.0,
-        "Y": 4613.750000000000000000000
+        "X": 20230725.0,
+        "Y": 4615.1428571428571428571429
       },
       "End": {
-        "X": 20230730.0,
-        "Y": 4616.535714285714285714286
+        "X": 20230731.0,
+        "Y": 4614.2857142857142857142858
       }
     }
   }
