@@ -2,8 +2,8 @@
   "PublicName": "CodeRaurus ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1398562667141419012/CFUFo4sm.jpg",
   "Login": "CodeRaurus",
-  "CurrentFollowersCount": 271,
-  "CurrentTweetsCout": 884,
+  "CurrentFollowersCount": 270,
+  "CurrentTweetsCout": 885,
   "FollowersCountHistory": {
     "20210125": 210,
     "20210126": 210,
@@ -802,7 +802,8 @@
     "20230728": 271,
     "20230729": 271,
     "20230731": 271,
-    "20230801": 271
+    "20230801": 271,
+    "20230802": 270
   },
   "TweetsCountHistory": {
     "20210125": 285,
@@ -1602,20 +1603,21 @@
     "20230728": 884,
     "20230729": 884,
     "20230731": 884,
-    "20230801": 884
+    "20230801": 884,
+    "20230802": 885
   },
   "LangId": "fi",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1927290960895732451677887311,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230725.0,
-        "Y": 271.0
+        "X": 20230726.0,
+        "Y": 271.01619734006984174069966
       },
       "End": {
-        "X": 20230801.0,
-        "Y": 271.0
+        "X": 20230802.0,
+        "Y": 270.49387027267999108605634
       }
     }
   }
