@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1617535715465641984/TDCw3jsE.jpg",
   "Login": "Broelbrak",
   "CurrentFollowersCount": 530,
-  "CurrentTweetsCout": 3269,
+  "CurrentTweetsCout": 3271,
   "FollowersCountHistory": {
     "20210214": 172,
     "20210215": 172,
@@ -785,7 +785,8 @@
     "20230729": 530,
     "20230731": 530,
     "20230801": 530,
-    "20230802": 530
+    "20230802": 530,
+    "20230803": 530
   },
   "TweetsCountHistory": {
     "20210214": 1131,
@@ -1568,20 +1569,21 @@
     "20230729": 3267,
     "20230731": 3268,
     "20230801": 3268,
-    "20230802": 3269
+    "20230802": 3269,
+    "20230803": 3271
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0431326223036856108679516574,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230726.0,
-        "Y": 530.212497213760309086467881
+        "X": 20230727.0,
+        "Y": 530.0
       },
       "End": {
-        "X": 20230802.0,
-        "Y": 529.983802659930158259301754
+        "X": 20230803.0,
+        "Y": 530.0
       }
     }
   }
