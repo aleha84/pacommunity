@@ -2,8 +2,8 @@
   "PublicName": "Lux ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1358092565862637571/I8IpAB-v.png",
   "Login": "thisislux",
-  "CurrentFollowersCount": 64733,
-  "CurrentTweetsCout": 12404,
+  "CurrentFollowersCount": 64711,
+  "CurrentTweetsCout": 12430,
   "FollowersCountHistory": {
     "20210113": 13993,
     "20210114": 14006,
@@ -856,7 +856,8 @@
     "20230803": 64748,
     "20230804": 64741,
     "20230805": 64733,
-    "20230806": 64733
+    "20230806": 64733,
+    "20230807": 64711
   },
   "TweetsCountHistory": {
     "20210113": 5701,
@@ -1710,20 +1711,21 @@
     "20230803": 12446,
     "20230804": 12472,
     "20230805": 12404,
-    "20230806": 12404
+    "20230806": 12404,
+    "20230807": 12430
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0972239356520609429185375526,
+    "WeeklyGrowth": -0.0926297588538611171148917776,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230731.0,
-        "Y": 64810.066171825647504241161
+        "X": 20230801.0,
+        "Y": 64774.0
       },
       "End": {
-        "X": 20230806.0,
-        "Y": 64747.055274794693619812174
+        "X": 20230807.0,
+        "Y": 64714.0
       }
     }
   }

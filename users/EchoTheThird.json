@@ -2,8 +2,8 @@
   "PublicName": "...Echo?! ? ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1644635282820706304/MrLJecil.jpg",
   "Login": "EchoTheThird",
-  "CurrentFollowersCount": 1989,
-  "CurrentTweetsCout": 30676,
+  "CurrentFollowersCount": 1992,
+  "CurrentTweetsCout": 30715,
   "FollowersCountHistory": {
     "20210914": 2013,
     "20210915": 2012,
@@ -637,7 +637,8 @@
     "20230803": 1992,
     "20230804": 1992,
     "20230805": 1989,
-    "20230806": 1989
+    "20230806": 1989,
+    "20230807": 1992
   },
   "TweetsCountHistory": {
     "20210914": 23798,
@@ -1272,20 +1273,21 @@
     "20230803": 30666,
     "20230804": 30672,
     "20230805": 30676,
-    "20230806": 30676
+    "20230806": 30676,
+    "20230807": 30715
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0344003635725622696848926233,
+    "WeeklyGrowth": -0.0753106564578887912639638509,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230731.0,
-        "Y": 1990.14703095388502843247128
+        "X": 20230801.0,
+        "Y": 1991.75
       },
       "End": {
-        "X": 20230806.0,
-        "Y": 1990.83164876816171825535077
+        "X": 20230807.0,
+        "Y": 1990.25
       }
     }
   }
