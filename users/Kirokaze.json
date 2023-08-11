@@ -2,8 +2,8 @@
   "PublicName": "Kirokaze // Available Comms ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1315447836536983553/oHXvO_vS.jpg",
   "Login": "Kirokaze",
-  "CurrentFollowersCount": 30799,
-  "CurrentTweetsCout": 1271,
+  "CurrentFollowersCount": 30798,
+  "CurrentTweetsCout": 1269,
   "FollowersCountHistory": {
     "20201228": 13423,
     "20201229": 13424,
@@ -831,7 +831,8 @@
     "20230807": 30804,
     "20230808": 30808,
     "20230809": 30797,
-    "20230810": 30799
+    "20230810": 30799,
+    "20230811": 30798
   },
   "TweetsCountHistory": {
     "20201228": 626,
@@ -1660,20 +1661,21 @@
     "20230807": 1267,
     "20230808": 1270,
     "20230809": 1271,
-    "20230810": 1271
+    "20230810": 1271,
+    "20230811": 1269
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0006957062171786098166466079,
+    "WeeklyGrowth": -0.0097394691989286583881178476,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230804.0,
-        "Y": 30801.17857142857142857142857
+        "X": 20230805.0,
+        "Y": 30802.5
       },
       "End": {
-        "X": 20230810.0,
-        "Y": 30801.39285714285714285714285
+        "X": 20230811.0,
+        "Y": 30799.5
       }
     }
   }

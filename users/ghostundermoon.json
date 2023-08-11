@@ -2,7 +2,7 @@
   "PublicName": "MoonGhost ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1453591305871888387/sFHwk2_J.jpg",
   "Login": "ghostundermoon",
-  "CurrentFollowersCount": 2938,
+  "CurrentFollowersCount": 2936,
   "CurrentTweetsCout": 630,
   "FollowersCountHistory": {
     "20210914": 811,
@@ -612,7 +612,8 @@
     "20230807": 2938,
     "20230808": 2939,
     "20230809": 2940,
-    "20230810": 2938
+    "20230810": 2938,
+    "20230811": 2936
   },
   "TweetsCountHistory": {
     "20210914": 269,
@@ -1222,20 +1223,21 @@
     "20230807": 631,
     "20230808": 630,
     "20230809": 630,
-    "20230810": 630
+    "20230810": 630,
+    "20230811": 630
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.029174365457551298259264806,
+    "WeeklyGrowth": -0.0072933253917123512465510107,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230804.0,
-        "Y": 2938.0000000000000000000000
+        "X": 20230805.0,
+        "Y": 2938.10714285714285714285714
       },
       "End": {
-        "X": 20230810.0,
-        "Y": 2938.8571428571428571428572
+        "X": 20230811.0,
+        "Y": 2937.89285714285714285714285
       }
     }
   }
