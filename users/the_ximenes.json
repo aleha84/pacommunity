@@ -2,7 +2,7 @@
   "PublicName": "Dan Ximenes @danximenes.bsky.social ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1660439131862839297/ifaYGwFF.jpg",
   "Login": "the_ximenes",
-  "CurrentFollowersCount": 2431,
+  "CurrentFollowersCount": 2429,
   "CurrentTweetsCout": 22598,
   "FollowersCountHistory": {
     "20210914": 2092,
@@ -621,7 +621,8 @@
     "20230809": 2430,
     "20230810": 2430,
     "20230811": 2431,
-    "20230812": 2431
+    "20230812": 2431,
+    "20230814": 2429
   },
   "TweetsCountHistory": {
     "20210914": 13459,
@@ -1240,20 +1241,21 @@
     "20230809": 22602,
     "20230810": 22600,
     "20230811": 22598,
-    "20230812": 22598
+    "20230812": 22598,
+    "20230814": 22598
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0118046631792318729040502836,
+    "WeeklyGrowth": -0.0094438260986879711441288183,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230805.0,
-        "Y": 2430.2704918032786887191085
+        "X": 20230807.0,
+        "Y": 2430.24590163934426216864554
       },
       "End": {
-        "X": 20230812.0,
-        "Y": 2430.5573770491803277103561
+        "X": 20230814.0,
+        "Y": 2430.01639344262295097484414
       }
     }
   }

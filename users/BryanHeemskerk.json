@@ -2,7 +2,7 @@
   "PublicName": "Bryan Heemskerk ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1198301298770219008/gPKbZfuq.jpg",
   "Login": "BryanHeemskerk",
-  "CurrentFollowersCount": 12506,
+  "CurrentFollowersCount": 12499,
   "CurrentTweetsCout": 899,
   "FollowersCountHistory": {
     "20210315": 1553,
@@ -800,7 +800,8 @@
     "20230810": 12510,
     "20230811": 12509,
     "20230812": 12509,
-    "20230813": 12506
+    "20230813": 12506,
+    "20230814": 12499
   },
   "TweetsCountHistory": {
     "20210315": 407,
@@ -1598,20 +1599,21 @@
     "20230810": 899,
     "20230811": 899,
     "20230812": 899,
-    "20230813": 899
+    "20230813": 899,
+    "20230814": 899
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0514153503384843897283589946,
+    "WeeklyGrowth": -0.0376877965772628381194908713,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230807.0,
-        "Y": 12503.214285714285714285714
+        "X": 20230808.0,
+        "Y": 12508.785714285714285714286
       },
       "End": {
-        "X": 20230813.0,
-        "Y": 12509.642857142857142857143
+        "X": 20230814.0,
+        "Y": 12504.071428571428571428572
       }
     }
   }
