@@ -2,8 +2,8 @@
   "PublicName": "とりのはね ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1679466973225431042/z-975DfF.jpg",
   "Login": "dot_inko",
-  "CurrentFollowersCount": 754,
-  "CurrentTweetsCout": 963,
+  "CurrentFollowersCount": 755,
+  "CurrentTweetsCout": 960,
   "FollowersCountHistory": {
     "20201225": 67,
     "20201226": 68,
@@ -844,7 +844,8 @@
     "20230810": 756,
     "20230811": 755,
     "20230812": 756,
-    "20230814": 754
+    "20230814": 754,
+    "20230815": 755
   },
   "TweetsCountHistory": {
     "20201225": 160,
@@ -1686,20 +1687,21 @@
     "20230810": 962,
     "20230811": 962,
     "20230812": 962,
-    "20230814": 963
+    "20230814": 963,
+    "20230815": 960
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0836429207673422248607796735,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230807.0,
-        "Y": 754.5737704918032790366756
+        "X": 20230808.0,
+        "Y": 755.0
       },
       "End": {
-        "X": 20230814.0,
-        "Y": 755.2049180327868848186253
+        "X": 20230815.0,
+        "Y": 755.0
       }
     }
   }
