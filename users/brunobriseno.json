@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1679498827835883520/14QCIgh_.jpg",
   "Login": "brunobriseno",
   "CurrentFollowersCount": 678,
-  "CurrentTweetsCout": 4817,
+  "CurrentTweetsCout": 4819,
   "FollowersCountHistory": {
     "20201222": 439,
     "20201223": 439,
@@ -847,7 +847,8 @@
     "20230811": 678,
     "20230812": 678,
     "20230814": 678,
-    "20230815": 678
+    "20230815": 678,
+    "20230816": 678
   },
   "TweetsCountHistory": {
     "20201222": 3606,
@@ -1692,20 +1693,21 @@
     "20230811": 4815,
     "20230812": 4816,
     "20230814": 4817,
-    "20230815": 4817
+    "20230815": 4817,
+    "20230816": 4819
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0859845227858986004334852439,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230808.0,
-        "Y": 678.4166666666666668647223
+        "X": 20230809.0,
+        "Y": 678.0
       },
       "End": {
-        "X": 20230815.0,
-        "Y": 677.8333333333333331094445
+        "X": 20230816.0,
+        "Y": 678.0
       }
     }
   }

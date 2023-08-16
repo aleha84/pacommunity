@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1605282381774180354/h9r-Tr-W.jpg",
   "Login": "jaowithatilde",
   "CurrentFollowersCount": 752,
-  "CurrentTweetsCout": 4855,
+  "CurrentTweetsCout": 4856,
   "FollowersCountHistory": {
     "20201222": 340,
     "20201223": 339,
@@ -848,7 +848,8 @@
     "20230811": 752,
     "20230812": 752,
     "20230814": 752,
-    "20230815": 752
+    "20230815": 752,
+    "20230816": 752
   },
   "TweetsCountHistory": {
     "20201222": 938,
@@ -1694,20 +1695,21 @@
     "20230811": 4847,
     "20230812": 4847,
     "20230814": 4855,
-    "20230815": 4855
+    "20230815": 4855,
+    "20230816": 4856
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0775279654446783150015618337,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230808.0,
-        "Y": 752.4166666666666668647223
+        "X": 20230809.0,
+        "Y": 752.0
       },
       "End": {
-        "X": 20230815.0,
-        "Y": 751.8333333333333331094445
+        "X": 20230816.0,
+        "Y": 752.0
       }
     }
   }
