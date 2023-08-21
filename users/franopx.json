@@ -2,7 +2,7 @@
   "PublicName": "frano? ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1690152279104532480/izJByrGg.jpg",
   "Login": "franopx",
-  "CurrentFollowersCount": 222,
+  "CurrentFollowersCount": 220,
   "CurrentTweetsCout": 181,
   "FollowersCountHistory": {
     "20201228": 145,
@@ -838,7 +838,9 @@
     "20230815": 222,
     "20230816": 222,
     "20230817": 222,
-    "20230818": 222
+    "20230818": 222,
+    "20230820": 220,
+    "20230821": 220
   },
   "TweetsCountHistory": {
     "20201228": 74,
@@ -1674,20 +1676,22 @@
     "20230815": 181,
     "20230816": 181,
     "20230817": 181,
-    "20230818": 181
+    "20230818": 181,
+    "20230820": 181,
+    "20230821": 181
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.0258915486077193524350474413,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230811.0,
-        "Y": 222.0
+        "X": 20230814.0,
+        "Y": 222.5000000000000007764095
       },
       "End": {
-        "X": 20230818.0,
-        "Y": 222.0
+        "X": 20230821.0,
+        "Y": 220.2173913043478252092764
       }
     }
   }

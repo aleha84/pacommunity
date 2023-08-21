@@ -2,7 +2,7 @@
   "PublicName": "mistertabasco ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1274270987249467393/FXLVAUjN.jpg",
   "Login": "mistertabasc0",
-  "CurrentFollowersCount": 339,
+  "CurrentFollowersCount": 337,
   "CurrentTweetsCout": 400,
   "FollowersCountHistory": {
     "20210101": 157,
@@ -834,7 +834,9 @@
     "20230815": 339,
     "20230816": 339,
     "20230817": 339,
-    "20230818": 339
+    "20230818": 339,
+    "20230820": 337,
+    "20230821": 337
   },
   "TweetsCountHistory": {
     "20210101": 148,
@@ -1666,20 +1668,22 @@
     "20230815": 400,
     "20230816": 400,
     "20230817": 400,
-    "20230818": 400
+    "20230818": 400,
+    "20230820": 400,
+    "20230821": 400
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.6723442402510090020362166262,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230811.0,
-        "Y": 339.0
+        "X": 20230814.0,
+        "Y": 339.5000000000000007764095
       },
       "End": {
-        "X": 20230818.0,
-        "Y": 339.0
+        "X": 20230821.0,
+        "Y": 337.2173913043478252092764
       }
     }
   }

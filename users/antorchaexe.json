@@ -2,7 +2,7 @@
   "PublicName": "Quince ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1684945594089914368/oz2_uF_J.jpg",
   "Login": "antorchaexe",
-  "CurrentFollowersCount": 207,
+  "CurrentFollowersCount": 206,
   "CurrentTweetsCout": 228,
   "FollowersCountHistory": {
     "20210128": 15,
@@ -807,7 +807,9 @@
     "20230815": 207,
     "20230816": 207,
     "20230817": 207,
-    "20230818": 207
+    "20230818": 207,
+    "20230820": 207,
+    "20230821": 206
   },
   "TweetsCountHistory": {
     "20210128": 14,
@@ -1612,20 +1614,22 @@
     "20230815": 228,
     "20230816": 228,
     "20230817": 228,
-    "20230818": 228
+    "20230818": 228,
+    "20230820": 228,
+    "20230821": 228
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3183042428906224976406715729,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230811.0,
-        "Y": 207.0
+        "X": 20230814.0,
+        "Y": 207.1666666666666668909831
       },
       "End": {
-        "X": 20230818.0,
-        "Y": 207.0
+        "X": 20230821.0,
+        "Y": 206.5072463768115939493235
       }
     }
   }
