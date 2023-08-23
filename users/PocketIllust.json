@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1689060386270543872/7BojfJLk.jpg",
   "Login": "PocketIllust",
   "CurrentFollowersCount": 107,
-  "CurrentTweetsCout": 4105,
+  "CurrentTweetsCout": 4109,
   "FollowersCountHistory": {
     "20210215": 43,
     "20210216": 43,
@@ -836,7 +836,8 @@
     "20230818": 107,
     "20230819": 107,
     "20230821": 107,
-    "20230822": 107
+    "20230822": 107,
+    "20230823": 107
   },
   "TweetsCountHistory": {
     "20210215": 711,
@@ -1670,20 +1671,21 @@
     "20230818": 4103,
     "20230819": 4103,
     "20230821": 4105,
-    "20230822": 4105
+    "20230822": 4105,
+    "20230823": 4109
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -1.0819165378670796054340278876,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230815.0,
-        "Y": 107.8333333333333337301945
+        "X": 20230816.0,
+        "Y": 107.0
       },
       "End": {
-        "X": 20230822.0,
-        "Y": 106.6666666666666662180411
+        "X": 20230823.0,
+        "Y": 107.0
       }
     }
   }
