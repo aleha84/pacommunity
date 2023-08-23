@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1680503130646286337/AosxvQU7.jpg",
   "Login": "HarukaSanagi",
   "CurrentFollowersCount": 1135,
-  "CurrentTweetsCout": 13093,
+  "CurrentTweetsCout": 13098,
   "FollowersCountHistory": {
     "20220501": 761,
     "20220502": 792,
@@ -415,7 +415,8 @@
     "20230818": 1135,
     "20230820": 1135,
     "20230821": 1135,
-    "20230822": 1135
+    "20230822": 1135,
+    "20230823": 1135
   },
   "TweetsCountHistory": {
     "20220501": 8953,
@@ -828,20 +829,21 @@
     "20230818": 13085,
     "20230820": 13087,
     "20230821": 13092,
-    "20230822": 13093
+    "20230822": 13093,
+    "20230823": 13098
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.050709939148073,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230815.0,
-        "Y": 1134.57534246575
+        "X": 20230816.0,
+        "Y": 1135.0
       },
       "End": {
-        "X": 20230822.0,
-        "Y": 1135.15068493151
+        "X": 20230823.0,
+        "Y": 1135.0
       }
     }
   }
