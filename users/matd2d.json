@@ -2,8 +2,8 @@
   "PublicName": "? ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1595435621689991173/2xgODvzt.png",
   "Login": "matd2d",
-  "CurrentFollowersCount": 988,
-  "CurrentTweetsCout": 112,
+  "CurrentFollowersCount": 986,
+  "CurrentTweetsCout": 109,
   "FollowersCountHistory": {
     "20210207": 207,
     "20210208": 235,
@@ -809,7 +809,8 @@
     "20230822": 988,
     "20230823": 988,
     "20230824": 988,
-    "20230825": 988
+    "20230825": 988,
+    "20230904": 986
   },
   "TweetsCountHistory": {
     "20210207": 23,
@@ -1616,20 +1617,21 @@
     "20230822": 112,
     "20230823": 112,
     "20230824": 112,
-    "20230825": 112
+    "20230825": 112,
+    "20230904": 109
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2079866024950999635132907872,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230818.0,
-        "Y": 988.0
+        "X": 20230820.0,
+        "Y": 988.06028617170302181050191
       },
       "End": {
-        "X": 20230825.0,
-        "Y": 988.0
+        "X": 20230904.0,
+        "Y": 986.00525315189113469358151
       }
     }
   }

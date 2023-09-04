@@ -2,7 +2,7 @@
   "PublicName": "aru ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1677526337311875073/h6LzIgo5.jpg",
   "Login": "catnipdesu",
-  "CurrentFollowersCount": 355,
+  "CurrentFollowersCount": 353,
   "CurrentTweetsCout": 10068,
   "FollowersCountHistory": {
     "20201219": 335,
@@ -860,7 +860,8 @@
     "20230822": 355,
     "20230823": 355,
     "20230824": 355,
-    "20230825": 355
+    "20230825": 355,
+    "20230904": 353
   },
   "TweetsCountHistory": {
     "20201219": 9872,
@@ -1718,20 +1719,21 @@
     "20230822": 10070,
     "20230823": 10070,
     "20230824": 10069,
-    "20230825": 10068
+    "20230825": 10068,
+    "20230904": 10068
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.5787842515335824033035252295,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230818.0,
-        "Y": 355.0
+        "X": 20230820.0,
+        "Y": 355.06028617170302181049200
       },
       "End": {
-        "X": 20230825.0,
-        "Y": 355.0
+        "X": 20230904.0,
+        "Y": 353.00525315189113469363043
       }
     }
   }

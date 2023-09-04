@@ -2,8 +2,8 @@
   "PublicName": "Jason Koohi (@zanrai@mastodon.social) ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/519623823155421185/tITRGge1.png",
   "Login": "zanrai_int",
-  "CurrentFollowersCount": 8674,
-  "CurrentTweetsCout": 11201,
+  "CurrentFollowersCount": 8666,
+  "CurrentTweetsCout": 11202,
   "FollowersCountHistory": {
     "20210707": 7685,
     "20210708": 7688,
@@ -712,7 +712,8 @@
     "20230823": 8672,
     "20230824": 8673,
     "20230825": 8674,
-    "20230826": 8674
+    "20230826": 8674,
+    "20230904": 8666
   },
   "TweetsCountHistory": {
     "20210707": 10693,
@@ -1422,20 +1423,21 @@
     "20230823": 11201,
     "20230824": 11201,
     "20230825": 11201,
-    "20230826": 11201
+    "20230826": 11201,
+    "20230904": 11202
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0654578222097539851258932918,
+    "WeeklyGrowth": -0.0935922486458969600964526934,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230819.0,
-        "Y": 8677.844262295081963363201
+        "X": 20230821.0,
+        "Y": 8674.0836324479540559942570
       },
       "End": {
-        "X": 20230826.0,
-        "Y": 8672.163934426229511333686
+        "X": 20230904.0,
+        "Y": 8665.9653625269203158650395
       }
     }
   }

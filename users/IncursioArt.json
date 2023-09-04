@@ -2,8 +2,8 @@
   "PublicName": "Incursio ? ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1612548714068844570/JI9dUJs1.jpg",
   "Login": "IncursioArt",
-  "CurrentFollowersCount": 324,
-  "CurrentTweetsCout": 1360,
+  "CurrentFollowersCount": 323,
+  "CurrentTweetsCout": 1361,
   "FollowersCountHistory": {
     "20210914": 126,
     "20210915": 126,
@@ -625,7 +625,8 @@
     "20230822": 324,
     "20230823": 324,
     "20230824": 324,
-    "20230825": 324
+    "20230825": 324,
+    "20230904": 323
   },
   "TweetsCountHistory": {
     "20210914": 414,
@@ -1248,20 +1249,21 @@
     "20230822": 1359,
     "20230823": 1359,
     "20230824": 1360,
-    "20230825": 1360
+    "20230825": 1360,
+    "20230904": 1361
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3171052236438706669252890023,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230818.0,
-        "Y": 324.0
+        "X": 20230820.0,
+        "Y": 324.03014308585151090524600
       },
       "End": {
-        "X": 20230825.0,
-        "Y": 324.0
+        "X": 20230904.0,
+        "Y": 323.00262657594556734681521
       }
     }
   }

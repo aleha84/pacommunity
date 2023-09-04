@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1579750341083545600/mKtteuo8.jpg",
   "Login": "r_bitor",
   "CurrentFollowersCount": 306,
-  "CurrentTweetsCout": 1893,
+  "CurrentTweetsCout": 1892,
   "FollowersCountHistory": {
     "20201213": 241,
     "20201214": 240,
@@ -860,7 +860,8 @@
     "20230822": 306,
     "20230823": 306,
     "20230824": 306,
-    "20230825": 306
+    "20230825": 306,
+    "20230904": 306
   },
   "TweetsCountHistory": {
     "20201213": 1573,
@@ -1718,20 +1719,21 @@
     "20230822": 1893,
     "20230823": 1893,
     "20230824": 1893,
-    "20230825": 1893
+    "20230825": 1893,
+    "20230904": 1892
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2526636632220629760216245253,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230818.0,
-        "Y": 306.5696721311475404588498
+        "X": 20230820.0,
+        "Y": 306.0
       },
       "End": {
-        "X": 20230825.0,
-        "Y": 305.7950819672131151816779
+        "X": 20230904.0,
+        "Y": 306.0
       }
     }
   }

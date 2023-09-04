@@ -2,8 +2,8 @@
   "PublicName": "Plus ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/831494785525485568/hDDSGOgB.jpg",
   "Login": "Pluspixels",
-  "CurrentFollowersCount": 2081,
-  "CurrentTweetsCout": 3439,
+  "CurrentFollowersCount": 2075,
+  "CurrentTweetsCout": 3446,
   "FollowersCountHistory": {
     "20201229": 1277,
     "20201230": 1277,
@@ -843,7 +843,8 @@
     "20230822": 2080,
     "20230823": 2080,
     "20230824": 2081,
-    "20230825": 2081
+    "20230825": 2081,
+    "20230904": 2075
   },
   "TweetsCountHistory": {
     "20201229": 2302,
@@ -1684,20 +1685,21 @@
     "20230822": 3441,
     "20230823": 3440,
     "20230824": 3438,
-    "20230825": 3439
+    "20230825": 3439,
+    "20230904": 3446
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1255991592546072840140529789,
+    "WeeklyGrowth": -0.2605764935089856787957255358,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230818.0,
-        "Y": 2078.5614754098360673424483
+        "X": 20230820.0,
+        "Y": 2080.4841905143085851442443
       },
       "End": {
-        "X": 20230825.0,
-        "Y": 2081.1721311475409821654125
+        "X": 20230904.0,
+        "Y": 2075.0629377626575945905505
       }
     }
   }

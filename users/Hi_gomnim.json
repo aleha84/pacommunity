@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1264648193792344064/Ep79QEds.jpg",
   "Login": "Hi_gomnim",
   "CurrentFollowersCount": 83,
-  "CurrentTweetsCout": 724,
+  "CurrentTweetsCout": 722,
   "FollowersCountHistory": {
     "20210919": 91,
     "20210920": 91,
@@ -626,7 +626,8 @@
     "20230822": 83,
     "20230823": 83,
     "20230824": 83,
-    "20230825": 83
+    "20230825": 83,
+    "20230904": 83
   },
   "TweetsCountHistory": {
     "20210919": 739,
@@ -1250,20 +1251,21 @@
     "20230822": 724,
     "20230823": 724,
     "20230824": 724,
-    "20230825": 724
+    "20230825": 724,
+    "20230904": 722
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.9268795056642625119745286285,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230818.0,
-        "Y": 83.5696721311475404588498
+        "X": 20230820.0,
+        "Y": 83.0
       },
       "End": {
-        "X": 20230825.0,
-        "Y": 82.7950819672131151816779
+        "X": 20230904.0,
+        "Y": 83.0
       }
     }
   }

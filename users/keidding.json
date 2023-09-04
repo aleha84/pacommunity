@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/821368593153748992/ztz8gVBS.jpg",
   "Login": "keidding",
   "CurrentFollowersCount": 230,
-  "CurrentTweetsCout": 1080,
+  "CurrentTweetsCout": 1079,
   "FollowersCountHistory": {
     "20210223": 114,
     "20210224": 114,
@@ -831,7 +831,8 @@
     "20230823": 230,
     "20230824": 230,
     "20230825": 230,
-    "20230826": 230
+    "20230826": 230,
+    "20230904": 230
   },
   "TweetsCountHistory": {
     "20210223": 753,
@@ -1660,20 +1661,21 @@
     "20230823": 1080,
     "20230824": 1080,
     "20230825": 1080,
-    "20230826": 1080
+    "20230826": 1080,
+    "20230904": 1079
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.3359462486002235518940814347,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230819.0,
-        "Y": 230.5696721311475404588499
+        "X": 20230821.0,
+        "Y": 230.0
       },
       "End": {
-        "X": 20230826.0,
-        "Y": 229.7950819672131151816780
+        "X": 20230904.0,
+        "Y": 230.0
       }
     }
   }
