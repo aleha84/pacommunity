@@ -2,7 +2,7 @@
   "PublicName": "Ian Trueba ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1288467408425033728/87IfrC8Z.jpg",
   "Login": "ian_trueba",
-  "CurrentFollowersCount": 301,
+  "CurrentFollowersCount": 300,
   "CurrentTweetsCout": 202,
   "FollowersCountHistory": {
     "20210108": 302,
@@ -835,7 +835,8 @@
     "20230823": 301,
     "20230824": 301,
     "20230825": 301,
-    "20230904": 301
+    "20230904": 301,
+    "20230905": 300
   },
   "TweetsCountHistory": {
     "20210108": 198,
@@ -1668,20 +1669,21 @@
     "20230823": 203,
     "20230824": 203,
     "20230825": 203,
-    "20230904": 202
+    "20230904": 202,
+    "20230905": 202
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1724803857517532438565195706,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230820.0,
-        "Y": 301.0
+        "X": 20230821.0,
+        "Y": 301.01342937921077959623598
       },
       "End": {
-        "X": 20230904.0,
-        "Y": 301.0
+        "X": 20230905.0,
+        "Y": 300.49424025505293551382492
       }
     }
   }
