@@ -2,7 +2,7 @@
   "PublicName": "Makrustic ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1515723971039096833/CBIIHDgb.png",
   "Login": "MakDeetsMuch",
-  "CurrentFollowersCount": 13433,
+  "CurrentFollowersCount": 13431,
   "CurrentTweetsCout": 1102,
   "FollowersCountHistory": {
     "20230824": 13421,
@@ -10,7 +10,8 @@
     "20230826": 13422,
     "20230904": 13426,
     "20230905": 13432,
-    "20230906": 13433
+    "20230906": 13433,
+    "20230907": 13431
   },
   "TweetsCountHistory": {
     "20230824": 1102,
@@ -18,12 +19,22 @@
     "20230826": 1102,
     "20230904": 1102,
     "20230905": 1102,
-    "20230906": 1102
+    "20230906": 1102,
+    "20230907": 1102
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.068316585076951001396574451,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20230824.0,
+        "Y": 13421.5221302626844188557035
+      },
+      "End": {
+        "X": 20230907.0,
+        "Y": 13430.6912558474271320618928
+      }
+    }
   }
 }
