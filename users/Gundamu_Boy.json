@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1426983301483487240/vfJNjNwB.jpg",
   "Login": "Gundamu_Boy",
   "CurrentFollowersCount": 224,
-  "CurrentTweetsCout": 3954,
+  "CurrentTweetsCout": 3960,
   "FollowersCountHistory": {
     "20210116": 132,
     "20210117": 131,
@@ -874,7 +874,8 @@
     "20230904": 224,
     "20230905": 224,
     "20230906": 224,
-    "20230907": 224
+    "20230907": 224,
+    "20230911": 224
   },
   "TweetsCountHistory": {
     "20210116": 2819,
@@ -1746,20 +1747,21 @@
     "20230904": 3948,
     "20230905": 3950,
     "20230906": 3951,
-    "20230907": 3954
+    "20230907": 3954,
+    "20230911": 3960
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -1.08509105474411,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230824.0,
-        "Y": 226.391057934509
+        "X": 20230825.0,
+        "Y": 224.0
       },
       "End": {
-        "X": 20230907.0,
-        "Y": 223.934508816121
+        "X": 20230911.0,
+        "Y": 224.0
       }
     }
   }

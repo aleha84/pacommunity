@@ -2,7 +2,7 @@
   "PublicName": "rinski.bsky.social ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1131387240691752960/G6KT5Wjq.png",
   "Login": "capsuledev",
-  "CurrentFollowersCount": 655,
+  "CurrentFollowersCount": 654,
   "CurrentTweetsCout": 4468,
   "FollowersCountHistory": {
     "20210116": 384,
@@ -874,7 +874,8 @@
     "20230904": 655,
     "20230905": 655,
     "20230906": 655,
-    "20230907": 655
+    "20230907": 655,
+    "20230911": 654
   },
   "TweetsCountHistory": {
     "20210116": 3813,
@@ -1746,20 +1747,21 @@
     "20230904": 4468,
     "20230905": 4468,
     "20230906": 4468,
-    "20230907": 4468
+    "20230907": 4468,
+    "20230911": 4468
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0535500263082864,
+    "WeeklyGrowth": -0.0384046267325032137694339063,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230824.0,
-        "Y": 655.34157970493
+        "X": 20230825.0,
+        "Y": 655.028053955744164898721969
       },
       "End": {
-        "X": 20230907.0,
-        "Y": 654.990644116589
+        "X": 20230911.0,
+        "Y": 654.776492876629281600358584
       }
     }
   }

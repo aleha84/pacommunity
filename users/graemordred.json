@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1569907983475437569/-pyYD13l.jpg",
   "Login": "graemordred",
   "CurrentFollowersCount": 117,
-  "CurrentTweetsCout": 116,
+  "CurrentTweetsCout": 117,
   "FollowersCountHistory": {
     "20210914": 66,
     "20210915": 66,
@@ -638,7 +638,8 @@
     "20230905": 117,
     "20230906": 117,
     "20230907": 117,
-    "20230909": 117
+    "20230909": 117,
+    "20230910": 117
   },
   "TweetsCountHistory": {
     "20210914": 61,
@@ -1274,20 +1275,21 @@
     "20230905": 116,
     "20230906": 116,
     "20230907": 116,
-    "20230909": 116
+    "20230909": 116,
+    "20230910": 117
   },
   "LangId": "ph",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -3.4619487153125491040782508398,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230824.0,
-        "Y": 121.0445135814287423586449
+        "X": 20230825.0,
+        "Y": 117.0
       },
       "End": {
-        "X": 20230909.0,
-        "Y": 116.8540145985401459911845
+        "X": 20230910.0,
+        "Y": 117.0
       }
     }
   }
