@@ -2,8 +2,8 @@
   "PublicName": "Rappenem ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1678085336323313672/M_oGmfXX.jpg",
   "Login": "rappenem",
-  "CurrentFollowersCount": 25357,
-  "CurrentTweetsCout": 3646,
+  "CurrentFollowersCount": 25413,
+  "CurrentTweetsCout": 3665,
   "FollowersCountHistory": {
     "20210225": 41,
     "20210226": 41,
@@ -791,7 +791,9 @@
     "20230906": 25201,
     "20230907": 25290,
     "20230909": 25340,
-    "20230910": 25357
+    "20230910": 25357,
+    "20230911": 25372,
+    "20230912": 25413
   },
   "TweetsCountHistory": {
     "20210225": 106,
@@ -1580,20 +1582,22 @@
     "20230906": 3625,
     "20230907": 3631,
     "20230909": 3641,
-    "20230910": 3646
+    "20230910": 3646,
+    "20230911": 3652,
+    "20230912": 3665
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 1.66474566255329,
+    "WeeklyGrowth": 0.9105497939244840640385951026,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230825.0,
-        "Y": 24857.7980083234
+        "X": 20230905.0,
+        "Y": 25190.26027397260269965251
       },
       "End": {
-        "X": 20230910.0,
-        "Y": 25271.6171224732
+        "X": 20230912.0,
+        "Y": 25419.63013698630140833363
       }
     }
   }

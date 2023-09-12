@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1054329777593688064/6aq7vfzm.jpg",
   "Login": "BraininaBowl",
   "CurrentFollowersCount": 218,
-  "CurrentTweetsCout": 411,
+  "CurrentTweetsCout": 412,
   "FollowersCountHistory": {
     "20210125": 190,
     "20210126": 190,
@@ -830,7 +830,9 @@
     "20230906": 218,
     "20230907": 218,
     "20230909": 218,
-    "20230910": 218
+    "20230910": 218,
+    "20230911": 218,
+    "20230912": 218
   },
   "TweetsCountHistory": {
     "20210125": 308,
@@ -1658,20 +1660,22 @@
     "20230906": 411,
     "20230907": 411,
     "20230909": 411,
-    "20230910": 411
+    "20230910": 411,
+    "20230911": 411,
+    "20230912": 412
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.9399099479114,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230825.0,
-        "Y": 219.992023384859
+        "X": 20230905.0,
+        "Y": 218.0
       },
       "End": {
-        "X": 20230910.0,
-        "Y": 217.924296472453
+        "X": 20230912.0,
+        "Y": 218.0
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "ghost sounds in space ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1363931147604926466/4PdQazye.jpg",
   "Login": "genghiskait",
-  "CurrentFollowersCount": 369,
+  "CurrentFollowersCount": 368,
   "CurrentTweetsCout": 10992,
   "FollowersCountHistory": {
     "20210201": 252,
@@ -861,7 +861,8 @@
     "20230906": 369,
     "20230907": 369,
     "20230909": 369,
-    "20230911": 369
+    "20230911": 369,
+    "20230912": 368
   },
   "TweetsCountHistory": {
     "20210201": 9485,
@@ -1720,20 +1721,21 @@
     "20230906": 10993,
     "20230907": 10993,
     "20230909": 10992,
-    "20230911": 10992
+    "20230911": 10992,
+    "20230912": 10992
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1675650012567375957208651248,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230826.0,
-        "Y": 369.0
+        "X": 20230904.0,
+        "Y": 369.1443298969072166428607
       },
       "End": {
-        "X": 20230911.0,
-        "Y": 369.0
+        "X": 20230912.0,
+        "Y": 368.5257731958762884890068
       }
     }
   }
