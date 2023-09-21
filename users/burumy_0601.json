@@ -2,7 +2,7 @@
   "PublicName": "김초코 ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1650106351463571456/UOofxq9c.png",
   "Login": "burumy_0601",
-  "CurrentFollowersCount": 2725,
+  "CurrentFollowersCount": 2726,
   "CurrentTweetsCout": 85,
   "FollowersCountHistory": {
     "20230915": 2699,
@@ -10,7 +10,8 @@
     "20230917": 2704,
     "20230918": 2704,
     "20230919": 2704,
-    "20230920": 2725
+    "20230920": 2725,
+    "20230921": 2726
   },
   "TweetsCountHistory": {
     "20230915": 84,
@@ -18,12 +19,22 @@
     "20230917": 85,
     "20230918": 85,
     "20230919": 85,
-    "20230920": 85
+    "20230920": 85,
+    "20230921": 85
   },
   "LangId": "jp",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.025641025641025641025909311,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20230915.0,
+        "Y": 2695.17857142857142857142
+      },
+      "End": {
+        "X": 20230921.0,
+        "Y": 2722.82142857142857142857
+      }
+    }
   }
 }
