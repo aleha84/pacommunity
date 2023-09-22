@@ -2,8 +2,8 @@
   "PublicName": "Louis ? ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1607828294178689028/6BBN9qAj.jpg",
   "Login": "LouisPretends",
-  "CurrentFollowersCount": 872,
-  "CurrentTweetsCout": 1020,
+  "CurrentFollowersCount": 871,
+  "CurrentTweetsCout": 1024,
   "FollowersCountHistory": {
     "20220902": 370,
     "20220903": 370,
@@ -324,7 +324,8 @@
     "20230918": 873,
     "20230919": 873,
     "20230920": 873,
-    "20230921": 872
+    "20230921": 872,
+    "20230922": 871
   },
   "TweetsCountHistory": {
     "20220902": 579,
@@ -646,20 +647,21 @@
     "20230918": 1016,
     "20230919": 1016,
     "20230920": 1019,
-    "20230921": 1020
+    "20230921": 1020,
+    "20230922": 1024
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0737010195307701756541014702,
+    "WeeklyGrowth": -0.1962708537782139352306199048,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230915.0,
-        "Y": 872.2499999999999999999999
+        "X": 20230916.0,
+        "Y": 873.4285714285714285714285
       },
       "End": {
-        "X": 20230921.0,
-        "Y": 872.8928571428571428571428
+        "X": 20230922.0,
+        "Y": 871.7142857142857142857142
       }
     }
   }
