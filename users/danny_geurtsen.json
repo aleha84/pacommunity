@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1653722462050488321/tNtjyTxp.jpg",
   "Login": "danny_geurtsen",
   "CurrentFollowersCount": 591,
-  "CurrentTweetsCout": 1858,
+  "CurrentTweetsCout": 1862,
   "FollowersCountHistory": {
     "20230303": 345,
     "20230304": 345,
@@ -163,7 +163,8 @@
     "20230919": 590,
     "20230920": 591,
     "20230921": 591,
-    "20230922": 591
+    "20230922": 591,
+    "20230925": 591
   },
   "TweetsCountHistory": {
     "20230303": 832,
@@ -324,20 +325,21 @@
     "20230919": 1841,
     "20230920": 1854,
     "20230921": 1857,
-    "20230922": 1858
+    "20230922": 1858,
+    "20230925": 1862
   },
   "LangId": "nl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.10891268832819,
+    "WeeklyGrowth": 0.2140754616002142163352789611,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230916.0,
-        "Y": 590.25
+        "X": 20230917.0,
+        "Y": 590.0526315789473680799549
       },
       "End": {
-        "X": 20230922.0,
-        "Y": 590.892857142857
+        "X": 20230925.0,
+        "Y": 591.3157894736842110157167
       }
     }
   }

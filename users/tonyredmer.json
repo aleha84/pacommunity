@@ -2,8 +2,8 @@
   "PublicName": "Tony Redmer ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1701425279179112448/8VnsoAiJ.jpg",
   "Login": "tonyredmer",
-  "CurrentFollowersCount": 7985,
-  "CurrentTweetsCout": 843,
+  "CurrentFollowersCount": 7984,
+  "CurrentTweetsCout": 842,
   "FollowersCountHistory": {
     "20210110": 6236,
     "20210111": 6231,
@@ -894,7 +894,8 @@
     "20230920": 7985,
     "20230921": 7985,
     "20230922": 7984,
-    "20230923": 7985
+    "20230923": 7985,
+    "20230925": 7984
   },
   "TweetsCountHistory": {
     "20210110": 598,
@@ -1786,20 +1787,21 @@
     "20230920": 841,
     "20230921": 841,
     "20230922": 842,
-    "20230923": 843
+    "20230923": 843,
+    "20230925": 842
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0107355651380415,
+    "WeeklyGrowth": -0.0118560399594738852344934221,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230917.0,
-        "Y": 7984.14285714286
+        "X": 20230918.0,
+        "Y": 7985.1393442622950814458883
       },
       "End": {
-        "X": 20230923.0,
-        "Y": 7985.0
+        "X": 20230925.0,
+        "Y": 7984.1926229508196727709554
       }
     }
   }
