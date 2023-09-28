@@ -2,15 +2,16 @@
   "PublicName": "ゆうらしあ ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1663331128084926464/BdDT8__l.png",
   "Login": "EU_00_rasia",
-  "CurrentFollowersCount": 12217,
-  "CurrentTweetsCout": 62074,
+  "CurrentFollowersCount": 12218,
+  "CurrentTweetsCout": 62098,
   "FollowersCountHistory": {
     "20230920": 12207,
     "20230921": 12209,
     "20230922": 12223,
     "20230925": 12217,
     "20230926": 12224,
-    "20230927": 12217
+    "20230927": 12217,
+    "20230928": 12218
   },
   "TweetsCountHistory": {
     "20230920": 61906,
@@ -18,12 +19,22 @@
     "20230922": 61989,
     "20230925": 62058,
     "20230926": 62064,
-    "20230927": 62074
+    "20230927": 62074,
+    "20230928": 62098
   },
   "LangId": "jp",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.0785510667401823513633553691,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20230920.0,
+        "Y": 12211.461165048543692939443
+      },
+      "End": {
+        "X": 20230928.0,
+        "Y": 12221.053398058252423815002
+      }
+    }
   }
 }
