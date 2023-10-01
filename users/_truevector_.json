@@ -2,7 +2,7 @@
   "PublicName": "TRUEvector ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1605318278917791745/gCfSECpN.png",
   "Login": "_truevector_",
-  "CurrentFollowersCount": 3001,
+  "CurrentFollowersCount": 3000,
   "CurrentTweetsCout": 57,
   "FollowersCountHistory": {
     "20201213": 3019,
@@ -883,7 +883,8 @@
     "20230927": 3003,
     "20230928": 3002,
     "20230929": 3003,
-    "20230930": 3001
+    "20230930": 3001,
+    "20231001": 3000
   },
   "TweetsCountHistory": {
     "20201213": 1559,
@@ -1764,20 +1765,21 @@
     "20230927": 56,
     "20230928": 56,
     "20230929": 57,
-    "20230930": 57
+    "20230930": 57,
+    "20231001": 57
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.039460314432938865758986575,
+    "WeeklyGrowth": -0.0615504889243163348246260277,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230922.0,
-        "Y": 3001.0164473684210521726299
+        "X": 20230925.0,
+        "Y": 3001.88747848537005163511188
       },
       "End": {
-        "X": 20230930.0,
-        "Y": 3002.2006578947368424251368
+        "X": 20231001.0,
+        "Y": 3000.03980206540447504302926
       }
     }
   }

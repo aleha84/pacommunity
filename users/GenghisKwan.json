@@ -2,7 +2,7 @@
   "PublicName": "Herbert Kwan ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/3377446728/b5fe12430411284fb6db5ceccbf3bf1d.jpeg",
   "Login": "GenghisKwan",
-  "CurrentFollowersCount": 1116,
+  "CurrentFollowersCount": 1115,
   "CurrentTweetsCout": 619,
   "FollowersCountHistory": {
     "20211021": 357,
@@ -644,7 +644,8 @@
     "20230928": 1116,
     "20230929": 1116,
     "20230930": 1116,
-    "20231001": 1116
+    "20231001": 1116,
+    "20231002": 1115
   },
   "TweetsCountHistory": {
     "20211021": 501,
@@ -1286,20 +1287,21 @@
     "20230928": 619,
     "20230929": 619,
     "20230930": 619,
-    "20231001": 619
+    "20231001": 619,
+    "20231002": 619
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0718381519616117286778713054,
+    "WeeklyGrowth": -0.007052284336969280806187425,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230925.0,
-        "Y": 1115.29152323580034423407917
+        "X": 20230926.0,
+        "Y": 1115.595238095238095238095238
       },
       "End": {
-        "X": 20231001.0,
-        "Y": 1116.09272805507745266781411
+        "X": 20231002.0,
+        "Y": 1115.516563146997929606625259
       }
     }
   }
