@@ -2,7 +2,7 @@
   "PublicName": "Carpastek ? ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1475901531752914954/hnW4plBl.jpg",
   "Login": "carpastek",
-  "CurrentFollowersCount": 603,
+  "CurrentFollowersCount": 602,
   "CurrentTweetsCout": 1997,
   "FollowersCountHistory": {
     "20210113": 186,
@@ -853,7 +853,8 @@
     "20230928": 603,
     "20230929": 603,
     "20230930": 603,
-    "20231001": 603
+    "20231001": 603,
+    "20231002": 602
   },
   "TweetsCountHistory": {
     "20210113": 1427,
@@ -1704,20 +1705,21 @@
     "20230928": 1997,
     "20230929": 1997,
     "20230930": 1997,
-    "20231001": 1997
+    "20231001": 1997,
+    "20231002": 1997
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0864359319405016932043713696,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230925.0,
-        "Y": 603.0
+        "X": 20230926.0,
+        "Y": 603.01488095238095238095237
       },
       "End": {
-        "X": 20231001.0,
-        "Y": 603.0
+        "X": 20231002.0,
+        "Y": 602.49365942028985507246376
       }
     }
   }
