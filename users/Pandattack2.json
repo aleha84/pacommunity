@@ -2,7 +2,7 @@
   "PublicName": "Pandattack ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1446968531740991495/cyBZXdkq.jpg",
   "Login": "Pandattack2",
-  "CurrentFollowersCount": 1065,
+  "CurrentFollowersCount": 1064,
   "CurrentTweetsCout": 611,
   "FollowersCountHistory": {
     "20210203": 92,
@@ -833,7 +833,8 @@
     "20230929": 1065,
     "20230930": 1065,
     "20231001": 1065,
-    "20231002": 1065
+    "20231002": 1065,
+    "20231003": 1064
   },
   "TweetsCountHistory": {
     "20210203": 120,
@@ -1664,20 +1665,21 @@
     "20230929": 611,
     "20230930": 611,
     "20231001": 611,
-    "20231002": 611
+    "20231002": 611,
+    "20231003": 611
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0628294351040503102324937867,
+    "WeeklyGrowth": -0.0077015823306244706428855145,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230926.0,
-        "Y": 1064.36904761904761904761905
+        "X": 20230927.0,
+        "Y": 1064.749892101855848079413034
       },
       "End": {
-        "X": 20231002.0,
-        "Y": 1065.03778467908902691511388
+        "X": 20231003.0,
+        "Y": 1064.667889512300388433318947
       }
     }
   }
