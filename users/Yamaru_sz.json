@@ -2,7 +2,7 @@
   "PublicName": ". ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1681148917700874240/aVtbkDjl.jpg",
   "Login": "Yamaru_sz",
-  "CurrentFollowersCount": 93,
+  "CurrentFollowersCount": 92,
   "CurrentTweetsCout": 8683,
   "FollowersCountHistory": {
     "20210225": 93,
@@ -819,7 +819,8 @@
     "20230930": 93,
     "20231001": 93,
     "20231002": 93,
-    "20231003": 93
+    "20231003": 93,
+    "20231004": 92
   },
   "TweetsCountHistory": {
     "20210225": 5205,
@@ -1636,20 +1637,21 @@
     "20230930": 8683,
     "20231001": 8683,
     "20231002": 8683,
-    "20231003": 8683
+    "20231003": 8683,
+    "20231004": 8683
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2909448631642690010313000968,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230927.0,
-        "Y": 93.0
+        "X": 20230928.0,
+        "Y": 93.010250323694432455761761
       },
       "End": {
-        "X": 20231003.0,
-        "Y": 93.0
+        "X": 20231004.0,
+        "Y": 92.739641778161415623651273
       }
     }
   }

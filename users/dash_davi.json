@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1686549376603156481/6fzALUYr.jpg",
   "Login": "dash_davi",
   "CurrentFollowersCount": 103,
-  "CurrentTweetsCout": 2298,
+  "CurrentTweetsCout": 2299,
   "FollowersCountHistory": {
     "20210125": 118,
     "20210126": 118,
@@ -851,7 +851,8 @@
     "20230930": 103,
     "20231001": 103,
     "20231002": 103,
-    "20231003": 103
+    "20231003": 103,
+    "20231004": 103
   },
   "TweetsCountHistory": {
     "20210125": 1649,
@@ -1700,20 +1701,21 @@
     "20230930": 2293,
     "20231001": 2293,
     "20231002": 2295,
-    "20231003": 2298
+    "20231003": 2298,
+    "20231004": 2299
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.2620643102473623770528635102,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230927.0,
-        "Y": 103.260358221838584376348727
+        "X": 20230928.0,
+        "Y": 103.0
       },
       "End": {
-        "X": 20231003.0,
-        "Y": 102.989749676305567544238239
+        "X": 20231004.0,
+        "Y": 103.0
       }
     }
   }
