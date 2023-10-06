@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1301322458134347776/56s98KBJ.jpg",
   "Login": "DerwinDoki",
   "CurrentFollowersCount": 279,
-  "CurrentTweetsCout": 1505,
+  "CurrentTweetsCout": 1508,
   "FollowersCountHistory": {
     "20210112": 214,
     "20210113": 216,
@@ -858,7 +858,8 @@
     "20231002": 279,
     "20231003": 279,
     "20231004": 279,
-    "20231005": 279
+    "20231005": 279,
+    "20231006": 279
   },
   "TweetsCountHistory": {
     "20210112": 941,
@@ -1714,20 +1715,21 @@
     "20231002": 1502,
     "20231003": 1502,
     "20231004": 1504,
-    "20231005": 1505
+    "20231005": 1505,
+    "20231006": 1508
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.3722842336517959387006482417,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20230929.0,
-        "Y": 280.01268115942028985507246
+        "X": 20230930.0,
+        "Y": 279.0
       },
       "End": {
-        "X": 20231005.0,
-        "Y": 278.97023809523809523809523
+        "X": 20231006.0,
+        "Y": 279.0
       }
     }
   }
