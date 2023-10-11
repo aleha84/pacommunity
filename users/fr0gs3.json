@@ -2,7 +2,7 @@
   "PublicName": "kael - moved accounts ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1684839816587096064/xxs8IlGQ.jpg",
   "Login": "fr0gs3",
-  "CurrentFollowersCount": 31,
+  "CurrentFollowersCount": 30,
   "CurrentTweetsCout": 11,
   "FollowersCountHistory": {
     "20210111": 12012,
@@ -887,7 +887,8 @@
     "20231006": 31,
     "20231007": 31,
     "20231009": 31,
-    "20231010": 31
+    "20231010": 31,
+    "20231011": 30
   },
   "TweetsCountHistory": {
     "20210111": 462,
@@ -1772,20 +1773,21 @@
     "20231006": 11,
     "20231007": 11,
     "20231009": 11,
-    "20231010": 11
+    "20231010": 11,
+    "20231011": 11
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.9239226033421290607755572757,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231003.0,
-        "Y": 31.0
+        "X": 20231004.0,
+        "Y": 31.1506849315068494155990
       },
       "End": {
-        "X": 20231010.0,
-        "Y": 31.0
+        "X": 20231011.0,
+        "Y": 30.5513698630136985254178
       }
     }
   }
