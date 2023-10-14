@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1516785525721546757/tVzOiycN.jpg",
   "Login": "SolaarNoble",
   "CurrentFollowersCount": 404,
-  "CurrentTweetsCout": 7811,
+  "CurrentTweetsCout": 7813,
   "FollowersCountHistory": {
     "20210915": 318,
     "20210916": 319,
@@ -692,7 +692,8 @@
     "20231011": 404,
     "20231012": 404,
     "20231013": 404,
-    "20231014": 404
+    "20231014": 404,
+    "20231015": 404
   },
   "TweetsCountHistory": {
     "20210915": 6304,
@@ -1382,20 +1383,21 @@
     "20231011": 7809,
     "20231012": 7810,
     "20231013": 7811,
-    "20231014": 7811
+    "20231014": 7811,
+    "20231015": 7813
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1914602643975077423644740564,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231007.0,
-        "Y": 404.5696721311475404588498
+        "X": 20231009.0,
+        "Y": 404.0
       },
       "End": {
-        "X": 20231014.0,
-        "Y": 403.7950819672131151816779
+        "X": 20231015.0,
+        "Y": 404.0
       }
     }
   }

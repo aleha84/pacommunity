@@ -2,7 +2,7 @@
   "PublicName": "ピクセル探偵 ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1004016314669719552/FYM9NJi0.jpg",
   "Login": "px_meitantei",
-  "CurrentFollowersCount": 1040,
+  "CurrentFollowersCount": 1039,
   "CurrentTweetsCout": 476,
   "FollowersCountHistory": {
     "20201225": 1075,
@@ -889,7 +889,8 @@
     "20231009": 1040,
     "20231011": 1040,
     "20231012": 1040,
-    "20231013": 1040
+    "20231013": 1040,
+    "20231014": 1039
   },
   "TweetsCountHistory": {
     "20201225": 469,
@@ -1776,20 +1777,21 @@
     "20231009": 476,
     "20231011": 476,
     "20231012": 476,
-    "20231013": 476
+    "20231013": 476,
+    "20231014": 476
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0552515187261210001446630559,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231005.0,
-        "Y": 1040.0
+        "X": 20231006.0,
+        "Y": 1040.1752873563218391720078
       },
       "End": {
-        "X": 20231013.0,
-        "Y": 1040.0
+        "X": 20231014.0,
+        "Y": 1039.6005747126436780870904
       }
     }
   }
