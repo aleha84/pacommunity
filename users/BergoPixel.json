@@ -2,7 +2,7 @@
   "PublicName": "Bergo ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1455275010864603151/AYQFg_dd.jpg",
   "Login": "BergoPixel",
-  "CurrentFollowersCount": 774,
+  "CurrentFollowersCount": 773,
   "CurrentTweetsCout": 421,
   "FollowersCountHistory": {
     "20210708": 123,
@@ -749,7 +749,8 @@
     "20231012": 774,
     "20231013": 774,
     "20231014": 774,
-    "20231015": 774
+    "20231015": 774,
+    "20231016": 773
   },
   "TweetsCountHistory": {
     "20210708": 202,
@@ -1496,20 +1497,21 @@
     "20231012": 421,
     "20231013": 421,
     "20231014": 421,
-    "20231015": 421
+    "20231015": 421,
+    "20231016": 421
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0830373206624532915071329135,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231009.0,
-        "Y": 774.0
+        "X": 20231010.0,
+        "Y": 774.1785714285714285714285
       },
       "End": {
-        "X": 20231015.0,
-        "Y": 774.0
+        "X": 20231016.0,
+        "Y": 773.5357142857142857142856
       }
     }
   }
