@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/735486514587521024/oeObacaq.jpg",
   "Login": "EbornIan",
   "CurrentFollowersCount": 427,
-  "CurrentTweetsCout": 36305,
+  "CurrentTweetsCout": 36314,
   "FollowersCountHistory": {
     "20210225": 356,
     "20210226": 355,
@@ -874,7 +874,8 @@
     "20231018": 427,
     "20231019": 427,
     "20231020": 427,
-    "20231021": 427
+    "20231021": 427,
+    "20231022": 427
   },
   "TweetsCountHistory": {
     "20210225": 24546,
@@ -1746,20 +1747,21 @@
     "20231018": 36284,
     "20231019": 36297,
     "20231020": 36305,
-    "20231021": 36305
+    "20231021": 36305,
+    "20231022": 36314
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1507159005275056518462798696,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231015.0,
-        "Y": 426.5357142857142857142856
+        "X": 20231016.0,
+        "Y": 427.0
       },
       "End": {
-        "X": 20231021.0,
-        "Y": 427.1785714285714285714285
+        "X": 20231022.0,
+        "Y": 427.0
       }
     }
   }

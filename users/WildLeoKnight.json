@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1670441222974914561/hFHDBsON.jpg",
   "Login": "WildLeoKnight",
   "CurrentFollowersCount": 896,
-  "CurrentTweetsCout": 20831,
+  "CurrentTweetsCout": 20833,
   "FollowersCountHistory": {
     "20210124": 526,
     "20210125": 526,
@@ -868,7 +868,8 @@
     "20231017": 897,
     "20231018": 897,
     "20231019": 895,
-    "20231020": 896
+    "20231020": 896,
+    "20231021": 896
   },
   "TweetsCountHistory": {
     "20210124": 15169,
@@ -1734,20 +1735,21 @@
     "20231017": 20822,
     "20231018": 20824,
     "20231019": 20827,
-    "20231020": 20831
+    "20231020": 20831,
+    "20231021": 20833
   },
   "LangId": "pt",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.073555562740470162324399901,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231013.0,
-        "Y": 896.4927536231884060510534
+        "X": 20231014.0,
+        "Y": 896.0
       },
       "End": {
-        "X": 20231020.0,
-        "Y": 895.8333333333333331086836
+        "X": 20231021.0,
+        "Y": 896.0
       }
     }
   }
