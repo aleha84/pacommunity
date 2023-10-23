@@ -2,7 +2,7 @@
   "PublicName": "Cryptosaur ? ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1616282249942695937/_2NA6_ku.jpg",
   "Login": "Cryptosaur720",
-  "CurrentFollowersCount": 1043,
+  "CurrentFollowersCount": 1042,
   "CurrentTweetsCout": 1773,
   "FollowersCountHistory": {
     "20210914": 884,
@@ -676,7 +676,8 @@
     "20231019": 1043,
     "20231020": 1043,
     "20231021": 1043,
-    "20231022": 1043
+    "20231022": 1043,
+    "20231023": 1042
   },
   "TweetsCountHistory": {
     "20210914": 1137,
@@ -1350,20 +1351,21 @@
     "20231019": 1773,
     "20231020": 1773,
     "20231021": 1773,
-    "20231022": 1773
+    "20231022": 1773,
+    "20231023": 1773
   },
   "LangId": "th",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0616248416583929610736457983,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231016.0,
-        "Y": 1043.0
+        "X": 20231017.0,
+        "Y": 1043.1785714285714285714285
       },
       "End": {
-        "X": 20231022.0,
-        "Y": 1043.0
+        "X": 20231023.0,
+        "Y": 1042.5357142857142857142856
       }
     }
   }
