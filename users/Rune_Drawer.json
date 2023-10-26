@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/426715307034423297/Tpx3clDP.jpeg",
   "Login": "Rune_Drawer",
   "CurrentFollowersCount": 1376,
-  "CurrentTweetsCout": 179,
+  "CurrentTweetsCout": 180,
   "FollowersCountHistory": {
     "20201216": 1385,
     "20201217": 1387,
@@ -899,7 +899,8 @@
     "20231020": 1376,
     "20231023": 1376,
     "20231024": 1376,
-    "20231025": 1376
+    "20231025": 1376,
+    "20231026": 1376
   },
   "TweetsCountHistory": {
     "20201216": 86,
@@ -1796,20 +1797,21 @@
     "20231020": 179,
     "20231023": 179,
     "20231024": 179,
-    "20231025": 179
+    "20231025": 179,
+    "20231026": 180
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0380901997090331689084098587,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231017.0,
-        "Y": 1376.3956310679611648642978
+        "X": 20231018.0,
+        "Y": 1376.0
       },
       "End": {
-        "X": 20231025.0,
-        "Y": 1375.8713592233009710716802
+        "X": 20231026.0,
+        "Y": 1376.0
       }
     }
   }
