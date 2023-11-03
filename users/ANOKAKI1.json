@@ -2,7 +2,7 @@
   "PublicName": "ANOMAN ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1669035926499233793/QFiI3tFW.jpg",
   "Login": "ANOKAKI1",
-  "CurrentFollowersCount": 109,
+  "CurrentFollowersCount": 108,
   "CurrentTweetsCout": 240,
   "FollowersCountHistory": {
     "20210312": 96,
@@ -832,7 +832,8 @@
     "20231029": 109,
     "20231030": 109,
     "20231031": 109,
-    "20231101": 109
+    "20231101": 109,
+    "20231103": 108
   },
   "TweetsCountHistory": {
     "20210312": 130,
@@ -1662,20 +1663,21 @@
     "20231029": 240,
     "20231030": 240,
     "20231031": 240,
-    "20231101": 240
+    "20231101": 240,
+    "20231103": 240
   },
   "LangId": "cn",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.4858864023989094339032928275,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231026.0,
-        "Y": 109.0
+        "X": 20231027.0,
+        "Y": 109.01644995690785775756333
       },
       "End": {
-        "X": 20231101.0,
-        "Y": 109.0
+        "X": 20231103.0,
+        "Y": 108.48675385018923071366526
       }
     }
   }

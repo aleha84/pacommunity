@@ -2,7 +2,7 @@
   "PublicName": "Mirabell Étoile ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1370132718923681794/BvnEg1P6.jpg",
   "Login": "Mirabell_Etoile",
-  "CurrentFollowersCount": 350,
+  "CurrentFollowersCount": 349,
   "CurrentTweetsCout": 910,
   "FollowersCountHistory": {
     "20210202": 295,
@@ -908,7 +908,8 @@
     "20231030": 350,
     "20231031": 350,
     "20231101": 350,
-    "20231102": 350
+    "20231102": 350,
+    "20231103": 349
   },
   "TweetsCountHistory": {
     "20210202": 745,
@@ -1814,20 +1815,21 @@
     "20231030": 910,
     "20231031": 910,
     "20231101": 910,
-    "20231102": 910
+    "20231102": 910,
+    "20231103": 910
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1008189714011768596723359791,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231027.0,
-        "Y": 350.0
+        "X": 20231028.0,
+        "Y": 350.01039224383752613926916
       },
       "End": {
-        "X": 20231102.0,
-        "Y": 350.0
+        "X": 20231103.0,
+        "Y": 349.65751536658006463437304
       }
     }
   }

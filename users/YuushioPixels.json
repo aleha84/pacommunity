@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1517010099100954624/CIlm5vdC.jpg",
   "Login": "YuushioPixels",
   "CurrentFollowersCount": 293,
-  "CurrentTweetsCout": 157,
+  "CurrentTweetsCout": 158,
   "FollowersCountHistory": {
     "20210914": 327,
     "20210915": 327,
@@ -712,7 +712,8 @@
     "20231030": 293,
     "20231031": 293,
     "20231101": 293,
-    "20231102": 293
+    "20231102": 293,
+    "20231103": 293
   },
   "TweetsCountHistory": {
     "20210914": 65,
@@ -1422,20 +1423,21 @@
     "20231030": 157,
     "20231031": 157,
     "20231101": 157,
-    "20231102": 157
+    "20231102": 157,
+    "20231103": 158
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0772670892933472747489438783,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231027.0,
-        "Y": 293.211471236416141044413865
+        "X": 20231028.0,
+        "Y": 293.0
       },
       "End": {
-        "X": 20231102.0,
-        "Y": 292.984915267117562124179402
+        "X": 20231103.0,
+        "Y": 293.0
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Zushi ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1519401281764352002/vvFDrUu2.png",
   "Login": "Zushi3DHero",
-  "CurrentFollowersCount": 2373,
+  "CurrentFollowersCount": 2370,
   "CurrentTweetsCout": 7207,
   "FollowersCountHistory": {
     "20210124": 2168,
@@ -879,7 +879,8 @@
     "20231029": 2373,
     "20231030": 2373,
     "20231031": 2373,
-    "20231101": 2373
+    "20231101": 2373,
+    "20231103": 2370
   },
   "TweetsCountHistory": {
     "20210124": 5290,
@@ -1756,20 +1757,21 @@
     "20231029": 7207,
     "20231030": 7207,
     "20231031": 7207,
-    "20231101": 7207
+    "20231101": 7207,
+    "20231103": 7207
   },
   "LangId": "pt",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0669639811849024451916439111,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231026.0,
-        "Y": 2373.0
+        "X": 20231027.0,
+        "Y": 2373.04934987072357327268698
       },
       "End": {
-        "X": 20231101.0,
-        "Y": 2373.0
+        "X": 20231103.0,
+        "Y": 2371.46026155056769214100276
       }
     }
   }
