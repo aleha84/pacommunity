@@ -2,8 +2,8 @@
   "PublicName": "mirdemor ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1589415173303025668/0iGkqIdU.jpg",
   "Login": "pixillian",
-  "CurrentFollowersCount": 138,
-  "CurrentTweetsCout": 2753,
+  "CurrentFollowersCount": 140,
+  "CurrentTweetsCout": 2756,
   "FollowersCountHistory": {
     "20201219": 111,
     "20201220": 112,
@@ -914,7 +914,8 @@
     "20231031": 140,
     "20231101": 140,
     "20231103": 139,
-    "20231104": 138
+    "20231104": 138,
+    "20231105": 140
   },
   "TweetsCountHistory": {
     "20201219": 1875,
@@ -1826,20 +1827,21 @@
     "20231031": 2740,
     "20231101": 2745,
     "20231103": 2750,
-    "20231104": 2753
+    "20231104": 2753,
+    "20231105": 2756
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0634613136491925379919970526,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231028.0,
-        "Y": 139.0
+        "X": 20231029.0,
+        "Y": 139.335577549564084266469032
       },
       "End": {
-        "X": 20231104.0,
-        "Y": 139.0
+        "X": 20231105.0,
+        "Y": 139.247153361670441500597282
       }
     }
   }
