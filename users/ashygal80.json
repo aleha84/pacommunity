@@ -2,7 +2,7 @@
   "PublicName": "Ashygal ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/923570989048279041/nXuifdsb.jpg",
   "Login": "ashygal80",
-  "CurrentFollowersCount": 366,
+  "CurrentFollowersCount": 365,
   "CurrentTweetsCout": 576,
   "FollowersCountHistory": {
     "20220501": 223,
@@ -477,7 +477,8 @@
     "20231105": 366,
     "20231106": 366,
     "20231107": 366,
-    "20231108": 366
+    "20231108": 366,
+    "20231109": 365
   },
   "TweetsCountHistory": {
     "20220501": 424,
@@ -952,20 +953,21 @@
     "20231105": 576,
     "20231106": 576,
     "20231107": 576,
-    "20231108": 576
+    "20231108": 576,
+    "20231109": 576
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1755583731590753925680406077,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231101.0,
-        "Y": 366.0
+        "X": 20231103.0,
+        "Y": 366.1785714285714285714285
       },
       "End": {
-        "X": 20231108.0,
-        "Y": 366.0
+        "X": 20231109.0,
+        "Y": 365.5357142857142857142856
       }
     }
   }
