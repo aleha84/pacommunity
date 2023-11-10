@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1720481247838007298/7vgLU9TW.jpg",
   "Login": "PabsoDesign",
   "CurrentFollowersCount": 328,
-  "CurrentTweetsCout": 6572,
+  "CurrentTweetsCout": 6573,
   "FollowersCountHistory": {
     "20210310": 228,
     "20210311": 228,
@@ -829,7 +829,8 @@
     "20231106": 328,
     "20231107": 328,
     "20231108": 328,
-    "20231109": 328
+    "20231109": 328,
+    "20231110": 328
   },
   "TweetsCountHistory": {
     "20210310": 4681,
@@ -1656,20 +1657,21 @@
     "20231106": 6570,
     "20231107": 6570,
     "20231108": 6570,
-    "20231109": 6572
+    "20231109": 6572,
+    "20231110": 6573
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1962708537782139352306313465,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231103.0,
-        "Y": 327.5357142857142857142857
+        "X": 20231104.0,
+        "Y": 328.0
       },
       "End": {
-        "X": 20231109.0,
-        "Y": 328.1785714285714285714286
+        "X": 20231110.0,
+        "Y": 328.0
       }
     }
   }
