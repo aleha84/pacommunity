@@ -2,7 +2,7 @@
   "PublicName": "derek ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1636074448485773318/CnDxTrIA.jpg",
   "Login": "fedellen",
-  "CurrentFollowersCount": 1132,
+  "CurrentFollowersCount": 1131,
   "CurrentTweetsCout": 1680,
   "FollowersCountHistory": {
     "20210113": 1242,
@@ -939,7 +939,8 @@
     "20231109": 1132,
     "20231110": 1132,
     "20231111": 1132,
-    "20231112": 1132
+    "20231112": 1132,
+    "20231113": 1131
   },
   "TweetsCountHistory": {
     "20210113": 1524,
@@ -1876,20 +1877,21 @@
     "20231109": 1680,
     "20231110": 1680,
     "20231111": 1680,
-    "20231112": 1680
+    "20231112": 1680,
+    "20231113": 1680
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.056780543200529951736533236,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231106.0,
-        "Y": 1132.0
+        "X": 20231107.0,
+        "Y": 1132.1785714285714285714285
       },
       "End": {
-        "X": 20231112.0,
-        "Y": 1132.0
+        "X": 20231113.0,
+        "Y": 1131.5357142857142857142857
       }
     }
   }

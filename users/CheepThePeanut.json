@@ -2,7 +2,7 @@
   "PublicName": "cheep the peanut ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1348737584172847112/3BX6T7Fi.jpg",
   "Login": "CheepThePeanut",
-  "CurrentFollowersCount": 1599,
+  "CurrentFollowersCount": 1598,
   "CurrentTweetsCout": 1090,
   "FollowersCountHistory": {
     "20210114": 1269,
@@ -885,7 +885,8 @@
     "20231107": 1599,
     "20231108": 1599,
     "20231109": 1599,
-    "20231110": 1599
+    "20231110": 1599,
+    "20231112": 1598
   },
   "TweetsCountHistory": {
     "20210114": 602,
@@ -1768,20 +1769,21 @@
     "20231107": 1090,
     "20231108": 1090,
     "20231109": 1090,
-    "20231110": 1090
+    "20231110": 1090,
+    "20231112": 1090
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1475750732285401247680075129,
+    "WeeklyGrowth": -0.0089720124480264026277582501,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231104.0,
-        "Y": 1597.250000000000000000000
+        "X": 20231105.0,
+        "Y": 1598.77868852459016385562887
       },
       "End": {
-        "X": 20231110.0,
-        "Y": 1599.607142857142857142857
+        "X": 20231112.0,
+        "Y": 1598.63524590163934435900095
       }
     }
   }
