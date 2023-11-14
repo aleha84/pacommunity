@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1677129826174488576/SAIU0LyJ.jpg",
   "Login": "cyber_jellyfish",
   "CurrentFollowersCount": 616,
-  "CurrentTweetsCout": 4562,
+  "CurrentTweetsCout": 4564,
   "FollowersCountHistory": {
     "20210914": 272,
     "20210915": 272,
@@ -695,7 +695,8 @@
     "20231110": 616,
     "20231111": 615,
     "20231112": 616,
-    "20231113": 616
+    "20231113": 616,
+    "20231114": 616
   },
   "TweetsCountHistory": {
     "20210914": 1881,
@@ -1388,20 +1389,21 @@
     "20231110": 4561,
     "20231111": 4560,
     "20231112": 4561,
-    "20231113": 4562
+    "20231113": 4562,
+    "20231114": 4564
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0347886588971995,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231107.0,
-        "Y": 615.964285714286
+        "X": 20231108.0,
+        "Y": 615.85714285714285714285714286
       },
       "End": {
-        "X": 20231113.0,
-        "Y": 615.75
+        "X": 20231114.0,
+        "Y": 615.85714285714285714285714286
       }
     }
   }
