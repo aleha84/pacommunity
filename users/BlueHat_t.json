@@ -2,8 +2,8 @@
   "PublicName": "BlueHat ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1108385471539736577/-XCT16Xs.png",
   "Login": "BlueHat_t",
-  "CurrentFollowersCount": 55616,
-  "CurrentTweetsCout": 12015,
+  "CurrentFollowersCount": 55690,
+  "CurrentTweetsCout": 12022,
   "FollowersCountHistory": {
     "20201231": 16873,
     "20210101": 16877,
@@ -911,7 +911,8 @@
     "20231110": 55582,
     "20231111": 55601,
     "20231112": 55601,
-    "20231113": 55616
+    "20231113": 55616,
+    "20231117": 55690
   },
   "TweetsCountHistory": {
     "20201231": 15526,
@@ -1820,20 +1821,21 @@
     "20231110": 12012,
     "20231111": 12014,
     "20231112": 12015,
-    "20231113": 12015
+    "20231113": 12015,
+    "20231117": 12022
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0111751721072842,
+    "WeeklyGrowth": 0.1491277697754705670611592716,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231107.0,
-        "Y": 55607.9642857143
+        "X": 20231108.0,
+        "Y": 55583.85106382978722564336
       },
       "End": {
-        "X": 20231113.0,
-        "Y": 55601.75
+        "X": 20231117.0,
+        "Y": 55666.74202127659575832952
       }
     }
   }
