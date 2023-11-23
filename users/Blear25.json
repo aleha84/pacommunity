@@ -2,8 +2,8 @@
   "PublicName": "Eric ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1637481065550864384/4dVnTiiB.jpg",
   "Login": "Blear25",
-  "CurrentFollowersCount": 332,
-  "CurrentTweetsCout": 2732,
+  "CurrentFollowersCount": 331,
+  "CurrentTweetsCout": 2731,
   "FollowersCountHistory": {
     "20211010": 285,
     "20211011": 284,
@@ -703,7 +703,8 @@
     "20231118": 332,
     "20231119": 332,
     "20231120": 332,
-    "20231122": 332
+    "20231122": 332,
+    "20231123": 331
   },
   "TweetsCountHistory": {
     "20211010": 2069,
@@ -1404,20 +1405,21 @@
     "20231118": 2732,
     "20231119": 2732,
     "20231120": 2732,
-    "20231122": 2732
+    "20231122": 2732,
+    "20231123": 2731
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1935067727370457966028639502,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231113.0,
-        "Y": 332.0
+        "X": 20231114.0,
+        "Y": 332.2142857142857142857142
       },
       "End": {
-        "X": 20231122.0,
-        "Y": 332.0
+        "X": 20231123.0,
+        "Y": 331.5714285714285714285714
       }
     }
   }
