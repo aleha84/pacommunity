@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1718886158711537664/GnmDhiHe.jpg",
   "Login": "waterwitchrpg",
   "CurrentFollowersCount": 15,
-  "CurrentTweetsCout": 22,
+  "CurrentTweetsCout": 24,
   "FollowersCountHistory": {
     "20210914": 139,
     "20210915": 138,
@@ -691,7 +691,8 @@
     "20231119": 15,
     "20231120": 15,
     "20231122": 15,
-    "20231123": 15
+    "20231123": 15,
+    "20231124": 15
   },
   "TweetsCountHistory": {
     "20210914": 1153,
@@ -1380,20 +1381,21 @@
     "20231119": 21,
     "20231120": 21,
     "20231122": 21,
-    "20231123": 22
+    "20231123": 22,
+    "20231124": 24
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 6.1075525100551128821804596372,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231113.0,
-        "Y": 14.3440170940170943460170
+        "X": 20231117.0,
+        "Y": 15.0
       },
       "End": {
-        "X": 20231123.0,
-        "Y": 15.2200854700854698528172
+        "X": 20231124.0,
+        "Y": 15.0
       }
     }
   }
