@@ -2,7 +2,7 @@
   "PublicName": "@didi@mastodon.gamedev.place ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1691186336978423808/8W-kmHEz.jpg",
   "Login": "DidiGameBoy",
-  "CurrentFollowersCount": 4134,
+  "CurrentFollowersCount": 4132,
   "CurrentTweetsCout": 14260,
   "FollowersCountHistory": {
     "20201219": 3943,
@@ -932,7 +932,8 @@
     "20231121": 4132,
     "20231122": 4132,
     "20231123": 4133,
-    "20231124": 4134
+    "20231124": 4134,
+    "20231125": 4132
   },
   "TweetsCountHistory": {
     "20201219": 12776,
@@ -1862,20 +1863,21 @@
     "20231121": 14257,
     "20231122": 14257,
     "20231123": 14260,
-    "20231124": 14260
+    "20231124": 14260,
+    "20231125": 14260
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0051848843338719852057968044,
+    "WeeklyGrowth": -0.0103693206366762870919247188,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231118.0,
-        "Y": 4132.89285714285714285714285
+        "X": 20231119.0,
+        "Y": 4133.0714285714285714285714
       },
       "End": {
-        "X": 20231124.0,
-        "Y": 4133.10714285714285714285714
+        "X": 20231125.0,
+        "Y": 4132.6428571428571428571428
       }
     }
   }
