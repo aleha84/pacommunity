@@ -1,6 +1,6 @@
 {
   "PublicName": "Nostalgic Valley",
-  "AvatarImage": "https://pbs.twimg.com/profile_images/1527221892062453760/zGpMiR82_normal.jpg",
+  "AvatarImage": "https://pbs.twimg.com/profile_images/1527221892062453760/zGpMiR82_400x400.jpg",
   "Login": "nostalgicvalley",
   "CurrentFollowersCount": 0,
   "CurrentTweetsCout": 0,
@@ -606,7 +606,8 @@
     "20230619": 0,
     "20230628": 0,
     "20230629": 0,
-    "20230630": 0
+    "20230630": 0,
+    "20231126": 0
   },
   "TweetsCountHistory": {
     "20210914": 1203,
@@ -1210,11 +1211,12 @@
     "20230619": 0,
     "20230628": 0,
     "20230629": 0,
-    "20230630": 0
+    "20230630": 0,
+    "20231126": 0
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at System.Decimal.op_Division(Decimal d1, Decimal d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 83",
+    "ErrorMessage": "System.DivideByZeroException: Attempted to divide by zero.\r\n   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)\r\n   at twitterRetriever.Models.Trendline.Prepare(IEnumerable`1 data) in C:\\development\\vs\\twitterRetriever\\twitterRetriever\\twitterRetriever\\Models\\TrendLine.cs:line 90",
     "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": null
   }
