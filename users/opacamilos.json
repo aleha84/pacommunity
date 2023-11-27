@@ -2,7 +2,7 @@
   "PublicName": "Camilos",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1715541123408580608/696V6xSt_400x400.jpg",
   "Login": "opacamilos",
-  "CurrentFollowersCount": 273,
+  "CurrentFollowersCount": 272,
   "CurrentTweetsCout": 917,
   "FollowersCountHistory": {
     "20210214": 263,
@@ -877,7 +877,8 @@
     "20231123": 273,
     "20231124": 273,
     "20231125": 273,
-    "20231126": 273
+    "20231126": 273,
+    "20231127": 272
   },
   "TweetsCountHistory": {
     "20210214": 394,
@@ -1752,20 +1753,21 @@
     "20231123": 916,
     "20231124": 916,
     "20231125": 916,
-    "20231126": 917
+    "20231126": 917,
+    "20231127": 917
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2353248790691593672375265356,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231120.0,
-        "Y": 273.0
+        "X": 20231121.0,
+        "Y": 273.1785714285714285714285
       },
       "End": {
-        "X": 20231126.0,
-        "Y": 273.0
+        "X": 20231127.0,
+        "Y": 272.5357142857142857142857
       }
     }
   }
