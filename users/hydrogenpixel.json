@@ -2,7 +2,7 @@
   "PublicName": "Hydrogen₂",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1715909048610996224/qzeJlqVX_400x400.jpg",
   "Login": "hydrogenpixel",
-  "CurrentFollowersCount": 3284,
+  "CurrentFollowersCount": 3282,
   "CurrentTweetsCout": 403,
   "FollowersCountHistory": {
     "20210308": 1015,
@@ -844,7 +844,8 @@
     "20231124": 3285,
     "20231125": 3285,
     "20231126": 3285,
-    "20231127": 3284
+    "20231127": 3284,
+    "20231128": 3282
   },
   "TweetsCountHistory": {
     "20210308": 101,
@@ -1686,20 +1687,21 @@
     "20231124": 403,
     "20231125": 403,
     "20231126": 403,
-    "20231127": 403
+    "20231127": 403,
+    "20231128": 403
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0157231527167361536599431856,
+    "WeeklyGrowth": -0.052182988345799269438163593,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231120.0,
-        "Y": 3284.2868852459016396939526
+        "X": 20231122.0,
+        "Y": 3285.1428571428571428571429
       },
       "End": {
-        "X": 20231127.0,
-        "Y": 3284.8032786885245898790016
+        "X": 20231128.0,
+        "Y": 3283.4285714285714285714286
       }
     }
   }
