@@ -2,7 +2,7 @@
   "PublicName": "Carneirao",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1376363967459815424/9wE4zCtO_400x400.png",
   "Login": "Carneirao2",
-  "CurrentFollowersCount": 36,
+  "CurrentFollowersCount": 35,
   "CurrentTweetsCout": 82,
   "FollowersCountHistory": {
     "20210408": 18,
@@ -831,7 +831,8 @@
     "20231125": 36,
     "20231126": 36,
     "20231127": 36,
-    "20231128": 36
+    "20231128": 36,
+    "20231129": 35
   },
   "TweetsCountHistory": {
     "20210408": 33,
@@ -1660,20 +1661,21 @@
     "20231125": 82,
     "20231126": 82,
     "20231127": 82,
-    "20231128": 82
+    "20231128": 82,
+    "20231129": 82
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.7769002961500493583414052851,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231122.0,
-        "Y": 36.0
+        "X": 20231123.0,
+        "Y": 36.1785714285714285714285
       },
       "End": {
-        "X": 20231128.0,
-        "Y": 36.0
+        "X": 20231129.0,
+        "Y": 35.5357142857142857142857
       }
     }
   }
