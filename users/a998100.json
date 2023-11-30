@@ -2,7 +2,7 @@
   "PublicName": "Gremliin",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1562071204827000832/3r5gd8Hc_400x400.jpg",
   "Login": "a998100",
-  "CurrentFollowersCount": 983,
+  "CurrentFollowersCount": 981,
   "CurrentTweetsCout": 400,
   "FollowersCountHistory": {
     "20210914": 61,
@@ -707,7 +707,8 @@
     "20231126": 984,
     "20231127": 983,
     "20231128": 983,
-    "20231129": 983
+    "20231129": 983,
+    "20231201": 981
   },
   "TweetsCountHistory": {
     "20210914": 85,
@@ -1412,20 +1413,21 @@
     "20231126": 398,
     "20231127": 398,
     "20231128": 398,
-    "20231129": 400
+    "20231129": 400,
+    "20231201": 400
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0872346612387322,
+    "WeeklyGrowth": -0.2261005303724169808383936761,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231123.0,
-        "Y": 982.571428571429
+        "X": 20231124.0,
+        "Y": 983.23659645763523216508800
       },
       "End": {
-        "X": 20231129.0,
-        "Y": 983.428571428571
+        "X": 20231201.0,
+        "Y": 981.01349329822881763267030
       }
     }
   }

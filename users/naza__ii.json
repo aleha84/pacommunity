@@ -2,7 +2,7 @@
   "PublicName": "naza_ii",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1449440322304585741/KZ4YGSFT_400x400.jpg",
   "Login": "naza__ii",
-  "CurrentFollowersCount": 300,
+  "CurrentFollowersCount": 299,
   "CurrentTweetsCout": 548,
   "FollowersCountHistory": {
     "20201215": 93,
@@ -928,7 +928,8 @@
     "20231126": 300,
     "20231127": 300,
     "20231128": 300,
-    "20231129": 300
+    "20231129": 300,
+    "20231201": 299
   },
   "TweetsCountHistory": {
     "20201215": 220,
@@ -1854,20 +1855,21 @@
     "20231126": 548,
     "20231127": 548,
     "20231128": 548,
-    "20231129": 548
+    "20231129": 548,
+    "20231201": 548
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3432186911041751811506162866,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231123.0,
-        "Y": 300.0
+        "X": 20231124.0,
+        "Y": 300.03291048348492101326241
       },
       "End": {
-        "X": 20231129.0,
-        "Y": 300.0
+        "X": 20231201.0,
+        "Y": 299.00314145524174246817067
       }
     }
   }

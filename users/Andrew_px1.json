@@ -2,7 +2,7 @@
   "PublicName": "Toothless Wolf",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1681342830160101384/guEZU5H4_400x400.jpg",
   "Login": "Andrew_px1",
-  "CurrentFollowersCount": 60,
+  "CurrentFollowersCount": 59,
   "CurrentTweetsCout": 129,
   "FollowersCountHistory": {
     "20210113": 63,
@@ -912,7 +912,8 @@
     "20231126": 60,
     "20231127": 60,
     "20231128": 60,
-    "20231129": 60
+    "20231129": 60,
+    "20231130": 59
   },
   "TweetsCountHistory": {
     "20210113": 343,
@@ -1822,20 +1823,21 @@
     "20231126": 129,
     "20231127": 129,
     "20231128": 129,
-    "20231129": 129
+    "20231129": 129,
+    "20231130": 129
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.0682492581602373887241080929,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231123.0,
-        "Y": 60.0
+        "X": 20231124.0,
+        "Y": 60.1785714285714285714285
       },
       "End": {
-        "X": 20231129.0,
-        "Y": 60.0
+        "X": 20231130.0,
+        "Y": 59.5357142857142857142856
       }
     }
   }

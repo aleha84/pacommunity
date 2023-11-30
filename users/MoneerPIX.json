@@ -2,7 +2,7 @@
   "PublicName": "Moneer",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1567528878649876481/T3k848pD_400x400.jpg",
   "Login": "MoneerPIX",
-  "CurrentFollowersCount": 2913,
+  "CurrentFollowersCount": 2911,
   "CurrentTweetsCout": 7749,
   "FollowersCountHistory": {
     "20220221": 1692,
@@ -551,7 +551,8 @@
     "20231126": 2910,
     "20231127": 2910,
     "20231128": 2912,
-    "20231129": 2913
+    "20231129": 2913,
+    "20231201": 2911
   },
   "TweetsCountHistory": {
     "20220221": 7097,
@@ -1100,20 +1101,21 @@
     "20231126": 7749,
     "20231127": 7749,
     "20231128": 7749,
-    "20231129": 7749
+    "20231129": 7749,
+    "20231201": 7749
   },
   "LangId": "arabic",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.132616223384661,
+    "WeeklyGrowth": 0.0189958200972487307665427506,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231123.0,
-        "Y": 2908.5
+        "X": 20231124.0,
+        "Y": 2910.61991383437051220765635
       },
       "End": {
-        "X": 20231129.0,
-        "Y": 2912.35714285714
+        "X": 20231201.0,
+        "Y": 2911.17280995691718525193056
       }
     }
   }
