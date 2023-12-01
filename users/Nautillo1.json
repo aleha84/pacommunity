@@ -2,7 +2,7 @@
   "PublicName": "Nautillo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1599848467458920451/AUrvnHF__400x400.jpg",
   "Login": "Nautillo1",
-  "CurrentFollowersCount": 524,
+  "CurrentFollowersCount": 523,
   "CurrentTweetsCout": 8079,
   "FollowersCountHistory": {
     "20210126": 484,
@@ -900,7 +900,8 @@
     "20231127": 524,
     "20231128": 524,
     "20231129": 524,
-    "20231201": 524
+    "20231201": 524,
+    "20231202": 523
   },
   "TweetsCountHistory": {
     "20210126": 6039,
@@ -1798,20 +1799,21 @@
     "20231127": 8079,
     "20231128": 8079,
     "20231129": 8079,
-    "20231201": 8079
+    "20231201": 8079,
+    "20231202": 8079
   },
   "LangId": "cz",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0994140641095724841714597224,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231124.0,
-        "Y": 524.0
+        "X": 20231125.0,
+        "Y": 524.01468259680437599020358
       },
       "End": {
-        "X": 20231201.0,
-        "Y": 524.0
+        "X": 20231202.0,
+        "Y": 523.49373830430401612075737
       }
     }
   }
