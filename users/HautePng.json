@@ -2,7 +2,7 @@
   "PublicName": "haute.png",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1604321935793479680/itKstgnY_400x400.jpg",
   "Login": "HautePng",
-  "CurrentFollowersCount": 165,
+  "CurrentFollowersCount": 164,
   "CurrentTweetsCout": 484,
   "FollowersCountHistory": {
     "20210929": 20,
@@ -723,7 +723,8 @@
     "20231128": 165,
     "20231129": 165,
     "20231130": 164,
-    "20231201": 165
+    "20231201": 165,
+    "20231202": 164
   },
   "TweetsCountHistory": {
     "20210929": 57,
@@ -1444,20 +1445,21 @@
     "20231128": 484,
     "20231129": 484,
     "20231130": 484,
-    "20231201": 484
+    "20231201": 484,
+    "20231202": 484
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0793576209420584949200683518,
+    "WeeklyGrowth": -0.2028744737747056985429829849,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231125.0,
-        "Y": 164.834767641996557659208262
+        "X": 20231126.0,
+        "Y": 164.81547619047619047619048
       },
       "End": {
-        "X": 20231201.0,
-        "Y": 164.965576592082616179001722
+        "X": 20231202.0,
+        "Y": 164.48110766045548654244306
       }
     }
   }
