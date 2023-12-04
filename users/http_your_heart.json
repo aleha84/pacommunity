@@ -2,7 +2,7 @@
   "PublicName": "Gone - @hyperlinkyourheart@mastodon.art",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1102905758407114752/gHKZSXCV_400x400.png",
   "Login": "http_your_heart",
-  "CurrentFollowersCount": 1879,
+  "CurrentFollowersCount": 1878,
   "CurrentTweetsCout": 12434,
   "FollowersCountHistory": {
     "20210111": 1588,
@@ -959,7 +959,8 @@
     "20231130": 1879,
     "20231201": 1879,
     "20231202": 1879,
-    "20231203": 1879
+    "20231203": 1879,
+    "20231204": 1878
   },
   "TweetsCountHistory": {
     "20210111": 11487,
@@ -1916,20 +1917,21 @@
     "20231130": 12435,
     "20231201": 12435,
     "20231202": 12434,
-    "20231203": 12434
+    "20231203": 12434,
+    "20231204": 12434
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.014401653502762929661531873,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231127.0,
-        "Y": 1879.0
+        "X": 20231128.0,
+        "Y": 1879.010250323694432455761762
       },
       "End": {
-        "X": 20231203.0,
-        "Y": 1879.0
+        "X": 20231204.0,
+        "Y": 1878.739641778161415623651274
       }
     }
   }
