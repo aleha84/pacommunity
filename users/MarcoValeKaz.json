@@ -2,7 +2,7 @@
   "PublicName": "marcovalekaz.bsky.social",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1510336586747101199/rDh5akeC_400x400.jpg",
   "Login": "MarcoValeKaz",
-  "CurrentFollowersCount": 5481,
+  "CurrentFollowersCount": 5482,
   "CurrentTweetsCout": 12449,
   "FollowersCountHistory": {
     "20210124": 5035,
@@ -907,7 +907,8 @@
     "20231203": 5480,
     "20231204": 5479,
     "20231205": 5480,
-    "20231206": 5481
+    "20231206": 5481,
+    "20231207": 5482
   },
   "TweetsCountHistory": {
     "20210124": 8332,
@@ -1812,20 +1813,21 @@
     "20231203": 12448,
     "20231204": 12448,
     "20231205": 12449,
-    "20231206": 12449
+    "20231206": 12449,
+    "20231207": 12449
   },
   "LangId": "pt",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0554615384380328291540324173,
+    "WeeklyGrowth": 0.0351972676491484216632669584,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231129.0,
-        "Y": 5482.9504547630445188859525
+        "X": 20231201.0,
+        "Y": 5479.3214285714285714285714
       },
       "End": {
-        "X": 20231206.0,
-        "Y": 5479.9095260890378171420412
+        "X": 20231207.0,
+        "Y": 5481.2500000000000000000000
       }
     }
   }
