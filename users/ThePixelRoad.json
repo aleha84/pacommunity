@@ -2,7 +2,7 @@
   "PublicName": "Pixel Road",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1313906357293195264/p8FfqrER_400x400.png",
   "Login": "ThePixelRoad",
-  "CurrentFollowersCount": 841,
+  "CurrentFollowersCount": 840,
   "CurrentTweetsCout": 289,
   "FollowersCountHistory": {
     "20210108": 416,
@@ -912,7 +912,8 @@
     "20231203": 842,
     "20231204": 842,
     "20231205": 841,
-    "20231206": 841
+    "20231206": 841,
+    "20231207": 840
   },
   "TweetsCountHistory": {
     "20210108": 160,
@@ -1822,20 +1823,21 @@
     "20231203": 289,
     "20231204": 289,
     "20231205": 289,
-    "20231206": 289
+    "20231206": 289,
+    "20231207": 289
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0583258933710575661218649075,
+    "WeeklyGrowth": -0.1527106133876304403156002324,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231130.0,
-        "Y": 841.02194492254733218588641
+        "X": 20231201.0,
+        "Y": 841.9285714285714285714286
       },
       "End": {
-        "X": 20231206.0,
-        "Y": 841.51247848537005163511188
+        "X": 20231207.0,
+        "Y": 840.6428571428571428571429
       }
     }
   }
