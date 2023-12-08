@@ -2,7 +2,7 @@
   "PublicName": "Aku",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1210917285025796096/ZYlrqfj__400x400.jpg",
   "Login": "JPKotzeGames",
-  "CurrentFollowersCount": 1249,
+  "CurrentFollowersCount": 1248,
   "CurrentTweetsCout": 214,
   "FollowersCountHistory": {
     "20210730": 833,
@@ -776,7 +776,8 @@
     "20231204": 1249,
     "20231205": 1249,
     "20231206": 1249,
-    "20231207": 1249
+    "20231207": 1249,
+    "20231208": 1248
   },
   "TweetsCountHistory": {
     "20210730": 165,
@@ -1550,20 +1551,21 @@
     "20231204": 214,
     "20231205": 214,
     "20231206": 214,
-    "20231207": 214
+    "20231207": 214,
+    "20231208": 214
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0514623895702890470880898865,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231201.0,
-        "Y": 1249.0
+        "X": 20231202.0,
+        "Y": 1249.1785714285714285714286
       },
       "End": {
-        "X": 20231207.0,
-        "Y": 1249.0
+        "X": 20231208.0,
+        "Y": 1248.5357142857142857142857
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "leo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1586132756710531074/97RBNb2M_400x400.jpg",
   "Login": "rokettopunch",
-  "CurrentFollowersCount": 532,
+  "CurrentFollowersCount": 531,
   "CurrentTweetsCout": 3610,
   "FollowersCountHistory": {
     "20210914": 359,
@@ -717,7 +717,8 @@
     "20231204": 531,
     "20231205": 532,
     "20231206": 532,
-    "20231207": 532
+    "20231207": 532,
+    "20231208": 531
   },
   "TweetsCountHistory": {
     "20210914": 2945,
@@ -1432,20 +1433,21 @@
     "20231204": 3612,
     "20231205": 3611,
     "20231206": 3610,
-    "20231207": 3610
+    "20231207": 3610,
+    "20231208": 3610
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0805693567879683093863166332,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231201.0,
-        "Y": 531.85714285714285714285714286
+        "X": 20231202.0,
+        "Y": 531.9285714285714285714286
       },
       "End": {
-        "X": 20231207.0,
-        "Y": 531.85714285714285714285714286
+        "X": 20231208.0,
+        "Y": 531.5000000000000000000001
       }
     }
   }

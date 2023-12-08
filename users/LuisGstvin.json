@@ -2,7 +2,7 @@
   "PublicName": "gustavin",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1540433289374306304/8EjNUI4i_400x400.jpg",
   "Login": "LuisGstvin",
-  "CurrentFollowersCount": 121,
+  "CurrentFollowersCount": 120,
   "CurrentTweetsCout": 99,
   "FollowersCountHistory": {
     "20201221": 32,
@@ -943,7 +943,8 @@
     "20231204": 121,
     "20231205": 121,
     "20231206": 121,
-    "20231207": 121
+    "20231207": 121,
+    "20231208": 120
   },
   "TweetsCountHistory": {
     "20201221": 57,
@@ -1884,20 +1885,21 @@
     "20231204": 99,
     "20231205": 99,
     "20231206": 99,
-    "20231207": 99
+    "20231207": 99,
+    "20231208": 99
   },
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.5305039787798408488064012896,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231201.0,
-        "Y": 121.0
+        "X": 20231202.0,
+        "Y": 121.1785714285714285714286
       },
       "End": {
-        "X": 20231207.0,
-        "Y": 121.0
+        "X": 20231208.0,
+        "Y": 120.5357142857142857142857
       }
     }
   }
