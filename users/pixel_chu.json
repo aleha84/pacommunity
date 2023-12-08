@@ -2,7 +2,7 @@
   "PublicName": "츄우",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1378761376491954176/h1Iq53RR_400x400.png",
   "Login": "pixel_chu",
-  "CurrentFollowersCount": 47,
+  "CurrentFollowersCount": 46,
   "CurrentTweetsCout": 278,
   "FollowersCountHistory": {
     "20210919": 41,
@@ -709,7 +709,8 @@
     "20231205": 47,
     "20231206": 47,
     "20231207": 47,
-    "20231208": 47
+    "20231208": 47,
+    "20231209": 46
   },
   "TweetsCountHistory": {
     "20210919": 189,
@@ -1416,20 +1417,21 @@
     "20231205": 278,
     "20231206": 278,
     "20231207": 278,
-    "20231208": 278
+    "20231208": 278,
+    "20231209": 278
   },
   "LangId": "kr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.3626040878122634367901913136,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231202.0,
-        "Y": 47.0
+        "X": 20231203.0,
+        "Y": 47.1785714285714285714285
       },
       "End": {
-        "X": 20231208.0,
-        "Y": 47.0
+        "X": 20231209.0,
+        "Y": 46.5357142857142857142857
       }
     }
   }
