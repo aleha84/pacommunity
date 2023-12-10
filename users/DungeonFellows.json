@@ -2,7 +2,7 @@
   "PublicName": "Dungeon Fellows",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1708430312684810240/bwgu_81D_400x400.jpg",
   "Login": "DungeonFellows",
-  "CurrentFollowersCount": 189,
+  "CurrentFollowersCount": 188,
   "CurrentTweetsCout": 411,
   "FollowersCountHistory": {
     "20230329": 152,
@@ -203,7 +203,8 @@
     "20231206": 192,
     "20231207": 192,
     "20231208": 189,
-    "20231209": 189
+    "20231209": 189,
+    "20231210": 188
   },
   "TweetsCountHistory": {
     "20230329": 222,
@@ -404,20 +405,21 @@
     "20231206": 409,
     "20231207": 410,
     "20231208": 411,
-    "20231209": 411
+    "20231209": 411,
+    "20231210": 411
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.2329534840276480478235792504,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231203.0,
-        "Y": 190.14285714285714285714285714
+        "X": 20231204.0,
+        "Y": 191.178571428571428571428
       },
       "End": {
-        "X": 20231209.0,
-        "Y": 190.14285714285714285714285714
+        "X": 20231210.0,
+        "Y": 188.821428571428571428571
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Pixelstories",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1612558348703997954/8L3ksNNA_400x400.jpg",
   "Login": "pixelstoriez",
-  "CurrentFollowersCount": 8108,
+  "CurrentFollowersCount": 8110,
   "CurrentTweetsCout": 335,
   "FollowersCountHistory": {
     "20230304": 6870,
@@ -247,7 +247,8 @@
     "20231206": 8106,
     "20231207": 8103,
     "20231208": 8104,
-    "20231209": 8108
+    "20231209": 8108,
+    "20231210": 8110
   },
   "TweetsCountHistory": {
     "20230304": 240,
@@ -492,20 +493,21 @@
     "20231206": 332,
     "20231207": 332,
     "20231208": 334,
-    "20231209": 335
+    "20231209": 335,
+    "20231210": 335
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0396425126305449964541939604,
+    "WeeklyGrowth": 0.0132174311481982438439810902,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231203.0,
-        "Y": 8108.178571428571428571428
+        "X": 20231204.0,
+        "Y": 8106.1785714285714285714286
       },
       "End": {
-        "X": 20231209.0,
-        "Y": 8104.964285714285714285714
+        "X": 20231210.0,
+        "Y": 8107.2500000000000000000000
       }
     }
   }
