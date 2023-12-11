@@ -2,8 +2,8 @@
   "PublicName": "Lluís Bello",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1514681332244303879/2x-eJcsf_400x400.png",
   "Login": "BelloPxl",
-  "CurrentFollowersCount": 626,
-  "CurrentTweetsCout": 2132,
+  "CurrentFollowersCount": 627,
+  "CurrentTweetsCout": 2133,
   "FollowersCountHistory": {
     "20210113": 136,
     "20210114": 136,
@@ -911,7 +911,8 @@
     "20231207": 627,
     "20231208": 627,
     "20231209": 627,
-    "20231210": 626
+    "20231210": 626,
+    "20231211": 627
   },
   "TweetsCountHistory": {
     "20210113": 1412,
@@ -1820,20 +1821,21 @@
     "20231207": 2134,
     "20231208": 2132,
     "20231209": 2132,
-    "20231210": 2132
+    "20231210": 2132,
+    "20231211": 2133
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1026518391787852865697245673,
+    "WeeklyGrowth": -0.0683449139993165508599954577,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231204.0,
-        "Y": 626.2499999999999999999999
+        "X": 20231205.0,
+        "Y": 627.0714285714285714285713
       },
       "End": {
-        "X": 20231210.0,
-        "Y": 626.8928571428571428571428
+        "X": 20231211.0,
+        "Y": 626.6428571428571428571428
       }
     }
   }
