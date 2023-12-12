@@ -2,7 +2,7 @@
   "PublicName": "Count Moxi (Comms: Open)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1186564769341300736/e8XZZF2L_400x400.png",
   "Login": "CountMoxi",
-  "CurrentFollowersCount": 48108,
+  "CurrentFollowersCount": 48067,
   "CurrentTweetsCout": 951,
   "FollowersCountHistory": {
     "20210108": 20408,
@@ -970,7 +970,8 @@
     "20231208": 48117,
     "20231209": 48123,
     "20231210": 48115,
-    "20231211": 48108
+    "20231211": 48108,
+    "20231212": 48067
   },
   "TweetsCountHistory": {
     "20210108": 316,
@@ -1938,20 +1939,21 @@
     "20231208": 951,
     "20231209": 951,
     "20231210": 951,
-    "20231211": 951
+    "20231211": 951,
+    "20231212": 951
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0075715230564011660145509827,
+    "WeeklyGrowth": -0.0850367268132078509824146026,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231205.0,
-        "Y": 48112.607142857142857142857
+        "X": 20231206.0,
+        "Y": 48130.46428571428571428572
       },
       "End": {
-        "X": 20231211.0,
-        "Y": 48116.250000000000000000000
+        "X": 20231212.0,
+        "Y": 48089.53571428571428571429
       }
     }
   }

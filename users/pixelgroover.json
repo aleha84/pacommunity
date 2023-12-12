@@ -2,8 +2,8 @@
   "PublicName": "pixelgroover",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1674844997185679361/7TXxRB8v_400x400.png",
   "Login": "pixelgroover",
-  "CurrentFollowersCount": 7424,
-  "CurrentTweetsCout": 11276,
+  "CurrentFollowersCount": 7419,
+  "CurrentTweetsCout": 11278,
   "FollowersCountHistory": {
     "20210120": 1519,
     "20210121": 1520,
@@ -957,7 +957,8 @@
     "20231208": 7429,
     "20231209": 7433,
     "20231210": 7435,
-    "20231211": 7424
+    "20231211": 7424,
+    "20231212": 7419
   },
   "TweetsCountHistory": {
     "20210120": 2414,
@@ -1912,20 +1913,21 @@
     "20231208": 11243,
     "20231209": 11261,
     "20231210": 11274,
-    "20231211": 11276
+    "20231211": 11276,
+    "20231212": 11278
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0779224527294503581065709717,
+    "WeeklyGrowth": -0.0317324473890446129362591315,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231205.0,
-        "Y": 7424.964285714285714285715
+        "X": 20231206.0,
+        "Y": 7428.178571428571428571428
       },
       "End": {
-        "X": 20231211.0,
-        "Y": 7430.750000000000000000000
+        "X": 20231212.0,
+        "Y": 7425.821428571428571428571
       }
     }
   }
