@@ -2,7 +2,7 @@
   "PublicName": "nic reichelt",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1502311188004179978/jDJxSAc2_400x400.png",
   "Login": "pxlnic",
-  "CurrentFollowersCount": 640,
+  "CurrentFollowersCount": 639,
   "CurrentTweetsCout": 1737,
   "FollowersCountHistory": {
     "20210108": 437,
@@ -971,7 +971,8 @@
     "20231210": 640,
     "20231211": 640,
     "20231212": 640,
-    "20231213": 640
+    "20231213": 640,
+    "20231214": 639
   },
   "TweetsCountHistory": {
     "20210108": 1024,
@@ -1940,20 +1941,21 @@
     "20231210": 1738,
     "20231211": 1738,
     "20231212": 1737,
-    "20231213": 1737
+    "20231213": 1737,
+    "20231214": 1737
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1004184100418410041841071242,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231207.0,
-        "Y": 640.0
+        "X": 20231208.0,
+        "Y": 640.1785714285714285714285
       },
       "End": {
-        "X": 20231213.0,
-        "Y": 640.0
+        "X": 20231214.0,
+        "Y": 639.5357142857142857142856
       }
     }
   }
