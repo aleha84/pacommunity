@@ -2,7 +2,7 @@
   "PublicName": "gors.bsky.social",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1648457940255518721/6wXKSYzV_400x400.jpg",
   "Login": "SpriterGors",
-  "CurrentFollowersCount": 2163,
+  "CurrentFollowersCount": 2162,
   "CurrentTweetsCout": 12405,
   "FollowersCountHistory": {
     "20201222": 897,
@@ -950,7 +950,7 @@
     "20231212": 2163,
     "20231213": 2163,
     "20231214": 2163,
-    "20231215": 2163
+    "20231215": 2162
   },
   "TweetsCountHistory": {
     "20201222": 8145,
@@ -1903,15 +1903,15 @@
   "LangId": "br",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0297270069858466416739627768,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
         "X": 20231209.0,
-        "Y": 2162.5357142857142857142856
+        "Y": 2162.7142857142857142857142857
       },
       "End": {
         "X": 20231215.0,
-        "Y": 2163.1785714285714285714285
+        "Y": 2162.7142857142857142857142857
       }
     }
   }
