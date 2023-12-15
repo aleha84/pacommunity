@@ -2,7 +2,7 @@
   "PublicName": "SGPlague",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1445490960733900801/9vymq1h9_400x400.jpg",
   "Login": "SgPlague",
-  "CurrentFollowersCount": 101,
+  "CurrentFollowersCount": 100,
   "CurrentTweetsCout": 149,
   "FollowersCountHistory": {
     "20210112": 60,
@@ -969,7 +969,8 @@
     "20231211": 101,
     "20231212": 101,
     "20231213": 101,
-    "20231214": 101
+    "20231214": 101,
+    "20231215": 100
   },
   "TweetsCountHistory": {
     "20210112": 41,
@@ -1936,20 +1937,21 @@
     "20231211": 149,
     "20231212": 149,
     "20231213": 149,
-    "20231214": 149
+    "20231214": 149,
+    "20231215": 149
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.6353688669255206494882172579,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231208.0,
-        "Y": 101.0
+        "X": 20231209.0,
+        "Y": 101.1785714285714285714286
       },
       "End": {
-        "X": 20231214.0,
-        "Y": 101.0
+        "X": 20231215.0,
+        "Y": 100.5357142857142857142857
       }
     }
   }
