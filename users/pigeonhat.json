@@ -2,7 +2,7 @@
   "PublicName": "pigeonhat",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1158833021426044928/YlG2YeCs_400x400.jpg",
   "Login": "pigeonhat",
-  "CurrentFollowersCount": 2136,
+  "CurrentFollowersCount": 2135,
   "CurrentTweetsCout": 4235,
   "FollowersCountHistory": {
     "20210113": 2159,
@@ -972,7 +972,8 @@
     "20231215": 2136,
     "20231216": 2137,
     "20231217": 2137,
-    "20231218": 2136
+    "20231218": 2136,
+    "20231219": 2135
   },
   "TweetsCountHistory": {
     "20210113": 3562,
@@ -1942,20 +1943,21 @@
     "20231215": 4235,
     "20231216": 4235,
     "20231217": 4235,
-    "20231218": 4235
+    "20231218": 4235,
+    "20231219": 4235
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0200608512487879902370537291,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231212.0,
-        "Y": 2136.4285714285714285714285714
+        "X": 20231213.0,
+        "Y": 2136.3571428571428571428572
       },
       "End": {
-        "X": 20231218.0,
-        "Y": 2136.4285714285714285714285714
+        "X": 20231219.0,
+        "Y": 2135.9285714285714285714286
       }
     }
   }
