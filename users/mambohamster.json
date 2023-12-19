@@ -2,7 +2,7 @@
   "PublicName": "Mambo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1592189121405108225/kajGT1zG_400x400.jpg",
   "Login": "mambohamster",
-  "CurrentFollowersCount": 1042,
+  "CurrentFollowersCount": 1044,
   "CurrentTweetsCout": 2001,
   "FollowersCountHistory": {
     "20210914": 1036,
@@ -726,7 +726,8 @@
     "20231216": 1044,
     "20231217": 1043,
     "20231218": 1041,
-    "20231219": 1042
+    "20231219": 1042,
+    "20231220": 1044
   },
   "TweetsCountHistory": {
     "20210914": 1237,
@@ -1450,20 +1451,21 @@
     "20231216": 2001,
     "20231217": 2001,
     "20231218": 2001,
-    "20231219": 2001
+    "20231219": 2001,
+    "20231220": 2001
   },
   "LangId": "it",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0616501695379662294071349796,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231213.0,
-        "Y": 1042.7500000000000000000000
+        "X": 20231214.0,
+        "Y": 1042.7142857142857142857142857
       },
       "End": {
-        "X": 20231219.0,
-        "Y": 1042.1071428571428571428571
+        "X": 20231220.0,
+        "Y": 1042.7142857142857142857142857
       }
     }
   }
