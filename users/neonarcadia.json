@@ -2,7 +2,7 @@
   "PublicName": "arcadia.",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1385382262951145472/HTBh9_fl_400x400.jpg",
   "Login": "neonarcadia",
-  "CurrentFollowersCount": 559,
+  "CurrentFollowersCount": 558,
   "CurrentTweetsCout": 9821,
   "FollowersCountHistory": {
     "20210213": 475,
@@ -943,7 +943,8 @@
     "20231216": 559,
     "20231217": 559,
     "20231218": 559,
-    "20231219": 559
+    "20231219": 559,
+    "20231220": 558
   },
   "TweetsCountHistory": {
     "20210213": 8530,
@@ -1884,20 +1885,21 @@
     "20231216": 9821,
     "20231217": 9821,
     "20231218": 9821,
-    "20231219": 9821
+    "20231219": 9821,
+    "20231220": 9821
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1149645525962828127993766513,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231213.0,
-        "Y": 559.0
+        "X": 20231214.0,
+        "Y": 559.1785714285714285714285
       },
       "End": {
-        "X": 20231219.0,
-        "Y": 559.0
+        "X": 20231220.0,
+        "Y": 558.5357142857142857142857
       }
     }
   }

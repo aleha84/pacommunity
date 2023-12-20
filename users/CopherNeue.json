@@ -2,7 +2,7 @@
   "PublicName": "CopherNeue",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1008138275704492032/Q-wJU0Wr_400x400.jpg",
   "Login": "CopherNeue",
-  "CurrentFollowersCount": 523,
+  "CurrentFollowersCount": 522,
   "CurrentTweetsCout": 105,
   "FollowersCountHistory": {
     "20210111": 566,
@@ -975,7 +975,8 @@
     "20231216": 523,
     "20231217": 523,
     "20231218": 523,
-    "20231219": 523
+    "20231219": 523,
+    "20231220": 522
   },
   "TweetsCountHistory": {
     "20210111": 103,
@@ -1948,20 +1949,21 @@
     "20231216": 105,
     "20231217": 105,
     "20231218": 105,
-    "20231219": 105
+    "20231219": 105,
+    "20231220": 105
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1228752815891869752201406407,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231213.0,
-        "Y": 523.0
+        "X": 20231214.0,
+        "Y": 523.1785714285714285714285
       },
       "End": {
-        "X": 20231219.0,
-        "Y": 523.0
+        "X": 20231220.0,
+        "Y": 522.5357142857142857142857
       }
     }
   }

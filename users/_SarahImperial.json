@@ -2,7 +2,7 @@
   "PublicName": "Sarah Imperial",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1609833224242446337/hx10BObB_400x400.png",
   "Login": "_SarahImperial",
-  "CurrentFollowersCount": 1505,
+  "CurrentFollowersCount": 1504,
   "CurrentTweetsCout": 2889,
   "FollowersCountHistory": {
     "20210213": 954,
@@ -942,7 +942,8 @@
     "20231216": 1506,
     "20231217": 1503,
     "20231218": 1504,
-    "20231219": 1505
+    "20231219": 1505,
+    "20231220": 1504
   },
   "TweetsCountHistory": {
     "20210213": 1808,
@@ -1882,20 +1883,21 @@
     "20231216": 2887,
     "20231217": 2888,
     "20231218": 2888,
-    "20231219": 2889
+    "20231219": 2889,
+    "20231220": 2889
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0284940874768485539250624501,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231213.0,
-        "Y": 1504.0714285714285714285714
+        "X": 20231214.0,
+        "Y": 1504.2857142857142857142857143
       },
       "End": {
-        "X": 20231219.0,
-        "Y": 1504.5000000000000000000000
+        "X": 20231220.0,
+        "Y": 1504.2857142857142857142857143
       }
     }
   }
