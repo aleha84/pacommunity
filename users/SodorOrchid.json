@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1404132273557938180/OMWiYiH9_400x400.jpg",
   "Login": "SodorOrchid",
   "CurrentFollowersCount": 1802,
-  "CurrentTweetsCout": 8313,
+  "CurrentTweetsCout": 8316,
   "FollowersCountHistory": {
     "20210305": 315,
     "20210306": 317,
@@ -922,7 +922,8 @@
     "20231217": 1805,
     "20231218": 1802,
     "20231219": 1803,
-    "20231220": 1802
+    "20231220": 1802,
+    "20231221": 1802
   },
   "TweetsCountHistory": {
     "20210305": 1422,
@@ -1842,20 +1843,21 @@
     "20231217": 8302,
     "20231218": 8307,
     "20231219": 8310,
-    "20231220": 8313
+    "20231220": 8313,
+    "20231221": 8316
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1306387442845549375507135233,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231214.0,
-        "Y": 1803.0
+        "X": 20231215.0,
+        "Y": 1804.321428571428571428572
       },
       "End": {
-        "X": 20231220.0,
-        "Y": 1803.0
+        "X": 20231221.0,
+        "Y": 1801.964285714285714285715
       }
     }
   }
