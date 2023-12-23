@@ -2,7 +2,7 @@
   "PublicName": "rolitae",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1696128352447299584/pmerPgc5_400x400.png",
   "Login": "rolitae_",
-  "CurrentFollowersCount": 3948,
+  "CurrentFollowersCount": 3946,
   "CurrentTweetsCout": 2564,
   "FollowersCountHistory": {
     "20210208": 440,
@@ -950,7 +950,8 @@
     "20231219": 3948,
     "20231220": 3950,
     "20231221": 3948,
-    "20231222": 3948
+    "20231222": 3948,
+    "20231223": 3946
   },
   "TweetsCountHistory": {
     "20210208": 526,
@@ -1898,20 +1899,21 @@
     "20231219": 2564,
     "20231220": 2564,
     "20231221": 2564,
-    "20231222": 2564
+    "20231222": 2564,
+    "20231223": 2564
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0813706432801410424483450233,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231216.0,
-        "Y": 3948.7142857142857142857142857
+        "X": 20231217.0,
+        "Y": 3950.178571428571428571428
       },
       "End": {
-        "X": 20231222.0,
-        "Y": 3948.7142857142857142857142857
+        "X": 20231223.0,
+        "Y": 3946.964285714285714285714
       }
     }
   }
