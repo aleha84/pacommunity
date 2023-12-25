@@ -2,7 +2,7 @@
   "PublicName": "𝔎𝔫𝔦𝔤𝔥𝔱",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1616223988526489600/NPgqRMOL_400x400.jpg",
   "Login": "FrivolousKnight",
-  "CurrentFollowersCount": 21320,
+  "CurrentFollowersCount": 21310,
   "CurrentTweetsCout": 6259,
   "FollowersCountHistory": {
     "20210305": 362,
@@ -927,7 +927,8 @@
     "20231221": 21321,
     "20231222": 21311,
     "20231223": 21315,
-    "20231224": 21320
+    "20231224": 21320,
+    "20231225": 21310
   },
   "TweetsCountHistory": {
     "20210305": 282,
@@ -1852,20 +1853,21 @@
     "20231221": 6256,
     "20231222": 6259,
     "20231223": 6259,
-    "20231224": 6259
+    "20231224": 6259,
+    "20231225": 6259
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0382100277860640654799219724,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231218.0,
-        "Y": 21310.785714285714285714285
+        "X": 20231219.0,
+        "Y": 21315.0
       },
       "End": {
-        "X": 20231224.0,
-        "Y": 21318.928571428571428571428
+        "X": 20231225.0,
+        "Y": 21315.0
       }
     }
   }
