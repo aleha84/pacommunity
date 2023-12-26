@@ -2,7 +2,7 @@
   "PublicName": "Geegaz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1488566123931090946/7uinYDel_400x400.png",
   "Login": "geegaz_",
-  "CurrentFollowersCount": 852,
+  "CurrentFollowersCount": 851,
   "CurrentTweetsCout": 6529,
   "FollowersCountHistory": {
     "20210915": 152,
@@ -724,7 +724,8 @@
     "20231222": 850,
     "20231223": 851,
     "20231224": 851,
-    "20231225": 852
+    "20231225": 852,
+    "20231226": 851
   },
   "TweetsCountHistory": {
     "20210915": 5473,
@@ -1446,20 +1447,21 @@
     "20231222": 6523,
     "20231223": 6524,
     "20231224": 6527,
-    "20231225": 6529
+    "20231225": 6529,
+    "20231226": 6529
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0503313480412717053938344158,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231219.0,
-        "Y": 851.4999999999999999999999
+        "X": 20231220.0,
+        "Y": 851.1428571428571428571428571
       },
       "End": {
-        "X": 20231225.0,
-        "Y": 851.0714285714285714285714
+        "X": 20231226.0,
+        "Y": 851.1428571428571428571428571
       }
     }
   }
