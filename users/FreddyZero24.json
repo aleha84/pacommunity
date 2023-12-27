@@ -2,7 +2,7 @@
   "PublicName": "Freddy AG",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1613001763870605325/z7hvnvXn_400x400.jpg",
   "Login": "FreddyZero24",
-  "CurrentFollowersCount": 228,
+  "CurrentFollowersCount": 227,
   "CurrentTweetsCout": 3275,
   "FollowersCountHistory": {
     "20210226": 162,
@@ -883,7 +883,8 @@
     "20231223": 228,
     "20231224": 228,
     "20231225": 228,
-    "20231226": 228
+    "20231226": 228,
+    "20231227": 227
   },
   "TweetsCountHistory": {
     "20210226": 1353,
@@ -1764,20 +1765,21 @@
     "20231223": 3275,
     "20231224": 3275,
     "20231225": 3275,
-    "20231226": 3275
+    "20231226": 3275,
+    "20231227": 3275
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2817342307090311472843700991,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231220.0,
-        "Y": 228.0
+        "X": 20231221.0,
+        "Y": 228.1785714285714285714285
       },
       "End": {
-        "X": 20231226.0,
-        "Y": 228.0
+        "X": 20231227.0,
+        "Y": 227.5357142857142857142857
       }
     }
   }
