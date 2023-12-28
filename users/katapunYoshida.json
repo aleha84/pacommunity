@@ -2,15 +2,16 @@
   "PublicName": "吉田肩パンチ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1717807156521848832/2KOkpKnf_400x400.png",
   "Login": "katapunYoshida",
-  "CurrentFollowersCount": 3408,
-  "CurrentTweetsCout": 7943,
+  "CurrentFollowersCount": 3410,
+  "CurrentTweetsCout": 7947,
   "FollowersCountHistory": {
     "20231222": 3405,
     "20231223": 3408,
     "20231224": 3413,
     "20231225": 3418,
     "20231226": 3414,
-    "20231227": 3408
+    "20231227": 3408,
+    "20231228": 3410
   },
   "TweetsCountHistory": {
     "20231222": 7923,
@@ -18,12 +19,22 @@
     "20231224": 7933,
     "20231225": 7937,
     "20231226": 7942,
-    "20231227": 7943
+    "20231227": 7943,
+    "20231228": 7947
   },
   "LangId": "jp",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.1005698960777740529668245013,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20231222.0,
+        "Y": 3409.142857142857142857143
+      },
+      "End": {
+        "X": 20231228.0,
+        "Y": 3412.571428571428571428572
+      }
+    }
   }
 }

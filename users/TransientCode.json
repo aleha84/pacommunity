@@ -2,15 +2,16 @@
   "PublicName": "𝚃𝚛𝚊𝚗𝚜𝚒𝚎𝚗𝚝𝙲𝚘𝚍𝚎",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1705213389251760128/x-EdSpqm_400x400.jpg",
   "Login": "TransientCode",
-  "CurrentFollowersCount": 20210,
-  "CurrentTweetsCout": 14511,
+  "CurrentFollowersCount": 20202,
+  "CurrentTweetsCout": 14514,
   "FollowersCountHistory": {
     "20231222": 20174,
     "20231223": 20180,
     "20231224": 20184,
     "20231225": 20197,
     "20231226": 20199,
-    "20231227": 20210
+    "20231227": 20210,
+    "20231228": 20202
   },
   "TweetsCountHistory": {
     "20231222": 14479,
@@ -18,12 +19,22 @@
     "20231224": 14483,
     "20231225": 14488,
     "20231226": 14492,
-    "20231227": 14511
+    "20231227": 14511,
+    "20231228": 14514
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.1688773550336604078193826594,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20231222.0,
+        "Y": 20175.25000000000000000000
+      },
+      "End": {
+        "X": 20231228.0,
+        "Y": 20209.32142857142857142858
+      }
+    }
   }
 }
