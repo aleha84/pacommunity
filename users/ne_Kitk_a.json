@@ -2,8 +2,8 @@
   "PublicName": "Kitka",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1709189734608588800/KE_rMOyd_400x400.jpg",
   "Login": "ne_Kitk_a",
-  "CurrentFollowersCount": 785,
-  "CurrentTweetsCout": 8939,
+  "CurrentFollowersCount": 786,
+  "CurrentTweetsCout": 8940,
   "FollowersCountHistory": {
     "20210202": 630,
     "20210203": 633,
@@ -908,7 +908,8 @@
     "20231225": 786,
     "20231226": 786,
     "20231227": 786,
-    "20231228": 785
+    "20231228": 785,
+    "20231229": 786
   },
   "TweetsCountHistory": {
     "20210202": 5467,
@@ -1814,20 +1815,21 @@
     "20231225": 8936,
     "20231226": 8937,
     "20231227": 8939,
-    "20231228": 8939
+    "20231228": 8939,
+    "20231229": 8940
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0545206724216265333939027734,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231222.0,
-        "Y": 785.71428571428571428571428571
+        "X": 20231223.0,
+        "Y": 786.0714285714285714285714
       },
       "End": {
-        "X": 20231228.0,
-        "Y": 785.71428571428571428571428571
+        "X": 20231229.0,
+        "Y": 785.6428571428571428571429
       }
     }
   }
