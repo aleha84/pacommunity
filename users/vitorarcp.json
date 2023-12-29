@@ -2,7 +2,7 @@
   "PublicName": "VitorArcp",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1354124519103995904/lnHuz55z_400x400.jpg",
   "Login": "vitorarcp",
-  "CurrentFollowersCount": 75,
+  "CurrentFollowersCount": 74,
   "CurrentTweetsCout": 55,
   "FollowersCountHistory": {
     "20210913": 26,
@@ -736,7 +736,8 @@
     "20231226": 75,
     "20231227": 75,
     "20231228": 75,
-    "20231229": 75
+    "20231229": 75,
+    "20231230": 74
   },
   "TweetsCountHistory": {
     "20210913": 47,
@@ -1470,20 +1471,21 @@
     "20231226": 55,
     "20231227": 55,
     "20231228": 55,
-    "20231229": 55
+    "20231229": 55,
+    "20231230": 55
   },
   "LangId": "pt",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.8551068883610451306412549692,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231223.0,
-        "Y": 75.0
+        "X": 20231224.0,
+        "Y": 75.1785714285714285714285
       },
       "End": {
-        "X": 20231229.0,
-        "Y": 75.0
+        "X": 20231230.0,
+        "Y": 74.5357142857142857142857
       }
     }
   }
