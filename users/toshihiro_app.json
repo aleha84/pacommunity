@@ -2,7 +2,7 @@
   "PublicName": "toshihiro",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1308230000584212480/2V_vAdEA_400x400.jpg",
   "Login": "toshihiro_app",
-  "CurrentFollowersCount": 2761,
+  "CurrentFollowersCount": 2760,
   "CurrentTweetsCout": 1302,
   "FollowersCountHistory": {
     "20201225": 2713,
@@ -957,7 +957,8 @@
     "20231225": 2761,
     "20231226": 2761,
     "20231227": 2761,
-    "20231228": 2761
+    "20231228": 2761,
+    "20231229": 2760
   },
   "TweetsCountHistory": {
     "20201225": 1215,
@@ -1912,20 +1913,21 @@
     "20231225": 1302,
     "20231226": 1302,
     "20231227": 1302,
-    "20231228": 1302
+    "20231228": 1302,
+    "20231229": 1302
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0232819836250048504132567612,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231222.0,
-        "Y": 2761.0
+        "X": 20231223.0,
+        "Y": 2761.1785714285714285714286
       },
       "End": {
-        "X": 20231228.0,
-        "Y": 2761.0
+        "X": 20231229.0,
+        "Y": 2760.5357142857142857142857
       }
     }
   }

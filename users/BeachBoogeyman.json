@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1709382818256588800/7ldeI9z3_400x400.jpg",
   "Login": "BeachBoogeyman",
   "CurrentFollowersCount": 834,
-  "CurrentTweetsCout": 23929,
+  "CurrentTweetsCout": 23981,
   "FollowersCountHistory": {
     "20210301": 197,
     "20210302": 198,
@@ -934,7 +934,8 @@
     "20231225": 834,
     "20231226": 834,
     "20231227": 834,
-    "20231228": 834
+    "20231228": 834,
+    "20231229": 834
   },
   "TweetsCountHistory": {
     "20210301": 3660,
@@ -1866,20 +1867,21 @@
     "20231225": 23880,
     "20231226": 23912,
     "20231227": 23922,
-    "20231228": 23929
+    "20231228": 23929,
+    "20231229": 23981
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0771241269977291229272942299,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231222.0,
-        "Y": 833.5357142857142857142857
+        "X": 20231223.0,
+        "Y": 834.0
       },
       "End": {
-        "X": 20231228.0,
-        "Y": 834.1785714285714285714286
+        "X": 20231229.0,
+        "Y": 834.0
       }
     }
   }

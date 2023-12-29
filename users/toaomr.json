@@ -2,7 +2,7 @@
   "PublicName": "Toa",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1343587011731496960/1QmRAQBH_400x400.jpg",
   "Login": "toaomr",
-  "CurrentFollowersCount": 413,
+  "CurrentFollowersCount": 412,
   "CurrentTweetsCout": 509,
   "FollowersCountHistory": {
     "20210213": 407,
@@ -951,7 +951,8 @@
     "20231225": 412,
     "20231226": 413,
     "20231227": 413,
-    "20231228": 413
+    "20231228": 413,
+    "20231229": 412
   },
   "TweetsCountHistory": {
     "20210213": 260,
@@ -1900,20 +1901,21 @@
     "20231225": 509,
     "20231226": 509,
     "20231227": 509,
-    "20231228": 509
+    "20231228": 509,
+    "20231229": 509
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1037882719252724442137865349,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231222.0,
-        "Y": 412.85714285714285714285714286
+        "X": 20231223.0,
+        "Y": 412.9285714285714285714286
       },
       "End": {
-        "X": 20231228.0,
-        "Y": 412.85714285714285714285714286
+        "X": 20231229.0,
+        "Y": 412.5000000000000000000001
       }
     }
   }
