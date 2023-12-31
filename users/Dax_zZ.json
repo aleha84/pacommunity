@@ -2,7 +2,7 @@
   "PublicName": "Dax",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1629051804057993288/FwLowG7l_400x400.jpg",
   "Login": "Dax_zZ",
-  "CurrentFollowersCount": 661,
+  "CurrentFollowersCount": 660,
   "CurrentTweetsCout": 1322,
   "FollowersCountHistory": {
     "20210914": 110,
@@ -728,7 +728,8 @@
     "20231227": 661,
     "20231228": 661,
     "20231229": 661,
-    "20231230": 661
+    "20231230": 661,
+    "20231231": 660
   },
   "TweetsCountHistory": {
     "20210914": 573,
@@ -1454,20 +1455,21 @@
     "20231227": 1322,
     "20231228": 1322,
     "20231229": 1322,
-    "20231230": 1322
+    "20231230": 1322,
+    "20231231": 1322
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.097228974234321827904722083,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231224.0,
-        "Y": 661.0
+        "X": 20231225.0,
+        "Y": 661.1785714285714285714286
       },
       "End": {
-        "X": 20231230.0,
-        "Y": 661.0
+        "X": 20231231.0,
+        "Y": 660.5357142857142857142857
       }
     }
   }

@@ -2,8 +2,8 @@
   "PublicName": "Marcus",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1707894105395560448/1iELeumN_400x400.jpg",
   "Login": "Dewndeym",
-  "CurrentFollowersCount": 42743,
-  "CurrentTweetsCout": 70017,
+  "CurrentFollowersCount": 42735,
+  "CurrentTweetsCout": 70037,
   "FollowersCountHistory": {
     "20210115": 7357,
     "20210116": 7376,
@@ -981,7 +981,8 @@
     "20231227": 42754,
     "20231228": 42760,
     "20231229": 42752,
-    "20231230": 42743
+    "20231230": 42743,
+    "20231231": 42735
   },
   "TweetsCountHistory": {
     "20210115": 28144,
@@ -1960,20 +1961,21 @@
     "20231227": 69939,
     "20231228": 69977,
     "20231229": 70000,
-    "20231230": 70017
+    "20231230": 70017,
+    "20231231": 70037
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0406134129556787328615154488,
+    "WeeklyGrowth": -0.010526500464920437200652643,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231224.0,
-        "Y": 42737.464285714285714285714
+        "X": 20231225.0,
+        "Y": 42749.25
       },
       "End": {
-        "X": 20231230.0,
-        "Y": 42754.821428571428571428571
+        "X": 20231231.0,
+        "Y": 42744.75
       }
     }
   }
