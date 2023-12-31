@@ -2,7 +2,7 @@
   "PublicName": "duckonaut",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1387141164466323463/At74x_2c_400x400.png",
   "Login": "duckonaut",
-  "CurrentFollowersCount": 288,
+  "CurrentFollowersCount": 287,
   "CurrentTweetsCout": 561,
   "FollowersCountHistory": {
     "20210214": 166,
@@ -911,7 +911,8 @@
     "20231228": 288,
     "20231229": 288,
     "20231230": 288,
-    "20231231": 288
+    "20231231": 288,
+    "20240101": 287
   },
   "TweetsCountHistory": {
     "20210214": 246,
@@ -1820,20 +1821,21 @@
     "20231228": 561,
     "20231229": 561,
     "20231230": 561,
-    "20231231": 561
+    "20231231": 561,
+    "20240101": 561
   },
   "LangId": "pl",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.3473196290186515867092588508,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231225.0,
-        "Y": 288.0
+        "X": 20231226.0,
+        "Y": 288.0002817323889098512672326
       },
       "End": {
-        "X": 20231231.0,
-        "Y": 288.0
+        "X": 20240101.0,
+        "Y": 287.0000002223033052944644405
       }
     }
   }

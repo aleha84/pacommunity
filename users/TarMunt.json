@@ -2,15 +2,16 @@
   "PublicName": "TarMunt",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1698588066858848256/kC30TdlU_400x400.jpg",
   "Login": "TarMunt",
-  "CurrentFollowersCount": 356,
-  "CurrentTweetsCout": 451,
+  "CurrentFollowersCount": 357,
+  "CurrentTweetsCout": 452,
   "FollowersCountHistory": {
     "20231226": 356,
     "20231227": 355,
     "20231228": 355,
     "20231229": 355,
     "20231230": 355,
-    "20231231": 356
+    "20231231": 356,
+    "20240101": 357
   },
   "TweetsCountHistory": {
     "20231226": 445,
@@ -18,12 +19,22 @@
     "20231228": 448,
     "20231229": 450,
     "20231230": 451,
-    "20231231": 451
+    "20231231": 451,
+    "20240101": 452
   },
   "LangId": "ru",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.4691758123385688768544127474,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20231226.0,
+        "Y": 355.3328637793518169145546125
+      },
+      "End": {
+        "X": 20240101.0,
+        "Y": 356.9999996294944911758925993
+      }
+    }
   }
 }
