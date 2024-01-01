@@ -2,7 +2,7 @@
   "PublicName": "Cogsworth",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1545308853318795264/0so1LpG2_400x400.jpg",
   "Login": "Bruninpixels",
-  "CurrentFollowersCount": 50,
+  "CurrentFollowersCount": 49,
   "CurrentTweetsCout": 121,
   "FollowersCountHistory": {
     "20210112": 54,
@@ -986,7 +986,8 @@
     "20231228": 50,
     "20231229": 50,
     "20231230": 50,
-    "20231231": 50
+    "20231231": 50,
+    "20240101": 49
   },
   "TweetsCountHistory": {
     "20210112": 151,
@@ -1970,20 +1971,21 @@
     "20231228": 121,
     "20231229": 121,
     "20231230": 121,
-    "20231231": 121
+    "20231231": 121,
+    "20240101": 121
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -2.0005517477667483915209000338,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231225.0,
-        "Y": 50.0
+        "X": 20231226.0,
+        "Y": 50.0002817323889098512672326
       },
       "End": {
-        "X": 20231231.0,
-        "Y": 50.0
+        "X": 20240101.0,
+        "Y": 49.0000002223033052944644405
       }
     }
   }
