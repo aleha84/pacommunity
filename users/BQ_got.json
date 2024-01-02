@@ -2,7 +2,7 @@
   "PublicName": "BQ_got",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1277447736841973761/AOeC_lQG_400x400.jpg",
   "Login": "BQ_got",
-  "CurrentFollowersCount": 657,
+  "CurrentFollowersCount": 656,
   "CurrentTweetsCout": 193,
   "FollowersCountHistory": {
     "20210914": 192,
@@ -769,7 +769,8 @@
     "20231229": 657,
     "20231230": 657,
     "20231231": 657,
-    "20240101": 657
+    "20240101": 657,
+    "20240102": 656
   },
   "TweetsCountHistory": {
     "20210914": 70,
@@ -1536,20 +1537,21 @@
     "20231229": 193,
     "20231230": 193,
     "20231231": 193,
-    "20240101": 193
+    "20240101": 193,
+    "20240102": 193
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0761309288462705918514001357,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231226.0,
-        "Y": 657.0
+        "X": 20231227.0,
+        "Y": 657.0001239741278746445325099
       },
       "End": {
-        "X": 20240101.0,
-        "Y": 657.0
+        "X": 20240102.0,
+        "Y": 656.4999436772252217760386660
       }
     }
   }
