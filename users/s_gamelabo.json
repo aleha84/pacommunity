@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1302049785843560448/sCcCn9Hs_400x400.png",
   "Login": "s_gamelabo",
   "CurrentFollowersCount": 67,
-  "CurrentTweetsCout": 272,
+  "CurrentTweetsCout": 273,
   "FollowersCountHistory": {
     "20201225": 13,
     "20201226": 13,
@@ -963,7 +963,8 @@
     "20231231": 67,
     "20240101": 67,
     "20240102": 67,
-    "20240103": 67
+    "20240103": 67,
+    "20240104": 67
   },
   "TweetsCountHistory": {
     "20201225": 27,
@@ -1924,20 +1925,21 @@
     "20231231": 270,
     "20240101": 271,
     "20240102": 271,
-    "20240103": 272
+    "20240103": 272,
+    "20240104": 273
   },
   "LangId": "jp",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.3747856080450834192201342382,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231228.0,
-        "Y": 66.74991545803545548756267571
+        "X": 20231229.0,
+        "Y": 67.0
       },
       "End": {
-        "X": 20240103.0,
-        "Y": 67.00008453455443279848233816
+        "X": 20240104.0,
+        "Y": 67.0
       }
     }
   }
