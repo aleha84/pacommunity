@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1697290312031379456/HyL1aruN_400x400.jpg",
   "Login": "PlatinMoralle",
   "CurrentFollowersCount": 203,
-  "CurrentTweetsCout": 8285,
+  "CurrentTweetsCout": 8286,
   "FollowersCountHistory": {
     "20210110": 199,
     "20210111": 199,
@@ -941,7 +941,8 @@
     "20240101": 203,
     "20240102": 203,
     "20240103": 203,
-    "20240104": 203
+    "20240104": 203,
+    "20240105": 203
   },
   "TweetsCountHistory": {
     "20210110": 8796,
@@ -1880,20 +1881,21 @@
     "20240101": 8282,
     "20240102": 8283,
     "20240103": 8283,
-    "20240104": 8285
+    "20240104": 8285,
+    "20240105": 8286
   },
   "LangId": "de",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.1645525300602634674944986872,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231229.0,
-        "Y": 202.66659153060392440109180006
+        "X": 20231230.0,
+        "Y": 203.0
       },
       "End": {
-        "X": 20240104.0,
-        "Y": 203.00008453455443279848233789
+        "X": 20240105.0,
+        "Y": 203.0
       }
     }
   }

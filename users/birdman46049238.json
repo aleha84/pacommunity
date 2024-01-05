@@ -2,7 +2,7 @@
   "PublicName": "birdman🦊",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1642141882447986693/SdCLuLpz_400x400.jpg",
   "Login": "birdman46049238",
-  "CurrentFollowersCount": 120689,
+  "CurrentFollowersCount": 120660,
   "CurrentTweetsCout": 3025,
   "FollowersCountHistory": {
     "20231230": 120567,
@@ -10,7 +10,8 @@
     "20240101": 120666,
     "20240102": 120681,
     "20240103": 120680,
-    "20240104": 120689
+    "20240104": 120689,
+    "20240105": 120660
   },
   "TweetsCountHistory": {
     "20231230": 3012,
@@ -18,12 +19,22 @@
     "20240101": 3022,
     "20240102": 3022,
     "20240103": 3024,
-    "20240104": 3025
+    "20240104": 3025,
+    "20240105": 3025
   },
   "LangId": "jp",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.0644490817258731852384233164,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20231230.0,
+        "Y": 120597.49413298797708831492893
+      },
+      "End": {
+        "X": 20240105.0,
+        "Y": 120675.21811054110162936967897
+      }
+    }
   }
 }
