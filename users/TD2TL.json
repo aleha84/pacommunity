@@ -2,7 +2,7 @@
   "PublicName": "bilge",
   "AvatarImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
   "Login": "TD2TL",
-  "CurrentFollowersCount": 0,
+  "CurrentFollowersCount": 1,
   "CurrentTweetsCout": 0,
   "FollowersCountHistory": {
     "20210214": 1292,
@@ -916,7 +916,8 @@
     "20240102": 0,
     "20240103": 0,
     "20240104": 0,
-    "20240105": 0
+    "20240105": 0,
+    "20240106": 1
   },
   "TweetsCountHistory": {
     "20210214": 1037,
@@ -1830,20 +1831,21 @@
     "20240102": 0,
     "20240103": 0,
     "20240104": 0,
-    "20240105": 0
+    "20240105": 0,
+    "20240106": 0
   },
   "LangId": "tr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -80.02569385755739891629810339,
+    "WeeklyGrowth": -83.35484828545540179516648897,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231230.0,
-        "Y": 1469.2317295374308498777705
+        "X": 20231231.0,
+        "Y": 1469.4133654378826766147889
       },
       "End": {
-        "X": 20240105.0,
-        "Y": 293.4688435997107139931631
+        "X": 20240106.0,
+        "Y": 244.5860839909312107616140
       }
     }
   }
