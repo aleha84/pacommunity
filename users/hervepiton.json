@@ -2,7 +2,7 @@
   "PublicName": "Hervé Piton",
   "AvatarImage": "https://pbs.twimg.com/profile_images/465126859311550464/BFLkp7og_400x400.png",
   "Login": "hervepiton",
-  "CurrentFollowersCount": 1045,
+  "CurrentFollowersCount": 1044,
   "CurrentTweetsCout": 3350,
   "FollowersCountHistory": {
     "20201229": 976,
@@ -953,7 +953,8 @@
     "20240103": 1045,
     "20240104": 1045,
     "20240105": 1045,
-    "20240106": 1045
+    "20240106": 1045,
+    "20240107": 1044
   },
   "TweetsCountHistory": {
     "20201229": 3119,
@@ -1904,20 +1905,21 @@
     "20240103": 3352,
     "20240104": 3351,
     "20240105": 3351,
-    "20240106": 3350
+    "20240106": 3350,
+    "20240107": 3350
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.0615069195284469502819108133,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231231.0,
-        "Y": 1045.0
+        "X": 20240101.0,
+        "Y": 1045.1785714285714285714286
       },
       "End": {
-        "X": 20240106.0,
-        "Y": 1045.0
+        "X": 20240107.0,
+        "Y": 1044.5357142857142857142857
       }
     }
   }
