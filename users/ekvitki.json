@@ -2,8 +2,8 @@
   "PublicName": "The Traveler (Commissions Open)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1650879002490425345/4WRE-lRq_400x400.jpg",
   "Login": "ekvitki",
-  "CurrentFollowersCount": 16000,
-  "CurrentTweetsCout": 5739,
+  "CurrentFollowersCount": 15992,
+  "CurrentTweetsCout": 5745,
   "FollowersCountHistory": {
     "20210928": 472,
     "20210929": 474,
@@ -761,7 +761,8 @@
     "20240104": 15988,
     "20240105": 15992,
     "20240106": 15996,
-    "20240107": 16000
+    "20240107": 16000,
+    "20240108": 15992
   },
   "TweetsCountHistory": {
     "20210928": 472,
@@ -1520,20 +1521,21 @@
     "20240104": 5714,
     "20240105": 5719,
     "20240106": 5731,
-    "20240107": 5739
+    "20240107": 5739,
+    "20240108": 5745
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0026793967784719400172376312,
+    "WeeklyGrowth": -0.0120567201702230269958891051,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240101.0,
-        "Y": 15995.0714285714285714285714
+        "X": 20240102.0,
+        "Y": 15995.8214285714285714285713
       },
       "End": {
-        "X": 20240107.0,
-        "Y": 15995.5000000000000000000000
+        "X": 20240108.0,
+        "Y": 15993.8928571428571428571428
       }
     }
   }
