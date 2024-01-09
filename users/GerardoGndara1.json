@@ -2,7 +2,7 @@
   "PublicName": "Gera",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1418051916509192194/qfsLEbnb_400x400.png",
   "Login": "GerardoGndara1",
-  "CurrentFollowersCount": 462,
+  "CurrentFollowersCount": 461,
   "CurrentTweetsCout": 683,
   "FollowersCountHistory": {
     "20210728": 305,
@@ -772,7 +772,8 @@
     "20240105": 463,
     "20240106": 463,
     "20240107": 463,
-    "20240108": 462
+    "20240108": 462,
+    "20240109": 461
   },
   "TweetsCountHistory": {
     "20210728": 286,
@@ -1542,20 +1543,21 @@
     "20240105": 683,
     "20240106": 683,
     "20240107": 683,
-    "20240108": 683
+    "20240108": 683,
+    "20240109": 683
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.369913686806411837237980865,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240102.0,
-        "Y": 462.71428571428571428571428571
+        "X": 20240103.0,
+        "Y": 463.4285714285714285714286
       },
       "End": {
-        "X": 20240108.0,
-        "Y": 462.71428571428571428571428571
+        "X": 20240109.0,
+        "Y": 461.7142857142857142857143
       }
     }
   }
