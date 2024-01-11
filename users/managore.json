@@ -2,7 +2,7 @@
   "PublicName": "Daniel Linssen 🦊",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1492519771837198337/x0H7yiVA_400x400.png",
   "Login": "managore",
-  "CurrentFollowersCount": 22307,
+  "CurrentFollowersCount": 22308,
   "CurrentTweetsCout": 9486,
   "FollowersCountHistory": {
     "20210207": 22003,
@@ -970,7 +970,8 @@
     "20240107": 22307,
     "20240108": 22304,
     "20240109": 22303,
-    "20240110": 22307
+    "20240110": 22307,
+    "20240111": 22308
   },
   "TweetsCountHistory": {
     "20210207": 9221,
@@ -1938,20 +1939,21 @@
     "20240107": 9486,
     "20240108": 9486,
     "20240109": 9486,
-    "20240110": 9486
+    "20240110": 9486,
+    "20240111": 9486
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.010566813481332763365822122,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240104.0,
-        "Y": 22307.035714285714285714286
+        "X": 20240105.0,
+        "Y": 22306.0
       },
       "End": {
-        "X": 20240110.0,
-        "Y": 22304.678571428571428571428
+        "X": 20240111.0,
+        "Y": 22306.0
       }
     }
   }

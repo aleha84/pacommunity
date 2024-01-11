@@ -2,7 +2,7 @@
   "PublicName": "kamyu_kami",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1575183361580187650/XPFxSofn_400x400.jpg",
   "Login": "kamyukami",
-  "CurrentFollowersCount": 227,
+  "CurrentFollowersCount": 226,
   "CurrentTweetsCout": 108,
   "FollowersCountHistory": {
     "20210213": 190,
@@ -911,7 +911,8 @@
     "20240107": 227,
     "20240108": 227,
     "20240109": 227,
-    "20240110": 227
+    "20240110": 227,
+    "20240111": 226
   },
   "TweetsCountHistory": {
     "20210213": 50,
@@ -1820,20 +1821,21 @@
     "20240107": 108,
     "20240108": 108,
     "20240109": 108,
-    "20240110": 108
+    "20240110": 108,
+    "20240111": 108
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.2829743750982549913535797148,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240104.0,
-        "Y": 227.0
+        "X": 20240105.0,
+        "Y": 227.1785714285714285714285
       },
       "End": {
-        "X": 20240110.0,
-        "Y": 227.0
+        "X": 20240111.0,
+        "Y": 226.5357142857142857142856
       }
     }
   }
