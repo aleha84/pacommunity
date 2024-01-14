@@ -1,6 +1,6 @@
 {
-  "PublicName": "SymbolsWriter ",
-  "AvatarImage": "https://pbs.twimg.com/profile_images/1454175523278671875/TjAdVlk0.jpg",
+  "PublicName": "SymbolsWriter",
+  "AvatarImage": "https://pbs.twimg.com/profile_images/1454175523278671875/TjAdVlk0_400x400.jpg",
   "Login": "SymbolsWriter",
   "CurrentFollowersCount": 454,
   "CurrentTweetsCout": 1440,
@@ -869,7 +869,8 @@
     "20240111": 454,
     "20240112": 454,
     "20240113": 454,
-    "20240114": 454
+    "20240114": 454,
+    "20240115": 454
   },
   "TweetsCountHistory": {
     "20210403": 181,
@@ -1736,20 +1737,21 @@
     "20240111": 1438,
     "20240112": 1438,
     "20240113": 1440,
-    "20240114": 1440
+    "20240114": 1440,
+    "20240115": 1440
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.1414538310412573673870427935,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240108.0,
-        "Y": 454.4642857142857142857144
+        "X": 20240109.0,
+        "Y": 454.0
       },
       "End": {
-        "X": 20240114.0,
-        "Y": 453.8214285714285714285715
+        "X": 20240115.0,
+        "Y": 454.0
       }
     }
   }
