@@ -2,7 +2,7 @@
   "PublicName": "Catghost",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1201905734772051968/HBI-tWS3_400x400.jpg",
   "Login": "theCatghost",
-  "CurrentFollowersCount": 454,
+  "CurrentFollowersCount": 453,
   "CurrentTweetsCout": 579,
   "FollowersCountHistory": {
     "20210225": 354,
@@ -957,7 +957,8 @@
     "20240111": 454,
     "20240112": 454,
     "20240113": 454,
-    "20240114": 454
+    "20240114": 454,
+    "20240115": 453
   },
   "TweetsCountHistory": {
     "20210225": 471,
@@ -1912,20 +1913,21 @@
     "20240111": 579,
     "20240112": 579,
     "20240113": 579,
-    "20240114": 579
+    "20240114": 579,
+    "20240115": 579
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1415428167020523708421672001,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240108.0,
-        "Y": 454.0
+        "X": 20240109.0,
+        "Y": 454.1785714285714285714285
       },
       "End": {
-        "X": 20240114.0,
-        "Y": 454.0
+        "X": 20240115.0,
+        "Y": 453.5357142857142857142857
       }
     }
   }

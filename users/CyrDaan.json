@@ -2,7 +2,7 @@
   "PublicName": "CyrDaan",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1535436479668707328/dRPoysyg_400x400.jpg",
   "Login": "CyrDaan",
-  "CurrentFollowersCount": 111,
+  "CurrentFollowersCount": 110,
   "CurrentTweetsCout": 593,
   "FollowersCountHistory": {
     "20210422": 113,
@@ -905,7 +905,8 @@
     "20240111": 111,
     "20240112": 111,
     "20240113": 111,
-    "20240114": 111
+    "20240114": 111,
+    "20240115": 110
   },
   "TweetsCountHistory": {
     "20210422": 515,
@@ -1808,20 +1809,21 @@
     "20240111": 593,
     "20240112": 593,
     "20240113": 593,
-    "20240114": 593
+    "20240114": 593,
+    "20240115": 593
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.5782203662062319306135050294,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240108.0,
-        "Y": 111.0
+        "X": 20240109.0,
+        "Y": 111.1785714285714285714285
       },
       "End": {
-        "X": 20240114.0,
-        "Y": 111.0
+        "X": 20240115.0,
+        "Y": 110.5357142857142857142857
       }
     }
   }
