@@ -2,7 +2,7 @@
   "PublicName": "Ivan Dixon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1567638735059316736/6BKpu_Nv_400x400.jpg",
   "Login": "IvanRDixon",
-  "CurrentFollowersCount": 5781,
+  "CurrentFollowersCount": 5780,
   "CurrentTweetsCout": 3007,
   "FollowersCountHistory": {
     "20210311": 5995,
@@ -943,7 +943,8 @@
     "20240112": 5782,
     "20240113": 5783,
     "20240114": 5784,
-    "20240115": 5781
+    "20240115": 5781,
+    "20240116": 5780
   },
   "TweetsCountHistory": {
     "20210311": 2495,
@@ -1884,20 +1885,21 @@
     "20240112": 3007,
     "20240113": 3007,
     "20240114": 3007,
-    "20240115": 3007
+    "20240115": 3007,
+    "20240116": 3007
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0259459459459459459459459459,
+    "WeeklyGrowth": -0.0111179053866251598198906741,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240109.0,
-        "Y": 5781.25
+        "X": 20240110.0,
+        "Y": 5782.1785714285714285714285
       },
       "End": {
-        "X": 20240115.0,
-        "Y": 5782.75
+        "X": 20240116.0,
+        "Y": 5781.5357142857142857142856
       }
     }
   }
