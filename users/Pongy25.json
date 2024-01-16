@@ -2,7 +2,7 @@
   "PublicName": "Pongy",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1724051337619357696/pAcns06t_400x400.jpg",
   "Login": "Pongy25",
-  "CurrentFollowersCount": 3063,
+  "CurrentFollowersCount": 3064,
   "CurrentTweetsCout": 1325,
   "FollowersCountHistory": {
     "20240111": 3055,
@@ -10,7 +10,8 @@
     "20240113": 3059,
     "20240114": 3058,
     "20240115": 3058,
-    "20240116": 3063
+    "20240116": 3063,
+    "20240117": 3064
   },
   "TweetsCountHistory": {
     "20240111": 1317,
@@ -18,12 +19,22 @@
     "20240113": 1319,
     "20240114": 1320,
     "20240115": 1323,
-    "20240116": 1325
+    "20240116": 1325,
+    "20240117": 1325
   },
   "LangId": "ru",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.2665357368310303710457739559,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240111.0,
+        "Y": 3055.071428571428571428572
+      },
+      "End": {
+        "X": 20240117.0,
+        "Y": 3063.214285714285714285714
+      }
+    }
   }
 }

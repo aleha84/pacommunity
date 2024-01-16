@@ -2,15 +2,16 @@
   "PublicName": "as-if 🍀",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1477231081250181123/GLTRRPcM_400x400.png",
   "Login": "onlyasif_",
-  "CurrentFollowersCount": 3350,
-  "CurrentTweetsCout": 6893,
+  "CurrentFollowersCount": 3353,
+  "CurrentTweetsCout": 6909,
   "FollowersCountHistory": {
     "20240111": 3338,
     "20240112": 3343,
     "20240113": 3344,
     "20240114": 3347,
     "20240115": 3348,
-    "20240116": 3350
+    "20240116": 3350,
+    "20240117": 3353
   },
   "TweetsCountHistory": {
     "20240111": 6875,
@@ -18,12 +19,22 @@
     "20240113": 6887,
     "20240114": 6893,
     "20240115": 6893,
-    "20240116": 6893
+    "20240116": 6893,
+    "20240117": 6909
   },
   "LangId": "id",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.4042651037934611723688009837,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240111.0,
+        "Y": 3339.392857142857142857143
+      },
+      "End": {
+        "X": 20240117.0,
+        "Y": 3352.892857142857142857143
+      }
+    }
   }
 }
