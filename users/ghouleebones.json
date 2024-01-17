@@ -2,15 +2,16 @@
   "PublicName": "Ghoulee",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1668438826497236992/9KxdwC2A_400x400.jpg",
   "Login": "ghouleebones",
-  "CurrentFollowersCount": 5254,
-  "CurrentTweetsCout": 10197,
+  "CurrentFollowersCount": 5257,
+  "CurrentTweetsCout": 10203,
   "FollowersCountHistory": {
     "20240111": 5240,
     "20240112": 5244,
     "20240113": 5262,
     "20240114": 5260,
     "20240115": 5258,
-    "20240116": 5254
+    "20240116": 5254,
+    "20240117": 5257
   },
   "TweetsCountHistory": {
     "20240111": 10144,
@@ -18,12 +19,22 @@
     "20240113": 10169,
     "20240114": 10173,
     "20240115": 10182,
-    "20240116": 10197
+    "20240116": 10197,
+    "20240117": 10203
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.27365741087413801319275425,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240111.0,
+        "Y": 5246.392857142857142857142
+      },
+      "End": {
+        "X": 20240117.0,
+        "Y": 5260.750000000000000000000
+      }
+    }
   }
 }

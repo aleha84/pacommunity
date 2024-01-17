@@ -2,7 +2,7 @@
   "PublicName": "Faultbox (finishing up comms)",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1675568398372155392/m-K-vcSh_400x400.jpg",
   "Login": "Faultbox",
-  "CurrentFollowersCount": 2284,
+  "CurrentFollowersCount": 2285,
   "CurrentTweetsCout": 794,
   "FollowersCountHistory": {
     "20240111": 2274,
@@ -10,7 +10,8 @@
     "20240113": 2281,
     "20240114": 2280,
     "20240115": 2283,
-    "20240116": 2284
+    "20240116": 2284,
+    "20240117": 2285
   },
   "TweetsCountHistory": {
     "20240111": 791,
@@ -18,12 +19,22 @@
     "20240113": 794,
     "20240114": 794,
     "20240115": 794,
-    "20240116": 794
+    "20240116": 794,
+    "20240117": 794
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.4236689733088546815421173502,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240111.0,
+        "Y": 2276.035714285714285714286
+      },
+      "End": {
+        "X": 20240117.0,
+        "Y": 2285.678571428571428571428
+      }
+    }
   }
 }

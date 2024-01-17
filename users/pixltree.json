@@ -2,7 +2,7 @@
   "PublicName": "🌳 Zuhaitz 🌳",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1740452671906099200/P1AuIdeO_400x400.jpg",
   "Login": "pixltree",
-  "CurrentFollowersCount": 4083,
+  "CurrentFollowersCount": 4084,
   "CurrentTweetsCout": 10924,
   "FollowersCountHistory": {
     "20240111": 4075,
@@ -10,7 +10,8 @@
     "20240113": 4079,
     "20240114": 4084,
     "20240115": 4083,
-    "20240116": 4083
+    "20240116": 4083,
+    "20240117": 4084
   },
   "TweetsCountHistory": {
     "20240111": 10825,
@@ -18,12 +19,22 @@
     "20240113": 10878,
     "20240114": 10886,
     "20240115": 10890,
-    "20240116": 10924
+    "20240116": 10924,
+    "20240117": 10924
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.2365909867596673705978531559,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240111.0,
+        "Y": 4075.750000000000000000000
+      },
+      "End": {
+        "X": 20240117.0,
+        "Y": 4085.392857142857142857142
+      }
+    }
   }
 }

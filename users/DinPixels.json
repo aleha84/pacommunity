@@ -3,14 +3,15 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1744003201819664384/yIVA46qJ_400x400.jpg",
   "Login": "DinPixels",
   "CurrentFollowersCount": 3952,
-  "CurrentTweetsCout": 11371,
+  "CurrentTweetsCout": 11374,
   "FollowersCountHistory": {
     "20240111": 3945,
     "20240112": 3948,
     "20240113": 3950,
     "20240114": 3950,
     "20240115": 3951,
-    "20240116": 3952
+    "20240116": 3952,
+    "20240117": 3952
   },
   "TweetsCountHistory": {
     "20240111": 11335,
@@ -18,12 +19,22 @@
     "20240113": 11358,
     "20240114": 11366,
     "20240115": 11369,
-    "20240116": 11371
+    "20240116": 11371,
+    "20240117": 11374
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.1628929793125916273008488534,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240111.0,
+        "Y": 3946.500000000000000000000
+      },
+      "End": {
+        "X": 20240117.0,
+        "Y": 3952.928571428571428571428
+      }
+    }
   }
 }

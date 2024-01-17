@@ -2,15 +2,16 @@
   "PublicName": "it&#x27;s whitney",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1721917856697180160/rgodiw96_400x400.jpg",
   "Login": "bluwit_",
-  "CurrentFollowersCount": 5494,
-  "CurrentTweetsCout": 7368,
+  "CurrentFollowersCount": 5489,
+  "CurrentTweetsCout": 7371,
   "FollowersCountHistory": {
     "20240111": 5425,
     "20240112": 5450,
     "20240113": 5480,
     "20240114": 5489,
     "20240115": 5491,
-    "20240116": 5494
+    "20240116": 5494,
+    "20240117": 5489
   },
   "TweetsCountHistory": {
     "20240111": 7330,
@@ -18,12 +19,22 @@
     "20240113": 7346,
     "20240114": 7350,
     "20240115": 7366,
-    "20240116": 7368
+    "20240116": 7368,
+    "20240117": 7371
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.1456768089029455573855999437,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240111.0,
+        "Y": 5442.82142857142857142857
+      },
+      "End": {
+        "X": 20240117.0,
+        "Y": 5505.17857142857142857143
+      }
+    }
   }
 }

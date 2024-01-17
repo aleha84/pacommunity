@@ -2,7 +2,7 @@
   "PublicName": "Ｒａｐｔｏｒ | C0mms Open",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1742055364986650624/482Cl8TX_400x400.jpg",
   "Login": "raptorBR_",
-  "CurrentFollowersCount": 4419,
+  "CurrentFollowersCount": 4414,
   "CurrentTweetsCout": 20519,
   "FollowersCountHistory": {
     "20240111": 4327,
@@ -10,7 +10,8 @@
     "20240113": 4326,
     "20240114": 4398,
     "20240115": 4411,
-    "20240116": 4419
+    "20240116": 4419,
+    "20240117": 4414
   },
   "TweetsCountHistory": {
     "20240111": 20507,
@@ -18,12 +19,22 @@
     "20240113": 20509,
     "20240114": 20511,
     "20240115": 20515,
-    "20240116": 20519
+    "20240116": 20519,
+    "20240117": 20519
   },
   "LangId": "br",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 2.6404605916219972205677974189,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240111.0,
+        "Y": 4317.42857142857142857143
+      },
+      "End": {
+        "X": 20240117.0,
+        "Y": 4431.42857142857142857143
+      }
+    }
   }
 }

@@ -2,15 +2,16 @@
   "PublicName": "SeñorOruga - ✨COMMISSIONS OPEN✨",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1735474443193909248/dV8a24CO_400x400.jpg",
   "Login": "urigamiart",
-  "CurrentFollowersCount": 274,
-  "CurrentTweetsCout": 3226,
+  "CurrentFollowersCount": 276,
+  "CurrentTweetsCout": 3231,
   "FollowersCountHistory": {
     "20240111": 269,
     "20240112": 269,
     "20240113": 269,
     "20240114": 271,
     "20240115": 268,
-    "20240116": 274
+    "20240116": 274,
+    "20240117": 276
   },
   "TweetsCountHistory": {
     "20240111": 3187,
@@ -18,12 +19,22 @@
     "20240113": 3193,
     "20240114": 3210,
     "20240115": 3214,
-    "20240116": 3226
+    "20240116": 3226,
+    "20240117": 3231
   },
   "LangId": "es",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 2.4019215372297838270614345333,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240111.0,
+        "Y": 267.642857142857142857143
+      },
+      "End": {
+        "X": 20240117.0,
+        "Y": 274.071428571428571428571
+      }
+    }
   }
 }
