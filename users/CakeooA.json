@@ -2,7 +2,7 @@
   "PublicName": "Cakeoo",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1711020001904259072/caF4HWgf_400x400.jpg",
   "Login": "CakeooA",
-  "CurrentFollowersCount": 502,
+  "CurrentFollowersCount": 503,
   "CurrentTweetsCout": 65,
   "FollowersCountHistory": {
     "20240117": 502,
@@ -10,7 +10,8 @@
     "20240119": 502,
     "20240120": 503,
     "20240121": 503,
-    "20240122": 502
+    "20240122": 502,
+    "20240123": 503
   },
   "TweetsCountHistory": {
     "20240117": 65,
@@ -18,12 +19,22 @@
     "20240119": 65,
     "20240120": 65,
     "20240121": 65,
-    "20240122": 65
+    "20240122": 65,
+    "20240123": 65
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 0.2563007261853908586074298514,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240117.0,
+        "Y": 501.6428571428571428571429
+      },
+      "End": {
+        "X": 20240123.0,
+        "Y": 502.9285714285714285714286
+      }
+    }
   }
 }

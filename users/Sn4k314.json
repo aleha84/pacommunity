@@ -2,7 +2,7 @@
   "PublicName": "Sn4k3",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1320806938347769856/PTQV2sZX_400x400.jpg",
   "Login": "Sn4k314",
-  "CurrentFollowersCount": 398,
+  "CurrentFollowersCount": 397,
   "CurrentTweetsCout": 242,
   "FollowersCountHistory": {
     "20240117": 388,
@@ -10,7 +10,8 @@
     "20240119": 393,
     "20240120": 395,
     "20240121": 397,
-    "20240122": 398
+    "20240122": 398,
+    "20240123": 397
   },
   "TweetsCountHistory": {
     "20240117": 237,
@@ -18,12 +19,22 @@
     "20240119": 240,
     "20240120": 240,
     "20240121": 240,
-    "20240122": 242
+    "20240122": 242,
+    "20240123": 242
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 2.7019575406672180865729262759,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240117.0,
+        "Y": 388.607142857142857142857
+      },
+      "End": {
+        "X": 20240123.0,
+        "Y": 399.107142857142857142857
+      }
+    }
   }
 }

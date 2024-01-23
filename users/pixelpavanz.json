@@ -2,15 +2,16 @@
   "PublicName": "Pavanz",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1738004709791694848/t0MMKA26_400x400.png",
   "Login": "pixelpavanz",
-  "CurrentFollowersCount": 3835,
-  "CurrentTweetsCout": 961,
+  "CurrentFollowersCount": 3836,
+  "CurrentTweetsCout": 964,
   "FollowersCountHistory": {
     "20240117": 3795,
     "20240118": 3797,
     "20240119": 3798,
     "20240120": 3803,
     "20240121": 3806,
-    "20240122": 3835
+    "20240122": 3835,
+    "20240123": 3836
   },
   "TweetsCountHistory": {
     "20240117": 922,
@@ -18,12 +19,22 @@
     "20240119": 925,
     "20240120": 940,
     "20240121": 943,
-    "20240122": 961
+    "20240122": 961,
+    "20240123": 964
   },
   "LangId": "br",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 1.1710463044154668627837340239,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240117.0,
+        "Y": 3787.82142857142857142857
+      },
+      "End": {
+        "X": 20240123.0,
+        "Y": 3832.17857142857142857142
+      }
+    }
   }
 }
