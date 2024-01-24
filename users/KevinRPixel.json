@@ -2,7 +2,7 @@
   "PublicName": "Kevin",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1496388766885302273/M4_aEQ2j_400x400.jpg",
   "Login": "KevinRPixel",
-  "CurrentFollowersCount": 5202,
+  "CurrentFollowersCount": 5203,
   "CurrentTweetsCout": 3318,
   "FollowersCountHistory": {
     "20220406": 3717,
@@ -596,7 +596,8 @@
     "20240120": 5202,
     "20240121": 5199,
     "20240122": 5203,
-    "20240123": 5202
+    "20240123": 5202,
+    "20240124": 5203
   },
   "TweetsCountHistory": {
     "20220406": 3162,
@@ -1190,20 +1191,21 @@
     "20240120": 3318,
     "20240121": 3318,
     "20240122": 3318,
-    "20240123": 3318
+    "20240123": 3318,
+    "20240124": 3318
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0535335579912561855281003092,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240117.0,
-        "Y": 5203.678571428571428571429
+        "X": 20240118.0,
+        "Y": 5202.0
       },
       "End": {
-        "X": 20240123.0,
-        "Y": 5200.892857142857142857143
+        "X": 20240124.0,
+        "Y": 5202.0
       }
     }
   }
