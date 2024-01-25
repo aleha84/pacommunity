@@ -482,6 +482,10 @@ ul.styleNone {
     .flag.kz::before {
       background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAMRJREFUOI3FkbENgzAQRZ8RXYaI3KfHtXcgYyAKRMEAFMiFx4hgB9fQp/cUaSFVIiLAgSLK7+58/987Gf4tQVa3QArQXiqu9/qIv4uBVCSaUSuMt4iT2u2eBpdGr8J4SyHzI9sBeAcUMsd4+/HYyJ5RK0ataGQfDlgjmNdbdEGCPQoSzAO3wuMQQekVpV+//SvBqJffudbbJDDeLgxrZwiyehKJppE9hcyJXBh5rmlwxEA3DS49PyrErQbc7gCgOzL8Gz0ByK5Nm2uWlMgAAAAASUVORK5CYII=);
     }
+
+    .flag.sl::before {
+      background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABjUlEQVR4nJ2TMW8TQRCFv9nb89kn52zLClWKFAgkJDpERYGU0NLzC6jpQbKb/A1qqFLR8AtcoEgIIZCLowxIlhUrCnHudobiziEG4px40miL3ffezNOssA6hGWyNMBqNYjOT+sLdQNaaZ+PxuGA6nX6y/8RkMnnjFotF2rDtv5DneeZW87x49Y3h/hH9/ZwvH44bCTjnzA2zauTl/JSnj+8SuYxB/LORQK/r8LtPvkNvxvOHgdcvU+anKfce5Bx3OlDolbzrXg1QA0ngZIZPthzJQDg8avPs7WfevZ8zy+4waCkQrTmaVaWqBBxFAd7UoAyctfrsHRhxe5utRDe2LgJi1ekvZMBF2AYpoCsEgfPLaK+yqDYAanYMkuE//ngk909iiAQkqmT/JF+KKJiAKmjg8KzEW2rQDuAikFA9uG4XtRYJCqY4MfHSAzqAs3qRr7NfJfm7XIzzmpVCv3aW1XfYJLBK0CiCqKTDW7e77dZOnLSIIk/kHGb//JUmAiEooSxZFkvOl8XXzW4N8Ats4c4ZOc2QvAAAAABJRU5ErkJggg==);
+    }
     
     .otherLists {
         padding-bottom: 15px;
