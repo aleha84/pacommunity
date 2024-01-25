@@ -2,7 +2,7 @@
   "PublicName": "Esparon",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1653026581282004993/cLlMEIEB_400x400.jpg",
   "Login": "the_esparon",
-  "CurrentFollowersCount": 257,
+  "CurrentFollowersCount": 256,
   "CurrentTweetsCout": 102,
   "FollowersCountHistory": {
     "20230824": 252,
@@ -144,7 +144,8 @@
     "20240121": 257,
     "20240122": 257,
     "20240123": 257,
-    "20240124": 257
+    "20240124": 257,
+    "20240125": 256
   },
   "TweetsCountHistory": {
     "20230824": 100,
@@ -286,20 +287,21 @@
     "20240121": 102,
     "20240122": 102,
     "20240123": 102,
-    "20240124": 102
+    "20240124": 102,
+    "20240125": 102
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.4182350480970305311584998836,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240118.0,
-        "Y": 256.1785714285714285714286
+        "X": 20240119.0,
+        "Y": 256.71428571428571428571428571
       },
       "End": {
-        "X": 20240124.0,
-        "Y": 257.2500000000000000000000
+        "X": 20240125.0,
+        "Y": 256.71428571428571428571428571
       }
     }
   }
