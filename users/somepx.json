@@ -2,8 +2,8 @@
   "PublicName": "somepx ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1725884440730021888/NFjwdUCw.png",
   "Login": "somepx",
-  "CurrentFollowersCount": 4915,
-  "CurrentTweetsCout": 45760,
+  "CurrentFollowersCount": 4910,
+  "CurrentTweetsCout": 45761,
   "FollowersCountHistory": {
     "20210125": 4189,
     "20210126": 4186,
@@ -959,7 +959,8 @@
     "20240126": 4913,
     "20240127": 4914,
     "20240128": 4915,
-    "20240129": 4915
+    "20240129": 4915,
+    "20240202": 4910
   },
   "TweetsCountHistory": {
     "20210125": 39804,
@@ -1916,20 +1917,21 @@
     "20240126": 45760,
     "20240127": 45760,
     "20240128": 45760,
-    "20240129": 45760
+    "20240129": 45760,
+    "20240202": 45761
   },
   "LangId": "it",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0610740304497666,
+    "WeeklyGrowth": -0.07755331740175884679739771,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240123.0,
-        "Y": 4912.07142857143
+        "X": 20240124.0,
+        "Y": 4913.9348269432467078466949
       },
       "End": {
-        "X": 20240129.0,
-        "Y": 4915.07142857143
+        "X": 20240202.0,
+        "Y": 4910.1239074699918424241636
       }
     }
   }

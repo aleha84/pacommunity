@@ -2,7 +2,7 @@
   "PublicName": "UnfuneralOD ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1577405361539190790/FJFtDPAu.jpg",
   "Login": "UnfuneralOD",
-  "CurrentFollowersCount": 4021,
+  "CurrentFollowersCount": 4020,
   "CurrentTweetsCout": 776,
   "FollowersCountHistory": {
     "20210707": 1275,
@@ -810,7 +810,8 @@
     "20240126": 4022,
     "20240127": 4020,
     "20240128": 4021,
-    "20240129": 4021
+    "20240129": 4021,
+    "20240202": 4020
   },
   "TweetsCountHistory": {
     "20210707": 338,
@@ -1618,20 +1619,21 @@
     "20240126": 776,
     "20240127": 776,
     "20240128": 776,
-    "20240129": 776
+    "20240129": 776,
+    "20240202": 776
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0639840750746481,
+    "WeeklyGrowth": -0.0053698162368445209304359345,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240123.0,
-        "Y": 4018.85714285714
+        "X": 20240124.0,
+        "Y": 4020.322485724274560074801514
       },
       "End": {
-        "X": 20240129.0,
-        "Y": 4021.42857142857
+        "X": 20240202.0,
+        "Y": 4020.106601794662626732418436
       }
     }
   }
