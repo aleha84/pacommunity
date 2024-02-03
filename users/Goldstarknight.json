@@ -10,7 +10,8 @@
     "20240127": 128,
     "20240128": 128,
     "20240129": 128,
-    "20240202": 128
+    "20240202": 128,
+    "20240203": 128
   },
   "TweetsCountHistory": {
     "20240125": 181,
@@ -18,12 +19,22 @@
     "20240127": 182,
     "20240128": 184,
     "20240129": 184,
-    "20240202": 186
+    "20240202": 186,
+    "20240203": 186
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
+    "ErrorMessage": null,
     "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240125.0,
+        "Y": 128.0
+      },
+      "End": {
+        "X": 20240203.0,
+        "Y": 128.0
+      }
+    }
   }
 }

@@ -2,15 +2,16 @@
   "PublicName": "Waters ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1721288508118028288/opAljWY0.jpg",
   "Login": "Waters_Create",
-  "CurrentFollowersCount": 60,
-  "CurrentTweetsCout": 69,
+  "CurrentFollowersCount": 61,
+  "CurrentTweetsCout": 71,
   "FollowersCountHistory": {
     "20240125": 58,
     "20240126": 58,
     "20240127": 58,
     "20240128": 58,
     "20240129": 59,
-    "20240202": 60
+    "20240202": 60,
+    "20240203": 61
   },
   "TweetsCountHistory": {
     "20240125": 63,
@@ -18,12 +19,22 @@
     "20240127": 67,
     "20240128": 68,
     "20240129": 68,
-    "20240202": 69
+    "20240202": 69,
+    "20240203": 71
   },
   "LangId": "en",
   "FollowersTrend": {
-    "ErrorMessage": "Not enought data to build trend",
-    "WeeklyGrowth": 0.0,
-    "WeeklyTrendLine": null
+    "ErrorMessage": null,
+    "WeeklyGrowth": 4.1233447036847051266317932112,
+    "WeeklyTrendLine": {
+      "Start": {
+        "X": 20240125.0,
+        "Y": 58.13277034129932020336906
+      },
+      "End": {
+        "X": 20240203.0,
+        "Y": 60.52978484827247880312965
+      }
+    }
   }
 }
