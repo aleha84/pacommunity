@@ -1,6 +1,6 @@
 {
-  "PublicName": "wrong acc, buddy ",
-  "AvatarImage": "https://pbs.twimg.com/profile_images/1750776888354631680/E949NN2G.jpg",
+  "PublicName": "wrong acc, buddy",
+  "AvatarImage": "https://pbs.twimg.com/profile_images/1750776888354631680/E949NN2G_400x400.jpg",
   "Login": "venen0791",
   "CurrentFollowersCount": 461,
   "CurrentTweetsCout": 1387,
@@ -897,7 +897,8 @@
     "20240128": 461,
     "20240202": 461,
     "20240203": 461,
-    "20240204": 461
+    "20240204": 461,
+    "20240207": 461
   },
   "TweetsCountHistory": {
     "20210204": 505,
@@ -1792,20 +1793,21 @@
     "20240128": 1387,
     "20240202": 1387,
     "20240203": 1387,
-    "20240204": 1387
+    "20240204": 1387,
+    "20240207": 1387
   },
   "LangId": "fr",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.649288770962286,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20231219.0,
-        "Y": 463.999675116619
+        "X": 20240126.0,
+        "Y": 461.0
       },
       "End": {
-        "X": 20240204.0,
-        "Y": 460.986977328785
+        "X": 20240207.0,
+        "Y": 461.0
       }
     }
   }

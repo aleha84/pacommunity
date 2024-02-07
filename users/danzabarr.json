@@ -2,7 +2,7 @@
   "PublicName": "danzabarr ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1326642131658813440/jfJzxByX.jpg",
   "Login": "danzabarr",
-  "CurrentFollowersCount": 203,
+  "CurrentFollowersCount": 202,
   "CurrentTweetsCout": 107,
   "FollowersCountHistory": {
     "20210112": 205,
@@ -1018,7 +1018,8 @@
     "20240202": 203,
     "20240203": 203,
     "20240204": 203,
-    "20240205": 203
+    "20240205": 203,
+    "20240207": 202
   },
   "TweetsCountHistory": {
     "20210112": 63,
@@ -2034,20 +2035,21 @@
     "20240202": 107,
     "20240203": 107,
     "20240204": 107,
-    "20240205": 107
+    "20240205": 107,
+    "20240207": 107
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -0.1156692271298160587423205217,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240126.0,
-        "Y": 203.0
+        "X": 20240127.0,
+        "Y": 203.019427853943260486503455
       },
       "End": {
-        "X": 20240205.0,
-        "Y": 203.0
+        "X": 20240207.0,
+        "Y": 202.784596850821229808358922
       }
     }
   }
