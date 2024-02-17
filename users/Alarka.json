@@ -3,7 +3,7 @@
   "AvatarImage": "https://pbs.twimg.com/profile_images/1671894892971454464/sLnUidWr.jpg",
   "Login": "Alarka",
   "CurrentFollowersCount": 1653,
-  "CurrentTweetsCout": 9012,
+  "CurrentTweetsCout": 9014,
   "FollowersCountHistory": {
     "20210126": 1615,
     "20210127": 1615,
@@ -962,7 +962,8 @@
     "20240129": 1653,
     "20240203": 1653,
     "20240204": 1653,
-    "20240205": 1653
+    "20240205": 1653,
+    "20240217": 1653
   },
   "TweetsCountHistory": {
     "20210126": 8459,
@@ -1922,20 +1923,21 @@
     "20240129": 9012,
     "20240203": 9012,
     "20240204": 9012,
-    "20240205": 9012
+    "20240205": 9012,
+    "20240217": 9014
   },
   "LangId": "pt",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": -0.0163188727005366,
+    "WeeklyGrowth": 0.0,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240126.0,
-        "Y": 1653.25994649667
+        "X": 20240127.0,
+        "Y": 1653.0
       },
       "End": {
-        "X": 20240205.0,
-        "Y": 1652.99015311059
+        "X": 20240217.0,
+        "Y": 1653.0
       }
     }
   }

@@ -2,7 +2,7 @@
   "PublicName": "Eh Ely ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1614524511440740352/AzRhx4ck.jpg",
   "Login": "elaystuff",
-  "CurrentFollowersCount": 66,
+  "CurrentFollowersCount": 65,
   "CurrentTweetsCout": 4668,
   "FollowersCountHistory": {
     "20210914": 59,
@@ -763,7 +763,8 @@
     "20240204": 66,
     "20240205": 66,
     "20240207": 66,
-    "20240213": 66
+    "20240213": 66,
+    "20240217": 65
   },
   "TweetsCountHistory": {
     "20210914": 4629,
@@ -1524,20 +1525,21 @@
     "20240204": 4668,
     "20240205": 4668,
     "20240207": 4668,
-    "20240213": 4668
+    "20240213": 4668,
+    "20240217": 4668
   },
   "LangId": "es",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0,
+    "WeeklyGrowth": -1.1632415664986430596052004671,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240128.0,
-        "Y": 66.0
+        "X": 20240202.0,
+        "Y": 66.1282051282051282460203
       },
       "End": {
-        "X": 20240213.0,
-        "Y": 66.0
+        "X": 20240217.0,
+        "Y": 65.3589743589743588992057
       }
     }
   }

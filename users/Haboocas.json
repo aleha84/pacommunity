@@ -2,7 +2,7 @@
   "PublicName": "Haboo ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1624834378244448256/re33i2pt.jpg",
   "Login": "Haboocas",
-  "CurrentFollowersCount": 712,
+  "CurrentFollowersCount": 711,
   "CurrentTweetsCout": 1600,
   "FollowersCountHistory": {
     "20210729": 398,
@@ -835,7 +835,8 @@
     "20240203": 712,
     "20240204": 711,
     "20240205": 711,
-    "20240207": 712
+    "20240207": 712,
+    "20240217": 711
   },
   "TweetsCountHistory": {
     "20210729": 884,
@@ -1668,20 +1669,21 @@
     "20240203": 1599,
     "20240204": 1599,
     "20240205": 1599,
-    "20240207": 1600
+    "20240207": 1600,
+    "20240217": 1600
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0144993300260234,
+    "WeeklyGrowth": -0.0937170427534509117161069874,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240127.0,
-        "Y": 711.500135740464
+        "X": 20240128.0,
+        "Y": 712.07487591086703981016046
       },
       "End": {
-        "X": 20240207.0,
-        "Y": 711.603298493281
+        "X": 20240217.0,
+        "Y": 711.40754039497307001924565
       }
     }
   }
