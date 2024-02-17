@@ -2,8 +2,8 @@
   "PublicName": "skeddles ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1697319770364801024/ZnqLg65Z.jpg",
   "Login": "skeddles",
-  "CurrentFollowersCount": 5132,
-  "CurrentTweetsCout": 1382,
+  "CurrentFollowersCount": 5130,
+  "CurrentTweetsCout": 1386,
   "FollowersCountHistory": {
     "20210111": 3119,
     "20210112": 3123,
@@ -1019,7 +1019,8 @@
     "20240203": 5132,
     "20240204": 5130,
     "20240205": 5131,
-    "20240207": 5132
+    "20240207": 5132,
+    "20240217": 5130
   },
   "TweetsCountHistory": {
     "20210111": 689,
@@ -2036,20 +2037,21 @@
     "20240203": 1381,
     "20240204": 1381,
     "20240205": 1382,
-    "20240207": 1382
+    "20240207": 1382,
+    "20240217": 1386
   },
   "LangId": "en",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.00457672758296591,
+    "WeeklyGrowth": -0.0250447704273276877642214079,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240127.0,
-        "Y": 5130.98057214606
+        "X": 20240128.0,
+        "Y": 5132.11252508184602385971177
       },
       "End": {
-        "X": 20240207.0,
-        "Y": 5131.21540314918
+        "X": 20240217.0,
+        "Y": 5130.82719928186714542439171
       }
     }
   }
