@@ -2,7 +2,7 @@
   "PublicName": "Out Of Luck ",
   "AvatarImage": "https://pbs.twimg.com/profile_images/1204584090382585857/3tpbU_Mp.jpg",
   "Login": "outofluck_1",
-  "CurrentFollowersCount": 3001,
+  "CurrentFollowersCount": 3000,
   "CurrentTweetsCout": 446,
   "FollowersCountHistory": {
     "20201212": 3108,
@@ -1002,7 +1002,8 @@
     "20240222": 3003,
     "20240223": 3003,
     "20240224": 3001,
-    "20240225": 3001
+    "20240225": 3001,
+    "20240226": 3000
   },
   "TweetsCountHistory": {
     "20201213": 450,
@@ -2001,20 +2002,21 @@
     "20240222": 446,
     "20240223": 446,
     "20240224": 446,
-    "20240225": 446
+    "20240225": 446,
+    "20240226": 446
   },
   "LangId": "ru",
   "FollowersTrend": {
     "ErrorMessage": null,
-    "WeeklyGrowth": 0.0537720245399587,
+    "WeeklyGrowth": -0.0670698466322745872967292872,
     "WeeklyTrendLine": {
       "Start": {
-        "X": 20240205.0,
-        "Y": 3000.71613545817
+        "X": 20240217.0,
+        "Y": 3003.0080645161290315617352
       },
       "End": {
-        "X": 20240225.0,
-        "Y": 3002.3296812749
+        "X": 20240226.0,
+        "Y": 3000.9939516129032263286986
       }
     }
   }
